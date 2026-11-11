@@ -1,0 +1,133 @@
+dataset,point_id,pipeline,thr_decel_mps2,thr_hard_mps2,gt_protocol,source,exactness,frames,units,required_episodes,false_episodes,missed_episodes,status,false_episodes_per_1000_frames,missed_rate
+nusc,nusc_p00,cheap,0.6,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,9181,228,147,238,35,available,25.92310205859928,0.238095238095238
+nusc,nusc_p01,cheap,0.8,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,9181,228,147,240,41,available,26.14094325236902,0.2789115646258503
+nusc,nusc_p02,cheap,1.0,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,9181,228,147,210,51,available,22.873325345822895,0.3469387755102041
+nusc,nusc_p03,cheap,1.2,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,9181,228,147,194,63,available,21.13059579566496,0.4285714285714285
+nusc,nusc_p04,cheap,1.5,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,9181,228,147,181,70,available,19.71462803616164,0.4761904761904761
+nusc,nusc_p05,u960 + C1 without refiner,0.6,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,9181,228,147,178,22,available,19.387866245507023,0.1496598639455782
+nusc,nusc_p06,u960 + C1 without refiner,0.8,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,9181,228,147,139,31,available,15.13996296699706,0.2108843537414966
+nusc,nusc_p07,u960 + C1 without refiner,1.0,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,9181,228,147,93,44,available,10.129615510292997,0.2993197278911564
+nusc,nusc_p08,u960 + C1 without refiner,1.2,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,9181,228,147,74,64,available,8.06012416948045,0.4353741496598639
+nusc,nusc_p09,u960 + C1 without refiner,1.5,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,9181,228,147,66,79,available,7.188759394401481,0.5374149659863946
+nusc,nusc_p10,native + C1 without refiner,0.6,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,9181,228,147,180,25,available,19.605707439276767,0.1700680272108843
+nusc,nusc_p11,native + C1 without refiner,0.8,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,9181,228,147,132,32,available,14.377518788802965,0.2176870748299319
+nusc,nusc_p12,native + C1 without refiner,1.0,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,9181,228,147,91,47,available,9.911774316523251,0.3197278911564626
+nusc,nusc_p13,native + C1 without refiner,1.2,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,9181,228,147,67,67,available,7.297679991286352,0.4557823129251701
+nusc,nusc_p14,native + C1 without refiner,1.5,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,9181,228,147,54,82,available,5.88171223178303,0.5578231292517006
+nusc,nusc_p15,u960 + C1 + v3a,0.6,3.5,fixed_deployed_GT,CPU_support_refiner_replay,threshold_specific_support; base_refiner_differences=0,9181,228,147,148,29,available,16.1202483389609,0.1972789115646258
+nusc,nusc_p16,u960 + C1 + v3a,0.8,3.5,fixed_deployed_GT,CPU_support_refiner_replay,threshold_specific_support; base_refiner_differences=0,9181,228,147,92,36,available,10.020694913408123,0.2448979591836734
+nusc,nusc_p17,u960 + C1 + v3a,1.0,3.5,fixed_deployed_GT,CPU_support_refiner_replay,threshold_specific_support; base_refiner_differences=0,9181,228,147,59,51,available,6.426315216207384,0.3469387755102041
+nusc,nusc_p18,u960 + C1 + v3a,1.2,3.5,fixed_deployed_GT,CPU_support_refiner_replay,threshold_specific_support; base_refiner_differences=0,9181,228,147,55,69,available,5.990632828667901,0.4693877551020408
+nusc,nusc_p19,u960 + C1 + v3a,1.5,3.5,fixed_deployed_GT,CPU_support_refiner_replay,threshold_specific_support; base_refiner_differences=0,9181,228,147,49,83,available,5.337109247358676,0.564625850340136
+nusc,nusc_p20,native + C1 + v3a,0.6,3.5,fixed_deployed_GT,CPU_support_refiner_replay,threshold_specific_support; base_refiner_differences=0,9181,228,147,136,29,available,14.813201176342446,0.1972789115646258
+nusc,nusc_p21,native + C1 + v3a,0.8,3.5,fixed_deployed_GT,CPU_support_refiner_replay,threshold_specific_support; base_refiner_differences=0,9181,228,147,76,37,available,8.27796536325019,0.2517006802721088
+nusc,nusc_p22,native + C1 + v3a,1.0,3.5,fixed_deployed_GT,CPU_support_refiner_replay,threshold_specific_support; base_refiner_differences=0,9181,228,147,45,53,available,4.901426859819192,0.3605442176870748
+nusc,nusc_p23,native + C1 + v3a,1.2,3.5,fixed_deployed_GT,CPU_support_refiner_replay,threshold_specific_support; base_refiner_differences=0,9181,228,147,39,74,available,4.247903278509966,0.5034013605442177
+nusc,nusc_p24,native + C1 + v3a,1.5,3.5,fixed_deployed_GT,CPU_support_refiner_replay,threshold_specific_support; base_refiner_differences=0,9181,228,147,33,85,available,3.5943796972007407,0.5782312925170068
+nusc,nusc_p25,v6-S,1.0,3.5,fixed_deployed_GT,K28_deployed,stored_deployed,9181,228,147,37,60,available,4.030062084740225,0.4081632653061224
+nusc,nusc_p26,v6-S,1.0,3.5,fixed_deployed_GT,K30_cons,stored_joint_threshold_sensitivity,9181,228,147,37,60,available,4.030062084740225,0.4081632653061224
+nusc,nusc_p27,v6-S,1.0,3.5,K30_threshold_specific_GT,K30_cons,stored_joint_threshold_sensitivity,9181,228,147,37,60,available,4.030062084740225,0.4081632653061224
+nusc,nusc_p28,v6-S,0.8,2.8,fixed_deployed_GT,K30_cons@tau0.8,stored_joint_threshold_sensitivity,9181,228,147,64,47,available,6.970918200631739,0.3197278911564626
+nusc,nusc_p29,v6-S,0.8,2.8,K30_threshold_specific_GT,K30_cons@tau0.8,stored_joint_threshold_sensitivity,9181,228,192,43,80,available,4.683585666049449,0.4166666666666667
+nusc,nusc_p30,v6-S,1.2,4.2,fixed_deployed_GT,K30_cons@tau1.2,stored_joint_threshold_sensitivity,9181,228,147,39,82,available,4.247903278509966,0.5578231292517006
+nusc,nusc_p31,v6-S,1.2,4.2,K30_threshold_specific_GT,K30_cons@tau1.2,stored_joint_threshold_sensitivity,9181,228,118,39,52,available,4.247903278509966,0.4406779661016949
+nusc,nusc_p32,u960 + C1 + v3a,1.0,3.5,fixed_deployed_GT,K30_cons,stored_joint_threshold_sensitivity,9181,228,147,59,51,available,6.426315216207384,0.3469387755102041
+nusc,nusc_p33,u960 + C1 + v3a,1.0,3.5,K30_threshold_specific_GT,K30_cons,stored_joint_threshold_sensitivity,9181,228,147,59,51,available,6.426315216207384,0.3469387755102041
+nusc,nusc_p34,u960 + C1 + v3a,0.8,2.8,fixed_deployed_GT,K30_cons@tau0.8,stored_joint_threshold_sensitivity,9181,228,147,92,36,available,10.020694913408123,0.2448979591836734
+nusc,nusc_p35,u960 + C1 + v3a,0.8,2.8,K30_threshold_specific_GT,K30_cons@tau0.8,stored_joint_threshold_sensitivity,9181,228,192,70,68,available,7.624441781940965,0.3541666666666667
+nusc,nusc_p36,u960 + C1 + v3a,1.2,4.2,fixed_deployed_GT,K30_cons@tau1.2,stored_joint_threshold_sensitivity,9181,228,147,55,69,available,5.990632828667901,0.4693877551020408
+nusc,nusc_p37,u960 + C1 + v3a,1.2,4.2,K30_threshold_specific_GT,K30_cons@tau1.2,stored_joint_threshold_sensitivity,9181,228,118,57,40,available,6.208474022437644,0.3389830508474576
+nusc,nusc_p38,native + C1 + v3a,1.0,3.5,fixed_deployed_GT,K30_cons,stored_joint_threshold_sensitivity,9181,228,147,45,53,available,4.901426859819192,0.3605442176870748
+nusc,nusc_p39,native + C1 + v3a,1.0,3.5,K30_threshold_specific_GT,K30_cons,stored_joint_threshold_sensitivity,9181,228,147,45,53,available,4.901426859819192,0.3605442176870748
+nusc,nusc_p40,native + C1 + v3a,0.8,2.8,fixed_deployed_GT,K30_cons@tau0.8,stored_joint_threshold_sensitivity,9181,228,147,76,37,available,8.27796536325019,0.2517006802721088
+nusc,nusc_p41,native + C1 + v3a,0.8,2.8,K30_threshold_specific_GT,K30_cons@tau0.8,stored_joint_threshold_sensitivity,9181,228,192,61,72,available,6.644156409977127,0.375
+nusc,nusc_p42,native + C1 + v3a,1.2,4.2,fixed_deployed_GT,K30_cons@tau1.2,stored_joint_threshold_sensitivity,9181,228,147,39,74,available,4.247903278509966,0.5034013605442177
+nusc,nusc_p43,native + C1 + v3a,1.2,4.2,K30_threshold_specific_GT,K30_cons@tau1.2,stored_joint_threshold_sensitivity,9181,228,118,40,44,available,4.356823875394838,0.3728813559322034
+av2,av2_p00,cheap,0.6,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,11818,150,190,383,16,available,32.408190895244545,0.0842105263157894
+av2,av2_p01,cheap,0.8,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,11818,150,190,393,19,available,33.25435775935014,0.1
+av2,av2_p02,cheap,1.0,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,11818,150,190,411,21,available,34.77745811474023,0.1105263157894736
+av2,av2_p03,cheap,1.2,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,11818,150,190,400,27,available,33.84667456422407,0.1421052631578947
+av2,av2_p04,cheap,1.5,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,11818,150,190,395,34,available,33.42359113217126,0.1789473684210526
+av2,av2_p05,u960 + C1 without refiner,0.6,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,11818,150,190,216,8,available,18.277204264680993,0.0421052631578947
+av2,av2_p06,u960 + C1 without refiner,0.8,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,11818,150,190,177,14,available,14.97715349466915,0.0736842105263157
+av2,av2_p07,u960 + C1 without refiner,1.0,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,11818,150,190,154,19,available,13.030969707226266,0.1
+av2,av2_p08,u960 + C1 without refiner,1.2,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,11818,150,190,138,29,available,11.677102724657304,0.1526315789473684
+av2,av2_p09,u960 + C1 without refiner,1.5,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,11818,150,190,116,47,available,9.815535623624978,0.2473684210526315
+av2,av2_p10,native + C1 without refiner,0.6,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,11818,150,190,252,7,available,21.32340497546116,0.0368421052631578
+av2,av2_p11,native + C1 without refiner,0.8,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,11818,150,190,208,13,available,17.600270773396513,0.0684210526315789
+av2,av2_p12,native + C1 without refiner,1.0,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,11818,150,190,181,20,available,15.31562024031139,0.1052631578947368
+av2,av2_p13,native + C1 without refiner,1.2,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,11818,150,190,151,30,available,12.777119647994583,0.1578947368421052
+av2,av2_p14,native + C1 without refiner,1.5,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,11818,150,190,117,44,available,9.90015231003554,0.231578947368421
+av2,av2_p15,u960 + C1 + v3a,0.6,3.5,fixed_deployed_GT,CPU_support_refiner_replay,threshold_specific_support; base_refiner_differences=0,11818,150,190,150,13,available,12.692502961584024,0.0684210526315789
+av2,av2_p16,u960 + C1 + v3a,0.8,3.5,fixed_deployed_GT,CPU_support_refiner_replay,threshold_specific_support; base_refiner_differences=0,11818,150,190,114,20,available,9.64630225080386,0.1052631578947368
+av2,av2_p17,u960 + C1 + v3a,1.0,3.5,fixed_deployed_GT,CPU_support_refiner_replay,threshold_specific_support; base_refiner_differences=0,11818,150,190,93,31,available,7.869351836182096,0.1631578947368421
+av2,av2_p18,u960 + C1 + v3a,1.2,3.5,fixed_deployed_GT,CPU_support_refiner_replay,threshold_specific_support; base_refiner_differences=0,11818,150,190,82,46,available,6.938568285665934,0.2421052631578947
+av2,av2_p19,u960 + C1 + v3a,1.5,3.5,fixed_deployed_GT,CPU_support_refiner_replay,threshold_specific_support; base_refiner_differences=0,11818,150,190,74,64,available,6.261634794381452,0.3368421052631579
+av2,av2_p20,native + C1 + v3a,0.6,3.5,fixed_deployed_GT,CPU_support_refiner_replay,threshold_specific_support; base_refiner_differences=0,11818,150,190,172,14,available,14.554070062616349,0.0736842105263157
+av2,av2_p21,native + C1 + v3a,0.8,3.5,fixed_deployed_GT,CPU_support_refiner_replay,threshold_specific_support; base_refiner_differences=0,11818,150,190,132,18,available,11.16940260619394,0.0947368421052631
+av2,av2_p22,native + C1 + v3a,1.0,3.5,fixed_deployed_GT,CPU_support_refiner_replay,threshold_specific_support; base_refiner_differences=0,11818,150,190,102,29,available,8.630902013877137,0.1526315789473684
+av2,av2_p23,native + C1 + v3a,1.2,3.5,fixed_deployed_GT,CPU_support_refiner_replay,threshold_specific_support; base_refiner_differences=0,11818,150,190,86,45,available,7.277035031308174,0.2368421052631578
+av2,av2_p24,native + C1 + v3a,1.5,3.5,fixed_deployed_GT,CPU_support_refiner_replay,threshold_specific_support; base_refiner_differences=0,11818,150,190,74,61,available,6.261634794381452,0.3210526315789473
+av2,av2_p25,v6-S,1.0,3.5,fixed_deployed_GT,K28_deployed,stored_deployed,11818,150,190,77,36,available,6.515484853613133,0.1894736842105263
+av2,av2_p26,v6-S,1.0,3.5,fixed_deployed_GT,K30_cons,stored_joint_threshold_sensitivity,11818,150,190,77,36,available,6.515484853613133,0.1894736842105263
+av2,av2_p27,v6-S,1.0,3.5,K30_threshold_specific_GT,K30_cons,stored_joint_threshold_sensitivity,11818,150,190,77,36,available,6.515484853613133,0.1894736842105263
+av2,av2_p28,v6-S,0.8,2.8,fixed_deployed_GT,K30_cons@tau0.8,stored_joint_threshold_sensitivity,11818,150,190,103,27,available,8.715518700287696,0.1421052631578947
+av2,av2_p29,v6-S,0.8,2.8,K30_threshold_specific_GT,K30_cons@tau0.8,stored_joint_threshold_sensitivity,11818,150,212,79,41,available,6.684718226434253,0.1933962264150943
+av2,av2_p30,v6-S,1.2,4.2,fixed_deployed_GT,K30_cons@tau1.2,stored_joint_threshold_sensitivity,11818,150,190,70,50,available,5.923168048739211,0.2631578947368421
+av2,av2_p31,v6-S,1.2,4.2,K30_threshold_specific_GT,K30_cons@tau1.2,stored_joint_threshold_sensitivity,11818,150,178,81,40,available,6.853951599255374,0.2247191011235955
+av2,av2_p32,u960 + C1 + v3a,1.0,3.5,fixed_deployed_GT,K30_cons,stored_joint_threshold_sensitivity,11818,150,190,93,31,available,7.869351836182096,0.1631578947368421
+av2,av2_p33,u960 + C1 + v3a,1.0,3.5,K30_threshold_specific_GT,K30_cons,stored_joint_threshold_sensitivity,11818,150,190,93,31,available,7.869351836182096,0.1631578947368421
+av2,av2_p34,u960 + C1 + v3a,0.8,2.8,fixed_deployed_GT,K30_cons@tau0.8,stored_joint_threshold_sensitivity,11818,150,190,118,20,available,9.9847689964461,0.1052631578947368
+av2,av2_p35,u960 + C1 + v3a,0.8,2.8,K30_threshold_specific_GT,K30_cons@tau0.8,stored_joint_threshold_sensitivity,11818,150,212,91,32,available,7.700118463360975,0.1509433962264151
+av2,av2_p36,u960 + C1 + v3a,1.2,4.2,fixed_deployed_GT,K30_cons@tau1.2,stored_joint_threshold_sensitivity,11818,150,190,81,47,available,6.853951599255374,0.2473684210526315
+av2,av2_p37,u960 + C1 + v3a,1.2,4.2,K30_threshold_specific_GT,K30_cons@tau1.2,stored_joint_threshold_sensitivity,11818,150,178,93,37,available,7.869351836182096,0.2078651685393258
+av2,av2_p38,native + C1 + v3a,1.0,3.5,fixed_deployed_GT,K30_cons,stored_joint_threshold_sensitivity,11818,150,190,102,29,available,8.630902013877137,0.1526315789473684
+av2,av2_p39,native + C1 + v3a,1.0,3.5,K30_threshold_specific_GT,K30_cons,stored_joint_threshold_sensitivity,11818,150,190,102,29,available,8.630902013877137,0.1526315789473684
+av2,av2_p40,native + C1 + v3a,0.8,2.8,fixed_deployed_GT,K30_cons@tau0.8,stored_joint_threshold_sensitivity,11818,150,190,135,18,available,11.423252665425622,0.0947368421052631
+av2,av2_p41,native + C1 + v3a,0.8,2.8,K30_threshold_specific_GT,K30_cons@tau0.8,stored_joint_threshold_sensitivity,11818,150,212,107,28,available,9.053985445929936,0.1320754716981132
+av2,av2_p42,native + C1 + v3a,1.2,4.2,fixed_deployed_GT,K30_cons@tau1.2,stored_joint_threshold_sensitivity,11818,150,190,84,46,available,7.107801658487054,0.2421052631578947
+av2,av2_p43,native + C1 + v3a,1.2,4.2,K30_threshold_specific_GT,K30_cons@tau1.2,stored_joint_threshold_sensitivity,11818,150,178,100,38,available,8.461668641056017,0.2134831460674157
+ahd,ahd_p00,cheap,0.6,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,15006,24,71,282,11,available,18.79248300679728,0.1549295774647887
+ahd,ahd_p01,cheap,0.8,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,15006,24,71,330,11,available,21.991203518592563,0.1549295774647887
+ahd,ahd_p02,cheap,1.0,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,15006,24,71,377,12,available,25.123284019725443,0.1690140845070422
+ahd,ahd_p03,cheap,1.2,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,15006,24,71,417,13,available,27.788884446221513,0.1830985915492957
+ahd,ahd_p04,cheap,1.5,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,15006,24,71,448,15,available,29.854724776755965,0.2112676056338028
+ahd,ahd_p05,u960 + C1 without refiner,0.6,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,15006,24,71,110,6,available,7.330401172864188,0.0845070422535211
+ahd,ahd_p06,u960 + C1 without refiner,0.8,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,15006,24,71,110,8,available,7.330401172864188,0.1126760563380281
+ahd,ahd_p07,u960 + C1 without refiner,1.0,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,15006,24,71,98,13,available,6.530721044915367,0.1830985915492957
+ahd,ahd_p08,u960 + C1 without refiner,1.2,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,15006,24,71,99,17,available,6.597361055577769,0.2394366197183098
+ahd,ahd_p09,u960 + C1 without refiner,1.5,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,15006,24,71,90,29,available,5.997600959616154,0.4084507042253521
+ahd,ahd_p10,native + C1 without refiner,0.6,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,15006,24,71,138,5,available,9.196321471411435,0.0704225352112676
+ahd,ahd_p11,native + C1 without refiner,0.8,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,15006,24,71,132,8,available,8.796481407437025,0.1126760563380281
+ahd,ahd_p12,native + C1 without refiner,1.0,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,15006,24,71,123,12,available,8.196721311475411,0.1690140845070422
+ahd,ahd_p13,native + C1 without refiner,1.2,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,15006,24,71,130,18,available,8.663201386112222,0.2535211267605634
+ahd,ahd_p14,native + C1 without refiner,1.5,3.5,fixed_deployed_GT,CPU_cached_C1_or_cheap_geometry,exact_threshold_independent_scene,15006,24,71,121,30,available,8.063441290150607,0.4225352112676056
+ahd,ahd_p15,u960 + C1 + v3a,0.6,3.5,fixed_deployed_GT,CPU_support_refiner_replay,threshold_specific_support; base_refiner_differences=0,15006,24,71,101,9,available,6.730641076902573,0.1267605633802817
+ahd,ahd_p16,u960 + C1 + v3a,0.8,3.5,fixed_deployed_GT,CPU_support_refiner_replay,threshold_specific_support; base_refiner_differences=0,15006,24,71,83,11,available,5.531120884979342,0.1549295774647887
+ahd,ahd_p17,u960 + C1 + v3a,1.0,3.5,fixed_deployed_GT,CPU_support_refiner_replay,threshold_specific_support; base_refiner_differences=0,15006,24,71,82,26,available,5.46448087431694,0.3661971830985915
+ahd,ahd_p18,u960 + C1 + v3a,1.2,3.5,fixed_deployed_GT,CPU_support_refiner_replay,threshold_specific_support; base_refiner_differences=0,15006,24,71,83,34,available,5.531120884979342,0.4788732394366197
+ahd,ahd_p19,u960 + C1 + v3a,1.5,3.5,fixed_deployed_GT,CPU_support_refiner_replay,threshold_specific_support; base_refiner_differences=0,15006,24,71,78,39,available,5.197920831667333,0.5492957746478874
+ahd,ahd_p20,native + C1 + v3a,0.6,3.5,fixed_deployed_GT,CPU_support_refiner_replay,threshold_specific_support; base_refiner_differences=0,15006,24,71,138,10,available,9.196321471411435,0.1408450704225352
+ahd,ahd_p21,native + C1 + v3a,0.8,3.5,fixed_deployed_GT,CPU_support_refiner_replay,threshold_specific_support; base_refiner_differences=0,15006,24,71,121,15,available,8.063441290150607,0.2112676056338028
+ahd,ahd_p22,native + C1 + v3a,1.0,3.5,fixed_deployed_GT,CPU_support_refiner_replay,threshold_specific_support; base_refiner_differences=0,15006,24,71,105,27,available,6.997201119552179,0.380281690140845
+ahd,ahd_p23,native + C1 + v3a,1.2,3.5,fixed_deployed_GT,CPU_support_refiner_replay,threshold_specific_support; base_refiner_differences=0,15006,24,71,118,36,available,7.863521258163402,0.5070422535211268
+ahd,ahd_p24,native + C1 + v3a,1.5,3.5,fixed_deployed_GT,CPU_support_refiner_replay,threshold_specific_support; base_refiner_differences=0,15006,24,71,107,41,available,7.130481140876983,0.5774647887323944
+ahd,ahd_p25,v6-S,1.0,3.5,fixed_deployed_GT,K28_deployed,stored_deployed,15006,24,71,94,27,available,6.264161002265761,0.380281690140845
+ahd,ahd_p26,v6-S,1.0,3.5,fixed_deployed_GT,K30_cons,stored_joint_threshold_sensitivity,15006,24,71,94,27,available,6.264161002265761,0.380281690140845
+ahd,ahd_p27,v6-S,1.0,3.5,K30_threshold_specific_GT,K30_cons,stored_joint_threshold_sensitivity,15006,24,71,94,27,available,6.264161002265761,0.380281690140845
+ahd,ahd_p28,v6-S,0.8,2.8,fixed_deployed_GT,K30_cons@tau0.8,stored_joint_threshold_sensitivity,15006,24,71,92,14,available,6.130880980940957,0.1971830985915492
+ahd,ahd_p29,v6-S,0.8,2.8,K30_threshold_specific_GT,K30_cons@tau0.8,stored_joint_threshold_sensitivity,15006,24,61,71,22,available,4.731440757030522,0.360655737704918
+ahd,ahd_p30,v6-S,1.2,4.2,fixed_deployed_GT,K30_cons@tau1.2,stored_joint_threshold_sensitivity,15006,24,71,84,32,available,5.597760895641743,0.4507042253521127
+ahd,ahd_p31,v6-S,1.2,4.2,K30_threshold_specific_GT,K30_cons@tau1.2,stored_joint_threshold_sensitivity,15006,24,57,97,22,available,6.464081034252966,0.3859649122807017
+ahd,ahd_p32,u960 + C1 + v3a,1.0,3.5,fixed_deployed_GT,K30_cons,stored_joint_threshold_sensitivity,15006,24,71,82,26,available,5.46448087431694,0.3661971830985915
+ahd,ahd_p33,u960 + C1 + v3a,1.0,3.5,K30_threshold_specific_GT,K30_cons,stored_joint_threshold_sensitivity,15006,24,71,82,26,available,5.46448087431694,0.3661971830985915
+ahd,ahd_p34,u960 + C1 + v3a,0.8,2.8,fixed_deployed_GT,K30_cons@tau0.8,stored_joint_threshold_sensitivity,15006,24,71,82,10,available,5.46448087431694,0.1408450704225352
+ahd,ahd_p35,u960 + C1 + v3a,0.8,2.8,K30_threshold_specific_GT,K30_cons@tau0.8,stored_joint_threshold_sensitivity,15006,24,61,69,12,available,4.598160735705718,0.1967213114754098
+ahd,ahd_p36,u960 + C1 + v3a,1.2,4.2,fixed_deployed_GT,K30_cons@tau1.2,stored_joint_threshold_sensitivity,15006,24,71,82,34,available,5.46448087431694,0.4788732394366197
+ahd,ahd_p37,u960 + C1 + v3a,1.2,4.2,K30_threshold_specific_GT,K30_cons@tau1.2,stored_joint_threshold_sensitivity,15006,24,57,97,25,available,6.464081034252966,0.4385964912280701
+ahd,ahd_p38,native + C1 + v3a,1.0,3.5,fixed_deployed_GT,K30_cons,stored_joint_threshold_sensitivity,15006,24,71,105,27,available,6.997201119552179,0.380281690140845
+ahd,ahd_p39,native + C1 + v3a,1.0,3.5,K30_threshold_specific_GT,K30_cons,stored_joint_threshold_sensitivity,15006,24,71,105,27,available,6.997201119552179,0.380281690140845
+ahd,ahd_p40,native + C1 + v3a,0.8,2.8,fixed_deployed_GT,K30_cons@tau0.8,stored_joint_threshold_sensitivity,15006,24,71,122,14,available,8.130081300813009,0.1971830985915492
+ahd,ahd_p41,native + C1 + v3a,0.8,2.8,K30_threshold_specific_GT,K30_cons@tau0.8,stored_joint_threshold_sensitivity,15006,24,61,100,12,available,6.6640010662401705,0.1967213114754098
+ahd,ahd_p42,native + C1 + v3a,1.2,4.2,fixed_deployed_GT,K30_cons@tau1.2,stored_joint_threshold_sensitivity,15006,24,71,119,36,available,7.930161268825803,0.5070422535211268
+ahd,ahd_p43,native + C1 + v3a,1.2,4.2,K30_threshold_specific_GT,K30_cons@tau1.2,stored_joint_threshold_sensitivity,15006,24,57,135,26,available,8.99640143942423,0.4561403508771929

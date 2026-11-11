@@ -1,0 +1,9 @@
+{
+  "scope": "whole JP01 window including setup/debug/profiles/idle; not per-row energy",
+  "samples": 7837,
+  "first": "20:58:32",
+  "last": "22:05:29",
+  "cpu_max_C": 52.0,
+  "gpu_max_C": 52.0,
+  "nul_tail_bytes": 4004
+}

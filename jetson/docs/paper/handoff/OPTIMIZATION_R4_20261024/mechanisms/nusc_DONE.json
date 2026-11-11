@@ -1,0 +1,7 @@
+{
+  "status": "complete",
+  "units": 152,
+  "frames": 6117,
+  "main_sources_unchanged": true,
+  "scope": "Final-readout-only policy; no query/history change. Skippable refiner counts are exact action opportunities, not latency measurements."
+}

@@ -1,0 +1,51 @@
+{
+  "status": "timing_complete",
+  "pid": 352011,
+  "runs": [
+    {
+      "dataset": "av2_dev",
+      "runtime": "original",
+      "rep": 1,
+      "smoke": true,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_151907_verified_cfg_original_timing_av2_dev_v6S_smoke_original"
+    },
+    {
+      "dataset": "av2_dev",
+      "runtime": "fast",
+      "rep": 1,
+      "smoke": true,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_151953_verified_cfg_fast_timing_av2_dev_v6S_smoke_fast"
+    },
+    {
+      "dataset": "av2_dev",
+      "runtime": "fast",
+      "rep": 1,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_152039_verified_cfg_fast_timing_av2_dev_v6S_r1_fast"
+    },
+    {
+      "dataset": "av2_dev",
+      "runtime": "fast",
+      "rep": 2,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_152343_verified_cfg_fast_timing_av2_dev_v6S_r2_fast"
+    },
+    {
+      "dataset": "av2_dev",
+      "runtime": "fast",
+      "rep": 3,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_152645_verified_cfg_fast_timing_av2_dev_v6S_r3_fast"
+    }
+  ],
+  "started": "2026-10-23T15:18:56.604034+07:00",
+  "dataset": "av2_dev",
+  "runtime": "fast",
+  "rep": 3,
+  "updated": "2026-10-23T15:29:44.738478+07:00",
+  "child_pid": 353097,
+  "current_log": "r3_fast_av2_dev.log",
+  "source_engine_hashes_unchanged": true,
+  "window_released": true,
+  "restore_errors": []
+}

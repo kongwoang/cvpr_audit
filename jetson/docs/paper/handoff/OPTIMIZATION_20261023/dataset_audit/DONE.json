@@ -1,0 +1,27 @@
+{
+  "status": "complete",
+  "verified_logs": 58,
+  "legacy": [
+    {
+      "report": "RUNTIME_20261023",
+      "unique_timed_frames": 512,
+      "cfg_dev": 270,
+      "other_roles": 242,
+      "known_training_or_selection": 242
+    },
+    {
+      "report": "TEMPORAL_JETSON_20261023",
+      "unique_timed_frames": 512,
+      "cfg_dev": 270,
+      "other_roles": 242,
+      "known_training_or_selection": 242
+    },
+    {
+      "report": "FAST_RECOVERY_20261023",
+      "unique_timed_frames": 256,
+      "cfg_dev": 99,
+      "other_roles": 157,
+      "known_training_or_selection": 157
+    }
+  ]
+}

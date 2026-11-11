@@ -1,0 +1,86 @@
+{
+  "status": "timing_complete",
+  "pid": 338697,
+  "runs": [
+    {
+      "dataset": "nusc_val",
+      "runtime": "disabled",
+      "rep": 1,
+      "smoke": true,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_135020_temporal_jetson_timing_nusc_val_v6S_smoke_disabled"
+    },
+    {
+      "dataset": "nusc_val",
+      "runtime": "enabled",
+      "rep": 1,
+      "smoke": true,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_135054_temporal_jetson_timing_nusc_val_v6S_smoke_enabled"
+    },
+    {
+      "dataset": "av2_dev",
+      "runtime": "disabled",
+      "rep": 1,
+      "smoke": true,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_135133_temporal_jetson_timing_av2_dev_v6S_smoke_disabled"
+    },
+    {
+      "dataset": "av2_dev",
+      "runtime": "enabled",
+      "rep": 1,
+      "smoke": true,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_135220_temporal_jetson_timing_av2_dev_v6S_smoke_enabled"
+    },
+    {
+      "dataset": "nusc_val",
+      "runtime": "enabled",
+      "rep": 1,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_135328_temporal_jetson_timing_nusc_val_v6S_r1_enabled"
+    },
+    {
+      "dataset": "av2_dev",
+      "runtime": "enabled",
+      "rep": 1,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_135514_temporal_jetson_timing_av2_dev_v6S_r1_enabled"
+    },
+    {
+      "dataset": "nusc_val",
+      "runtime": "enabled",
+      "rep": 2,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_135832_temporal_jetson_timing_nusc_val_v6S_r2_enabled"
+    },
+    {
+      "dataset": "av2_dev",
+      "runtime": "enabled",
+      "rep": 2,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_140018_temporal_jetson_timing_av2_dev_v6S_r2_enabled"
+    },
+    {
+      "dataset": "nusc_val",
+      "runtime": "enabled",
+      "rep": 3,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_140336_temporal_jetson_timing_nusc_val_v6S_r3_enabled"
+    },
+    {
+      "dataset": "av2_dev",
+      "runtime": "enabled",
+      "rep": 3,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_140521_temporal_jetson_timing_av2_dev_v6S_r3_enabled"
+    }
+  ],
+  "started": "2026-10-23T13:35:28.161640+07:00",
+  "updated": "2026-10-23T14:08:37.921158+07:00",
+  "dataset": "av2_dev",
+  "runtime": "enabled",
+  "rep": 3,
+  "child_pid": 342696,
+  "current_log": "av2_dev_r3_check.log",
+  "source_engine_hashes_unchanged": true,
+  "window_released": true,
+  "restore_errors": []
+}

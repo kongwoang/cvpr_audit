@@ -1,0 +1,8 @@
+method,G,network px,ours_ref minus,G_unmasked,label
+u640,-0.0337147279798285,0.1155555555555555,"[+0.073, +0.181]",-0.0339763937935852,post-hoc robustness check (bottom band rows >= 1140 masked; no ego part visible)
+u960,-0.0316120457416345,0.2533333333333333,"[+0.059, +0.191]",-0.0318737115553912,post-hoc robustness check (bottom band rows >= 1140 masked; no ego part visible)
+u1280,-0.0666317265994087,0.4444444444444444,"[+0.060, +0.265]",-0.0668933924131654,post-hoc robustness check (bottom band rows >= 1140 masked; no ego part visible)
+u1600,-0.0808817136921466,0.7111111111111111,"[+0.075, +0.282]",-0.0808817136921466,post-hoc robustness check (bottom band rows >= 1140 masked; no ego part visible)
+u1920,-0.0921981428902763,1.0133333333333334,"[+0.077, +0.304]",-0.0921981428902763,post-hoc robustness check (bottom band rows >= 1140 masked; no ego part visible)
+ours,0.039180741678441,0.0647230670582607,"[+0.021, +0.084]",0.039180741678441,post-hoc robustness check (bottom band rows >= 1140 masked; no ego part visible)
+ours_ref,0.0906069171208234,0.0647230670582607,,0.0906069171208234,post-hoc robustness check (bottom band rows >= 1140 masked; no ego part visible)

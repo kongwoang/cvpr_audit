@@ -1,0 +1,24 @@
+{
+  "status": "complete",
+  "dataset": "av2_dev",
+  "frames": 80,
+  "baseline_differences": {
+    "a_ours@trt32": 0,
+    "a_ours@trt32_noref": 0,
+    "a_ours_b2A_retro@trt32": 0,
+    "a_ours_b2A_retro@trt32_noref": 0,
+    "J_ours@trt32": 0,
+    "J_ours@trt32_noref": 0,
+    "J_ours_b2A_retro@trt32": 0,
+    "J_ours_b2A_retro@trt32_noref": 0,
+    "px_ours@trt32": 0,
+    "px_ours@trt32_noref": 0,
+    "px_ours_b2A_retro@trt32": 0,
+    "px_ours_b2A_retro@trt32_noref": 0
+  },
+  "adapter_encoder_differences": {
+    "a_ours_b2A_missing_retro@trt32": 0,
+    "a_ours_b2A_missing_retro@trt32_noref": 0
+  },
+  "c1_encoder_weights_equal": true
+}

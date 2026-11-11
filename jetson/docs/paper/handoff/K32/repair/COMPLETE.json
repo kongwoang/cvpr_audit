@@ -1,0 +1,19 @@
+{
+  "started_local": "2026-10-22T07:19:45.172209+07:00",
+  "batch_remote": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k32/repair/20261022_complete",
+  "worker_pids": {
+    "cuda12": 4084275,
+    "cuda13": 17816
+  },
+  "unit_count": 6,
+  "gpu_min_free_mib": 10000,
+  "original_jobs_remaining": [],
+  "finalization_guard": "cleared after full data audit",
+  "status": "complete",
+  "updated_local": "2026-10-22T09:38:21.359278+07:00",
+  "valid_repair_units": 6,
+  "test_route_runs": 6975,
+  "shadow_rollout_routes": 310,
+  "completed_local": "2026-10-22T09:46:56.249821+07:00",
+  "final_tables_validation": "/home/kongwoang/research/CVPR/logs/k32_audit_20261022_final/final_tables_validation.json"
+}

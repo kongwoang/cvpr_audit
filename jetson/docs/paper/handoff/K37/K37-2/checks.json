@@ -1,0 +1,10 @@
+{
+  "nusc_test20_frames": 805,
+  "nusc_test20_frames_with_gt_demand": 805,
+  "nusc_test20_act_gt_equal_k30": true,
+  "nusc_test20_stored_cost_reproduced_max_abs_diff": 1.3322676295501878e-15,
+  "av2_frames": 586,
+  "av2_frames_with_gt_demand": 586,
+  "av2_act_gt_equal_k30": true,
+  "av2_stored_cost_reproduced_max_abs_diff": 1.3322676295501878e-15
+}

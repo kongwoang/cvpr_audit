@@ -1,0 +1,31 @@
+dataset,units,frames_total,section,refiner,group,frames,share,loss_full,loss_so,loss_cheap,loss_F,full_raises,full,so,full_minus_so_ci,G_no_refiner,G_refiner,tensor_px,px_ratio_to_full,full_minus_ci_no_refiner,full_minus_ci_refiner
+nusc,228,9181,1 frames where FULL and SO differ,False,all,414.0,0.04509312711033656,646.0922566978309,1971.7800188138033,1355.1378460768476,991.8245752729445,345.0,,,,,,,,,
+nusc,228,9181,1 frames where FULL and SO differ,False,a true discovery,39.0,,91.13204063080534,1008.7054113127442,853.0170403016886,331.9488390258687,,,,,,,,,,
+nusc,228,9181,1 frames where FULL and SO differ,False,b spurious detection,71.0,,123.21513919437938,13.287617221157351,13.287617221157351,91.0127048754147,,,,,,,,,,
+nusc,228,9181,1 frames where FULL and SO differ,False,c draft object changed,222.0,,264.09211306639907,907.3889221670237,432.2732659310283,457.1493522211018,,,,,,,,,,
+nusc,228,9181,1 frames where FULL and SO differ,False,d other,82.0,,167.65296380624707,42.39806811287813,56.559922622973296,111.71367915055927,,,,,,,,,,
+nusc,228,9181,1 frames where FULL and SO differ,True,all,340.0,0.03703300294085612,570.9978988330158,1936.691000349866,1313.158219528404,930.7465751762065,275.0,,,,,,,,,
+nusc,228,9181,1 frames where FULL and SO differ,True,a true discovery,36.0,,88.2832842150052,998.2472840791662,842.5589130681105,328.4350435455945,,,,,,,,,,
+nusc,228,9181,1 frames where FULL and SO differ,True,b spurious detection,33.0,,72.54555025156833,8.778010049301477,8.778010049301477,53.54865324700316,,,,,,,,,,
+nusc,228,9181,1 frames where FULL and SO differ,True,c draft object changed,198.0,,264.1219787347879,891.3691590290329,409.1714670077964,439.9924724099619,,,,,,,,,,
+nusc,228,9181,1 frames where FULL and SO differ,True,d other,73.0,,146.04708563165445,38.296547192365765,52.64982940319581,108.77040597364686,,,,,,,,,,
+nusc,228,9181,"2 events per 1,000 frames",False,correct HARD_BRAKE,,,,,,,,20.368151617470865,17.971898486003703,"[+0.326, +5.770]",,,,,,
+nusc,228,9181,"2 events per 1,000 frames",False,correct DECELERATE,,,,,,,,38.55789129724431,31.151290709073088,"[+4.355, +10.680]",,,,,,
+nusc,228,9181,"2 events per 1,000 frames",False,unnecessary DECELERATE,,,,,,,,26.14094325236902,11.109900882256834,"[+10.993, +19.386]",,,,,,
+nusc,228,9181,"2 events per 1,000 frames",False,unnecessary HARD_BRAKE,,,,,,,,20.477072214355733,14.268598191918091,"[+3.487, +9.153]",,,,,,
+nusc,228,9181,"2 events per 1,000 frames",True,correct HARD_BRAKE,,,,,,,,24.50713429909596,22.32872236139854,"[+0.218, +5.228]",,,,,,
+nusc,228,9181,"2 events per 1,000 frames",True,correct DECELERATE,,,,,,,,36.16163816577715,30.171005337109246,"[+3.159, +9.055]",,,,,,
+nusc,228,9181,"2 events per 1,000 frames",True,unnecessary DECELERATE,,,,,,,,16.991613114039865,7.297679991286352,"[+6.644, +12.849]",,,,,,
+nusc,228,9181,"2 events per 1,000 frames",True,unnecessary HARD_BRAKE,,,,,,,,19.71462803616164,14.486439385687834,"[+2.830, +7.839]",,,,,,
+nusc,228,9181,"3 regime: a* >= DECELERATE, draft has no object in the support of a*",,frames,384.0,0.04182550920379044,,,,,,,,,,,,,,
+nusc,228,9181,"3 regime: a* >= DECELERATE, draft has no object in the support of a*",,support only,384.0,,,,,,,,,,-0.03503809039992713,0.012548259840494512,,,,
+nusc,228,9181,"3 regime: a* >= DECELERATE, draft has no object in the support of a*",,uncertainty crops,384.0,,,,,,,,,,0.06736340675846961,0.11860793465478517,,,,
+nusc,228,9181,"3 regime: a* >= DECELERATE, draft has no object in the support of a*",,temporal_crit crops,384.0,,,,,,,,,,0.2948000443731959,0.34261022275196634,,,,
+nusc,228,9181,"3 regime: a* >= DECELERATE, draft has no object in the support of a*",,full,384.0,,,,,,,,,,0.30010710555859127,0.34911744377804665,,,,
+nusc,228,9181,4 equal compute,,full,,,,,,,,,,,0.1351704697800228,0.1699011946214979,0.10039764247419186,1.0,,
+nusc,228,9181,4 equal compute,,so,,,,,,,,,,,-0.1340976260970283,-0.10749261673187004,0.050425995715789866,0.5022627471432144,"[+0.002, +0.499]","[+0.018, +0.498]"
+nusc,228,9181,4 equal compute,,so_ctx12,,,,,,,,,,,-0.10485992107790897,-0.07673106086843816,0.07974606494088032,0.7943021666208924,"[+0.000, +0.434]","[+0.015, +0.434]"
+nusc,228,9181,4 equal compute,,so_ctx4,,,,,,,,,,,-0.054111931781915215,-0.0238636948648787,0.0598296869137954,0.5959272094379624,"[-0.003, +0.331]","[+0.008, +0.330]"
+nusc,228,9181,4 equal compute,,so_ctx6,,,,,,,,,,,-0.06719690162026273,-0.040309240370054414,0.06818526183301263,0.6791520214285935,"[-0.016, +0.369]","[-0.001, +0.371]"
+nusc,228,9181,4 equal compute,,so_ctx8,,,,,,,,,,,-0.07299612430234392,-0.042791382859493854,0.07331330162533736,0.7302293143405556,"[-0.007, +0.373]","[+0.005, +0.371]"
+nusc,228,9181,4 equal compute,,so_rand,,,,,,,,,,,-0.09155294385104473,-0.05945883784343446,0.1166903048566484,1.1622813243512637,"[-0.048, +0.474]","[-0.040, +0.468]"

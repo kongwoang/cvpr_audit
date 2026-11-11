@@ -1,0 +1,337 @@
+dataset,pipeline,comparator,metric,candidate_minus_baseline,ci_lo,ci_hi,valid_draws
+nusc,cheap,round1 combined,G,-0.3505368283206523,-0.5005108088525959,-0.1667025503044176,2000
+nusc,cheap,round1 combined,false_per_1000,24.03138793526238,19.12686675844885,28.758522536037464,2000
+nusc,cheap,round1 combined,false_braking_frames_per_1000,41.19666503187837,33.1462115836204,49.34015969185131,2000
+nusc,cheap,round1 combined,false_hard_frames_per_1000,14.713094654242276,10.96020383422214,18.482323259894464,2000
+nusc,cheap,round1 combined,overbraking_cost_per_frame,0.0774783062649452,0.060126327192844,0.0948998126884608,2000
+nusc,cheap,round1 combined,insufficient_loss_per_frame,0.1354012536921315,-0.0094978011362342,0.3592735410068602,2000
+nusc,cheap,round1 combined,all_missed_rate,-0.0404040404040403,-0.1264404190309908,0.0431128185907046,2000
+nusc,v6-S,round1 combined,G,-0.0293628479465801,-0.0626344204636305,-0.0007791934552653,2000
+nusc,v6-S,round1 combined,false_per_1000,-0.980872976949485,-1.9604639764744327,-0.1632919660352714,2000
+nusc,v6-S,round1 combined,false_braking_frames_per_1000,-0.6539153179663231,-1.8015140918842203,0.3272826964419558,2000
+nusc,v6-S,round1 combined,false_hard_frames_per_1000,-0.1634788294915807,-0.4910003726625878,0.0,2000
+nusc,v6-S,round1 combined,overbraking_cost_per_frame,-0.0011611036301476,-0.0029506567671035,2.841139189722086e-05,2000
+nusc,v6-S,round1 combined,insufficient_loss_per_frame,0.0189041449098025,0.0017354019146461,0.0459672085411182,2000
+nusc,v6-S,round1 combined,all_missed_rate,0.0202020202020202,0.0,0.0526315789473684,2000
+nusc,objectwise median,round1 combined,G,-0.0019553009828419,-0.012528657270747,0.0044474819117477,2000
+nusc,objectwise median,round1 combined,false_per_1000,1.6347882949158086,0.8161932745674179,2.6229830849356173,2000
+nusc,objectwise median,round1 combined,false_braking_frames_per_1000,3.1060977603400364,1.7956178773582412,4.581170573877166,2000
+nusc,objectwise median,round1 combined,false_hard_frames_per_1000,-0.3269576589831615,-0.817798568568056,0.0,2000
+nusc,objectwise median,round1 combined,overbraking_cost_per_frame,-0.0022112426543332,-0.0059385840070807,0.0009964246905855,2000
+nusc,objectwise median,round1 combined,insufficient_loss_per_frame,0.0036044591808063,-0.0019246358500508,0.011970425246725,2000
+nusc,objectwise median,round1 combined,all_missed_rate,0.0,0.0,0.0,2000
+nusc,R5 both q50,round1 combined,G,0.0150428170231016,0.0061641281938488,0.030540483054714,2000
+nusc,R5 both q50,round1 combined,false_per_1000,2.2887036128821316,0.9819927093451986,3.761258225094157,2000
+nusc,R5 both q50,round1 combined,false_braking_frames_per_1000,5.558280202713748,3.59062034143527,7.852150553750781,2000
+nusc,R5 both q50,round1 combined,false_hard_frames_per_1000,0.0,0.0,0.0,2000
+nusc,R5 both q50,round1 combined,overbraking_cost_per_frame,0.0030661850231426,0.0020609622868079,0.0041924011626353,2000
+nusc,R5 both q50,round1 combined,insufficient_loss_per_frame,-0.0128989797820446,-0.0194326294884484,-0.0072812078976706,2000
+nusc,R5 both q50,round1 combined,all_missed_rate,-0.0606060606060605,-0.11009368682942,-0.0202020202020202,2000
+nusc,R5 both q80,round1 combined,G,0.0052633484234961,0.0012488223947028,0.0124742867229501,2000
+nusc,R5 both q80,round1 combined,false_per_1000,0.3269576589831615,0.0,0.8179290037624729,2000
+nusc,R5 both q80,round1 combined,false_braking_frames_per_1000,0.8173941474579038,0.1636125654450272,1.631607510032825,2000
+nusc,R5 both q80,round1 combined,false_hard_frames_per_1000,0.0,0.0,0.0,2000
+nusc,R5 both q80,round1 combined,overbraking_cost_per_frame,0.0006596324168831,0.0002595825133463,0.0011145653724652,2000
+nusc,R5 both q80,round1 combined,insufficient_loss_per_frame,-0.0041015410526195,-0.0079150030312153,-0.0013077599970405,2000
+nusc,R5 both q80,round1 combined,all_missed_rate,-0.01010101010101,-0.0363636363636363,0.0,2000
+nusc,point fallback + extent retention,round1 combined,G,0.0321092780116658,0.0057147421144965,0.0615475948850683,2000
+nusc,point fallback + extent retention,round1 combined,false_per_1000,1.307830635932647,0.3266372693124282,2.452202492925163,2000
+nusc,point fallback + extent retention,round1 combined,false_braking_frames_per_1000,6.5391531796632325,3.2647730982696697,10.305905447407165,2000
+nusc,point fallback + extent retention,round1 combined,false_hard_frames_per_1000,1.307830635932647,0.3269042170644005,2.4542085650508567,2000
+nusc,point fallback + extent retention,round1 combined,overbraking_cost_per_frame,0.0107179507440419,0.0052012664782611,0.0174053406043208,2000
+nusc,point fallback + extent retention,round1 combined,insufficient_loss_per_frame,-0.0314507343666105,-0.0545823303735106,-0.0124918791401446,2000
+nusc,point fallback + extent retention,round1 combined,all_missed_rate,-0.0303030303030302,-0.0666666666666666,0.0,2000
+nusc,R5 residual ungated,round1 combined,G,0.0083406128158188,-0.0505438095544181,0.0573455263735911,2000
+nusc,R5 residual ungated,round1 combined,false_per_1000,7.520026156612719,5.231301166963082,9.96898991084581,2000
+nusc,R5 residual ungated,round1 combined,false_braking_frames_per_1000,11.116560405427498,8.167265599477297,14.218009478672984,2000
+nusc,R5 residual ungated,round1 combined,false_hard_frames_per_1000,5.0678437142390065,3.1121648975283556,7.193097900296732,2000
+nusc,R5 residual ungated,round1 combined,overbraking_cost_per_frame,0.0262256251668523,0.0183193208038988,0.035455197409674,2000
+nusc,R5 residual ungated,round1 combined,insufficient_loss_per_frame,-0.030998995940181,-0.0676044684918722,-0.0047049432538987,2000
+nusc,R5 residual ungated,round1 combined,all_missed_rate,-0.0404040404040403,-0.080822762508809,-0.0091743119266055,2000
+nusc,R5 residual_both q50,round1 combined,G,0.0465863014934552,0.0152816106708529,0.0834277221596836,2000
+nusc,R5 residual_both q50,round1 combined,false_per_1000,2.615661271865293,1.307830635932647,4.094333442515557,2000
+nusc,R5 residual_both q50,round1 combined,false_braking_frames_per_1000,5.885237861696909,3.7593984962406033,8.186186821416404,2000
+nusc,R5 residual_both q50,round1 combined,false_hard_frames_per_1000,0.0,0.0,0.0,2000
+nusc,R5 residual_both q50,round1 combined,overbraking_cost_per_frame,0.003348905194755,0.0022591102434786,0.0045480221130082,2000
+nusc,R5 residual_both q50,round1 combined,insufficient_loss_per_frame,-0.0322699138759388,-0.0606409431817307,-0.0114213600379891,2000
+nusc,R5 residual_both q50,round1 combined,all_missed_rate,-0.0606060606060605,-0.11009368682942,-0.0202020202020202,2000
+nusc,R5 extent_both q50,round1 combined,G,0.0285520972965198,0.0091208319518074,0.0551792121634589,2000
+nusc,R5 extent_both q50,round1 combined,false_per_1000,2.2887036128821316,0.9819927093451986,3.761258225094157,2000
+nusc,R5 extent_both q50,round1 combined,false_braking_frames_per_1000,6.702632009154813,4.085601533747743,9.97722418220076,2000
+nusc,R5 extent_both q50,round1 combined,false_hard_frames_per_1000,0.1634788294915807,0.0,0.4910787362907189,2000
+nusc,R5 extent_both q50,round1 combined,overbraking_cost_per_frame,0.0041798958247598,0.0024312772062427,0.0062814982884927,2000
+nusc,R5 extent_both q50,round1 combined,insufficient_loss_per_frame,-0.0225879300697753,-0.0421839477949829,-0.0095937824129801,2000
+nusc,R5 extent_both q50,round1 combined,all_missed_rate,-0.0606060606060605,-0.11009368682942,-0.0202020202020202,2000
+nusc,R5 point_residual q50,round1 combined,G,0.0644323223067277,0.0155581350093678,0.1187054742886084,2000
+nusc,R5 point_residual q50,round1 combined,false_per_1000,1.6347882949158086,0.4906771344455345,2.941176470588235,2000
+nusc,R5 point_residual q50,round1 combined,false_braking_frames_per_1000,7.029589668137975,3.593552860543107,10.94610281133109,2000
+nusc,R5 point_residual q50,round1 combined,false_hard_frames_per_1000,1.307830635932647,0.3269042170644005,2.4542085650508567,2000
+nusc,R5 point_residual q50,round1 combined,overbraking_cost_per_frame,0.0110652987610194,0.0054521615213539,0.0178132309331479,2000
+nusc,R5 point_residual q50,round1 combined,insufficient_loss_per_frame,-0.0513817951749498,-0.0982592813903042,-0.0190614407125739,2000
+nusc,R5 point_residual q50,round1 combined,all_missed_rate,-0.0404040404040403,-0.0833333333333333,-0.0093457943925233,2000
+nusc,R5 point_residual q80,round1 combined,G,0.0500051706586854,0.0057147421144965,0.1086314227225118,2000
+nusc,R5 point_residual q80,round1 combined,false_per_1000,1.307830635932647,0.3266372693124282,2.452202492925163,2000
+nusc,R5 point_residual q80,round1 combined,false_braking_frames_per_1000,6.5391531796632325,3.2647730982696697,10.305905447407165,2000
+nusc,R5 point_residual q80,round1 combined,false_hard_frames_per_1000,1.307830635932647,0.3269042170644005,2.4542085650508567,2000
+nusc,R5 point_residual q80,round1 combined,overbraking_cost_per_frame,0.0107179507440419,0.0052012664782611,0.0174053406043208,2000
+nusc,R5 point_residual q80,round1 combined,insufficient_loss_per_frame,-0.0418251176559356,-0.0876355973313842,-0.0126130082808327,2000
+nusc,R5 point_residual q80,round1 combined,all_missed_rate,-0.0303030303030302,-0.0666666666666666,0.0,2000
+nusc,R5 cond point conditional q50,round1 combined,G,0.0330552972679606,0.0061293777883169,0.0629169810074427,2000
+nusc,R5 cond point conditional q50,round1 combined,false_per_1000,1.96174595389897,0.6553053112686144,3.272786777941416,2000
+nusc,R5 cond point conditional q50,round1 combined,false_braking_frames_per_1000,7.520026156612717,3.766123739305891,11.95364286111312,2000
+nusc,R5 cond point conditional q50,round1 combined,false_hard_frames_per_1000,1.307830635932647,0.3269042170644005,2.4542085650508567,2000
+nusc,R5 cond point conditional q50,round1 combined,overbraking_cost_per_frame,0.0111425383934688,0.0055117797745657,0.0179950964616242,2000
+nusc,R5 cond point conditional q50,round1 combined,insufficient_loss_per_frame,-0.0324929726557023,-0.0554147627882794,-0.0135186076793039,2000
+nusc,R5 cond point conditional q50,round1 combined,all_missed_rate,-0.0303030303030302,-0.0666666666666666,0.0,2000
+nusc,cheap,point fallback + extent retention,G,-0.3826461063323181,-0.5254359104263202,-0.198601532154441,2000
+nusc,cheap,point fallback + extent retention,false_per_1000,22.723557299329737,17.6437608928004,27.623519237995197,2000
+nusc,cheap,point fallback + extent retention,false_braking_frames_per_1000,34.65751185221514,26.805926794821666,42.76207094616168,2000
+nusc,cheap,point fallback + extent retention,false_hard_frames_per_1000,13.40526401830963,9.646788565848023,17.20754347055635,2000
+nusc,cheap,point fallback + extent retention,overbraking_cost_per_frame,0.0667603555209033,0.0494446266389396,0.0844771229389041,2000
+nusc,cheap,point fallback + extent retention,insufficient_loss_per_frame,0.166851988058742,0.0125555717454797,0.3982007964052033,2000
+nusc,cheap,point fallback + extent retention,all_missed_rate,-0.0101010101010101,-0.0972222222222222,0.072928612385321,2000
+nusc,v6-S,point fallback + extent retention,G,-0.0614721259582459,-0.1168967051401112,-0.0131163783891525,2000
+nusc,v6-S,point fallback + extent retention,false_per_1000,-2.288703612882132,-3.6054344106889986,-0.9821494366014614,2000
+nusc,v6-S,point fallback + extent retention,false_braking_frames_per_1000,-7.193068497629556,-10.95850081881195,-3.9157621892520207,2000
+nusc,v6-S,point fallback + extent retention,false_hard_frames_per_1000,-1.4713094654242278,-2.619515389652914,-0.4901960784313726,2000
+nusc,v6-S,point fallback + extent retention,overbraking_cost_per_frame,-0.0118790543741896,-0.018607559517515,-0.0062279916875158,2000
+nusc,v6-S,point fallback + extent retention,insufficient_loss_per_frame,0.050354879276413,0.0181231851216432,0.0967267067168973,2000
+nusc,v6-S,point fallback + extent retention,all_missed_rate,0.0505050505050505,0.0128164556962025,0.0930414244186045,2000
+nusc,round1 combined,point fallback + extent retention,G,-0.0321092780116658,-0.0615475948850683,-0.0057147421144965,2000
+nusc,round1 combined,point fallback + extent retention,false_per_1000,-1.307830635932647,-2.452202492925163,-0.3266372693124282,2000
+nusc,round1 combined,point fallback + extent retention,false_braking_frames_per_1000,-6.5391531796632325,-10.305905447407165,-3.2647730982696697,2000
+nusc,round1 combined,point fallback + extent retention,false_hard_frames_per_1000,-1.307830635932647,-2.4542085650508567,-0.3269042170644005,2000
+nusc,round1 combined,point fallback + extent retention,overbraking_cost_per_frame,-0.0107179507440419,-0.0174053406043208,-0.0052012664782611,2000
+nusc,round1 combined,point fallback + extent retention,insufficient_loss_per_frame,0.0314507343666105,0.0124918791401446,0.0545823303735106,2000
+nusc,round1 combined,point fallback + extent retention,all_missed_rate,0.0303030303030302,0.0,0.0666666666666666,2000
+nusc,objectwise median,point fallback + extent retention,G,-0.0340645789945077,-0.0639902983234456,-0.0069661771201006,2000
+nusc,objectwise median,point fallback + extent retention,false_per_1000,0.3269576589831615,-0.98119779785065,1.6377602162946048,2000
+nusc,objectwise median,point fallback + extent retention,false_braking_frames_per_1000,-3.433055419323196,-7.208417470384436,0.0,2000
+nusc,objectwise median,point fallback + extent retention,false_hard_frames_per_1000,-1.6347882949158086,-2.9426189308484547,-0.4907574022574841,2000
+nusc,objectwise median,point fallback + extent retention,overbraking_cost_per_frame,-0.0129291933983751,-0.0204740775280495,-0.006073542355239,2000
+nusc,objectwise median,point fallback + extent retention,insufficient_loss_per_frame,0.0350551935474168,0.0153916231931368,0.0588530757232159,2000
+nusc,objectwise median,point fallback + extent retention,all_missed_rate,0.0303030303030302,0.0,0.0666666666666666,2000
+nusc,R5 both q50,point fallback + extent retention,G,-0.0170664609885641,-0.046640553200819,0.0128432284591072,2000
+nusc,R5 both q50,point fallback + extent retention,false_per_1000,0.9808729769494846,-0.8165965079477379,2.7823354450879925,2000
+nusc,R5 both q50,point fallback + extent retention,false_braking_frames_per_1000,-0.9808729769494846,-5.239310136976587,2.9440748468449995,2000
+nusc,R5 both q50,point fallback + extent retention,false_hard_frames_per_1000,-1.307830635932647,-2.4542085650508567,-0.3269042170644005,2000
+nusc,R5 both q50,point fallback + extent retention,overbraking_cost_per_frame,-0.0076517657208992,-0.0143443461292401,-0.0021873530069834,2000
+nusc,R5 both q50,point fallback + extent retention,insufficient_loss_per_frame,0.0185517545845658,0.0008898988152267,0.0417074331519263,2000
+nusc,R5 both q50,point fallback + extent retention,all_missed_rate,-0.0303030303030302,-0.0916685779816513,0.0297029702970296,2000
+nusc,R5 both q80,point fallback + extent retention,G,-0.0268459295881696,-0.0569329545743403,0.0007216555102584,2000
+nusc,R5 both q80,point fallback + extent retention,false_per_1000,-0.9808729769494856,-2.129410850741126,0.1635858007524948,2000
+nusc,R5 both q80,point fallback + extent retention,false_braking_frames_per_1000,-5.721759032205329,-9.628015919391643,-2.2927892020030205,2000
+nusc,R5 both q80,point fallback + extent retention,false_hard_frames_per_1000,-1.307830635932647,-2.4542085650508567,-0.3269042170644005,2000
+nusc,R5 both q80,point fallback + extent retention,overbraking_cost_per_frame,-0.0100583183271587,-0.0167099764018776,-0.0045375841300402,2000
+nusc,R5 both q80,point fallback + extent retention,insufficient_loss_per_frame,0.0273491933139909,0.0081900187851807,0.0508920585529631,2000
+nusc,R5 both q80,point fallback + extent retention,all_missed_rate,0.0202020202020202,-0.0198119811981198,0.0612244897959183,2000
+nusc,R5 residual ungated,point fallback + extent retention,G,-0.0237686651958469,-0.0837481490250249,0.0248846582481627,2000
+nusc,R5 residual ungated,point fallback + extent retention,false_per_1000,6.212195520680072,3.7643053858232625,8.675795372119662,2000
+nusc,R5 residual ungated,point fallback + extent retention,false_braking_frames_per_1000,4.577407225764265,0.0,8.97237736534277,2000
+nusc,R5 residual ungated,point fallback + extent retention,false_hard_frames_per_1000,3.760013078306359,1.473712651558021,6.033108914118793,2000
+nusc,R5 residual ungated,point fallback + extent retention,overbraking_cost_per_frame,0.0155076744228104,0.00476197381571,0.0255732514842594,2000
+nusc,R5 residual ungated,point fallback + extent retention,insufficient_loss_per_frame,0.0004517384264294,-0.0329029821037966,0.0251178923793965,2000
+nusc,R5 residual ungated,point fallback + extent retention,all_missed_rate,-0.0101010101010101,-0.0549475753604194,0.0337126261664444,2000
+nusc,R5 residual_both q50,point fallback + extent retention,G,0.0144770234817894,-0.0187946768959215,0.0465929447744458,2000
+nusc,R5 residual_both q50,point fallback + extent retention,false_per_1000,1.307830635932646,-0.4904364884747423,3.108638743455497,2000
+nusc,R5 residual_both q50,point fallback + extent retention,false_braking_frames_per_1000,-0.6539153179663231,-4.902781923366792,3.270111183780248,2000
+nusc,R5 residual_both q50,point fallback + extent retention,false_hard_frames_per_1000,-1.307830635932647,-2.4542085650508567,-0.3269042170644005,2000
+nusc,R5 residual_both q50,point fallback + extent retention,overbraking_cost_per_frame,-0.0073690455492869,-0.014084472256417,-0.0019568201018022,2000
+nusc,R5 residual_both q50,point fallback + extent retention,insufficient_loss_per_frame,-0.0008191795093283,-0.0215698598587825,0.0202191378040679,2000
+nusc,R5 residual_both q50,point fallback + extent retention,all_missed_rate,-0.0303030303030302,-0.0916685779816513,0.0297029702970296,2000
+nusc,R5 extent_both q50,point fallback + extent retention,G,-0.0035571807151459,-0.0274897749602886,0.018414671682546,2000
+nusc,R5 extent_both q50,point fallback + extent retention,false_per_1000,0.9808729769494846,-0.8165965079477379,2.7823354450879925,2000
+nusc,R5 extent_both q50,point fallback + extent retention,false_braking_frames_per_1000,0.1634788294915807,-3.598887616554883,3.598887616554883,2000
+nusc,R5 extent_both q50,point fallback + extent retention,false_hard_frames_per_1000,-1.1443518064410665,-2.289087187100094,-0.1637170331931001,2000
+nusc,R5 extent_both q50,point fallback + extent retention,overbraking_cost_per_frame,-0.0065380549192821,-0.0129412506658731,-0.0013121578816583,2000
+nusc,R5 extent_both q50,point fallback + extent retention,insufficient_loss_per_frame,0.0088628042968351,-0.004189991791436,0.0249823040380921,2000
+nusc,R5 extent_both q50,point fallback + extent retention,all_missed_rate,-0.0303030303030302,-0.0916685779816513,0.0297029702970296,2000
+nusc,R5 point_residual q50,point fallback + extent retention,G,0.0323230442950619,0.0006032651576534,0.0675631414923682,2000
+nusc,R5 point_residual q50,point fallback + extent retention,false_per_1000,0.3269576589831615,0.0,0.8179290037624734,2000
+nusc,R5 point_residual q50,point fallback + extent retention,false_braking_frames_per_1000,0.4904364884747423,0.0,1.1437955227850265,2000
+nusc,R5 point_residual q50,point fallback + extent retention,false_hard_frames_per_1000,0.0,0.0,0.0,2000
+nusc,R5 point_residual q50,point fallback + extent retention,overbraking_cost_per_frame,0.0003473480169775,0.0,0.0008276811654584,2000
+nusc,R5 point_residual q50,point fallback + extent retention,insufficient_loss_per_frame,-0.0199310608083393,-0.0483641889547047,-0.0005599436365846,2000
+nusc,R5 point_residual q50,point fallback + extent retention,all_missed_rate,-0.0101010101010101,-0.0339031201848998,0.0,2000
+nusc,R5 point_residual q80,point fallback + extent retention,G,0.0178958926470196,0.0,0.0515176646170709,2000
+nusc,R5 point_residual q80,point fallback + extent retention,false_per_1000,0.0,0.0,0.0,2000
+nusc,R5 point_residual q80,point fallback + extent retention,false_braking_frames_per_1000,0.0,0.0,0.0,2000
+nusc,R5 point_residual q80,point fallback + extent retention,false_hard_frames_per_1000,0.0,0.0,0.0,2000
+nusc,R5 point_residual q80,point fallback + extent retention,overbraking_cost_per_frame,0.0,0.0,0.0,2000
+nusc,R5 point_residual q80,point fallback + extent retention,insufficient_loss_per_frame,-0.0103743832893251,-0.0311741129429189,0.0,2000
+nusc,R5 point_residual q80,point fallback + extent retention,all_missed_rate,0.0,0.0,0.0,2000
+nusc,R5 cond point conditional q50,point fallback + extent retention,G,0.0009460192562948,-8.56694178925005e-05,0.0032736517659046,2000
+nusc,R5 cond point conditional q50,point fallback + extent retention,false_per_1000,0.6539153179663231,0.1632919660352713,1.3086917589584632,2000
+nusc,R5 cond point conditional q50,point fallback + extent retention,false_braking_frames_per_1000,0.9808729769494846,0.3264213618613765,1.963358817375927,2000
+nusc,R5 cond point conditional q50,point fallback + extent retention,false_hard_frames_per_1000,0.0,0.0,0.0,2000
+nusc,R5 cond point conditional q50,point fallback + extent retention,overbraking_cost_per_frame,0.0004245876494269,9.730861811936396e-05,0.0009036389956958,2000
+nusc,R5 cond point conditional q50,point fallback + extent retention,insufficient_loss_per_frame,-0.0010422382890918,-0.0026418606885434,-0.0001343746519613,2000
+nusc,R5 cond point conditional q50,point fallback + extent retention,all_missed_rate,0.0,0.0,0.0,2000
+av2,cheap,round1 combined,G,-0.31941683442399,-0.3700936808263628,-0.2707513996098905,2000
+av2,cheap,round1 combined,false_per_1000,26.95964504542573,23.570498793193416,30.50539524523579,2000
+av2,cheap,round1 combined,false_braking_frames_per_1000,121.86773716458904,107.69941206084924,137.27797498833198,2000
+av2,cheap,round1 combined,false_hard_frames_per_1000,51.0035918022396,44.56330006078846,57.42082552781548,2000
+av2,cheap,round1 combined,overbraking_cost_per_frame,0.3226869276219586,0.2943343432054308,0.3509350769877721,2000
+av2,cheap,round1 combined,insufficient_loss_per_frame,-0.0545510166344286,-0.0843842978079556,-0.0234560830177879,2000
+av2,cheap,round1 combined,all_missed_rate,-0.0519125683060109,-0.0801184586672196,-0.0227272727272727,2000
+av2,v6-S,round1 combined,G,-0.0107086231388549,-0.0214670892412613,-0.0017803594100395,2000
+av2,v6-S,round1 combined,false_per_1000,-1.1409254172829062,-1.6900599173320534,-0.5925399227911671,2000
+av2,v6-S,round1 combined,false_braking_frames_per_1000,-1.521233889710544,-2.45155541565788,-0.6332721280249506,2000
+av2,v6-S,round1 combined,false_hard_frames_per_1000,-0.380308472427636,-0.8054678128397965,0.042199746258307,2000
+av2,v6-S,round1 combined,overbraking_cost_per_frame,-0.0022977765907098,-0.0043194810826028,-0.0004922356259759,2000
+av2,v6-S,round1 combined,insufficient_loss_per_frame,0.0113240159208397,0.0039362056566223,0.0202072503134417,2000
+av2,v6-S,round1 combined,all_missed_rate,0.0273224043715847,0.012981215213358,0.0443864229765013,2000
+av2,objectwise median,round1 combined,G,-0.0165587290579403,-0.0402123915501518,0.0084499433014759,2000
+av2,objectwise median,round1 combined,false_per_1000,2.5776463131206437,1.2691939140135882,3.975596841683939,2000
+av2,objectwise median,round1 combined,false_braking_frames_per_1000,55.65180646524403,45.60504458984756,67.40365682584148,2000
+av2,objectwise median,round1 combined,false_hard_frames_per_1000,5.282062117050497,2.9558283129522143,8.02181954958234,2000
+av2,objectwise median,round1 combined,overbraking_cost_per_frame,0.0707190871441977,0.0579000103660652,0.0844609063623331,2000
+av2,objectwise median,round1 combined,insufficient_loss_per_frame,-0.0533616764722561,-0.071446684899763,-0.0385075154253194,2000
+av2,objectwise median,round1 combined,all_missed_rate,-0.0327868852459016,-0.0508021390374331,-0.0165745856353591,2000
+av2,R5 both q50,round1 combined,G,0.0111271269532975,0.0071373361265057,0.0156367492665748,2000
+av2,R5 both q50,round1 combined,false_per_1000,1.3944643989013326,0.7187226187996744,2.117959790208811,2000
+av2,R5 both q50,round1 combined,false_braking_frames_per_1000,10.183815761673358,7.663922204190004,12.89254984266215,2000
+av2,R5 both q50,round1 combined,false_hard_frames_per_1000,0.0,0.0,0.0,2000
+av2,R5 both q50,round1 combined,overbraking_cost_per_frame,0.0061201964038464,0.0044761256822906,0.0082117628895452,2000
+av2,R5 both q50,round1 combined,insufficient_loss_per_frame,-0.0149843963611429,-0.0192400506922517,-0.0108934067711093,2000
+av2,R5 both q50,round1 combined,all_missed_rate,-0.0081967213114754,-0.0222222222222222,0.0,2000
+av2,R5 both q80,round1 combined,G,0.0027101270840979,0.0013480873061532,0.0044109512707159,2000
+av2,R5 both q80,round1 combined,false_per_1000,0.1267694908092131,-0.042353185331978,0.3403582618929979,2000
+av2,R5 both q80,round1 combined,false_braking_frames_per_1000,1.140925417282908,0.5079289874078199,1.8664671897041571,2000
+av2,R5 both q80,round1 combined,false_hard_frames_per_1000,0.0,0.0,0.0,2000
+av2,R5 both q80,round1 combined,overbraking_cost_per_frame,0.0007634683156714,0.0004342056329396,0.0011653959134839,2000
+av2,R5 both q80,round1 combined,insufficient_loss_per_frame,-0.0029470015554151,-0.0044874572266224,-0.0016345289280225,2000
+av2,R5 both q80,round1 combined,all_missed_rate,0.0,0.0,0.0,2000
+av2,point fallback + extent retention,round1 combined,G,0.028851867890998,0.0094096130855385,0.0522179538926296,2000
+av2,point fallback + extent retention,round1 combined,false_per_1000,0.802873441791677,0.3805154932083984,1.2670002397292988,2000
+av2,point fallback + extent retention,round1 combined,false_braking_frames_per_1000,5.493344601732517,3.970185657890275,7.111121845799865,2000
+av2,point fallback + extent retention,round1 combined,false_hard_frames_per_1000,1.4789773927741372,0.8435606272660787,2.2034061740519157,2000
+av2,point fallback + extent retention,round1 combined,overbraking_cost_per_frame,0.0101838884064285,0.0071775035925398,0.0135682737775462,2000
+av2,point fallback + extent retention,round1 combined,insufficient_loss_per_frame,-0.0336195226180013,-0.0535719311643165,-0.0182445374295141,2000
+av2,point fallback + extent retention,round1 combined,all_missed_rate,-0.0163934426229508,-0.0309015982928316,-0.0052212539418805,2000
+av2,R5 residual ungated,round1 combined,G,-0.0304262072460645,-0.0409122799743286,-0.0196651206900966,2000
+av2,R5 residual ungated,round1 combined,false_per_1000,7.268117473061485,5.806954847107709,8.826824273149011,2000
+av2,R5 residual ungated,round1 combined,false_braking_frames_per_1000,14.958799915487011,12.357642950070444,17.793989270762218,2000
+av2,R5 residual ungated,round1 combined,false_hard_frames_per_1000,6.634270019015425,5.361251333131279,7.953017986382453,2000
+av2,R5 residual ungated,round1 combined,overbraking_cost_per_frame,0.038834669843543,0.0333755237853739,0.0444725745948213,2000
+av2,R5 residual ungated,round1 combined,insufficient_loss_per_frame,-0.0131977572163549,-0.0214774590129336,-0.0073975536605521,2000
+av2,R5 residual ungated,round1 combined,all_missed_rate,-0.0136612021857923,-0.0256410256410256,-0.0027616761766748,2000
+av2,R5 residual_both q50,round1 combined,G,0.0123719796046835,0.0077607811416051,0.0175535329659047,2000
+av2,R5 residual_both q50,round1 combined,false_per_1000,1.521233889710544,0.8035151679664061,2.279459646280892,2000
+av2,R5 residual_both q50,round1 combined,false_braking_frames_per_1000,10.690893724910204,8.03650264970255,13.568027514555483,2000
+av2,R5 residual_both q50,round1 combined,false_hard_frames_per_1000,0.0,0.0,0.0,2000
+av2,R5 residual_both q50,round1 combined,overbraking_cost_per_frame,0.006490723183975,0.0047395179743742,0.0086331761521664,2000
+av2,R5 residual_both q50,round1 combined,insufficient_loss_per_frame,-0.016384058475628,-0.0211838820853911,-0.0119753706076769,2000
+av2,R5 residual_both q50,round1 combined,all_missed_rate,-0.0081967213114754,-0.0222222222222222,0.0,2000
+av2,R5 extent_both q50,round1 combined,G,0.0126583626648169,0.0029318067075071,0.0255678295988293,2000
+av2,R5 extent_both q50,round1 combined,false_per_1000,1.3099514050285244,0.5913104833769725,2.0722320899940794,2000
+av2,R5 extent_both q50,round1 combined,false_braking_frames_per_1000,12.7192055778576,9.985804290102571,15.75285718340679,2000
+av2,R5 extent_both q50,round1 combined,false_hard_frames_per_1000,1.1831819142193112,0.6333650367996408,1.8208842734915995,2000
+av2,R5 extent_both q50,round1 combined,overbraking_cost_per_frame,0.0125218573720779,0.0094464595760986,0.015820801879415,2000
+av2,R5 extent_both q50,round1 combined,insufficient_loss_per_frame,-0.0224275890642352,-0.0331396429076457,-0.014847582838246,2000
+av2,R5 extent_both q50,round1 combined,all_missed_rate,-0.0081967213114754,-0.0222222222222222,0.0,2000
+av2,R5 point_residual q50,round1 combined,G,0.0301838789906397,0.0105120902811888,0.0540978652140293,2000
+av2,R5 point_residual q50,round1 combined,false_per_1000,1.0141559264736966,0.5492166799255831,1.4841208184426011,2000
+av2,R5 point_residual q50,round1 combined,false_braking_frames_per_1000,6.253961546587789,4.602758764090092,7.961736700125529,2000
+av2,R5 point_residual q50,round1 combined,false_hard_frames_per_1000,1.4789773927741372,0.8435606272660787,2.2034061740519157,2000
+av2,R5 point_residual q50,round1 combined,overbraking_cost_per_frame,0.0106790529538851,0.0076997189456109,0.0141119627253548,2000
+av2,R5 point_residual q50,round1 combined,insufficient_loss_per_frame,-0.0352105745170939,-0.0553552822329198,-0.0197126034500293,2000
+av2,R5 point_residual q50,round1 combined,all_missed_rate,-0.0163934426229508,-0.0309015982928316,-0.0052212539418805,2000
+av2,R5 point_residual q80,round1 combined,G,0.0288632134061924,0.0093818665138514,0.0521793769351577,2000
+av2,R5 point_residual q80,round1 combined,false_per_1000,0.8451299387280802,0.4223485752965258,1.3081907531361467,2000
+av2,R5 point_residual q80,round1 combined,false_braking_frames_per_1000,5.620114092541733,4.069861720267184,7.254369631609547,2000
+av2,R5 point_residual q80,round1 combined,false_hard_frames_per_1000,1.4789773927741372,0.8435606272660787,2.2034061740519157,2000
+av2,R5 point_residual q80,round1 combined,overbraking_cost_per_frame,0.0102698395336546,0.0072908410606218,0.0136566557472318,2000
+av2,R5 point_residual q80,round1 combined,insufficient_loss_per_frame,-0.033706536719007,-0.0537144231845147,-0.0183280968147851,2000
+av2,R5 point_residual q80,round1 combined,all_missed_rate,-0.0163934426229508,-0.0309015982928316,-0.0052212539418805,2000
+av2,R5 cond point conditional q50,round1 combined,G,0.0290900765477257,0.0095525472760747,0.0523323878058512,2000
+av2,R5 cond point conditional q50,round1 combined,false_per_1000,0.8451299387280802,0.4210694744307038,1.313797315585446,2000
+av2,R5 cond point conditional q50,round1 combined,false_braking_frames_per_1000,6.000422564969369,4.382177607057829,7.641806301248915,2000
+av2,R5 cond point conditional q50,round1 combined,false_hard_frames_per_1000,1.4789773927741372,0.8435606272660787,2.2034061740519157,2000
+av2,R5 cond point conditional q50,round1 combined,overbraking_cost_per_frame,0.0104253157230944,0.0074209640717335,0.013793919051032,2000
+av2,R5 cond point conditional q50,round1 combined,insufficient_loss_per_frame,-0.0340543716465968,-0.0538738683665373,-0.0186169833290755,2000
+av2,R5 cond point conditional q50,round1 combined,all_missed_rate,-0.0191256830601092,-0.0343841436606479,-0.0059510640539401,2000
+av2,cheap,point fallback + extent retention,G,-0.3482687023149881,-0.3974500474391645,-0.2996941128610975,2000
+av2,cheap,point fallback + extent retention,false_per_1000,26.156771603634056,22.827605687681807,29.619678543833444,2000
+av2,cheap,point fallback + extent retention,false_braking_frames_per_1000,116.37439256285654,102.55271167651024,131.66370148428825,2000
+av2,cheap,point fallback + extent retention,false_hard_frames_per_1000,49.52461440946546,43.1790626688988,55.74840043101824,2000
+av2,cheap,point fallback + extent retention,overbraking_cost_per_frame,0.3125030392155301,0.2843256596324466,0.3401548878945432,2000
+av2,cheap,point fallback + extent retention,insufficient_loss_per_frame,-0.0209314940164273,-0.051983084296646,0.0125701443598677,2000
+av2,cheap,point fallback + extent retention,all_missed_rate,-0.0355191256830601,-0.0639530566784918,-0.0054637384176764,2000
+av2,v6-S,point fallback + extent retention,G,-0.0395604910298529,-0.0694038230943538,-0.0139109116042487,2000
+av2,v6-S,point fallback + extent retention,false_per_1000,-1.9437988590745832,-2.623383686492961,-1.2653872485884723,2000
+av2,v6-S,point fallback + extent retention,false_braking_frames_per_1000,-7.014578491443061,-8.805504703635568,-5.29166087563069,2000
+av2,v6-S,point fallback + extent retention,false_hard_frames_per_1000,-1.8592858652017732,-2.70535894739817,-1.1015339015396632,2000
+av2,v6-S,point fallback + extent retention,overbraking_cost_per_frame,-0.0124816649971384,-0.0162896842465733,-0.0089300166145515,2000
+av2,v6-S,point fallback + extent retention,insufficient_loss_per_frame,0.044943538538841,0.023720795619262,0.0696902781374802,2000
+av2,v6-S,point fallback + extent retention,all_missed_rate,0.0437158469945355,0.0238079532604598,0.0660925477343972,2000
+av2,round1 combined,point fallback + extent retention,G,-0.028851867890998,-0.0522179538926296,-0.0094096130855385,2000
+av2,round1 combined,point fallback + extent retention,false_per_1000,-0.802873441791677,-1.2670002397292988,-0.3805154932083984,2000
+av2,round1 combined,point fallback + extent retention,false_braking_frames_per_1000,-5.493344601732517,-7.111121845799868,-3.970185657890275,2000
+av2,round1 combined,point fallback + extent retention,false_hard_frames_per_1000,-1.4789773927741372,-2.2034061740519157,-0.8435606272660787,2000
+av2,round1 combined,point fallback + extent retention,overbraking_cost_per_frame,-0.0101838884064285,-0.0135682737775462,-0.0071775035925398,2000
+av2,round1 combined,point fallback + extent retention,insufficient_loss_per_frame,0.0336195226180013,0.0182445374295141,0.0535719311643165,2000
+av2,round1 combined,point fallback + extent retention,all_missed_rate,0.0163934426229508,0.0052212539418805,0.0309015982928316,2000
+av2,objectwise median,point fallback + extent retention,G,-0.0454105969489383,-0.076295635608031,-0.0140073091904102,2000
+av2,objectwise median,point fallback + extent retention,false_per_1000,1.7747728713289668,0.3805649699065662,3.168845601351837,2000
+av2,objectwise median,point fallback + extent retention,false_braking_frames_per_1000,50.15846186351151,39.95489372304032,62.24995566020948,2000
+av2,objectwise median,point fallback + extent retention,false_hard_frames_per_1000,3.80308472427636,1.481023862250555,6.491256667641827,2000
+av2,objectwise median,point fallback + extent retention,overbraking_cost_per_frame,0.0605351987377691,0.04768506050285,0.0750336063517404,2000
+av2,objectwise median,point fallback + extent retention,insufficient_loss_per_frame,-0.0197421538542547,-0.0442368308316545,0.0041728641295765,2000
+av2,objectwise median,point fallback + extent retention,all_missed_rate,-0.0163934426229508,-0.0369318181818181,0.0026604705511269,2000
+av2,R5 both q50,point fallback + extent retention,G,-0.0177247409377004,-0.041808179298764,0.0026392192386927,2000
+av2,R5 both q50,point fallback + extent retention,false_per_1000,0.5915909571096556,-0.2531237052567598,1.4388108792777012,2000
+av2,R5 both q50,point fallback + extent retention,false_braking_frames_per_1000,4.6904711599408415,1.6914320933680485,7.995667393595997,2000
+av2,R5 both q50,point fallback + extent retention,false_hard_frames_per_1000,-1.4789773927741372,-2.2034061740519157,-0.8435606272660787,2000
+av2,R5 both q50,point fallback + extent retention,overbraking_cost_per_frame,-0.0040636920025821,-0.0078716577918863,-0.0002531653427511,2000
+av2,R5 both q50,point fallback + extent retention,insufficient_loss_per_frame,0.0186351262568584,0.0022698141414228,0.039333497308841,2000
+av2,R5 both q50,point fallback + extent retention,all_missed_rate,0.0081967213114754,-0.0085227272727272,0.0252826792213957,2000
+av2,R5 both q80,point fallback + extent retention,G,-0.0261417408069001,-0.0496642216069123,-0.0065718991306424,2000
+av2,R5 both q80,point fallback + extent retention,false_per_1000,-0.6761039509824638,-1.1843079407335546,-0.2095094481761815,2000
+av2,R5 both q80,point fallback + extent retention,false_braking_frames_per_1000,-4.352419184449609,-6.092962112904052,-2.618890228246747,2000
+av2,R5 both q80,point fallback + extent retention,false_hard_frames_per_1000,-1.4789773927741372,-2.2034061740519157,-0.8435606272660787,2000
+av2,R5 both q80,point fallback + extent retention,overbraking_cost_per_frame,-0.0094204200907571,-0.0127958851926036,-0.0063642176001666,2000
+av2,R5 both q80,point fallback + extent retention,insufficient_loss_per_frame,0.0306725210625862,0.0151826729545818,0.0507107490708116,2000
+av2,R5 both q80,point fallback + extent retention,all_missed_rate,0.0163934426229508,0.0052212539418805,0.0309015982928316,2000
+av2,R5 residual ungated,point fallback + extent retention,G,-0.0592780751370625,-0.0843034507041399,-0.0379660105889671,2000
+av2,R5 residual ungated,point fallback + extent retention,false_per_1000,6.465244031269808,4.974634451630032,8.01385976269105,2000
+av2,R5 residual ungated,point fallback + extent retention,false_braking_frames_per_1000,9.465455313754497,6.395317442025585,12.739170078673997,2000
+av2,R5 residual ungated,point fallback + extent retention,false_hard_frames_per_1000,5.1552926262412875,3.88595564941922,6.508690100082473,2000
+av2,R5 residual ungated,point fallback + extent retention,overbraking_cost_per_frame,0.0286507814371144,0.0224990577087777,0.0348109105015629,2000
+av2,R5 residual ungated,point fallback + extent retention,insufficient_loss_per_frame,0.0204217654016464,0.0027814070281054,0.0412528918933101,2000
+av2,R5 residual ungated,point fallback + extent retention,all_missed_rate,0.0027322404371584,-0.0142045454545454,0.0205676380705386,2000
+av2,R5 residual_both q50,point fallback + extent retention,G,-0.0164798882863144,-0.0404595992759524,0.0041611142515792,2000
+av2,R5 residual_both q50,point fallback + extent retention,false_per_1000,0.718360447918867,-0.127114739733314,1.6026148551642592,2000
+av2,R5 residual_both q50,point fallback + extent retention,false_braking_frames_per_1000,5.197549123177687,2.0713014359629667,8.53748897311339,2000
+av2,R5 residual_both q50,point fallback + extent retention,false_hard_frames_per_1000,-1.4789773927741372,-2.2034061740519157,-0.8435606272660787,2000
+av2,R5 residual_both q50,point fallback + extent retention,overbraking_cost_per_frame,-0.0036931652224535,-0.0075290143227554,0.0003431621681244,2000
+av2,R5 residual_both q50,point fallback + extent retention,insufficient_loss_per_frame,0.0172354641423733,0.0009012385708242,0.0376620938944624,2000
+av2,R5 residual_both q50,point fallback + extent retention,all_missed_rate,0.0081967213114754,-0.0085227272727272,0.0252826792213957,2000
+av2,R5 extent_both q50,point fallback + extent retention,G,-0.016193505226181,-0.0376623709365555,0.0004773879962297,2000
+av2,R5 extent_both q50,point fallback + extent retention,false_per_1000,0.5070779632368474,-0.254023090876549,1.3522338137178054,2000
+av2,R5 extent_both q50,point fallback + extent retention,false_braking_frames_per_1000,7.225860976125084,4.51684158070528,10.129529192035188,2000
+av2,R5 extent_both q50,point fallback + extent retention,false_hard_frames_per_1000,-0.295795478554826,-0.6364610580317461,-0.0421567387546914,2000
+av2,R5 extent_both q50,point fallback + extent retention,overbraking_cost_per_frame,0.0023379689656493,-0.0001943333424067,0.0050722512889997,2000
+av2,R5 extent_both q50,point fallback + extent retention,insufficient_loss_per_frame,0.0111919335537661,-0.0028654678085927,0.0288612871069537,2000
+av2,R5 extent_both q50,point fallback + extent retention,all_missed_rate,0.0081967213114754,-0.0085227272727272,0.0252826792213957,2000
+av2,R5 point_residual q50,point fallback + extent retention,G,0.0013320110996417,-0.0005085857164894,0.0044512236730552,2000
+av2,R5 point_residual q50,point fallback + extent retention,false_per_1000,0.2112824846820196,0.0421258387703607,0.463824337576424,2000
+av2,R5 point_residual q50,point fallback + extent retention,false_braking_frames_per_1000,0.760616944855272,0.2107899154385336,1.5653010978640312,2000
+av2,R5 point_residual q50,point fallback + extent retention,false_hard_frames_per_1000,0.0,0.0,0.0,2000
+av2,R5 point_residual q50,point fallback + extent retention,overbraking_cost_per_frame,0.0004951645474565,0.0001293178118638,0.001061127982233,2000
+av2,R5 point_residual q50,point fallback + extent retention,insufficient_loss_per_frame,-0.0015910518990925,-0.0041497186127806,-0.0002265810636324,2000
+av2,R5 point_residual q50,point fallback + extent retention,all_missed_rate,0.0,0.0,0.0,2000
+av2,R5 point_residual q80,point fallback + extent retention,G,1.1345515194438605e-05,-0.0001804490408727,0.0002073289957567,2000
+av2,R5 point_residual q80,point fallback + extent retention,false_per_1000,0.0422564969364032,0.0,0.1269843957563548,2000
+av2,R5 point_residual q80,point fallback + extent retention,false_braking_frames_per_1000,0.1267694908092167,0.0,0.3380809048882538,2000
+av2,R5 point_residual q80,point fallback + extent retention,false_hard_frames_per_1000,0.0,0.0,0.0,2000
+av2,R5 point_residual q80,point fallback + extent retention,overbraking_cost_per_frame,8.59511272260638e-05,0.0,0.0002261357965335,2000
+av2,R5 point_residual q80,point fallback + extent retention,insufficient_loss_per_frame,-8.701410100564466e-05,-0.0002404949690839,0.0,2000
+av2,R5 point_residual q80,point fallback + extent retention,all_missed_rate,0.0,0.0,0.0,2000
+av2,R5 cond point conditional q50,point fallback + extent retention,G,0.0002382086567276,-3.986982382674084e-06,0.0005226181830925,2000
+av2,R5 cond point conditional q50,point fallback + extent retention,false_per_1000,0.0422564969364032,-0.1269357705001272,0.2117502332518002,2000
+av2,R5 cond point conditional q50,point fallback + extent retention,false_braking_frames_per_1000,0.5070779632368527,0.2112186686814588,0.8044388088090771,2000
+av2,R5 cond point conditional q50,point fallback + extent retention,false_hard_frames_per_1000,0.0,0.0,0.0,2000
+av2,R5 cond point conditional q50,point fallback + extent retention,overbraking_cost_per_frame,0.0002414273166658,0.0001133594345666,0.0003828888967064,2000
+av2,R5 cond point conditional q50,point fallback + extent retention,insufficient_loss_per_frame,-0.0004348490285954,-0.000725185729761,-0.0001882835732912,2000
+av2,R5 cond point conditional q50,point fallback + extent retention,all_missed_rate,-0.0027322404371584,-0.0086962841253791,0.0,2000

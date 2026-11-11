@@ -1,0 +1,124 @@
+dataset,column,frames,max_abs_J_error,action_source
+nuscenes,tab1.J_wf960|v3a,9181,0.0,tab1.a_wf960|v3a
+nuscenes,tab1.J_wf1280|v3a,9181,0.0,tab1.a_wf1280|v3a
+nuscenes,J_wf1600+C1|v3a,9181,0.0,a_wf1600+C1|v3a
+nuscenes,J_ada+1t1280|v3a,9181,0.0,a_ada+1t1280|v3a
+nuscenes,J_ada+1t1280@cap|v3a,9181,0.0,a_ada+1t1280@cap|v3a
+nuscenes,J_bar1280_0.5,9181,0.0,derived from size_bar1280_0.5 + K33 pub actions; gated by exact J
+nuscenes,J_bar1280_0.5@cap,9181,0.0,derived from size_bar1280_0.5@cap + K33 pub actions; gated by exact J
+nuscenes,J_dvr1280_0.5,9181,0.0,derived from size_dvr1280_0.5 + K33 pub actions; gated by exact J
+nuscenes,J_dvr1280_0.5@cap,9181,0.0,derived from size_dvr1280_0.5@cap + K33 pub actions; gated by exact J
+nuscenes,J_ch128B_csc,9181,0.0,derived from size_ch128B_csc + K33 pub actions; gated by exact J
+nuscenes,J_ch128B_csc@cap,9181,0.0,derived from size_ch128B_csc@cap + K33 pub actions; gated by exact J
+nuscenes,J_sahi640o1s10|v3a,9181,0.0,a_sahi640o1s10|v3a
+nuscenes,J_sahi640o1s10@cap|v3a,9181,0.0,a_sahi640o1s10@cap|v3a
+nuscenes,J_fovi1280b64a2|v3a,9181,0.0,a_fovi1280b64a2|v3a
+nuscenes,J_fovi1280b64a2@cap|v3a,9181,0.0,a_fovi1280b64a2@cap|v3a
+nuscenes,J_fovs1280b64a1|v3a,9181,0.0,a_fovs1280b64a1|v3a
+nuscenes,J_fovs1280b64a1@cap|v3a,9181,0.0,a_fovs1280b64a1@cap|v3a
+nuscenes,J_ufp20s512|v3a,9181,0.0,a_ufp20s512|v3a
+nuscenes,J_ufp20s512@cap|v3a,9181,0.0,a_ufp20s512@cap|v3a
+nuscenes,J_ana05hinfo|v3a,9181,0.0,a_ana05hinfo|v3a
+nuscenes,J_ana05hinfo@cap|v3a,9181,0.0,a_ana05hinfo@cap|v3a
+nuscenes,J_ana05hinfi|v3a,9181,0.0,a_ana05hinfi|v3a
+nuscenes,J_ana05hinfi@cap|v3a,9181,0.0,a_ana05hinfi@cap|v3a
+nuscenes,J_cf40q20o|v3a,9181,0.0,a_cf40q20o|v3a
+nuscenes,J_cf40q20o@cap|v3a,9181,0.0,a_cf40q20o@cap|v3a
+nuscenes,J_cf40q20i|v3a,9181,0.0,a_cf40q20i|v3a
+nuscenes,J_cf40q20i@cap|v3a,9181,0.0,a_cf40q20i@cap|v3a
+nuscenes,J_unc2@S+C1|v3a,9181,0.0,a_unc2@S+C1|v3a
+nuscenes,J_unc2@x1.00+C1|v3a,9181,0.0,a_unc2@x1.00+C1|v3a
+nuscenes,J_tcr3@S+C1|v3a,9181,0.0,a_tcr3@S+C1|v3a
+nuscenes,J_tcr3@x1.00+C1|v3a,9181,0.0,a_tcr3@x1.00+C1|v3a
+nuscenes,J_cor0@S+C1|v3a,9181,0.0,a_cor0@S+C1|v3a
+nuscenes,J_cor0@x1.00+C1|v3a,9181,0.0,a_cor0@x1.00+C1|v3a
+nuscenes,J_tsp8@S+C1|v3a,9181,0.0,a_tsp8@S+C1|v3a
+nuscenes,J_tsp8@x1.00+C1|v3a,9181,0.0,a_tsp8@x1.00+C1|v3a
+nuscenes,J_v6S|v3a,9181,0.0,a_v6S|v3a
+nuscenes,J_wf512+C1|v3a,9181,0.0,a_wf512+C1|v3a
+nuscenes,J_wf640+C1|v3a,9181,0.0,a_wf640+C1|v3a
+nuscenes,J_v6S|none,9181,0.0,a_v6S|none
+nuscenes,J_wf960+C1|none,9181,0.0,a_wf960+C1|none
+nuscenes,J_cheap,9181,0.0,a_cheap
+av2,tab1.J_wf960|v3a,11818,0.0,tab1.a_wf960|v3a
+av2,tab1.J_wf1280|v3a,11818,0.0,tab1.a_wf1280|v3a
+av2,J_wf2048+C1|v3a,11818,0.0,a_wf2048+C1|v3a
+av2,J_ada+1t1280|v3a,11818,0.0,a_ada+1t1280|v3a
+av2,J_ada+1t1280@cap|v3a,11818,0.0,a_ada+1t1280@cap|v3a
+av2,J_bar1280_0.5,11818,0.0,derived from size_bar1280_0.5 + K33 pub actions; gated by exact J
+av2,J_bar1280_0.5@cap,11818,0.0,derived from size_bar1280_0.5@cap + K33 pub actions; gated by exact J
+av2,J_dvr1280_0.5,11818,0.0,derived from size_dvr1280_0.5 + K33 pub actions; gated by exact J
+av2,J_dvr1280_0.5@cap,11818,0.0,derived from size_dvr1280_0.5@cap + K33 pub actions; gated by exact J
+av2,J_ch128B_csc,11818,0.0,derived from size_ch128B_csc + K33 pub actions; gated by exact J
+av2,J_ch128B_csc@cap,11818,0.0,derived from size_ch128B_csc@cap + K33 pub actions; gated by exact J
+av2,J_sahi640o1s10|v3a,11818,0.0,a_sahi640o1s10|v3a
+av2,J_sahi640o1s10@cap|v3a,11818,0.0,a_sahi640o1s10@cap|v3a
+av2,J_fovi1280b64a2|v3a,11818,0.0,a_fovi1280b64a2|v3a
+av2,J_fovi1280b64a2@cap|v3a,11818,0.0,a_fovi1280b64a2@cap|v3a
+av2,J_fovs1280b64a1|v3a,11818,0.0,a_fovs1280b64a1|v3a
+av2,J_fovs1280b64a1@cap|v3a,11818,0.0,a_fovs1280b64a1@cap|v3a
+av2,J_ufp20s512|v3a,11818,0.0,a_ufp20s512|v3a
+av2,J_ufp20s512@cap|v3a,11818,0.0,a_ufp20s512@cap|v3a
+av2,J_ana05hinfo|v3a,11818,0.0,a_ana05hinfo|v3a
+av2,J_ana05hinfo@cap|v3a,11818,0.0,a_ana05hinfo@cap|v3a
+av2,J_ana05hinfi|v3a,11818,0.0,a_ana05hinfi|v3a
+av2,J_ana05hinfi@cap|v3a,11818,0.0,a_ana05hinfi@cap|v3a
+av2,J_cf40q20o|v3a,11818,0.0,a_cf40q20o|v3a
+av2,J_cf40q20o@cap|v3a,11818,0.0,a_cf40q20o@cap|v3a
+av2,J_cf40q20i|v3a,11818,0.0,a_cf40q20i|v3a
+av2,J_cf40q20i@cap|v3a,11818,0.0,a_cf40q20i@cap|v3a
+av2,J_unc2@S+C1|v3a,11818,0.0,a_unc2@S+C1|v3a
+av2,J_unc2@x1.00+C1|v3a,11818,0.0,a_unc2@x1.00+C1|v3a
+av2,J_tcr3@S+C1|v3a,11818,0.0,a_tcr3@S+C1|v3a
+av2,J_tcr3@x1.00+C1|v3a,11818,0.0,a_tcr3@x1.00+C1|v3a
+av2,J_cor8@S+C1|v3a,11818,0.0,a_cor8@S+C1|v3a
+av2,J_cor8@x1.00+C1|v3a,11818,0.0,a_cor8@x1.00+C1|v3a
+av2,J_tsp8@S+C1|v3a,11818,0.0,a_tsp8@S+C1|v3a
+av2,J_tsp8@x1.00+C1|v3a,11818,0.0,a_tsp8@x1.00+C1|v3a
+av2,J_v6S|v3a,11818,0.0,a_v6S|v3a
+av2,J_wf512+C1|v3a,11818,0.0,a_wf512+C1|v3a
+av2,J_wf640+C1|v3a,11818,0.0,a_wf640+C1|v3a
+av2,J_v6S|none,11818,0.0,a_v6S|none
+av2,J_wf960+C1|none,11818,0.0,a_wf960+C1|none
+av2,J_cheap,11818,0.0,a_cheap
+argoverse_hd,tab1.J_wf960|v3a,15006,0.0,tab1.a_wf960|v3a
+argoverse_hd,tab1.J_wf1280|v3a,15006,0.0,tab1.a_wf1280|v3a
+argoverse_hd,J_wf1920+C1|v3a,15006,0.0,a_wf1920+C1|v3a
+argoverse_hd,J_ada+1t1280|v3a,15006,0.0,a_ada+1t1280|v3a
+argoverse_hd,J_ada+1t1280@cap|v3a,15006,0.0,a_ada+1t1280@cap|v3a
+argoverse_hd,J_bar1280_0.5,15006,0.0,derived from size_bar1280_0.5 + K33 pub actions; gated by exact J
+argoverse_hd,J_bar1280_0.5@cap,15006,0.0,derived from size_bar1280_0.5@cap + K33 pub actions; gated by exact J
+argoverse_hd,J_dvr1280_0.5,15006,0.0,derived from size_dvr1280_0.5 + K33 pub actions; gated by exact J
+argoverse_hd,J_dvr1280_0.5@cap,15006,0.0,derived from size_dvr1280_0.5@cap + K33 pub actions; gated by exact J
+argoverse_hd,J_ch128B_csc,15006,0.0,derived from size_ch128B_csc + K33 pub actions; gated by exact J
+argoverse_hd,J_ch128B_csc@cap,15006,0.0,derived from size_ch128B_csc@cap + K33 pub actions; gated by exact J
+argoverse_hd,J_sahi640o1s10|v3a,15006,0.0,a_sahi640o1s10|v3a
+argoverse_hd,J_sahi640o1s10@cap|v3a,15006,0.0,a_sahi640o1s10@cap|v3a
+argoverse_hd,J_fovi1280b64a2|v3a,15006,0.0,a_fovi1280b64a2|v3a
+argoverse_hd,J_fovi1280b64a2@cap|v3a,15006,0.0,a_fovi1280b64a2@cap|v3a
+argoverse_hd,J_fovs1280b64a1|v3a,15006,0.0,a_fovs1280b64a1|v3a
+argoverse_hd,J_fovs1280b64a1@cap|v3a,15006,0.0,a_fovs1280b64a1@cap|v3a
+argoverse_hd,J_ufp20s512|v3a,15006,0.0,a_ufp20s512|v3a
+argoverse_hd,J_ufp20s512@cap|v3a,15006,0.0,a_ufp20s512@cap|v3a
+argoverse_hd,J_ana05hinfo|v3a,15006,0.0,a_ana05hinfo|v3a
+argoverse_hd,J_ana05hinfo@cap|v3a,15006,0.0,a_ana05hinfo@cap|v3a
+argoverse_hd,J_ana05hinfi|v3a,15006,0.0,a_ana05hinfi|v3a
+argoverse_hd,J_ana05hinfi@cap|v3a,15006,0.0,a_ana05hinfi@cap|v3a
+argoverse_hd,J_cf40q20o|v3a,15006,0.0,a_cf40q20o|v3a
+argoverse_hd,J_cf40q20o@cap|v3a,15006,0.0,a_cf40q20o@cap|v3a
+argoverse_hd,J_cf40q20i|v3a,15006,0.0,a_cf40q20i|v3a
+argoverse_hd,J_cf40q20i@cap|v3a,15006,0.0,a_cf40q20i@cap|v3a
+argoverse_hd,J_unc2@S+C1|v3a,15006,0.0,a_unc2@S+C1|v3a
+argoverse_hd,J_unc2@x1.00+C1|v3a,15006,0.0,a_unc2@x1.00+C1|v3a
+argoverse_hd,J_tcr0@S+C1|v3a,15006,0.0,a_tcr0@S+C1|v3a
+argoverse_hd,J_tcr0@x1.00+C1|v3a,15006,0.0,a_tcr0@x1.00+C1|v3a
+argoverse_hd,J_cor8@S+C1|v3a,15006,0.0,a_cor8@S+C1|v3a
+argoverse_hd,J_cor8@x1.00+C1|v3a,15006,0.0,a_cor8@x1.00+C1|v3a
+argoverse_hd,J_tsp8@S+C1|v3a,15006,0.0,a_tsp8@S+C1|v3a
+argoverse_hd,J_tsp8@x1.00+C1|v3a,15006,0.0,a_tsp8@x1.00+C1|v3a
+argoverse_hd,J_v6S|v3a,15006,0.0,a_v6S|v3a
+argoverse_hd,J_wf512+C1|v3a,15006,0.0,a_wf512+C1|v3a
+argoverse_hd,J_wf640+C1|v3a,15006,0.0,a_wf640+C1|v3a
+argoverse_hd,J_v6S|none,15006,0.0,a_v6S|none
+argoverse_hd,J_wf960+C1|none,15006,0.0,a_wf960+C1|none
+argoverse_hd,J_cheap,15006,0.0,a_cheap

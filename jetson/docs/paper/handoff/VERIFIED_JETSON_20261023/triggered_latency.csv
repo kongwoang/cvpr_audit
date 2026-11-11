@@ -1,0 +1,5 @@
+dataset,pipeline,population,row,samples,unique_frames,mean_ms,p95_ms,p99_ms
+av2_dev,v6-S + recovery,recovery attempted,candidate,51,17,90.03402947108079,156.47662499395665,166.32630450476427
+av2_dev,v6-S + recovery,recovery attempted,base_same_frames,51,17,73.1388183125733,139.0566670015687,146.95558599487413
+av2_dev,B2K-A + recovery,recovery attempted,candidate,54,18,69.55377103737125,104.94883855135407,114.77075068629347
+av2_dev,B2K-A + recovery,recovery attempted,base_same_frames,54,18,51.00436788752968,88.15631026809558,102.60168979759328

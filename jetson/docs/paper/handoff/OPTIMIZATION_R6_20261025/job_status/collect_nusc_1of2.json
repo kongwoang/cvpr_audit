@@ -1,0 +1,27 @@
+{
+  "name": "collect_nusc_1of2",
+  "host": "cuda12.ecs.vuw.ac.nz",
+  "pid": 1753509,
+  "gpu": "2",
+  "status": "complete",
+  "started": 1792866896.873873,
+  "command": [
+    "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/venv/bin/python",
+    "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/optimization_r6_20261025/collect.py",
+    "--dataset",
+    "nusc",
+    "--shard",
+    "1/2"
+  ],
+  "scripts": {
+    "collect.py": "e33cc9e094f8814c48c175cdde5dd8c9bc597029403892d67a5716008878d087",
+    "job.py": "f835be5c2d452ed90a40eaa1ff75709e206255215fc9abd7bc5854fa52197c72",
+    "launch_gpu.py": "d38c99bdf23893a4d8415186487b91f871a86db7a05e3e6ae66cf86ad77a84f0",
+    "common.py": "1563277aee1ade5234926eef1d9f2f6a47cbc59a52575f3c690dadbc4001e103",
+    "group.py": "32e83f523a1dbcdb38424d1034cfb4de11e0d015e85ade316890116c02d57f41"
+  },
+  "protocol_sha256": "ee54594969edf3de22c1f9cb85e5b792b411f134baadead16c629c6403b9c474",
+  "exit_code": 0,
+  "finished": 1792867164.4012995,
+  "changed_main_sources": []
+}

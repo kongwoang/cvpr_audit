@@ -1,0 +1,8 @@
+{
+  "nusc_frames": 114,
+  "nusc_rerun_draft_ge025_equals_stored": 28,
+  "av2_frames": 360,
+  "av2_rerun_draft_ge025_equals_stored": 360,
+  "ahd_frames": 1019,
+  "ahd_rerun_draft_ge025_equals_stored": 1019
+}

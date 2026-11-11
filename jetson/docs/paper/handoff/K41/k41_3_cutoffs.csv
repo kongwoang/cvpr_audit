@@ -1,0 +1,22 @@
+dataset,feature,q1,q2,valid,scope
+nuscenes,target_count,3.0,8.0,9181.0,descriptive test quantiles
+nuscenes,corridor_count,0.0,1.0,9181.0,descriptive test quantiles
+nuscenes,support_size,0.0,0.0,9181.0,descriptive test quantiles
+nuscenes,decisive_height,57.083343505859375,117.08334350585938,3314.0,descriptive test quantiles
+nuscenes,decisive_closing,0.0,2.193768263110411,3314.0,descriptive test quantiles
+nuscenes,decisive_range,21.77243944786813,43.50204345796748,3314.0,descriptive test quantiles
+nuscenes,target_object_height,42.91668701171875,82.91665649414062,,descriptive all target objects; duplicated identically at two IoU thresholds
+av2,target_count,7.0,11.0,11818.0,descriptive test quantiles
+av2,corridor_count,1.0,2.0,11818.0,descriptive test quantiles
+av2,support_size,0.0,1.0,11818.0,descriptive test quantiles
+av2,decisive_height,84.7999267578125,199.46661376953125,8068.0,descriptive test quantiles
+av2,decisive_closing,0.16684822788926515,3.119642286550945,8068.0,descriptive test quantiles
+av2,decisive_range,14.233901202378085,30.455389629160177,8068.0,descriptive test quantiles
+av2,target_object_height,48.533447265625,96.0,,descriptive all target objects; duplicated identically at two IoU thresholds
+argoverse_hd,target_count,7.0,11.0,15006.0,descriptive test quantiles
+argoverse_hd,corridor_count,1.0,2.0,15006.0,descriptive test quantiles
+argoverse_hd,support_size,0.0,1.0,15006.0,descriptive test quantiles
+argoverse_hd,decisive_height,91.5,213.66666666666652,9101.0,descriptive test quantiles
+argoverse_hd,decisive_closing,1.0406125188683932,2.6018338676201562,9101.0,descriptive test quantiles
+argoverse_hd,decisive_range,13.201022682510017,27.14822756212855,9101.0,descriptive test quantiles
+argoverse_hd,target_object_height,48.5,94.58333333332848,,descriptive all target objects; duplicated identically at two IoU thresholds

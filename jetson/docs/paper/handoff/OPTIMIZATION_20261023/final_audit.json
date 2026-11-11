@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "frames": 29782,
+  "units": 452,
+  "full_baseline_actions_equal": true,
+  "source_hashes_unchanged": true,
+  "quality_rows": 30,
+  "episode_transition_rows": 10
+}

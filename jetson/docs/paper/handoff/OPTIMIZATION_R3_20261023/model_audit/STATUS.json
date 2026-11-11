@@ -1,0 +1,8 @@
+{
+  "status": "complete",
+  "units": "training holdout only",
+  "rows": 288,
+  "bootstrap": 2000,
+  "seed": 0,
+  "caution": "Object-matched diagnostic, all-object refinement. Not end-to-end scene, episode, coverage or test evidence."
+}

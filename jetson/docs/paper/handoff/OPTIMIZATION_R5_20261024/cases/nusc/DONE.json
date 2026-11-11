@@ -1,0 +1,6 @@
+{
+  "status": "complete",
+  "dataset": "nusc",
+  "panels": 5,
+  "selection": "Deterministic maxima by category, not a random sample; full population audit and every changed episode reported separately."
+}

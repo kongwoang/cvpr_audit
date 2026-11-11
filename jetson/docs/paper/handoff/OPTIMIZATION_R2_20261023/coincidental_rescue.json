@@ -1,0 +1,16 @@
+{
+  "dataset": "nusc",
+  "unit": "scene-0366",
+  "frame": 10,
+  "episode_rescued": true,
+  "trigger_predicted_demand": 1.124011335940416,
+  "trigger_gt_track": 3,
+  "trigger_gt_iou": 0.7950306233908669,
+  "trigger_gt_demand": 0.34741964141310666,
+  "trigger_predicted_ttc": 3.875042676925659,
+  "trigger_gt_ttc": 6.9191694259643555,
+  "decisive_gt_track": 5,
+  "decisive_gt_demand": 1.4345231283303812,
+  "decisive_found": false,
+  "interpretation": "Action correct by compensating error on a different non-required object; not recovery of decisive object."
+}

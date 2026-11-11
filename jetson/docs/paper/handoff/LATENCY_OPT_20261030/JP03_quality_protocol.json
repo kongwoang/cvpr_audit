@@ -1,0 +1,10 @@
+{
+  "script_md5": "8381007c53865d5e89222c0af49fd7e9",
+  "bootstrap": "paired2000 scene/log resamples seed0; all repetitions kept together",
+  "G": "sum(J_cheap-J_row)/sum(J_cheap), frozen shared-previous-cheap loss",
+  "agreement_reference": "u960+c1comp@trt32",
+  "canonical_target_fidelity_available": false,
+  "counts": "binary missed/false relative to discrete act_gt; ordinal insufficient/excess reported separately",
+  "throughput": "reciprocal mean latency only; not actual pipelined throughput",
+  "deadline": "completion probability; no delayed-action quality claim"
+}

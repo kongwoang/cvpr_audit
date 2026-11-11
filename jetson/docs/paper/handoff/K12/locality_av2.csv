@@ -1,0 +1,8 @@
+dataset,variant,agreement_with_u960,ci_lo,ci_hi,crops_per_frame
+"AV2 val, first 50 logs (3958 frames)",cheap draft,0.5409297625063163,0.4874792113337482,0.5958750839924656,
+"AV2 val, first 50 logs (3958 frames)","real crops (ours, no refiner), v_close 0",0.8024254674077818,0.7621466971718155,0.8402063697018504,2.5674583122789287
+"AV2 val, first 50 logs (3958 frames)","exact locality (F's objects inside the crops), v_close 0",0.9234461849418898,0.9041971553302351,0.9405816060081761,1.9191510864072765
+"AV2 val, first 50 logs (3958 frames)","exact locality + F's ttc history, v_close 0",0.944921677614957,0.9285528193837691,0.9588250807913933,1.9050025265285497
+"AV2 val, first 50 logs (3958 frames)","real crops (ours, no refiner), v_close 10",0.8120262758969177,0.7720531860374116,0.8472093972238111,3.7741283476503282
+"AV2 val, first 50 logs (3958 frames)","exact locality (F's objects inside the crops), v_close 10",0.9628600303183426,0.9518153546896689,0.9727081915629238,2.724608388074785
+"AV2 val, first 50 logs (3958 frames)","exact locality + F's ttc history, v_close 10",0.9744820616472966,0.9638004497573678,0.9829866112384693,2.7177867609903994

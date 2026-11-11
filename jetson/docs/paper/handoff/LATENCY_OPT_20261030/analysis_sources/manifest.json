@@ -1,0 +1,53 @@
+[
+  {
+    "source": "remote/A_method/k41_jetson_pilot_summary.py",
+    "snapshot": "docs/paper/handoff/LATENCY_OPT_20261030/analysis_sources/k41_jetson_pilot_summary_93135a12d83e.py",
+    "sha256": "93135a12d83ebc7e37736ae60e34c6b229716c1ef2d19674730d6a7c1cfc7fa6"
+  },
+  {
+    "source": "remote/A_method/k41_jetson_pilot_diagnostics.py",
+    "snapshot": "docs/paper/handoff/LATENCY_OPT_20261030/analysis_sources/k41_jetson_pilot_diagnostics_e769ace58a42.py",
+    "sha256": "e769ace58a427a452874b96fab801e2b608d7020d975a4f370b496b2e3eb78a9"
+  },
+  {
+    "source": "remote/A_method/k41_jetson_pilot_quality.py",
+    "snapshot": "docs/paper/handoff/LATENCY_OPT_20261030/analysis_sources/k41_jetson_pilot_quality_f8d99c4aefa3.py",
+    "sha256": "f8d99c4aefa3d4f63ea63e7f29c7f82604fe16325ce48815d42693e331479492"
+  },
+  {
+    "source": "scripts/93_latency_pilot_report.py",
+    "snapshot": "docs/paper/handoff/LATENCY_OPT_20261030/analysis_sources/93_latency_pilot_report_8a3b7308e90b.py",
+    "sha256": "8a3b7308e90b6a3a3389dd4572ba06a920c258aaa85b8d486af645ce54163126"
+  },
+  {
+    "source": "scripts/95_latency_c1_report.py",
+    "snapshot": "docs/paper/handoff/LATENCY_OPT_20261030/analysis_sources/95_latency_c1_report_18d1a3d43b17.py",
+    "sha256": "18d1a3d43b176dc7e5521515c15f033ff4f733517695847fae922f4d160936a8"
+  },
+  {
+    "source": "scripts/96_collect_latency_pilot.py",
+    "snapshot": "docs/paper/handoff/LATENCY_OPT_20261030/analysis_sources/96_collect_latency_pilot_791f8065d65d.py",
+    "sha256": "791f8065d65dbf96b73ef338dd27ce63344fb46d3ec5382944ff55429584acbf"
+  },
+  {
+    "source": "scripts/97_latency_pilot_metadata.py",
+    "snapshot": "docs/paper/handoff/LATENCY_OPT_20261030/analysis_sources/97_latency_pilot_metadata_94eb7d1f715d.py",
+    "sha256": "94eb7d1f715d1a4d429883135b6e532c29e2aef445ea4e7538aedbddd3f0686d"
+  },
+  {
+    "source": "scripts/98_resume_latency_jp03.py",
+    "snapshot": "docs/paper/handoff/LATENCY_OPT_20261030/analysis_sources/98_resume_latency_jp03_b08a85123d72.py",
+    "sha256": "b08a85123d72533e563fd46bf8f88ece42ec9b0aa8b6c90c01868fe5f9327dab"
+  },
+  {
+    "source": "scripts/99_finish_latency_jp03.py",
+    "snapshot": "docs/paper/handoff/LATENCY_OPT_20261030/analysis_sources/99_finish_latency_jp03_1b6694875136.py",
+    "sha256": "1b6694875136d17e995119f382fe1e926084d82a8c94a3f6680a37078b763ba2"
+  },
+  {
+    "source": "scripts/95_latency_c1_report.py",
+    "snapshot": "docs/paper/handoff/LATENCY_OPT_20261030/analysis_sources/95_latency_c1_report_df7137e69def.py",
+    "sha256": "df7137e69def6d01a7adeac1ba04bb2b7ff1b47f5a20be3b69bdc7300ac65360",
+    "note": "adds descriptive no-C1 timing control; unchanged primary screen"
+  }
+]

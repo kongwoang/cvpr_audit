@@ -1,0 +1,17 @@
+{
+  "reason": "Worker pending snapshot became stale before claim acquisition; two valid attempts. Select first valid attempt chronologically, independent of outcome. Both raw attempts preserved. Worker now rechecks DONE after acquiring claim.",
+  "previous_done": {
+    "status": "Completed",
+    "ticks": 478,
+    "checkpoint": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k32/repair/20261022_complete/units/test_unc_L0_s1_c0_r11755/attempt_002/checkpoint.json",
+    "jsonl": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k32/repair/20261022_complete/units/test_unc_L0_s1_c0_r11755/attempt_002/save/aeb_unc_L0.jsonl",
+    "checkpoint_sha256": "dffd252c058775b9b0ca2f31434a0c228ef05c27b53d1c60c46024512ae3fcd8",
+    "jsonl_sha256": "b19caba199a1ee9ac1995205de0fd2443399cf20478bbe5a75a15168f0aede8b",
+    "validated_utc": "2026-10-22T00:59:55.502448+00:00",
+    "unit": "test_unc_L0_s1_c0_r11755",
+    "host": "cuda12",
+    "attempt": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k32/repair/20261022_complete/units/test_unc_L0_s1_c0_r11755/attempt_002"
+  },
+  "selected_attempt": "attempt_001",
+  "reviewed_utc": "2026-10-22T02:33:40.140732+00:00"
+}

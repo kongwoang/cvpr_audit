@@ -1,0 +1,18 @@
+{
+ "rows_old": 147,
+ "rows_new": 147,
+ "unmatched": 0,
+ "max_abs_diff": {
+  "G_no_refiner": 9.71445146547012e-17,
+  "G_refiner": 9.71445146547012e-17,
+  "tensor_px_mean": 1.1102230246251565e-16,
+  "v6S_minus_no_refiner": 9.71445146547012e-17,
+  "lo_no_refiner": 9.71445146547012e-17,
+  "hi_no_refiner": 9.367506770274758e-17,
+  "v6S_minus_refiner": 9.71445146547012e-17,
+  "lo_refiner": 9.71445146547012e-17,
+  "hi_refiner": 9.367506770274758e-17
+ },
+ "verdict_diffs": 0,
+ "pass": true
+}

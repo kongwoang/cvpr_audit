@@ -1,0 +1,42 @@
+{
+  "audited_at": "2026-10-23T12:52:55.018855+13:00",
+  "datasets": [
+    {
+      "dataset": "nusc",
+      "units": 228,
+      "frames": 9181,
+      "base_action_disagreements_K28": {
+        "cheap": 0,
+        "u960_none": 0,
+        "native_none": 0,
+        "u960_v3a": 0,
+        "native_v3a": 0
+      }
+    },
+    {
+      "dataset": "av2",
+      "units": 150,
+      "frames": 11818,
+      "base_action_disagreements_K28": {
+        "cheap": 0,
+        "u960_none": 0,
+        "native_none": 0,
+        "u960_v3a": 0,
+        "native_v3a": 0
+      }
+    },
+    {
+      "dataset": "ahd",
+      "units": 24,
+      "frames": 15006,
+      "base_action_disagreements_K28": {
+        "cheap": 0,
+        "u960_none": 0,
+        "native_none": 0,
+        "u960_v3a": 0,
+        "native_v3a": 0
+      }
+    }
+  ],
+  "source_hash_mismatches": []
+}

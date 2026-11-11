@@ -1,0 +1,52 @@
+source,benchmark,row_kind,verdict,point_estimate,rows
+phase 2 (confirmatory),AV2 val (ego mask),baseline,below,row higher,74
+phase 2 (confirmatory),AV2 val (ego mask),baseline,below,v6 higher,36
+phase 2 (confirmatory),AV2 val (ego mask),baseline,matches,row higher,2
+phase 2 (confirmatory),AV2 val (ego mask),baseline,matches,v6 higher,83
+phase 2 (confirmatory),AV2 val (ego mask),oracle (not deployable),below,row higher,12
+phase 2 (confirmatory),AV2 val (ego mask),own configuration / ablation,below,row higher,3
+phase 2 (confirmatory),AV2 val (ego mask),own configuration / ablation,matches,v6 higher,2
+phase 2 (confirmatory),Argoverse-HD val,baseline,below,row higher,8
+phase 2 (confirmatory),Argoverse-HD val,baseline,below,v6 higher,10
+phase 2 (confirmatory),Argoverse-HD val,baseline,matches,v6 higher,53
+phase 2 (confirmatory),Argoverse-HD val,oracle (not deployable),matches,v6 higher,2
+phase 2 (confirmatory),nuScenes new test,baseline,below,row higher,140
+phase 2 (confirmatory),nuScenes new test,baseline,below,v6 higher,169
+phase 2 (confirmatory),nuScenes new test,baseline,matches,row higher,3
+phase 2 (confirmatory),nuScenes new test,baseline,matches,v6 higher,104
+phase 2 (confirmatory),nuScenes new test,oracle (not deployable),below,row higher,12
+phase 2 (confirmatory),nuScenes new test,own configuration / ablation,below,row higher,1
+phase 2 (confirmatory),nuScenes new test,own configuration / ablation,below,v6 higher,6
+phase 2 (confirmatory),nuScenes new test,own configuration / ablation,matches,v6 higher,8
+phase 3 AV2 without ego mask (post-hoc),AV2 val (no ego mask),baseline,below,row higher,42
+phase 3 AV2 without ego mask (post-hoc),AV2 val (no ego mask),baseline,below,v6 higher,4
+phase 3 AV2 without ego mask (post-hoc),AV2 val (no ego mask),baseline,matches,v6 higher,1
+phase 3 K6 Bench2Drive (post-hoc; runs 1/2/3),Bench2Drive 219 routes,baseline,n.s.,row higher,2
+phase 3 K6 Bench2Drive (post-hoc; runs 1/2/3),Bench2Drive 219 routes,baseline,n.s.,v6 higher,2
+phase 3 K6 Bench2Drive (post-hoc; runs 1/2/3),Bench2Drive 219 routes,oracle (not deployable),below (significant),row higher,1
+phase 3 KITTI shared v6-S (post-hoc),KITTI test (6 sequences),baseline,below,row higher,6
+phase 3 KITTI shared v6-S (post-hoc),KITTI test (6 sequences),own configuration / ablation,below,row higher,1
+phase 3 KITTI shared v6-S (post-hoc),KITTI test (6 sequences),own configuration / ablation,below,v6 higher,2
+phase 3 S3 Jetson (post-hoc),"AV2, 8 local val logs (Jetson)",own configuration / ablation,below,row higher,1
+phase 3 S3 Jetson (post-hoc),"nuScenes, 20 local DEEP scenes (Jetson)",baseline,below,row higher,12
+phase 3 S3 Jetson (post-hoc),"nuScenes, 20 local DEEP scenes (Jetson)",own configuration / ablation,below,row higher,25
+phase 3 S3 Jetson (post-hoc),"nuScenes, 20 local DEEP scenes (Jetson)",own configuration / ablation,matches,equal,2
+phase 3 S3 Jetson (post-hoc),"nuScenes, 20 local DEEP scenes (Jetson)",own configuration / ablation,matches,row higher,1
+"phase 3 S5 (ft0, post-hoc)",nuScenes new test,baseline,below,v6 higher,3
+"phase 3 S5 (ft0, post-hoc)",nuScenes new test,baseline,matches,v6 higher,3
+"phase 3 S5 (ft1, post-hoc)",nuScenes new test,baseline,below,v6 higher,3
+"phase 3 S5 (ft1, post-hoc)",nuScenes new test,baseline,matches,v6 higher,4
+"phase 3 S5 (y11s, post-hoc)",AV2 val (ego mask),baseline,below,row higher,5
+"phase 3 S5 (y11s, post-hoc)",AV2 val (ego mask),baseline,below,v6 higher,4
+"phase 3 S5 (y11s, post-hoc)",AV2 val (ego mask),baseline,matches,v6 higher,8
+"phase 3 S5 (y11s, post-hoc)",AV2 val (ego mask),own configuration / ablation,matches,v6 higher,1
+"phase 3 S5 (y11s, post-hoc)",Argoverse-HD val,baseline,below,v6 higher,1
+"phase 3 S5 (y11s, post-hoc)",Argoverse-HD val,baseline,matches,v6 higher,2
+"phase 3 S5 (y11s, post-hoc)",nuScenes new test,baseline,below,row higher,7
+"phase 3 S5 (y11s, post-hoc)",nuScenes new test,baseline,below,v6 higher,10
+"phase 3 S5 (y11s, post-hoc)",nuScenes new test,baseline,matches,v6 higher,1
+phase 3 prior works (post-hoc),nuScenes new test,baseline,below,row higher,6
+phase 3 prior works (post-hoc),nuScenes new test,baseline,below,v6 higher,10
+phase 3 prior works (post-hoc),nuScenes new test,baseline,matches,v6 higher,2
+phase 3 streaming AP (post-hoc),Argoverse-HD val,baseline,below (point estimate),row higher,6
+phase 3 streaming AP (post-hoc),Argoverse-HD val,previous ours (K7),below (point estimate),row higher,2

@@ -1,0 +1,3 @@
+dataset,class,frames,loss_ours,loss_F,loss_cheap
+nusc,ours brakes less than F,277,574.7954667859044,457.04632186916643,498.04395864002765
+nusc,ours brakes more than F,176,390.09204098148473,1118.6922026037682,382.2324705659241

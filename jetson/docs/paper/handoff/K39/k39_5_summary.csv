@@ -1,0 +1,19 @@
+quantity,value,ci_lo,ci_hi,count,p95,mean
+tokens,12146.0,,,,,
+logs,136.0,,,,,
+base poses reproduced (max |diff| over tokens),0.0,,,,,
+braking footprint empty <=> v3 spec ran 0 rounds (mismatches),0.0,,,,,
+"share: footprint differs (IoU < 0.9, primary)",0.9978593775728635,0.9969637120013588,0.9986739404135463,12120.0,,
+share: footprint differs at all (IoU < 1),0.998682693890993,0.9978866318009103,0.9993029825346132,12130.0,,
+share: footprint IoU < 0.5,0.9731598880289807,0.9652104408040277,0.9805620040020302,11820.0,,
+share: PDM footprint empty,0.007739173390416598,0.005268746415265043,0.01054559445588222,94.0,,
+share: braking footprint empty,0.04009550469290302,0.03302406299520317,0.048154993137512404,487.0,,
+share: selected trajectory differs (> 0.5 m),0.042565453647291286,0.03625567480574356,0.0492089558142225,517.0,,
+footprint IoU median,0.334984437605681,,,,,
+"PDM-only area share of the PDM footprint, mean (non-empty PDM)",0.6704051715513811,,,,,
+dPDMS spec_pdm - braking field (trajectory differs),0.045310260437995,0.005001580536630402,0.09136739257931098,517.0,,
+dPDMS spec_pdm - braking field (all tokens),0.0019236284833708097,0.00021566984047224831,0.0040394235349465405,12146.0,,
+dPDMS spec_pdm - braking field (footprint differs (IoU < 0.9)),0.0019509625297767935,0.0002498945631012558,0.004049823416673639,12120.0,,
+"wall clock per frame s, fast, 1 worker (K20, 1,000 tokens)",5.992769408971071,,,1000.0,10.130869706347582,6.1921308100968595
+"wall clock per frame s, fast, 8 workers (K20, 200 tokens)",1.335459841415286,,,200.0,1.9594725573901084,1.3597732693748548
+"wall clock per frame s, frozen implementation, 1 thread (K20, 1,000 tokens)",14.69280471559614,,,1000.0,19.21473728469573,14.908380343739875

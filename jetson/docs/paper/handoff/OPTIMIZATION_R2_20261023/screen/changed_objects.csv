@@ -1,0 +1,2627 @@
+dataset,unit,frame,pipeline,changed_objects,gt_action
+nusc,scene-0130,25,looming width-height 2 missing,1,0
+nusc,scene-0130,29,looming width-height 2 missing,1,0
+nusc,scene-0150,1,looming width-height 2 missing,1,0
+nusc,scene-0150,12,looming width-height 2 missing,1,0
+nusc,scene-0150,21,looming width-height 2 missing,1,0
+nusc,scene-0150,24,looming width-height 2 missing,3,0
+nusc,scene-0150,26,looming height 3,1,0
+nusc,scene-0150,27,looming width-height 2 missing,1,0
+nusc,scene-0150,28,looming width-height 2 missing,1,1
+nusc,scene-0150,29,looming width-height 2 missing,1,1
+nusc,scene-0150,31,looming width-height 2 missing,1,0
+nusc,scene-0151,22,looming width-height 2 missing,1,0
+nusc,scene-0151,32,looming width-height 2 missing,1,0
+nusc,scene-0151,33,looming width-height 2 missing,1,0
+nusc,scene-0151,34,looming width-height 2 missing,1,0
+nusc,scene-0168,25,looming width-height 2 missing,1,0
+nusc,scene-0168,38,looming height 3,1,0
+nusc,scene-0168,38,looming width-height 3,1,0
+nusc,scene-0170,1,looming width-height 2 missing,1,0
+nusc,scene-0170,6,looming width-height 2 missing,1,0
+nusc,scene-0170,23,looming width-height 2 missing,1,0
+nusc,scene-0191,4,looming width-height 2 missing,1,0
+nusc,scene-0202,4,looming width-height 2 missing,1,0
+nusc,scene-0202,5,looming width-height 2 missing,1,0
+nusc,scene-0203,1,looming width-height 2 missing,1,1
+nusc,scene-0203,8,looming width-height 2 missing,1,0
+nusc,scene-0203,27,looming width-height 2 missing,1,0
+nusc,scene-0203,34,looming width-height 2 missing,2,0
+nusc,scene-0203,35,looming height 3,2,0
+nusc,scene-0203,36,looming width-height 2 missing,1,0
+nusc,scene-0203,37,looming width-height 2 missing,1,0
+nusc,scene-0213,10,looming width-height 2 missing,1,0
+nusc,scene-0214,1,looming width-height 2 missing,1,0
+nusc,scene-0214,32,looming width-height 2 missing,1,0
+nusc,scene-0228,10,looming width-height 2 missing,1,0
+nusc,scene-0228,17,looming width-height 2 missing,1,0
+nusc,scene-0228,33,looming width-height 2 missing,1,0
+nusc,scene-0229,9,looming width-height 2 missing,1,0
+nusc,scene-0229,16,looming width-height 2 missing,1,0
+nusc,scene-0229,20,looming width-height 2 missing,2,0
+nusc,scene-0229,25,looming width-height 2 missing,1,0
+nusc,scene-0229,27,looming width-height 2 missing,2,0
+nusc,scene-0229,31,looming width-height 2 missing,1,0
+nusc,scene-0229,34,looming width-height 2 missing,1,0
+nusc,scene-0229,37,looming width-height 2 missing,1,0
+nusc,scene-0249,13,looming width-height 2 missing,1,0
+nusc,scene-0249,14,looming width-height 2 missing,1,0
+nusc,scene-0249,24,looming width-height 2 missing,1,0
+nusc,scene-0249,28,looming width-height 2 missing,1,0
+nusc,scene-0249,29,looming width-height 2 missing,1,0
+nusc,scene-0258,2,looming width-height 2 missing,1,0
+nusc,scene-0258,9,looming width-height 2 missing,1,0
+nusc,scene-0258,13,looming width-height 2 missing,1,0
+nusc,scene-0258,17,looming width-height 2 missing,1,1
+nusc,scene-0258,21,looming width-height 2 missing,1,0
+nusc,scene-0258,29,looming width-height 2 missing,1,0
+nusc,scene-0258,37,looming width-height 2 missing,1,0
+nusc,scene-0258,38,looming height 3,1,0
+nusc,scene-0258,38,looming width-height 3,1,0
+nusc,scene-0259,1,looming width-height 2 missing,1,0
+nusc,scene-0259,16,looming width-height 2 missing,1,1
+nusc,scene-0259,18,looming width-height 2 missing,1,0
+nusc,scene-0259,21,looming width-height 2 missing,1,0
+nusc,scene-0259,23,looming width-height 2 missing,1,1
+nusc,scene-0259,25,looming width-height 2 missing,1,1
+nusc,scene-0259,26,looming width-height 2 missing,1,1
+nusc,scene-0271,13,looming width-height 2 missing,1,0
+nusc,scene-0271,14,looming width-height 2 missing,1,0
+nusc,scene-0286,17,looming width-height 2 missing,1,0
+nusc,scene-0286,21,looming width-height 2 missing,1,0
+nusc,scene-0286,22,looming width-height 2 missing,1,0
+nusc,scene-0287,1,looming width-height 2 missing,2,0
+nusc,scene-0287,2,looming height 3,1,0
+nusc,scene-0287,2,looming width-height 3,1,0
+nusc,scene-0287,8,looming width-height 2 missing,1,0
+nusc,scene-0287,15,looming width-height 2 missing,1,0
+nusc,scene-0287,37,looming width-height 2 missing,1,0
+nusc,scene-0297,35,looming width-height 2 missing,1,0
+nusc,scene-0306,4,looming width-height 2 missing,2,0
+nusc,scene-0306,5,looming height 3,1,0
+nusc,scene-0306,5,looming width-height 3,1,0
+nusc,scene-0306,22,looming width-height 2 missing,1,0
+nusc,scene-0321,35,looming width-height 2 missing,1,0
+nusc,scene-0321,36,looming width-height 2 missing,1,1
+nusc,scene-0321,37,looming width-height 2 missing,1,1
+nusc,scene-0346,25,looming width-height 2 missing,1,0
+nusc,scene-0346,27,looming width-height 2 missing,1,0
+nusc,scene-0347,1,looming width-height 2 missing,1,0
+nusc,scene-0347,4,looming width-height 2 missing,1,0
+nusc,scene-0347,21,looming width-height 2 missing,1,0
+nusc,scene-0347,26,looming width-height 2 missing,1,1
+nusc,scene-0367,1,looming width-height 2 missing,1,1
+nusc,scene-0376,9,looming width-height 2 missing,1,0
+nusc,scene-0386,1,looming width-height 2 missing,1,0
+nusc,scene-0389,2,looming width-height 2 missing,1,1
+nusc,scene-0389,5,looming width-height 2 missing,1,1
+nusc,scene-0389,6,looming width-height 2 missing,1,0
+nusc,scene-0389,25,looming width-height 2 missing,1,0
+nusc,scene-0389,38,looming height 3,1,0
+nusc,scene-0389,38,looming width-height 3,1,0
+nusc,scene-0390,1,looming width-height 2 missing,2,0
+nusc,scene-0390,10,looming width-height 2 missing,1,0
+nusc,scene-0390,20,looming width-height 2 missing,1,0
+nusc,scene-0390,22,looming width-height 2 missing,1,0
+nusc,scene-0390,24,looming width-height 2 missing,1,0
+nusc,scene-0390,26,looming width-height 2 missing,1,0
+nusc,scene-0403,33,looming width-height 2 missing,1,1
+nusc,scene-0405,19,looming width-height 2 missing,1,1
+nusc,scene-0405,20,looming width-height 2 missing,1,1
+nusc,scene-0416,20,looming width-height 2 missing,1,0
+nusc,scene-0416,23,looming width-height 2 missing,1,0
+nusc,scene-0420,9,looming width-height 2 missing,2,0
+nusc,scene-0431,26,looming width-height 2 missing,1,1
+nusc,scene-0431,36,looming width-height 2 missing,1,0
+nusc,scene-0440,3,looming width-height 2 missing,1,0
+nusc,scene-0440,18,looming width-height 2 missing,1,0
+nusc,scene-0440,23,looming width-height 2 missing,1,0
+nusc,scene-0441,29,looming width-height 2 missing,1,0
+nusc,scene-0450,1,looming width-height 2 missing,1,0
+nusc,scene-0450,12,looming width-height 2 missing,1,0
+nusc,scene-0450,33,looming width-height 2 missing,1,0
+nusc,scene-0450,37,looming width-height 2 missing,1,0
+nusc,scene-0451,8,looming width-height 2 missing,1,0
+nusc,scene-0451,10,looming width-height 2 missing,1,0
+nusc,scene-0451,12,looming height 3,1,0
+nusc,scene-0451,31,looming height 3,1,0
+nusc,scene-0451,31,looming width-height 3,1,0
+nusc,scene-0451,34,looming height 3,1,0
+nusc,scene-0451,34,looming width-height 3,1,0
+nusc,scene-0451,35,looming height 3,1,0
+nusc,scene-0451,35,looming width-height 3,1,0
+nusc,scene-0461,35,looming width-height 2 missing,1,0
+nusc,scene-0461,38,looming height 3,1,0
+nusc,scene-0461,38,looming width-height 3,1,0
+nusc,scene-0462,1,looming width-height 2 missing,1,0
+nusc,scene-0462,34,looming width-height 2 missing,1,1
+nusc,scene-0474,15,looming width-height 2 missing,1,0
+nusc,scene-0474,16,looming width-height 2 missing,1,0
+nusc,scene-0474,22,looming width-height 2 missing,1,0
+nusc,scene-0475,8,looming width-height 2 missing,1,0
+nusc,scene-0475,19,looming width-height 2 missing,1,1
+nusc,scene-0475,26,looming width-height 2 missing,1,0
+nusc,scene-0502,23,looming height 3,1,0
+nusc,scene-0502,24,looming height 3,1,0
+nusc,scene-0502,24,looming width-height 3,1,0
+nusc,scene-0504,10,looming width-height 2 missing,1,1
+nusc,scene-0513,1,looming width-height 2 missing,1,0
+nusc,scene-0513,3,looming width-height 2 missing,1,0
+nusc,scene-0513,13,looming width-height 2 missing,1,0
+nusc,scene-0513,18,looming width-height 2 missing,1,0
+nusc,scene-0524,11,looming width-height 2 missing,1,0
+nusc,scene-0524,21,looming width-height 2 missing,1,0
+nusc,scene-0524,26,looming height 3,1,0
+nusc,scene-0524,26,looming width-height 3,1,0
+nusc,scene-0524,27,looming height 3,1,0
+nusc,scene-0524,27,looming width-height 3,1,0
+nusc,scene-0524,30,looming height 3,1,0
+nusc,scene-0524,30,looming width-height 3,1,0
+nusc,scene-0524,31,looming height 3,1,0
+nusc,scene-0524,31,looming width-height 3,1,0
+nusc,scene-0524,33,looming height 3,1,0
+nusc,scene-0524,33,looming width-height 3,1,0
+nusc,scene-0524,34,looming height 3,1,0
+nusc,scene-0524,34,looming width-height 3,1,0
+nusc,scene-0524,35,looming height 3,1,0
+nusc,scene-0524,35,looming width-height 3,1,0
+nusc,scene-0525,24,looming width-height 2 missing,2,0
+nusc,scene-0525,32,looming width-height 2 missing,1,0
+nusc,scene-0525,33,looming height 3,1,0
+nusc,scene-0534,6,looming width-height 2 missing,2,0
+nusc,scene-0534,10,looming width-height 2 missing,2,0
+nusc,scene-0534,11,looming width-height 2 missing,1,0
+nusc,scene-0534,12,looming width-height 2 missing,1,0
+nusc,scene-0534,32,looming width-height 2 missing,1,0
+nusc,scene-0535,31,looming width-height 2 missing,1,0
+nusc,scene-0545,17,looming width-height 2 missing,1,0
+nusc,scene-0545,40,looming width-height 2 missing,1,0
+nusc,scene-0560,1,looming width-height 2 missing,1,0
+nusc,scene-0560,2,looming height 3,1,0
+nusc,scene-0560,2,looming width-height 3,1,0
+nusc,scene-0560,3,looming height 3,1,0
+nusc,scene-0560,3,looming width-height 2 missing,1,0
+nusc,scene-0561,36,looming width-height 2 missing,1,0
+nusc,scene-0561,38,looming width-height 2 missing,1,0
+nusc,scene-0572,11,looming width-height 2 missing,1,0
+nusc,scene-0572,23,looming height 3,1,0
+nusc,scene-0572,23,looming width-height 2 missing,1,0
+nusc,scene-0572,27,looming width-height 2 missing,1,0
+nusc,scene-0572,37,looming width-height 2 missing,2,0
+nusc,scene-0573,1,looming width-height 2 missing,1,0
+nusc,scene-0573,21,looming width-height 2 missing,1,0
+nusc,scene-0584,12,looming width-height 2 missing,1,0
+nusc,scene-0584,37,looming width-height 2 missing,1,0
+nusc,scene-0585,5,looming width-height 2 missing,1,0
+nusc,scene-0585,13,looming width-height 2 missing,1,0
+nusc,scene-0594,3,looming width-height 2 missing,1,1
+nusc,scene-0594,28,looming width-height 2 missing,1,0
+nusc,scene-0629,26,looming width-height 2 missing,1,0
+nusc,scene-0629,27,looming width-height 2 missing,1,0
+nusc,scene-0629,32,looming width-height 2 missing,1,0
+nusc,scene-0629,37,looming width-height 2 missing,1,0
+nusc,scene-0629,38,looming width-height 2 missing,1,0
+nusc,scene-0640,17,looming width-height 2 missing,1,0
+nusc,scene-0640,22,looming width-height 2 missing,1,1
+nusc,scene-0640,25,looming width-height 2 missing,1,0
+nusc,scene-0640,26,looming height 3,1,0
+nusc,scene-0640,29,looming height 3,1,0
+nusc,scene-0640,29,looming width-height 3,1,0
+nusc,scene-0640,30,looming height 3,1,0
+nusc,scene-0641,4,looming width-height 2 missing,1,0
+nusc,scene-0650,2,looming width-height 2 missing,1,0
+nusc,scene-0650,5,looming width-height 2 missing,1,0
+nusc,scene-0650,9,looming width-height 2 missing,1,0
+nusc,scene-0650,13,looming width-height 2 missing,1,0
+nusc,scene-0650,17,looming width-height 2 missing,1,0
+nusc,scene-0651,34,looming width-height 2 missing,1,1
+nusc,scene-0651,35,looming width-height 2 missing,1,1
+nusc,scene-0660,13,looming width-height 2 missing,1,1
+nusc,scene-0660,15,looming width-height 2 missing,2,1
+nusc,scene-0660,22,looming width-height 2 missing,1,1
+nusc,scene-0660,31,looming width-height 2 missing,1,0
+nusc,scene-0661,1,looming width-height 2 missing,1,0
+nusc,scene-0661,7,looming width-height 2 missing,1,0
+nusc,scene-0671,6,looming width-height 2 missing,1,0
+nusc,scene-0697,25,looming width-height 2 missing,1,0
+nusc,scene-0697,33,looming width-height 2 missing,1,0
+nusc,scene-0697,35,looming width-height 2 missing,2,0
+nusc,scene-0698,1,looming width-height 2 missing,3,0
+nusc,scene-0698,8,looming width-height 2 missing,1,0
+nusc,scene-0698,10,looming width-height 2 missing,1,0
+nusc,scene-0698,11,looming width-height 2 missing,1,0
+nusc,scene-0698,21,looming width-height 2 missing,1,0
+nusc,scene-0709,1,looming width-height 2 missing,1,0
+nusc,scene-0709,3,looming width-height 2 missing,1,0
+nusc,scene-0709,8,looming width-height 2 missing,1,0
+nusc,scene-0709,10,looming width-height 2 missing,1,0
+nusc,scene-0709,12,looming width-height 2 missing,2,0
+nusc,scene-0709,21,looming width-height 2 missing,2,0
+nusc,scene-0709,22,looming width-height 2 missing,1,0
+nusc,scene-0709,23,looming width-height 2 missing,1,0
+nusc,scene-0709,24,looming width-height 2 missing,1,0
+nusc,scene-0709,25,looming width-height 2 missing,1,0
+nusc,scene-0709,33,looming width-height 2 missing,1,0
+nusc,scene-0719,39,looming width-height 2 missing,1,0
+nusc,scene-0737,8,looming width-height 2 missing,1,1
+nusc,scene-0737,9,looming width-height 2 missing,1,2
+nusc,scene-0738,7,looming width-height 2 missing,1,0
+nusc,scene-0738,12,looming width-height 2 missing,1,2
+nusc,scene-0751,1,looming width-height 2 missing,1,0
+nusc,scene-0751,6,looming width-height 2 missing,1,0
+nusc,scene-0751,11,looming width-height 2 missing,1,0
+nusc,scene-0751,16,looming width-height 2 missing,1,0
+nusc,scene-0751,18,looming width-height 2 missing,1,0
+nusc,scene-0751,22,looming width-height 2 missing,1,0
+nusc,scene-0751,29,looming width-height 2 missing,1,0
+nusc,scene-0752,1,looming width-height 2 missing,2,0
+nusc,scene-0752,18,looming width-height 2 missing,1,0
+nusc,scene-0752,19,looming height 3,1,0
+nusc,scene-0752,19,looming width-height 2 missing,1,0
+nusc,scene-0752,25,looming width-height 2 missing,1,0
+nusc,scene-0767,1,looming width-height 2 missing,1,0
+nusc,scene-0767,23,looming width-height 2 missing,1,0
+nusc,scene-0767,29,looming width-height 2 missing,1,0
+nusc,scene-0767,36,looming width-height 2 missing,1,0
+nusc,scene-0767,39,looming width-height 2 missing,1,0
+nusc,scene-0782,26,looming width-height 2 missing,1,1
+nusc,scene-0782,32,looming width-height 2 missing,1,2
+nusc,scene-0782,36,looming width-height 2 missing,1,2
+nusc,scene-0782,38,looming width-height 2 missing,1,1
+nusc,scene-0799,25,looming width-height 2 missing,1,2
+nusc,scene-0799,26,looming width-height 2 missing,1,2
+nusc,scene-0799,36,looming width-height 2 missing,1,1
+nusc,scene-0810,2,looming width-height 2 missing,1,0
+nusc,scene-0822,18,looming width-height 2 missing,1,0
+nusc,scene-0822,22,looming width-height 2 missing,1,0
+nusc,scene-0822,24,looming width-height 2 missing,1,0
+nusc,scene-0853,1,looming width-height 2 missing,1,0
+nusc,scene-0865,5,looming width-height 2 missing,2,0
+nusc,scene-0865,21,looming width-height 2 missing,1,0
+nusc,scene-0866,11,looming width-height 2 missing,1,0
+nusc,scene-0866,15,looming width-height 2 missing,1,0
+nusc,scene-0868,2,looming width-height 2 missing,1,0
+nusc,scene-0868,13,looming width-height 2 missing,1,0
+nusc,scene-0868,28,looming width-height 2 missing,2,1
+nusc,scene-0868,33,looming width-height 2 missing,2,1
+nusc,scene-0868,34,looming width-height 2 missing,1,1
+nusc,scene-0868,35,looming width-height 2 missing,2,2
+nusc,scene-0868,38,looming width-height 2 missing,1,2
+nusc,scene-0880,23,looming width-height 2 missing,1,1
+nusc,scene-0880,25,looming width-height 2 missing,1,1
+nusc,scene-0880,26,looming width-height 2 missing,1,1
+nusc,scene-0891,33,looming width-height 2 missing,1,0
+nusc,scene-0891,36,looming width-height 2 missing,3,0
+nusc,scene-0891,37,looming width-height 2 missing,1,0
+nusc,scene-0900,1,looming width-height 2 missing,1,0
+nusc,scene-0900,2,looming width-height 2 missing,1,0
+nusc,scene-0900,22,looming width-height 2 missing,2,0
+nusc,scene-0900,34,looming width-height 2 missing,1,0
+nusc,scene-0900,38,looming width-height 2 missing,1,1
+nusc,scene-0900,39,looming width-height 2 missing,1,1
+nusc,scene-0901,2,looming width-height 2 missing,2,1
+nusc,scene-0901,11,looming height 3,1,1
+nusc,scene-0901,11,looming width-height 3,1,1
+nusc,scene-0901,11,looming width-height 2 missing,1,1
+nusc,scene-0901,14,looming width-height 2 missing,1,1
+nusc,scene-0901,17,looming width-height 2 missing,3,0
+nusc,scene-0901,20,looming width-height 2 missing,1,0
+nusc,scene-0901,32,looming width-height 2 missing,1,0
+nusc,scene-0901,36,looming width-height 2 missing,1,0
+nusc,scene-0901,37,looming width-height 2 missing,1,0
+nusc,scene-0901,39,looming width-height 2 missing,1,0
+nusc,scene-0901,40,looming width-height 2 missing,1,0
+nusc,scene-0910,5,looming width-height 2 missing,1,1
+nusc,scene-0910,20,looming width-height 2 missing,1,1
+nusc,scene-0910,27,looming width-height 2 missing,1,1
+nusc,scene-0910,29,looming width-height 2 missing,1,1
+nusc,scene-0910,33,looming width-height 2 missing,1,1
+nusc,scene-0910,34,looming height 3,1,1
+nusc,scene-0910,39,looming width-height 2 missing,1,1
+nusc,scene-0911,1,looming width-height 2 missing,1,1
+nusc,scene-0911,10,looming width-height 2 missing,2,1
+nusc,scene-0911,14,looming width-height 2 missing,1,1
+nusc,scene-0911,16,looming width-height 2 missing,1,1
+nusc,scene-0911,21,looming height 3,1,0
+nusc,scene-0911,21,looming width-height 3,1,0
+nusc,scene-0911,22,looming height 3,1,0
+nusc,scene-0911,22,looming width-height 3,1,0
+nusc,scene-0926,22,looming width-height 2 missing,1,1
+nusc,scene-0926,24,looming width-height 2 missing,1,0
+nusc,scene-0926,26,looming width-height 2 missing,1,0
+nusc,scene-0926,33,looming width-height 2 missing,1,1
+nusc,scene-0926,35,looming width-height 2 missing,1,0
+nusc,scene-0945,34,looming width-height 2 missing,1,0
+nusc,scene-0959,32,looming width-height 2 missing,1,1
+nusc,scene-0972,35,looming width-height 2 missing,1,0
+nusc,scene-0984,6,looming width-height 2 missing,1,0
+nusc,scene-0984,7,looming height 3,1,0
+nusc,scene-0984,8,looming height 3,1,0
+nusc,scene-0984,8,looming width-height 3,1,0
+nusc,scene-0984,23,looming width-height 2 missing,1,0
+nusc,scene-1016,35,looming width-height 2 missing,1,0
+nusc,scene-1049,6,looming height 3,1,2
+nusc,scene-1049,28,looming height 3,1,2
+nusc,scene-1050,2,looming width-height 2 missing,1,2
+nusc,scene-1050,10,looming height 3,1,2
+nusc,scene-1050,11,looming height 3,1,2
+nusc,scene-1069,6,looming width-height 2 missing,1,0
+nusc,scene-1069,9,looming width-height 2 missing,1,1
+nusc,scene-1069,11,looming width-height 2 missing,1,1
+nusc,scene-1069,24,looming width-height 2 missing,1,2
+nusc,scene-1069,33,looming height 3,1,2
+nusc,scene-1069,36,looming width-height 2 missing,1,2
+nusc,scene-1070,7,looming width-height 2 missing,1,2
+nusc,scene-1070,10,looming width-height 2 missing,1,2
+nusc,scene-1070,11,looming height 3,1,2
+nusc,scene-1070,11,looming width-height 3,1,2
+nusc,scene-1070,23,looming height 3,1,2
+nusc,scene-1070,31,looming height 3,1,2
+nusc,scene-1070,31,looming width-height 3,1,2
+nusc,scene-1070,37,looming width-height 2 missing,1,2
+nusc,scene-1079,17,looming width-height 2 missing,1,1
+nusc,scene-1079,18,looming width-height 2 missing,1,1
+nusc,scene-1079,19,looming height 3,1,1
+nusc,scene-1079,20,looming height 3,2,1
+nusc,scene-1079,20,looming width-height 3,1,1
+nusc,scene-1079,21,looming height 3,3,1
+nusc,scene-1079,21,looming width-height 3,1,1
+nusc,scene-1079,22,looming height 3,3,1
+nusc,scene-1079,22,looming width-height 3,1,1
+nusc,scene-1079,23,looming height 3,2,1
+nusc,scene-1079,23,looming width-height 3,2,1
+nusc,scene-1079,24,looming height 3,1,1
+nusc,scene-1079,25,looming height 3,1,0
+av2,05853f69-f948-3d04-8d64-d4e721c0e1a5,27,looming width-height 2 missing,2,0
+av2,05853f69-f948-3d04-8d64-d4e721c0e1a5,41,looming height 3,1,2
+av2,05853f69-f948-3d04-8d64-d4e721c0e1a5,42,looming height 3,1,2
+av2,05853f69-f948-3d04-8d64-d4e721c0e1a5,44,looming height 3,1,2
+av2,05853f69-f948-3d04-8d64-d4e721c0e1a5,44,looming width-height 3,1,2
+av2,05853f69-f948-3d04-8d64-d4e721c0e1a5,45,looming height 3,1,2
+av2,05853f69-f948-3d04-8d64-d4e721c0e1a5,45,looming width-height 2 missing,1,2
+av2,067b1c50-6567-3840-ab56-1ca2a0ed9c30,29,looming width-height 2 missing,1,0
+av2,067b1c50-6567-3840-ab56-1ca2a0ed9c30,34,looming width-height 2 missing,1,0
+av2,067b1c50-6567-3840-ab56-1ca2a0ed9c30,35,looming height 3,1,0
+av2,067b1c50-6567-3840-ab56-1ca2a0ed9c30,35,looming width-height 3,1,0
+av2,067b1c50-6567-3840-ab56-1ca2a0ed9c30,36,looming height 3,1,0
+av2,067b1c50-6567-3840-ab56-1ca2a0ed9c30,36,looming width-height 3,1,0
+av2,067b1c50-6567-3840-ab56-1ca2a0ed9c30,36,looming width-height 2 missing,1,0
+av2,067b1c50-6567-3840-ab56-1ca2a0ed9c30,37,looming width-height 2 missing,1,0
+av2,067b1c50-6567-3840-ab56-1ca2a0ed9c30,38,looming width-height 2 missing,1,0
+av2,067b1c50-6567-3840-ab56-1ca2a0ed9c30,41,looming width-height 2 missing,3,0
+av2,067b1c50-6567-3840-ab56-1ca2a0ed9c30,42,looming height 3,1,2
+av2,067b1c50-6567-3840-ab56-1ca2a0ed9c30,42,looming width-height 2 missing,1,2
+av2,067b1c50-6567-3840-ab56-1ca2a0ed9c30,46,looming width-height 2 missing,1,2
+av2,067b1c50-6567-3840-ab56-1ca2a0ed9c30,49,looming height 3,1,2
+av2,067b1c50-6567-3840-ab56-1ca2a0ed9c30,50,looming height 3,1,2
+av2,067b1c50-6567-3840-ab56-1ca2a0ed9c30,50,looming width-height 2 missing,1,2
+av2,067b1c50-6567-3840-ab56-1ca2a0ed9c30,53,looming height 3,2,1
+av2,067b1c50-6567-3840-ab56-1ca2a0ed9c30,53,looming width-height 3,1,1
+av2,067b1c50-6567-3840-ab56-1ca2a0ed9c30,54,looming height 3,1,1
+av2,067b1c50-6567-3840-ab56-1ca2a0ed9c30,54,looming width-height 3,1,1
+av2,067b1c50-6567-3840-ab56-1ca2a0ed9c30,55,looming height 3,1,1
+av2,067b1c50-6567-3840-ab56-1ca2a0ed9c30,58,looming width-height 2 missing,1,1
+av2,067b1c50-6567-3840-ab56-1ca2a0ed9c30,59,looming height 3,1,1
+av2,067b1c50-6567-3840-ab56-1ca2a0ed9c30,64,looming height 3,1,1
+av2,067b1c50-6567-3840-ab56-1ca2a0ed9c30,65,looming height 3,1,1
+av2,067b1c50-6567-3840-ab56-1ca2a0ed9c30,66,looming height 3,1,1
+av2,067b1c50-6567-3840-ab56-1ca2a0ed9c30,66,looming width-height 2 missing,1,1
+av2,067b1c50-6567-3840-ab56-1ca2a0ed9c30,76,looming width-height 2 missing,1,1
+av2,07e4fccb-eb2d-31e5-bbcb-6550d0860f64,1,looming width-height 2 missing,1,1
+av2,07e4fccb-eb2d-31e5-bbcb-6550d0860f64,28,looming width-height 2 missing,1,1
+av2,07e4fccb-eb2d-31e5-bbcb-6550d0860f64,47,looming width-height 2 missing,1,1
+av2,07e4fccb-eb2d-31e5-bbcb-6550d0860f64,49,looming width-height 2 missing,1,1
+av2,080b1ce2-9477-39ee-8233-b7f33e1dfe56,11,looming width-height 2 missing,1,0
+av2,080b1ce2-9477-39ee-8233-b7f33e1dfe56,14,looming width-height 2 missing,1,0
+av2,080b1ce2-9477-39ee-8233-b7f33e1dfe56,29,looming height 3,1,0
+av2,080b1ce2-9477-39ee-8233-b7f33e1dfe56,30,looming height 3,1,0
+av2,080b1ce2-9477-39ee-8233-b7f33e1dfe56,32,looming width-height 2 missing,1,0
+av2,080b1ce2-9477-39ee-8233-b7f33e1dfe56,36,looming width-height 2 missing,2,0
+av2,080b1ce2-9477-39ee-8233-b7f33e1dfe56,42,looming width-height 2 missing,1,0
+av2,080b1ce2-9477-39ee-8233-b7f33e1dfe56,62,looming width-height 2 missing,1,0
+av2,080b1ce2-9477-39ee-8233-b7f33e1dfe56,70,looming width-height 2 missing,1,0
+av2,080b1ce2-9477-39ee-8233-b7f33e1dfe56,74,looming width-height 2 missing,1,0
+av2,098fe60e-bab0-32e2-89bc-bedced881911,18,looming width-height 2 missing,1,0
+av2,098fe60e-bab0-32e2-89bc-bedced881911,51,looming height 3,1,0
+av2,098fe60e-bab0-32e2-89bc-bedced881911,55,looming height 3,1,0
+av2,0a132537-3aec-35bb-af13-7faa0811000d,2,looming width-height 2 missing,1,0
+av2,0a132537-3aec-35bb-af13-7faa0811000d,37,looming width-height 2 missing,2,0
+av2,0a132537-3aec-35bb-af13-7faa0811000d,39,looming width-height 2 missing,1,0
+av2,0a132537-3aec-35bb-af13-7faa0811000d,40,looming width-height 2 missing,1,0
+av2,0a132537-3aec-35bb-af13-7faa0811000d,41,looming width-height 2 missing,1,0
+av2,0a132537-3aec-35bb-af13-7faa0811000d,43,looming width-height 2 missing,1,0
+av2,0a132537-3aec-35bb-af13-7faa0811000d,44,looming width-height 2 missing,1,0
+av2,0a524e66-ee33-3b6c-89ef-eac1985316db,40,looming width-height 2 missing,1,0
+av2,0a524e66-ee33-3b6c-89ef-eac1985316db,69,looming width-height 2 missing,1,0
+av2,0ab21841-0c08-3bae-8424-daa9b336683f,6,looming width-height 2 missing,3,0
+av2,0ab21841-0c08-3bae-8424-daa9b336683f,11,looming width-height 2 missing,2,0
+av2,0ab21841-0c08-3bae-8424-daa9b336683f,14,looming width-height 2 missing,1,1
+av2,0ab21841-0c08-3bae-8424-daa9b336683f,21,looming width-height 2 missing,1,1
+av2,0ab21841-0c08-3bae-8424-daa9b336683f,23,looming width-height 2 missing,1,1
+av2,0ab21841-0c08-3bae-8424-daa9b336683f,29,looming width-height 2 missing,1,1
+av2,0ab21841-0c08-3bae-8424-daa9b336683f,31,looming width-height 2 missing,1,1
+av2,0ab21841-0c08-3bae-8424-daa9b336683f,35,looming width-height 2 missing,1,1
+av2,0ab21841-0c08-3bae-8424-daa9b336683f,36,looming width-height 2 missing,1,1
+av2,0ab21841-0c08-3bae-8424-daa9b336683f,37,looming height 3,1,1
+av2,0ab21841-0c08-3bae-8424-daa9b336683f,40,looming width-height 2 missing,1,2
+av2,0ab21841-0c08-3bae-8424-daa9b336683f,42,looming width-height 2 missing,1,2
+av2,0ab21841-0c08-3bae-8424-daa9b336683f,43,looming height 3,1,1
+av2,0ab21841-0c08-3bae-8424-daa9b336683f,48,looming height 3,1,1
+av2,0b9321c1-9bc2-4727-beb8-8046aa4bb6c4,54,looming width-height 2 missing,1,1
+av2,0b9321c1-9bc2-4727-beb8-8046aa4bb6c4,58,looming height 3,1,1
+av2,0b9321c1-9bc2-4727-beb8-8046aa4bb6c4,60,looming height 3,1,1
+av2,0b9321c1-9bc2-4727-beb8-8046aa4bb6c4,60,looming width-height 3,1,1
+av2,0b9321c1-9bc2-4727-beb8-8046aa4bb6c4,64,looming height 3,1,1
+av2,0b9321c1-9bc2-4727-beb8-8046aa4bb6c4,64,looming width-height 3,1,1
+av2,0b9321c1-9bc2-4727-beb8-8046aa4bb6c4,65,looming height 3,2,1
+av2,0b9321c1-9bc2-4727-beb8-8046aa4bb6c4,65,looming width-height 3,2,1
+av2,0b9321c1-9bc2-4727-beb8-8046aa4bb6c4,65,looming width-height 2 missing,1,1
+av2,0b9321c1-9bc2-4727-beb8-8046aa4bb6c4,66,looming height 3,2,1
+av2,0b9321c1-9bc2-4727-beb8-8046aa4bb6c4,66,looming width-height 3,1,1
+av2,0b9321c1-9bc2-4727-beb8-8046aa4bb6c4,67,looming height 3,1,1
+av2,0b9321c1-9bc2-4727-beb8-8046aa4bb6c4,67,looming width-height 3,1,1
+av2,0b9321c1-9bc2-4727-beb8-8046aa4bb6c4,69,looming height 3,1,1
+av2,0b9321c1-9bc2-4727-beb8-8046aa4bb6c4,69,looming width-height 3,1,1
+av2,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,1,looming width-height 2 missing,1,1
+av2,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,10,looming width-height 2 missing,1,0
+av2,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,22,looming width-height 2 missing,1,0
+av2,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,35,looming width-height 2 missing,1,1
+av2,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,42,looming width-height 2 missing,1,1
+av2,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,52,looming width-height 2 missing,1,0
+av2,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,60,looming width-height 2 missing,1,0
+av2,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,61,looming height 3,1,0
+av2,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,61,looming width-height 3,1,0
+av2,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,77,looming width-height 2 missing,1,1
+av2,0c143226-9c39-387c-a935-1391bed6dc75,5,looming height 3,1,1
+av2,0c143226-9c39-387c-a935-1391bed6dc75,31,looming width-height 2 missing,1,1
+av2,0c143226-9c39-387c-a935-1391bed6dc75,33,looming height 3,1,1
+av2,0c143226-9c39-387c-a935-1391bed6dc75,36,looming height 3,1,1
+av2,0c143226-9c39-387c-a935-1391bed6dc75,36,looming width-height 3,1,1
+av2,0c143226-9c39-387c-a935-1391bed6dc75,37,looming height 3,1,2
+av2,0c143226-9c39-387c-a935-1391bed6dc75,37,looming width-height 3,1,2
+av2,0c143226-9c39-387c-a935-1391bed6dc75,38,looming width-height 2 missing,1,2
+av2,0c143226-9c39-387c-a935-1391bed6dc75,39,looming height 3,1,2
+av2,0c143226-9c39-387c-a935-1391bed6dc75,40,looming height 3,1,2
+av2,0c143226-9c39-387c-a935-1391bed6dc75,40,looming width-height 3,1,2
+av2,0c143226-9c39-387c-a935-1391bed6dc75,53,looming width-height 2 missing,1,1
+av2,0c143226-9c39-387c-a935-1391bed6dc75,59,looming width-height 2 missing,1,1
+av2,0c143226-9c39-387c-a935-1391bed6dc75,63,looming height 3,1,1
+av2,0c143226-9c39-387c-a935-1391bed6dc75,70,looming height 3,1,1
+av2,0c143226-9c39-387c-a935-1391bed6dc75,73,looming height 3,1,1
+av2,0c143226-9c39-387c-a935-1391bed6dc75,73,looming width-height 2 missing,1,1
+av2,0c143226-9c39-387c-a935-1391bed6dc75,77,looming width-height 2 missing,1,0
+av2,0c61aea3-3cba-35f3-8971-df42cd5b9b1a,60,looming width-height 2 missing,1,0
+av2,0c61aea3-3cba-35f3-8971-df42cd5b9b1a,61,looming width-height 2 missing,1,0
+av2,0c61aea3-3cba-35f3-8971-df42cd5b9b1a,62,looming width-height 2 missing,1,0
+av2,0d37aee4-6508-33a2-998d-724834e80030,14,looming width-height 2 missing,1,1
+av2,0d37aee4-6508-33a2-998d-724834e80030,18,looming width-height 2 missing,1,1
+av2,0d37aee4-6508-33a2-998d-724834e80030,20,looming width-height 2 missing,1,1
+av2,0d37aee4-6508-33a2-998d-724834e80030,23,looming width-height 2 missing,1,1
+av2,0d37aee4-6508-33a2-998d-724834e80030,52,looming width-height 2 missing,1,0
+av2,0d9e4cff-73ff-33eb-9981-795475e62faf,1,looming width-height 2 missing,1,1
+av2,0d9e4cff-73ff-33eb-9981-795475e62faf,7,looming width-height 2 missing,1,1
+av2,0d9e4cff-73ff-33eb-9981-795475e62faf,26,looming width-height 2 missing,1,2
+av2,0d9e4cff-73ff-33eb-9981-795475e62faf,27,looming width-height 2 missing,1,2
+av2,0d9e4cff-73ff-33eb-9981-795475e62faf,31,looming width-height 2 missing,1,0
+av2,0d9e4cff-73ff-33eb-9981-795475e62faf,35,looming width-height 2 missing,2,0
+av2,0d9e4cff-73ff-33eb-9981-795475e62faf,36,looming height 3,1,0
+av2,0d9e4cff-73ff-33eb-9981-795475e62faf,36,looming width-height 3,1,0
+av2,0d9e4cff-73ff-33eb-9981-795475e62faf,37,looming height 3,1,0
+av2,0d9e4cff-73ff-33eb-9981-795475e62faf,37,looming width-height 3,1,0
+av2,0d9e4cff-73ff-33eb-9981-795475e62faf,40,looming width-height 2 missing,1,0
+av2,0d9e4cff-73ff-33eb-9981-795475e62faf,41,looming height 3,1,0
+av2,0d9e4cff-73ff-33eb-9981-795475e62faf,43,looming width-height 2 missing,3,0
+av2,0d9e4cff-73ff-33eb-9981-795475e62faf,46,looming width-height 2 missing,1,0
+av2,0d9e4cff-73ff-33eb-9981-795475e62faf,48,looming height 3,1,0
+av2,0d9e4cff-73ff-33eb-9981-795475e62faf,48,looming width-height 3,1,0
+av2,0d9e4cff-73ff-33eb-9981-795475e62faf,49,looming height 3,1,0
+av2,0d9e4cff-73ff-33eb-9981-795475e62faf,49,looming width-height 3,1,0
+av2,0d9e4cff-73ff-33eb-9981-795475e62faf,55,looming width-height 2 missing,1,0
+av2,0d9e4cff-73ff-33eb-9981-795475e62faf,56,looming height 3,1,0
+av2,0d9e4cff-73ff-33eb-9981-795475e62faf,56,looming width-height 3,1,0
+av2,0fc6aa34-323a-33bb-9804-2004599bcd06,1,looming width-height 2 missing,1,1
+av2,0fc6aa34-323a-33bb-9804-2004599bcd06,18,looming width-height 2 missing,1,0
+av2,0fc6aa34-323a-33bb-9804-2004599bcd06,22,looming height 3,1,0
+av2,0fc6aa34-323a-33bb-9804-2004599bcd06,39,looming width-height 2 missing,1,1
+av2,11995cbe-e076-3a35-910d-1e56ecf2c3c8,23,looming width-height 2 missing,1,0
+av2,11995cbe-e076-3a35-910d-1e56ecf2c3c8,43,looming width-height 2 missing,1,2
+av2,11995cbe-e076-3a35-910d-1e56ecf2c3c8,45,looming height 3,1,2
+av2,11995cbe-e076-3a35-910d-1e56ecf2c3c8,46,looming height 3,1,2
+av2,11995cbe-e076-3a35-910d-1e56ecf2c3c8,58,looming height 3,1,1
+av2,11995cbe-e076-3a35-910d-1e56ecf2c3c8,59,looming height 3,1,1
+av2,12071817-ba53-35a4-bf6c-a8e8e7ad8969,10,looming width-height 2 missing,1,1
+av2,12071817-ba53-35a4-bf6c-a8e8e7ad8969,12,looming width-height 2 missing,1,1
+av2,12071817-ba53-35a4-bf6c-a8e8e7ad8969,23,looming width-height 2 missing,1,0
+av2,12071817-ba53-35a4-bf6c-a8e8e7ad8969,26,looming height 3,1,1
+av2,12071817-ba53-35a4-bf6c-a8e8e7ad8969,31,looming width-height 2 missing,1,0
+av2,12071817-ba53-35a4-bf6c-a8e8e7ad8969,33,looming height 3,1,0
+av2,12071817-ba53-35a4-bf6c-a8e8e7ad8969,34,looming height 3,1,0
+av2,12071817-ba53-35a4-bf6c-a8e8e7ad8969,35,looming height 3,1,0
+av2,12071817-ba53-35a4-bf6c-a8e8e7ad8969,36,looming height 3,1,0
+av2,12071817-ba53-35a4-bf6c-a8e8e7ad8969,37,looming height 3,1,1
+av2,12071817-ba53-35a4-bf6c-a8e8e7ad8969,38,looming height 3,1,1
+av2,12071817-ba53-35a4-bf6c-a8e8e7ad8969,41,looming height 3,1,1
+av2,12071817-ba53-35a4-bf6c-a8e8e7ad8969,43,looming width-height 2 missing,1,0
+av2,12071817-ba53-35a4-bf6c-a8e8e7ad8969,46,looming width-height 2 missing,1,0
+av2,12071817-ba53-35a4-bf6c-a8e8e7ad8969,50,looming height 3,1,0
+av2,12071817-ba53-35a4-bf6c-a8e8e7ad8969,58,looming width-height 2 missing,1,0
+av2,12071817-ba53-35a4-bf6c-a8e8e7ad8969,59,looming height 3,1,0
+av2,12071817-ba53-35a4-bf6c-a8e8e7ad8969,59,looming width-height 3,1,0
+av2,12071817-ba53-35a4-bf6c-a8e8e7ad8969,59,looming width-height 2 missing,1,0
+av2,12071817-ba53-35a4-bf6c-a8e8e7ad8969,61,looming width-height 2 missing,1,0
+av2,12071817-ba53-35a4-bf6c-a8e8e7ad8969,68,looming width-height 2 missing,1,0
+av2,12071817-ba53-35a4-bf6c-a8e8e7ad8969,76,looming width-height 2 missing,1,0
+av2,121007f3-a0cc-3795-9606-85108b800772,1,looming width-height 2 missing,2,1
+av2,121007f3-a0cc-3795-9606-85108b800772,10,looming width-height 2 missing,1,1
+av2,121007f3-a0cc-3795-9606-85108b800772,32,looming height 3,1,1
+av2,121007f3-a0cc-3795-9606-85108b800772,32,looming width-height 3,1,1
+av2,121007f3-a0cc-3795-9606-85108b800772,32,looming width-height 2 missing,1,1
+av2,121007f3-a0cc-3795-9606-85108b800772,33,looming height 3,1,1
+av2,121007f3-a0cc-3795-9606-85108b800772,33,looming width-height 3,1,1
+av2,121007f3-a0cc-3795-9606-85108b800772,34,looming height 3,1,1
+av2,121007f3-a0cc-3795-9606-85108b800772,34,looming width-height 3,1,1
+av2,121007f3-a0cc-3795-9606-85108b800772,35,looming height 3,1,1
+av2,121007f3-a0cc-3795-9606-85108b800772,35,looming width-height 3,1,1
+av2,121007f3-a0cc-3795-9606-85108b800772,36,looming height 3,1,1
+av2,121007f3-a0cc-3795-9606-85108b800772,36,looming width-height 3,1,1
+av2,133e2e0b-b0fe-3bb0-b1f9-c846fcfd29e8,1,looming width-height 2 missing,1,0
+av2,133e2e0b-b0fe-3bb0-b1f9-c846fcfd29e8,2,looming height 3,1,0
+av2,133e2e0b-b0fe-3bb0-b1f9-c846fcfd29e8,2,looming width-height 3,1,0
+av2,133e2e0b-b0fe-3bb0-b1f9-c846fcfd29e8,3,looming height 3,1,0
+av2,133e2e0b-b0fe-3bb0-b1f9-c846fcfd29e8,3,looming width-height 3,1,0
+av2,133e2e0b-b0fe-3bb0-b1f9-c846fcfd29e8,11,looming width-height 2 missing,1,0
+av2,133e2e0b-b0fe-3bb0-b1f9-c846fcfd29e8,22,looming width-height 2 missing,1,0
+av2,133e2e0b-b0fe-3bb0-b1f9-c846fcfd29e8,35,looming width-height 2 missing,1,0
+av2,133e2e0b-b0fe-3bb0-b1f9-c846fcfd29e8,37,looming height 3,1,0
+av2,133e2e0b-b0fe-3bb0-b1f9-c846fcfd29e8,37,looming width-height 3,1,0
+av2,133e2e0b-b0fe-3bb0-b1f9-c846fcfd29e8,43,looming height 3,1,0
+av2,133e2e0b-b0fe-3bb0-b1f9-c846fcfd29e8,43,looming width-height 3,1,0
+av2,133e2e0b-b0fe-3bb0-b1f9-c846fcfd29e8,47,looming height 3,1,0
+av2,133e2e0b-b0fe-3bb0-b1f9-c846fcfd29e8,60,looming height 3,1,0
+av2,133e2e0b-b0fe-3bb0-b1f9-c846fcfd29e8,64,looming width-height 2 missing,1,0
+av2,134bb8e9-9080-3bc5-948d-88d8cc034550,1,looming width-height 2 missing,1,1
+av2,134bb8e9-9080-3bc5-948d-88d8cc034550,8,looming width-height 2 missing,1,1
+av2,134bb8e9-9080-3bc5-948d-88d8cc034550,9,looming height 3,1,1
+av2,134bb8e9-9080-3bc5-948d-88d8cc034550,25,looming width-height 2 missing,2,1
+av2,134bb8e9-9080-3bc5-948d-88d8cc034550,38,looming width-height 2 missing,1,0
+av2,134bb8e9-9080-3bc5-948d-88d8cc034550,39,looming height 3,1,0
+av2,134bb8e9-9080-3bc5-948d-88d8cc034550,42,looming height 3,1,0
+av2,134bb8e9-9080-3bc5-948d-88d8cc034550,42,looming width-height 3,1,0
+av2,134bb8e9-9080-3bc5-948d-88d8cc034550,50,looming width-height 2 missing,1,0
+av2,134bb8e9-9080-3bc5-948d-88d8cc034550,64,looming height 3,1,1
+av2,134bb8e9-9080-3bc5-948d-88d8cc034550,64,looming width-height 2 missing,1,1
+av2,134bb8e9-9080-3bc5-948d-88d8cc034550,65,looming height 3,1,1
+av2,134bb8e9-9080-3bc5-948d-88d8cc034550,72,looming width-height 2 missing,1,1
+av2,134bb8e9-9080-3bc5-948d-88d8cc034550,73,looming height 3,2,1
+av2,134bb8e9-9080-3bc5-948d-88d8cc034550,73,looming width-height 3,2,1
+av2,134bb8e9-9080-3bc5-948d-88d8cc034550,73,looming width-height 2 missing,3,1
+av2,134bb8e9-9080-3bc5-948d-88d8cc034550,74,looming height 3,2,1
+av2,134bb8e9-9080-3bc5-948d-88d8cc034550,74,looming width-height 3,2,1
+av2,134bb8e9-9080-3bc5-948d-88d8cc034550,75,looming width-height 2 missing,1,1
+av2,134bb8e9-9080-3bc5-948d-88d8cc034550,76,looming height 3,1,1
+av2,134bb8e9-9080-3bc5-948d-88d8cc034550,76,looming width-height 3,1,1
+av2,134bb8e9-9080-3bc5-948d-88d8cc034550,77,looming height 3,1,1
+av2,134bb8e9-9080-3bc5-948d-88d8cc034550,77,looming width-height 3,1,1
+av2,134bb8e9-9080-3bc5-948d-88d8cc034550,78,looming width-height 2 missing,1,1
+av2,14bf638b-8f0d-35b2-a369-6d846b5b3892,45,looming width-height 2 missing,1,1
+av2,14bf638b-8f0d-35b2-a369-6d846b5b3892,50,looming width-height 2 missing,1,1
+av2,14bf638b-8f0d-35b2-a369-6d846b5b3892,56,looming width-height 2 missing,2,1
+av2,14bf638b-8f0d-35b2-a369-6d846b5b3892,61,looming width-height 2 missing,1,1
+av2,14c8d182-9586-3f21-ad20-c4e19ec03e2c,1,looming width-height 2 missing,1,0
+av2,14c8d182-9586-3f21-ad20-c4e19ec03e2c,47,looming width-height 2 missing,1,0
+av2,14c8d182-9586-3f21-ad20-c4e19ec03e2c,48,looming width-height 2 missing,1,0
+av2,14c8d182-9586-3f21-ad20-c4e19ec03e2c,50,looming width-height 2 missing,1,0
+av2,14c8d182-9586-3f21-ad20-c4e19ec03e2c,51,looming width-height 2 missing,1,1
+av2,14c8d182-9586-3f21-ad20-c4e19ec03e2c,53,looming width-height 2 missing,1,1
+av2,14c8d182-9586-3f21-ad20-c4e19ec03e2c,54,looming width-height 2 missing,1,0
+av2,194b6c89-8060-3174-b402-308f72cb1c15,1,looming width-height 2 missing,1,1
+av2,194b6c89-8060-3174-b402-308f72cb1c15,3,looming width-height 2 missing,1,1
+av2,194b6c89-8060-3174-b402-308f72cb1c15,5,looming width-height 2 missing,1,1
+av2,194b6c89-8060-3174-b402-308f72cb1c15,6,looming height 3,1,1
+av2,194b6c89-8060-3174-b402-308f72cb1c15,7,looming height 3,1,1
+av2,194b6c89-8060-3174-b402-308f72cb1c15,8,looming height 3,2,1
+av2,194b6c89-8060-3174-b402-308f72cb1c15,8,looming width-height 3,1,1
+av2,194b6c89-8060-3174-b402-308f72cb1c15,11,looming width-height 2 missing,1,1
+av2,194b6c89-8060-3174-b402-308f72cb1c15,13,looming width-height 2 missing,1,1
+av2,194b6c89-8060-3174-b402-308f72cb1c15,15,looming width-height 2 missing,1,1
+av2,194b6c89-8060-3174-b402-308f72cb1c15,21,looming height 3,1,1
+av2,194b6c89-8060-3174-b402-308f72cb1c15,23,looming width-height 2 missing,1,1
+av2,194b6c89-8060-3174-b402-308f72cb1c15,27,looming width-height 2 missing,1,1
+av2,194b6c89-8060-3174-b402-308f72cb1c15,43,looming width-height 2 missing,2,1
+av2,194b6c89-8060-3174-b402-308f72cb1c15,57,looming width-height 2 missing,1,1
+av2,194b6c89-8060-3174-b402-308f72cb1c15,68,looming width-height 2 missing,1,0
+av2,19711b73-c43b-3922-be61-8c44df707a7d,1,looming width-height 2 missing,3,0
+av2,19711b73-c43b-3922-be61-8c44df707a7d,2,looming height 3,1,0
+av2,19711b73-c43b-3922-be61-8c44df707a7d,18,looming width-height 2 missing,1,0
+av2,19711b73-c43b-3922-be61-8c44df707a7d,20,looming width-height 2 missing,1,0
+av2,19711b73-c43b-3922-be61-8c44df707a7d,24,looming width-height 2 missing,2,1
+av2,19711b73-c43b-3922-be61-8c44df707a7d,33,looming width-height 2 missing,1,1
+av2,19711b73-c43b-3922-be61-8c44df707a7d,41,looming width-height 2 missing,1,1
+av2,19711b73-c43b-3922-be61-8c44df707a7d,42,looming width-height 2 missing,1,1
+av2,1a10b0e6-569f-32db-95e8-10c074e353e8,1,looming width-height 2 missing,3,0
+av2,1a10b0e6-569f-32db-95e8-10c074e353e8,19,looming width-height 2 missing,1,1
+av2,1a10b0e6-569f-32db-95e8-10c074e353e8,25,looming width-height 2 missing,1,1
+av2,1a10b0e6-569f-32db-95e8-10c074e353e8,26,looming height 3,1,1
+av2,1a10b0e6-569f-32db-95e8-10c074e353e8,26,looming width-height 3,1,1
+av2,1a10b0e6-569f-32db-95e8-10c074e353e8,34,looming width-height 2 missing,1,1
+av2,1a10b0e6-569f-32db-95e8-10c074e353e8,37,looming width-height 2 missing,1,1
+av2,1a10b0e6-569f-32db-95e8-10c074e353e8,38,looming height 3,1,1
+av2,1a10b0e6-569f-32db-95e8-10c074e353e8,39,looming height 3,1,1
+av2,1a10b0e6-569f-32db-95e8-10c074e353e8,42,looming height 3,1,2
+av2,1a10b0e6-569f-32db-95e8-10c074e353e8,42,looming width-height 3,1,2
+av2,1a10b0e6-569f-32db-95e8-10c074e353e8,42,looming width-height 2 missing,1,2
+av2,1a10b0e6-569f-32db-95e8-10c074e353e8,45,looming height 3,1,1
+av2,1b8fc962-7036-4d7f-885e-40b631cbdeaf,26,looming width-height 2 missing,1,0
+av2,1b8fc962-7036-4d7f-885e-40b631cbdeaf,32,looming height 3,1,1
+av2,1b8fc962-7036-4d7f-885e-40b631cbdeaf,36,looming width-height 2 missing,1,1
+av2,1b8fc962-7036-4d7f-885e-40b631cbdeaf,37,looming width-height 2 missing,1,1
+av2,1b8fc962-7036-4d7f-885e-40b631cbdeaf,48,looming width-height 2 missing,1,1
+av2,1d950a38-5c2f-39ce-9cd3-61249bc85194,3,looming width-height 2 missing,1,0
+av2,1d950a38-5c2f-39ce-9cd3-61249bc85194,9,looming height 3,1,0
+av2,1d950a38-5c2f-39ce-9cd3-61249bc85194,9,looming width-height 3,1,0
+av2,1d950a38-5c2f-39ce-9cd3-61249bc85194,49,looming width-height 2 missing,1,0
+av2,1d950a38-5c2f-39ce-9cd3-61249bc85194,55,looming height 3,1,0
+av2,1d950a38-5c2f-39ce-9cd3-61249bc85194,55,looming width-height 3,1,0
+av2,1d950a38-5c2f-39ce-9cd3-61249bc85194,70,looming width-height 2 missing,1,0
+av2,20b00c37-4fe4-31dc-a258-dae253ae6992,10,looming height 3,1,0
+av2,20b00c37-4fe4-31dc-a258-dae253ae6992,53,looming height 3,1,0
+av2,21f6ebe1-09c9-3a71-bdd9-58f45fbe9000,42,looming width-height 2 missing,1,2
+av2,21f6ebe1-09c9-3a71-bdd9-58f45fbe9000,44,looming width-height 2 missing,1,2
+av2,21f6ebe1-09c9-3a71-bdd9-58f45fbe9000,45,looming width-height 2 missing,1,2
+av2,21f6ebe1-09c9-3a71-bdd9-58f45fbe9000,47,looming width-height 2 missing,1,0
+av2,21f6ebe1-09c9-3a71-bdd9-58f45fbe9000,53,looming width-height 2 missing,1,0
+av2,226199ab-c791-32a7-8bab-ab92878eb199,27,looming width-height 2 missing,1,0
+av2,226199ab-c791-32a7-8bab-ab92878eb199,58,looming width-height 2 missing,1,1
+av2,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,21,looming width-height 2 missing,1,0
+av2,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,31,looming width-height 2 missing,1,0
+av2,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,37,looming width-height 2 missing,1,1
+av2,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,40,looming height 3,1,0
+av2,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,43,looming width-height 2 missing,1,0
+av2,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,45,looming width-height 2 missing,1,0
+av2,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,47,looming width-height 2 missing,1,1
+av2,2451c219-3002-3b2e-8fa9-2b7fea168b3b,18,looming width-height 2 missing,1,0
+av2,2451c219-3002-3b2e-8fa9-2b7fea168b3b,22,looming width-height 2 missing,1,0
+av2,2451c219-3002-3b2e-8fa9-2b7fea168b3b,35,looming width-height 2 missing,1,1
+av2,2451c219-3002-3b2e-8fa9-2b7fea168b3b,42,looming width-height 2 missing,1,1
+av2,2451c219-3002-3b2e-8fa9-2b7fea168b3b,43,looming height 3,1,1
+av2,2451c219-3002-3b2e-8fa9-2b7fea168b3b,43,looming width-height 3,1,1
+av2,2451c219-3002-3b2e-8fa9-2b7fea168b3b,43,looming width-height 2 missing,1,1
+av2,2451c219-3002-3b2e-8fa9-2b7fea168b3b,44,looming width-height 2 missing,1,1
+av2,2451c219-3002-3b2e-8fa9-2b7fea168b3b,46,looming width-height 2 missing,1,1
+av2,247f91e7-3177-33ad-b99e-0e0a4dc76751,1,looming width-height 2 missing,1,0
+av2,247f91e7-3177-33ad-b99e-0e0a4dc76751,63,looming width-height 2 missing,1,0
+av2,2716d83e-8c4f-39a3-a2a3-d5e255fe8a03,8,looming width-height 2 missing,1,0
+av2,2716d83e-8c4f-39a3-a2a3-d5e255fe8a03,15,looming height 3,1,0
+av2,2716d83e-8c4f-39a3-a2a3-d5e255fe8a03,19,looming width-height 2 missing,2,0
+av2,2716d83e-8c4f-39a3-a2a3-d5e255fe8a03,35,looming width-height 2 missing,1,0
+av2,2716d83e-8c4f-39a3-a2a3-d5e255fe8a03,49,looming width-height 2 missing,1,0
+av2,2716d83e-8c4f-39a3-a2a3-d5e255fe8a03,51,looming width-height 2 missing,1,0
+av2,2716d83e-8c4f-39a3-a2a3-d5e255fe8a03,54,looming width-height 2 missing,1,0
+av2,2716d83e-8c4f-39a3-a2a3-d5e255fe8a03,60,looming width-height 2 missing,1,0
+av2,2716d83e-8c4f-39a3-a2a3-d5e255fe8a03,62,looming width-height 2 missing,1,0
+av2,2716d83e-8c4f-39a3-a2a3-d5e255fe8a03,65,looming width-height 2 missing,1,0
+av2,2772dd5f-bc0a-47ea-ae19-a5e0dbef8f41,1,looming width-height 2 missing,2,0
+av2,2772dd5f-bc0a-47ea-ae19-a5e0dbef8f41,5,looming height 3,1,0
+av2,2772dd5f-bc0a-47ea-ae19-a5e0dbef8f41,27,looming width-height 2 missing,2,0
+av2,2772dd5f-bc0a-47ea-ae19-a5e0dbef8f41,60,looming width-height 2 missing,1,0
+av2,2772dd5f-bc0a-47ea-ae19-a5e0dbef8f41,75,looming width-height 2 missing,1,0
+av2,2772dd5f-bc0a-47ea-ae19-a5e0dbef8f41,76,looming width-height 2 missing,1,0
+av2,2772dd5f-bc0a-47ea-ae19-a5e0dbef8f41,79,looming width-height 2 missing,1,0
+av2,27fba275-0b37-3033-b20d-8f9848f78b1c,6,looming height 3,1,2
+av2,27fba275-0b37-3033-b20d-8f9848f78b1c,6,looming width-height 3,1,2
+av2,27fba275-0b37-3033-b20d-8f9848f78b1c,7,looming height 3,1,2
+av2,27fba275-0b37-3033-b20d-8f9848f78b1c,7,looming width-height 3,1,2
+av2,27fba275-0b37-3033-b20d-8f9848f78b1c,12,looming width-height 2 missing,1,1
+av2,27fba275-0b37-3033-b20d-8f9848f78b1c,20,looming width-height 2 missing,1,1
+av2,27fba275-0b37-3033-b20d-8f9848f78b1c,23,looming height 3,1,1
+av2,27fba275-0b37-3033-b20d-8f9848f78b1c,47,looming width-height 2 missing,1,0
+av2,27fba275-0b37-3033-b20d-8f9848f78b1c,73,looming width-height 2 missing,1,0
+av2,27fba275-0b37-3033-b20d-8f9848f78b1c,76,looming width-height 2 missing,1,0
+av2,28617035-7557-3cb9-99c2-754f72fd34b4,5,looming width-height 2 missing,1,1
+av2,28617035-7557-3cb9-99c2-754f72fd34b4,11,looming width-height 2 missing,1,1
+av2,28617035-7557-3cb9-99c2-754f72fd34b4,19,looming width-height 2 missing,1,1
+av2,28617035-7557-3cb9-99c2-754f72fd34b4,27,looming width-height 2 missing,2,0
+av2,28617035-7557-3cb9-99c2-754f72fd34b4,34,looming width-height 2 missing,1,0
+av2,28617035-7557-3cb9-99c2-754f72fd34b4,36,looming height 3,1,0
+av2,28617035-7557-3cb9-99c2-754f72fd34b4,36,looming width-height 3,1,0
+av2,28617035-7557-3cb9-99c2-754f72fd34b4,36,looming width-height 2 missing,1,0
+av2,28617035-7557-3cb9-99c2-754f72fd34b4,64,looming width-height 2 missing,3,0
+av2,28617035-7557-3cb9-99c2-754f72fd34b4,68,looming width-height 2 missing,1,0
+av2,298715e3-b204-3bf5-b8c2-fe3be9e310e8,3,looming height 3,1,0
+av2,2b044433-ddc1-3580-b560-d46474934089,36,looming width-height 2 missing,1,0
+av2,2b044433-ddc1-3580-b560-d46474934089,48,looming width-height 2 missing,1,1
+av2,2b6d18dc-4c95-3301-a498-3ed152798d5b,9,looming width-height 2 missing,1,0
+av2,2b6d18dc-4c95-3301-a498-3ed152798d5b,15,looming width-height 2 missing,1,0
+av2,2b6d18dc-4c95-3301-a498-3ed152798d5b,24,looming height 3,1,0
+av2,2b6d18dc-4c95-3301-a498-3ed152798d5b,30,looming width-height 2 missing,1,0
+av2,2b6d18dc-4c95-3301-a498-3ed152798d5b,48,looming width-height 2 missing,2,0
+av2,32edd7c7-8a8f-360d-bcda-83ecf431e3e6,12,looming width-height 2 missing,2,0
+av2,32edd7c7-8a8f-360d-bcda-83ecf431e3e6,20,looming width-height 2 missing,3,0
+av2,32edd7c7-8a8f-360d-bcda-83ecf431e3e6,24,looming width-height 2 missing,1,0
+av2,32edd7c7-8a8f-360d-bcda-83ecf431e3e6,31,looming width-height 2 missing,1,1
+av2,32edd7c7-8a8f-360d-bcda-83ecf431e3e6,35,looming width-height 2 missing,1,1
+av2,32edd7c7-8a8f-360d-bcda-83ecf431e3e6,41,looming height 3,1,2
+av2,32edd7c7-8a8f-360d-bcda-83ecf431e3e6,41,looming width-height 3,1,2
+av2,32edd7c7-8a8f-360d-bcda-83ecf431e3e6,42,looming height 3,1,2
+av2,32edd7c7-8a8f-360d-bcda-83ecf431e3e6,53,looming width-height 2 missing,1,0
+av2,32edd7c7-8a8f-360d-bcda-83ecf431e3e6,56,looming width-height 2 missing,1,1
+av2,32edd7c7-8a8f-360d-bcda-83ecf431e3e6,60,looming height 3,1,1
+av2,32edd7c7-8a8f-360d-bcda-83ecf431e3e6,64,looming width-height 2 missing,1,1
+av2,32edd7c7-8a8f-360d-bcda-83ecf431e3e6,67,looming width-height 2 missing,1,1
+av2,35a15c5c-fa4a-3838-a724-396e112ec95c,37,looming width-height 2 missing,2,0
+av2,35a15c5c-fa4a-3838-a724-396e112ec95c,42,looming width-height 2 missing,1,0
+av2,35a15c5c-fa4a-3838-a724-396e112ec95c,49,looming width-height 2 missing,1,0
+av2,35a15c5c-fa4a-3838-a724-396e112ec95c,54,looming width-height 2 missing,1,0
+av2,35a15c5c-fa4a-3838-a724-396e112ec95c,63,looming width-height 2 missing,1,0
+av2,380e5bf0-1c68-36a4-ac64-09a03b60bebf,74,looming width-height 2 missing,1,0
+av2,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,44,looming height 3,1,1
+av2,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,44,looming width-height 3,1,1
+av2,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,45,looming height 3,1,1
+av2,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,45,looming width-height 3,1,1
+av2,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,46,looming height 3,1,1
+av2,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,46,looming width-height 3,1,1
+av2,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,47,looming height 3,1,1
+av2,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,47,looming width-height 3,1,1
+av2,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,48,looming height 3,1,1
+av2,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,48,looming width-height 3,1,1
+av2,3844f8a9-b7d4-4919-8e9b-a0370ad29ec0,36,looming width-height 2 missing,1,1
+av2,3844f8a9-b7d4-4919-8e9b-a0370ad29ec0,42,looming width-height 2 missing,1,1
+av2,3a1b3424-700b-3b65-9e89-90772a8e24ea,23,looming width-height 2 missing,1,0
+av2,3a1b3424-700b-3b65-9e89-90772a8e24ea,29,looming height 3,1,0
+av2,3a1b3424-700b-3b65-9e89-90772a8e24ea,29,looming width-height 2 missing,2,0
+av2,3a1b3424-700b-3b65-9e89-90772a8e24ea,33,looming width-height 2 missing,1,0
+av2,3a1b3424-700b-3b65-9e89-90772a8e24ea,37,looming width-height 2 missing,1,0
+av2,3a1b3424-700b-3b65-9e89-90772a8e24ea,43,looming width-height 2 missing,1,2
+av2,3a1b3424-700b-3b65-9e89-90772a8e24ea,48,looming width-height 2 missing,1,1
+av2,3a1b3424-700b-3b65-9e89-90772a8e24ea,51,looming width-height 2 missing,2,1
+av2,3a1b3424-700b-3b65-9e89-90772a8e24ea,52,looming height 3,2,1
+av2,3a1b3424-700b-3b65-9e89-90772a8e24ea,52,looming width-height 3,1,1
+av2,3a1b3424-700b-3b65-9e89-90772a8e24ea,53,looming height 3,2,1
+av2,3a1b3424-700b-3b65-9e89-90772a8e24ea,53,looming width-height 3,2,1
+av2,3a1b3424-700b-3b65-9e89-90772a8e24ea,56,looming width-height 2 missing,1,1
+av2,3c3ed78e-1fcf-30ec-9e19-9bf142e2621d,26,looming width-height 2 missing,1,1
+av2,3c3ed78e-1fcf-30ec-9e19-9bf142e2621d,32,looming width-height 2 missing,1,1
+av2,3c3ed78e-1fcf-30ec-9e19-9bf142e2621d,41,looming width-height 2 missing,1,1
+av2,3c3ed78e-1fcf-30ec-9e19-9bf142e2621d,63,looming width-height 2 missing,1,1
+av2,3c3ed78e-1fcf-30ec-9e19-9bf142e2621d,76,looming width-height 2 missing,1,1
+av2,3c3ed78e-1fcf-30ec-9e19-9bf142e2621d,78,looming width-height 2 missing,1,1
+av2,3c51357e-f6e9-3cda-9036-fe6e6cd442fe,1,looming width-height 2 missing,2,0
+av2,3c51357e-f6e9-3cda-9036-fe6e6cd442fe,6,looming width-height 2 missing,1,0
+av2,3c51357e-f6e9-3cda-9036-fe6e6cd442fe,41,looming height 3,1,2
+av2,3c51357e-f6e9-3cda-9036-fe6e6cd442fe,42,looming height 3,1,2
+av2,3c51357e-f6e9-3cda-9036-fe6e6cd442fe,50,looming width-height 2 missing,1,2
+av2,3ca11a5e-50b2-3cc3-af7a-ce7ab02b9954,22,looming width-height 2 missing,1,2
+av2,3ca11a5e-50b2-3cc3-af7a-ce7ab02b9954,63,looming width-height 2 missing,1,1
+av2,3dd173a6-8b21-3189-bd53-132919b96a48,1,looming width-height 2 missing,1,0
+av2,3dd173a6-8b21-3189-bd53-132919b96a48,56,looming height 3,1,0
+av2,3dd173a6-8b21-3189-bd53-132919b96a48,56,looming width-height 3,1,0
+av2,3ea6b5a0-510a-3157-ba88-5124d61280b0,9,looming width-height 2 missing,1,1
+av2,3ea6b5a0-510a-3157-ba88-5124d61280b0,11,looming width-height 2 missing,1,1
+av2,3ea6b5a0-510a-3157-ba88-5124d61280b0,30,looming height 3,1,1
+av2,3ea6b5a0-510a-3157-ba88-5124d61280b0,30,looming width-height 3,1,1
+av2,3ea6b5a0-510a-3157-ba88-5124d61280b0,31,looming width-height 2 missing,3,1
+av2,3ea6b5a0-510a-3157-ba88-5124d61280b0,32,looming height 3,1,1
+av2,3ea6b5a0-510a-3157-ba88-5124d61280b0,32,looming width-height 3,1,1
+av2,3fa8c20e-a4b4-3af6-b9c4-6cb96f83916d,1,looming width-height 2 missing,1,1
+av2,3fa8c20e-a4b4-3af6-b9c4-6cb96f83916d,5,looming width-height 2 missing,1,1
+av2,3fa8c20e-a4b4-3af6-b9c4-6cb96f83916d,6,looming width-height 2 missing,1,1
+av2,3fa8c20e-a4b4-3af6-b9c4-6cb96f83916d,7,looming height 3,1,1
+av2,3fa8c20e-a4b4-3af6-b9c4-6cb96f83916d,8,looming height 3,1,1
+av2,3fa8c20e-a4b4-3af6-b9c4-6cb96f83916d,8,looming width-height 3,1,1
+av2,3fa8c20e-a4b4-3af6-b9c4-6cb96f83916d,11,looming height 3,1,1
+av2,4058d838-75cb-35e2-af7e-a51aaa833271,43,looming height 3,1,0
+av2,4058d838-75cb-35e2-af7e-a51aaa833271,61,looming width-height 2 missing,1,0
+av2,4058d838-75cb-35e2-af7e-a51aaa833271,67,looming width-height 2 missing,1,0
+av2,40870b19-3356-3e8e-a4a4-9f34eef8ea30,5,looming width-height 2 missing,1,1
+av2,40870b19-3356-3e8e-a4a4-9f34eef8ea30,11,looming width-height 2 missing,1,1
+av2,40870b19-3356-3e8e-a4a4-9f34eef8ea30,24,looming width-height 2 missing,1,1
+av2,40870b19-3356-3e8e-a4a4-9f34eef8ea30,40,looming width-height 2 missing,1,1
+av2,40870b19-3356-3e8e-a4a4-9f34eef8ea30,43,looming height 3,1,1
+av2,40870b19-3356-3e8e-a4a4-9f34eef8ea30,43,looming width-height 3,1,1
+av2,40870b19-3356-3e8e-a4a4-9f34eef8ea30,45,looming width-height 2 missing,1,1
+av2,40870b19-3356-3e8e-a4a4-9f34eef8ea30,49,looming width-height 2 missing,1,1
+av2,40870b19-3356-3e8e-a4a4-9f34eef8ea30,50,looming width-height 2 missing,1,1
+av2,40870b19-3356-3e8e-a4a4-9f34eef8ea30,52,looming width-height 2 missing,1,1
+av2,40870b19-3356-3e8e-a4a4-9f34eef8ea30,53,looming height 3,1,1
+av2,40870b19-3356-3e8e-a4a4-9f34eef8ea30,55,looming width-height 2 missing,1,1
+av2,40870b19-3356-3e8e-a4a4-9f34eef8ea30,56,looming width-height 2 missing,1,1
+av2,40870b19-3356-3e8e-a4a4-9f34eef8ea30,57,looming width-height 2 missing,1,1
+av2,40870b19-3356-3e8e-a4a4-9f34eef8ea30,58,looming height 3,1,1
+av2,40870b19-3356-3e8e-a4a4-9f34eef8ea30,58,looming width-height 3,1,1
+av2,40870b19-3356-3e8e-a4a4-9f34eef8ea30,59,looming height 3,1,1
+av2,40870b19-3356-3e8e-a4a4-9f34eef8ea30,59,looming width-height 3,1,1
+av2,40870b19-3356-3e8e-a4a4-9f34eef8ea30,62,looming width-height 2 missing,1,1
+av2,40870b19-3356-3e8e-a4a4-9f34eef8ea30,65,looming width-height 2 missing,1,1
+av2,40870b19-3356-3e8e-a4a4-9f34eef8ea30,67,looming width-height 2 missing,2,1
+av2,40870b19-3356-3e8e-a4a4-9f34eef8ea30,71,looming width-height 2 missing,1,1
+av2,41c3597a-aab1-3123-85a1-dd5d459af461,6,looming width-height 2 missing,1,1
+av2,41c3597a-aab1-3123-85a1-dd5d459af461,12,looming width-height 2 missing,1,1
+av2,41c3597a-aab1-3123-85a1-dd5d459af461,13,looming height 3,1,1
+av2,41c3597a-aab1-3123-85a1-dd5d459af461,13,looming width-height 2 missing,1,1
+av2,41c3597a-aab1-3123-85a1-dd5d459af461,15,looming width-height 2 missing,1,0
+av2,41c3597a-aab1-3123-85a1-dd5d459af461,16,looming width-height 2 missing,1,0
+av2,41c3597a-aab1-3123-85a1-dd5d459af461,20,looming height 3,1,0
+av2,41c3597a-aab1-3123-85a1-dd5d459af461,21,looming height 3,1,0
+av2,41c3597a-aab1-3123-85a1-dd5d459af461,22,looming width-height 2 missing,1,0
+av2,41c3597a-aab1-3123-85a1-dd5d459af461,24,looming width-height 2 missing,1,0
+av2,41c3597a-aab1-3123-85a1-dd5d459af461,25,looming width-height 2 missing,1,0
+av2,41c3597a-aab1-3123-85a1-dd5d459af461,33,looming width-height 2 missing,1,0
+av2,41c3597a-aab1-3123-85a1-dd5d459af461,37,looming width-height 2 missing,1,0
+av2,41c3597a-aab1-3123-85a1-dd5d459af461,69,looming width-height 2 missing,2,0
+av2,41d69427-364c-366e-94a5-8e556bcac39f,1,looming width-height 2 missing,1,1
+av2,41d69427-364c-366e-94a5-8e556bcac39f,14,looming height 3,1,1
+av2,41d69427-364c-366e-94a5-8e556bcac39f,36,looming height 3,1,1
+av2,41d69427-364c-366e-94a5-8e556bcac39f,38,looming width-height 2 missing,1,1
+av2,41d69427-364c-366e-94a5-8e556bcac39f,41,looming height 3,1,1
+av2,41d69427-364c-366e-94a5-8e556bcac39f,43,looming height 3,1,1
+av2,41d69427-364c-366e-94a5-8e556bcac39f,43,looming width-height 3,1,1
+av2,41d69427-364c-366e-94a5-8e556bcac39f,44,looming height 3,1,1
+av2,41d69427-364c-366e-94a5-8e556bcac39f,44,looming width-height 3,1,1
+av2,41e31361-569b-3ed8-bafd-2308b7a9377e,1,looming width-height 2 missing,1,0
+av2,422dd53b-6010-4eb9-8902-de3d134c5a70,3,looming width-height 2 missing,1,0
+av2,422dd53b-6010-4eb9-8902-de3d134c5a70,4,looming width-height 2 missing,1,0
+av2,422dd53b-6010-4eb9-8902-de3d134c5a70,22,looming width-height 2 missing,2,0
+av2,422dd53b-6010-4eb9-8902-de3d134c5a70,35,looming width-height 2 missing,1,0
+av2,422dd53b-6010-4eb9-8902-de3d134c5a70,40,looming width-height 2 missing,1,0
+av2,422dd53b-6010-4eb9-8902-de3d134c5a70,55,looming width-height 2 missing,1,0
+av2,422dd53b-6010-4eb9-8902-de3d134c5a70,61,looming width-height 2 missing,1,0
+av2,422dd53b-6010-4eb9-8902-de3d134c5a70,73,looming width-height 2 missing,1,0
+av2,429dedd9-2d51-385d-9661-b15f4027e34d,4,looming height 3,1,1
+av2,429dedd9-2d51-385d-9661-b15f4027e34d,20,looming width-height 2 missing,1,1
+av2,429dedd9-2d51-385d-9661-b15f4027e34d,21,looming width-height 2 missing,1,1
+av2,429dedd9-2d51-385d-9661-b15f4027e34d,22,looming width-height 2 missing,1,1
+av2,429dedd9-2d51-385d-9661-b15f4027e34d,23,looming width-height 2 missing,1,1
+av2,429dedd9-2d51-385d-9661-b15f4027e34d,24,looming height 3,1,1
+av2,429dedd9-2d51-385d-9661-b15f4027e34d,24,looming width-height 3,1,1
+av2,429dedd9-2d51-385d-9661-b15f4027e34d,24,looming width-height 2 missing,1,1
+av2,429dedd9-2d51-385d-9661-b15f4027e34d,28,looming width-height 2 missing,1,1
+av2,429dedd9-2d51-385d-9661-b15f4027e34d,32,looming width-height 2 missing,1,1
+av2,429dedd9-2d51-385d-9661-b15f4027e34d,44,looming width-height 2 missing,1,1
+av2,429dedd9-2d51-385d-9661-b15f4027e34d,45,looming height 3,1,1
+av2,429dedd9-2d51-385d-9661-b15f4027e34d,54,looming height 3,1,0
+av2,429dedd9-2d51-385d-9661-b15f4027e34d,62,looming width-height 2 missing,1,0
+av2,429dedd9-2d51-385d-9661-b15f4027e34d,64,looming height 3,1,0
+av2,429dedd9-2d51-385d-9661-b15f4027e34d,68,looming height 3,1,0
+av2,429dedd9-2d51-385d-9661-b15f4027e34d,71,looming height 3,1,0
+av2,429dedd9-2d51-385d-9661-b15f4027e34d,71,looming width-height 2 missing,1,0
+av2,429dedd9-2d51-385d-9661-b15f4027e34d,77,looming height 3,1,0
+av2,429dedd9-2d51-385d-9661-b15f4027e34d,77,looming width-height 3,1,0
+av2,42c8449f-6e6d-3980-b54a-805eba6621c4,1,looming width-height 2 missing,1,0
+av2,42c8449f-6e6d-3980-b54a-805eba6621c4,28,looming height 3,1,0
+av2,42c8449f-6e6d-3980-b54a-805eba6621c4,45,looming height 3,1,0
+av2,42c8449f-6e6d-3980-b54a-805eba6621c4,74,looming width-height 2 missing,1,0
+av2,44200521-4cad-3a5d-8568-e0f3f1ca24d4,1,looming width-height 2 missing,4,1
+av2,44200521-4cad-3a5d-8568-e0f3f1ca24d4,13,looming height 3,1,1
+av2,44200521-4cad-3a5d-8568-e0f3f1ca24d4,14,looming height 3,1,1
+av2,44200521-4cad-3a5d-8568-e0f3f1ca24d4,15,looming width-height 2 missing,1,1
+av2,44200521-4cad-3a5d-8568-e0f3f1ca24d4,19,looming height 3,1,0
+av2,44200521-4cad-3a5d-8568-e0f3f1ca24d4,19,looming width-height 3,1,0
+av2,44200521-4cad-3a5d-8568-e0f3f1ca24d4,19,looming width-height 2 missing,1,0
+av2,44200521-4cad-3a5d-8568-e0f3f1ca24d4,20,looming height 3,1,0
+av2,44200521-4cad-3a5d-8568-e0f3f1ca24d4,20,looming width-height 3,1,0
+av2,44200521-4cad-3a5d-8568-e0f3f1ca24d4,21,looming height 3,1,0
+av2,44200521-4cad-3a5d-8568-e0f3f1ca24d4,21,looming width-height 3,1,0
+av2,44200521-4cad-3a5d-8568-e0f3f1ca24d4,66,looming width-height 2 missing,1,0
+av2,44200521-4cad-3a5d-8568-e0f3f1ca24d4,76,looming width-height 2 missing,1,1
+av2,444cce44-cc82-4620-b630-1b5849284ac7,77,looming width-height 2 missing,1,0
+av2,453e5558-6363-38e3-bf9b-42b5ba0a6f1d,24,looming width-height 2 missing,1,0
+av2,453e5558-6363-38e3-bf9b-42b5ba0a6f1d,26,looming width-height 2 missing,1,0
+av2,453e5558-6363-38e3-bf9b-42b5ba0a6f1d,44,looming width-height 2 missing,1,0
+av2,453e5558-6363-38e3-bf9b-42b5ba0a6f1d,45,looming height 3,1,0
+av2,453e5558-6363-38e3-bf9b-42b5ba0a6f1d,55,looming width-height 2 missing,1,0
+av2,460324ea-c769-38db-bba9-044643c8780e,9,looming width-height 2 missing,1,0
+av2,460324ea-c769-38db-bba9-044643c8780e,12,looming width-height 2 missing,1,0
+av2,460324ea-c769-38db-bba9-044643c8780e,15,looming width-height 2 missing,1,0
+av2,460324ea-c769-38db-bba9-044643c8780e,27,looming height 3,2,0
+av2,460324ea-c769-38db-bba9-044643c8780e,27,looming width-height 3,1,0
+av2,460324ea-c769-38db-bba9-044643c8780e,28,looming height 3,1,0
+av2,460324ea-c769-38db-bba9-044643c8780e,28,looming width-height 3,1,0
+av2,460324ea-c769-38db-bba9-044643c8780e,29,looming width-height 2 missing,1,0
+av2,460324ea-c769-38db-bba9-044643c8780e,34,looming height 3,1,0
+av2,460324ea-c769-38db-bba9-044643c8780e,34,looming width-height 2 missing,1,0
+av2,4667e48c-4d16-38be-b277-6b0013d6588c,6,looming width-height 2 missing,1,0
+av2,47358aac-2ec0-3d45-a837-f2069ca7cee3,8,looming width-height 2 missing,1,0
+av2,47358aac-2ec0-3d45-a837-f2069ca7cee3,9,looming height 3,1,0
+av2,47358aac-2ec0-3d45-a837-f2069ca7cee3,9,looming width-height 2 missing,2,0
+av2,47358aac-2ec0-3d45-a837-f2069ca7cee3,11,looming width-height 2 missing,1,0
+av2,47358aac-2ec0-3d45-a837-f2069ca7cee3,19,looming height 3,1,0
+av2,47358aac-2ec0-3d45-a837-f2069ca7cee3,19,looming width-height 3,1,0
+av2,47358aac-2ec0-3d45-a837-f2069ca7cee3,20,looming height 3,1,0
+av2,47358aac-2ec0-3d45-a837-f2069ca7cee3,20,looming width-height 3,1,0
+av2,47358aac-2ec0-3d45-a837-f2069ca7cee3,21,looming height 3,1,0
+av2,47358aac-2ec0-3d45-a837-f2069ca7cee3,21,looming width-height 3,1,0
+av2,47358aac-2ec0-3d45-a837-f2069ca7cee3,27,looming width-height 2 missing,1,0
+av2,47358aac-2ec0-3d45-a837-f2069ca7cee3,38,looming width-height 2 missing,1,0
+av2,47358aac-2ec0-3d45-a837-f2069ca7cee3,39,looming width-height 2 missing,1,0
+av2,47358aac-2ec0-3d45-a837-f2069ca7cee3,45,looming height 3,1,0
+av2,47358aac-2ec0-3d45-a837-f2069ca7cee3,50,looming height 3,1,0
+av2,47358aac-2ec0-3d45-a837-f2069ca7cee3,50,looming width-height 3,1,0
+av2,47358aac-2ec0-3d45-a837-f2069ca7cee3,63,looming width-height 2 missing,1,0
+av2,49a9df80-ab0a-31fb-9341-a79f7b0258dd,19,looming height 3,1,0
+av2,49a9df80-ab0a-31fb-9341-a79f7b0258dd,30,looming height 3,1,0
+av2,49a9df80-ab0a-31fb-9341-a79f7b0258dd,33,looming width-height 2 missing,1,0
+av2,49a9df80-ab0a-31fb-9341-a79f7b0258dd,40,looming height 3,1,0
+av2,49a9df80-ab0a-31fb-9341-a79f7b0258dd,56,looming height 3,1,0
+av2,49a9df80-ab0a-31fb-9341-a79f7b0258dd,58,looming height 3,1,0
+av2,49a9df80-ab0a-31fb-9341-a79f7b0258dd,60,looming width-height 2 missing,1,0
+av2,49a9df80-ab0a-31fb-9341-a79f7b0258dd,68,looming height 3,1,0
+av2,49a9df80-ab0a-31fb-9341-a79f7b0258dd,68,looming width-height 3,1,0
+av2,49a9df80-ab0a-31fb-9341-a79f7b0258dd,71,looming height 3,2,0
+av2,49a9df80-ab0a-31fb-9341-a79f7b0258dd,71,looming width-height 3,1,0
+av2,49a9df80-ab0a-31fb-9341-a79f7b0258dd,72,looming height 3,1,0
+av2,49a9df80-ab0a-31fb-9341-a79f7b0258dd,72,looming width-height 3,1,0
+av2,49a9df80-ab0a-31fb-9341-a79f7b0258dd,74,looming height 3,1,0
+av2,49a9df80-ab0a-31fb-9341-a79f7b0258dd,74,looming width-height 3,1,0
+av2,4bab74cd-aba9-4752-9e1f-006cc639d63e,1,looming width-height 2 missing,1,2
+av2,4bab74cd-aba9-4752-9e1f-006cc639d63e,14,looming width-height 2 missing,1,0
+av2,4c18ef76-84ba-4a78-8275-7663101fffcf,18,looming width-height 2 missing,1,0
+av2,4c18ef76-84ba-4a78-8275-7663101fffcf,26,looming width-height 2 missing,1,0
+av2,4c18ef76-84ba-4a78-8275-7663101fffcf,33,looming width-height 2 missing,1,0
+av2,4c18ef76-84ba-4a78-8275-7663101fffcf,39,looming width-height 2 missing,2,0
+av2,4d7b84b9-0a03-3aa1-83f0-4766013c3fb1,1,looming width-height 2 missing,2,1
+av2,4d7b84b9-0a03-3aa1-83f0-4766013c3fb1,11,looming width-height 2 missing,1,0
+av2,4d7b84b9-0a03-3aa1-83f0-4766013c3fb1,42,looming width-height 2 missing,1,0
+av2,4d7b84b9-0a03-3aa1-83f0-4766013c3fb1,43,looming width-height 2 missing,1,0
+av2,4d7b84b9-0a03-3aa1-83f0-4766013c3fb1,44,looming width-height 2 missing,1,0
+av2,4d7b84b9-0a03-3aa1-83f0-4766013c3fb1,45,looming width-height 2 missing,1,0
+av2,4d7b84b9-0a03-3aa1-83f0-4766013c3fb1,46,looming width-height 2 missing,1,0
+av2,4d7b84b9-0a03-3aa1-83f0-4766013c3fb1,47,looming width-height 2 missing,1,0
+av2,4d7b84b9-0a03-3aa1-83f0-4766013c3fb1,65,looming width-height 2 missing,1,0
+av2,4d9e3bdf-7216-3161-8281-72863f3c2bf6,41,looming width-height 2 missing,2,0
+av2,4d9e3bdf-7216-3161-8281-72863f3c2bf6,57,looming width-height 2 missing,1,0
+av2,4d9e3bdf-7216-3161-8281-72863f3c2bf6,76,looming width-height 2 missing,1,0
+av2,4e1ac476-80a2-3612-bfd7-1abd24d2b644,4,looming width-height 2 missing,1,1
+av2,4e1ac476-80a2-3612-bfd7-1abd24d2b644,13,looming width-height 2 missing,1,0
+av2,4e1ac476-80a2-3612-bfd7-1abd24d2b644,19,looming width-height 2 missing,1,1
+av2,4e1ac476-80a2-3612-bfd7-1abd24d2b644,31,looming width-height 2 missing,1,0
+av2,4e1ac476-80a2-3612-bfd7-1abd24d2b644,39,looming height 3,1,1
+av2,4e1ac476-80a2-3612-bfd7-1abd24d2b644,40,looming height 3,2,1
+av2,4e1ac476-80a2-3612-bfd7-1abd24d2b644,40,looming width-height 3,2,1
+av2,4e1ac476-80a2-3612-bfd7-1abd24d2b644,41,looming height 3,2,1
+av2,4e1ac476-80a2-3612-bfd7-1abd24d2b644,41,looming width-height 3,2,1
+av2,4e1ac476-80a2-3612-bfd7-1abd24d2b644,42,looming height 3,1,0
+av2,4e1ac476-80a2-3612-bfd7-1abd24d2b644,42,looming width-height 3,1,0
+av2,4e1ac476-80a2-3612-bfd7-1abd24d2b644,43,looming height 3,1,0
+av2,4e1ac476-80a2-3612-bfd7-1abd24d2b644,43,looming width-height 3,1,0
+av2,4e1ac476-80a2-3612-bfd7-1abd24d2b644,44,looming height 3,1,0
+av2,4e1ac476-80a2-3612-bfd7-1abd24d2b644,44,looming width-height 3,1,0
+av2,4e1ac476-80a2-3612-bfd7-1abd24d2b644,44,looming width-height 2 missing,1,0
+av2,4e1ac476-80a2-3612-bfd7-1abd24d2b644,45,looming height 3,1,0
+av2,4e1ac476-80a2-3612-bfd7-1abd24d2b644,45,looming width-height 3,1,0
+av2,4e1ac476-80a2-3612-bfd7-1abd24d2b644,68,looming width-height 2 missing,1,1
+av2,4e1ac476-80a2-3612-bfd7-1abd24d2b644,73,looming width-height 2 missing,1,1
+av2,4e1ac476-80a2-3612-bfd7-1abd24d2b644,74,looming width-height 2 missing,1,1
+av2,4e302e79-1cb9-358f-a3fb-e133a655af4f,1,looming width-height 2 missing,1,0
+av2,4e302e79-1cb9-358f-a3fb-e133a655af4f,10,looming width-height 2 missing,1,0
+av2,4e302e79-1cb9-358f-a3fb-e133a655af4f,11,looming height 3,1,0
+av2,4e302e79-1cb9-358f-a3fb-e133a655af4f,11,looming width-height 3,1,0
+av2,4e302e79-1cb9-358f-a3fb-e133a655af4f,11,looming width-height 2 missing,1,0
+av2,4e302e79-1cb9-358f-a3fb-e133a655af4f,12,looming height 3,1,0
+av2,4e302e79-1cb9-358f-a3fb-e133a655af4f,12,looming width-height 3,1,0
+av2,4e302e79-1cb9-358f-a3fb-e133a655af4f,12,looming width-height 2 missing,1,0
+av2,4e302e79-1cb9-358f-a3fb-e133a655af4f,13,looming height 3,1,0
+av2,4e302e79-1cb9-358f-a3fb-e133a655af4f,13,looming width-height 3,1,0
+av2,4e302e79-1cb9-358f-a3fb-e133a655af4f,14,looming height 3,1,0
+av2,4e302e79-1cb9-358f-a3fb-e133a655af4f,14,looming width-height 3,1,0
+av2,4e302e79-1cb9-358f-a3fb-e133a655af4f,17,looming height 3,1,0
+av2,4e302e79-1cb9-358f-a3fb-e133a655af4f,17,looming width-height 3,1,0
+av2,4e302e79-1cb9-358f-a3fb-e133a655af4f,18,looming height 3,1,0
+av2,4e302e79-1cb9-358f-a3fb-e133a655af4f,18,looming width-height 3,1,0
+av2,4e391f98-31a6-330d-9252-d02aab82f5db,2,looming width-height 2 missing,1,1
+av2,4e391f98-31a6-330d-9252-d02aab82f5db,9,looming width-height 2 missing,1,1
+av2,4e391f98-31a6-330d-9252-d02aab82f5db,33,looming width-height 2 missing,1,0
+av2,4e391f98-31a6-330d-9252-d02aab82f5db,37,looming width-height 2 missing,1,0
+av2,4e391f98-31a6-330d-9252-d02aab82f5db,66,looming width-height 2 missing,1,0
+av2,4f1b4bb2-b30b-3537-8fed-dd8f843f5adb,1,looming width-height 2 missing,1,0
+av2,4f1b4bb2-b30b-3537-8fed-dd8f843f5adb,18,looming width-height 2 missing,1,1
+av2,4f1b4bb2-b30b-3537-8fed-dd8f843f5adb,28,looming width-height 2 missing,1,1
+av2,4f1b4bb2-b30b-3537-8fed-dd8f843f5adb,31,looming width-height 2 missing,1,1
+av2,4f1b4bb2-b30b-3537-8fed-dd8f843f5adb,44,looming width-height 2 missing,4,0
+av2,4f1b4bb2-b30b-3537-8fed-dd8f843f5adb,60,looming width-height 2 missing,1,2
+av2,4f1b4bb2-b30b-3537-8fed-dd8f843f5adb,67,looming width-height 2 missing,1,2
+av2,4f1b4bb2-b30b-3537-8fed-dd8f843f5adb,74,looming width-height 2 missing,3,0
+av2,5037a27d-95f5-352f-9c64-5b8e75f574b2,1,looming width-height 2 missing,1,1
+av2,5037a27d-95f5-352f-9c64-5b8e75f574b2,7,looming height 3,1,0
+av2,5037a27d-95f5-352f-9c64-5b8e75f574b2,23,looming width-height 2 missing,1,0
+av2,5037a27d-95f5-352f-9c64-5b8e75f574b2,31,looming width-height 2 missing,1,0
+av2,5037a27d-95f5-352f-9c64-5b8e75f574b2,40,looming width-height 2 missing,1,1
+av2,50d508e2-6753-4519-a8c3-ad94a76ee948,15,looming width-height 2 missing,1,0
+av2,50d508e2-6753-4519-a8c3-ad94a76ee948,18,looming width-height 2 missing,2,0
+av2,50d508e2-6753-4519-a8c3-ad94a76ee948,29,looming width-height 2 missing,1,0
+av2,50d508e2-6753-4519-a8c3-ad94a76ee948,31,looming width-height 2 missing,1,0
+av2,50d508e2-6753-4519-a8c3-ad94a76ee948,43,looming width-height 2 missing,1,0
+av2,511b93af-f16e-3195-8628-fbb972a17f74,28,looming width-height 2 missing,1,0
+av2,511b93af-f16e-3195-8628-fbb972a17f74,32,looming width-height 2 missing,2,0
+av2,511b93af-f16e-3195-8628-fbb972a17f74,44,looming width-height 2 missing,2,1
+av2,511b93af-f16e-3195-8628-fbb972a17f74,54,looming width-height 2 missing,1,1
+av2,52c9e613-61b3-3d17-9f6d-b28de8a14829,35,looming width-height 2 missing,1,0
+av2,52c9e613-61b3-3d17-9f6d-b28de8a14829,36,looming height 3,1,0
+av2,52c9e613-61b3-3d17-9f6d-b28de8a14829,41,looming height 3,2,1
+av2,52c9e613-61b3-3d17-9f6d-b28de8a14829,41,looming width-height 3,1,1
+av2,52c9e613-61b3-3d17-9f6d-b28de8a14829,48,looming height 3,1,1
+av2,52c9e613-61b3-3d17-9f6d-b28de8a14829,48,looming width-height 3,1,1
+av2,53a8391f-b2d7-341f-95ce-b9174d48e040,34,looming width-height 2 missing,2,2
+av2,53a8391f-b2d7-341f-95ce-b9174d48e040,36,looming width-height 2 missing,1,2
+av2,53a8391f-b2d7-341f-95ce-b9174d48e040,41,looming width-height 2 missing,1,2
+av2,545ea917-a910-3013-a3f1-52a86dd6c8b1,7,looming width-height 2 missing,1,0
+av2,545ea917-a910-3013-a3f1-52a86dd6c8b1,46,looming height 3,1,1
+av2,545ea917-a910-3013-a3f1-52a86dd6c8b1,46,looming width-height 3,1,1
+av2,5481321f-d317-3e80-8061-6e9c635c4ca9,1,looming width-height 2 missing,2,0
+av2,5481321f-d317-3e80-8061-6e9c635c4ca9,15,looming width-height 2 missing,1,0
+av2,5481321f-d317-3e80-8061-6e9c635c4ca9,17,looming width-height 2 missing,1,0
+av2,5481321f-d317-3e80-8061-6e9c635c4ca9,23,looming width-height 2 missing,1,0
+av2,5481321f-d317-3e80-8061-6e9c635c4ca9,33,looming width-height 2 missing,1,0
+av2,5481321f-d317-3e80-8061-6e9c635c4ca9,40,looming width-height 2 missing,1,0
+av2,5481321f-d317-3e80-8061-6e9c635c4ca9,47,looming width-height 2 missing,1,0
+av2,5481321f-d317-3e80-8061-6e9c635c4ca9,48,looming width-height 2 missing,1,0
+av2,5481321f-d317-3e80-8061-6e9c635c4ca9,55,looming width-height 2 missing,1,0
+av2,5481321f-d317-3e80-8061-6e9c635c4ca9,67,looming width-height 2 missing,1,0
+av2,5481321f-d317-3e80-8061-6e9c635c4ca9,68,looming height 3,1,0
+av2,5481321f-d317-3e80-8061-6e9c635c4ca9,72,looming height 3,1,0
+av2,5481321f-d317-3e80-8061-6e9c635c4ca9,72,looming width-height 3,1,0
+av2,54bc6dbc-ebfb-3fba-b5b3-57f88b4b79ca,21,looming width-height 2 missing,1,1
+av2,54bc6dbc-ebfb-3fba-b5b3-57f88b4b79ca,49,looming width-height 2 missing,1,0
+av2,54bc6dbc-ebfb-3fba-b5b3-57f88b4b79ca,51,looming width-height 2 missing,1,0
+av2,54bc6dbc-ebfb-3fba-b5b3-57f88b4b79ca,58,looming width-height 2 missing,1,0
+av2,54bc6dbc-ebfb-3fba-b5b3-57f88b4b79ca,63,looming width-height 2 missing,1,0
+av2,54bc6dbc-ebfb-3fba-b5b3-57f88b4b79ca,68,looming height 3,1,0
+av2,54bc6dbc-ebfb-3fba-b5b3-57f88b4b79ca,75,looming width-height 2 missing,1,0
+av2,54bc6dbc-ebfb-3fba-b5b3-57f88b4b79ca,76,looming height 3,1,0
+av2,54bc6dbc-ebfb-3fba-b5b3-57f88b4b79ca,76,looming width-height 3,1,0
+av2,56c24ed8-68c5-3a08-8e3c-19646ac670e5,10,looming width-height 2 missing,1,0
+av2,56c24ed8-68c5-3a08-8e3c-19646ac670e5,25,looming width-height 2 missing,1,1
+av2,56c24ed8-68c5-3a08-8e3c-19646ac670e5,33,looming height 3,1,1
+av2,56c24ed8-68c5-3a08-8e3c-19646ac670e5,33,looming width-height 3,1,1
+av2,56c24ed8-68c5-3a08-8e3c-19646ac670e5,34,looming height 3,1,1
+av2,56c24ed8-68c5-3a08-8e3c-19646ac670e5,34,looming width-height 3,1,1
+av2,56c24ed8-68c5-3a08-8e3c-19646ac670e5,36,looming height 3,1,2
+av2,56c24ed8-68c5-3a08-8e3c-19646ac670e5,36,looming width-height 3,1,2
+av2,58d01358-5927-36fa-9e11-d18d1dc1f4f0,17,looming width-height 2 missing,1,0
+av2,58d01358-5927-36fa-9e11-d18d1dc1f4f0,57,looming width-height 2 missing,1,0
+av2,58d01358-5927-36fa-9e11-d18d1dc1f4f0,58,looming height 3,1,0
+av2,58d01358-5927-36fa-9e11-d18d1dc1f4f0,58,looming width-height 3,1,0
+av2,58d01358-5927-36fa-9e11-d18d1dc1f4f0,61,looming width-height 2 missing,1,0
+av2,58d01358-5927-36fa-9e11-d18d1dc1f4f0,62,looming height 3,1,0
+av2,58d01358-5927-36fa-9e11-d18d1dc1f4f0,62,looming width-height 3,1,0
+av2,58d01358-5927-36fa-9e11-d18d1dc1f4f0,66,looming width-height 2 missing,1,0
+av2,595acd37-183c-489f-bb8a-c299a86b74c0,2,looming width-height 2 missing,1,0
+av2,5aed7fcd-651c-38a7-9523-9d48bf92aeaa,1,looming width-height 2 missing,1,0
+av2,5aed7fcd-651c-38a7-9523-9d48bf92aeaa,30,looming width-height 2 missing,1,1
+av2,5aed7fcd-651c-38a7-9523-9d48bf92aeaa,51,looming width-height 2 missing,1,1
+av2,5aed7fcd-651c-38a7-9523-9d48bf92aeaa,56,looming width-height 2 missing,1,1
+av2,5aed7fcd-651c-38a7-9523-9d48bf92aeaa,70,looming height 3,1,1
+av2,5aed7fcd-651c-38a7-9523-9d48bf92aeaa,70,looming width-height 3,1,1
+av2,5aed7fcd-651c-38a7-9523-9d48bf92aeaa,74,looming height 3,1,0
+av2,5aed7fcd-651c-38a7-9523-9d48bf92aeaa,77,looming width-height 2 missing,1,0
+av2,5bd6bd4d-3c89-3794-9935-2d044ce6ef37,24,looming width-height 2 missing,1,1
+av2,5bd6bd4d-3c89-3794-9935-2d044ce6ef37,25,looming height 3,1,1
+av2,5bd6bd4d-3c89-3794-9935-2d044ce6ef37,25,looming width-height 3,1,1
+av2,5bd6bd4d-3c89-3794-9935-2d044ce6ef37,34,looming height 3,1,2
+av2,5bd6bd4d-3c89-3794-9935-2d044ce6ef37,37,looming height 3,1,2
+av2,5bd6bd4d-3c89-3794-9935-2d044ce6ef37,40,looming height 3,1,2
+av2,5bd6bd4d-3c89-3794-9935-2d044ce6ef37,41,looming height 3,1,2
+av2,5bd6bd4d-3c89-3794-9935-2d044ce6ef37,41,looming width-height 3,1,2
+av2,5bd6bd4d-3c89-3794-9935-2d044ce6ef37,42,looming height 3,1,2
+av2,5bd6bd4d-3c89-3794-9935-2d044ce6ef37,42,looming width-height 3,1,2
+av2,5bd6bd4d-3c89-3794-9935-2d044ce6ef37,43,looming height 3,1,2
+av2,5bd6bd4d-3c89-3794-9935-2d044ce6ef37,43,looming width-height 3,1,2
+av2,5c1db299-e2a2-35e5-84dd-acda8fb393bc,35,looming width-height 2 missing,1,0
+av2,5c1db299-e2a2-35e5-84dd-acda8fb393bc,42,looming width-height 2 missing,1,1
+av2,5c1db299-e2a2-35e5-84dd-acda8fb393bc,47,looming width-height 2 missing,1,1
+av2,5c1db299-e2a2-35e5-84dd-acda8fb393bc,48,looming height 3,1,1
+av2,5c1db299-e2a2-35e5-84dd-acda8fb393bc,49,looming height 3,1,1
+av2,5c1db299-e2a2-35e5-84dd-acda8fb393bc,50,looming height 3,1,1
+av2,5c1db299-e2a2-35e5-84dd-acda8fb393bc,51,looming height 3,1,1
+av2,5c1db299-e2a2-35e5-84dd-acda8fb393bc,51,looming width-height 3,1,1
+av2,5c1db299-e2a2-35e5-84dd-acda8fb393bc,52,looming height 3,1,1
+av2,5ccb359a-2986-466c-88b2-a16f51774a8f,10,looming width-height 2 missing,2,0
+av2,5ccb359a-2986-466c-88b2-a16f51774a8f,11,looming height 3,1,0
+av2,5ccb359a-2986-466c-88b2-a16f51774a8f,11,looming width-height 3,1,0
+av2,5ccb359a-2986-466c-88b2-a16f51774a8f,20,looming width-height 2 missing,1,0
+av2,5ccb359a-2986-466c-88b2-a16f51774a8f,25,looming width-height 2 missing,1,0
+av2,5ccb359a-2986-466c-88b2-a16f51774a8f,34,looming width-height 2 missing,2,0
+av2,5ccb359a-2986-466c-88b2-a16f51774a8f,35,looming width-height 2 missing,1,0
+av2,5cf52bbe-f7f4-30c9-a4c2-a1fbb93513e4,1,looming width-height 2 missing,1,0
+av2,5cf52bbe-f7f4-30c9-a4c2-a1fbb93513e4,8,looming width-height 2 missing,1,0
+av2,5cf52bbe-f7f4-30c9-a4c2-a1fbb93513e4,12,looming width-height 2 missing,1,0
+av2,5cf52bbe-f7f4-30c9-a4c2-a1fbb93513e4,20,looming height 3,1,0
+av2,5cf52bbe-f7f4-30c9-a4c2-a1fbb93513e4,21,looming height 3,1,0
+av2,5cf52bbe-f7f4-30c9-a4c2-a1fbb93513e4,25,looming height 3,1,0
+av2,5cf52bbe-f7f4-30c9-a4c2-a1fbb93513e4,27,looming width-height 2 missing,1,0
+av2,5d062611-5417-3405-997c-1d1aefe4d85f,5,looming width-height 2 missing,2,1
+av2,5d062611-5417-3405-997c-1d1aefe4d85f,25,looming height 3,1,0
+av2,5d062611-5417-3405-997c-1d1aefe4d85f,36,looming height 3,1,0
+av2,5d062611-5417-3405-997c-1d1aefe4d85f,39,looming width-height 2 missing,1,0
+av2,5d062611-5417-3405-997c-1d1aefe4d85f,42,looming width-height 2 missing,1,0
+av2,5d062611-5417-3405-997c-1d1aefe4d85f,51,looming width-height 2 missing,1,0
+av2,5d062611-5417-3405-997c-1d1aefe4d85f,68,looming width-height 2 missing,1,0
+av2,5d062611-5417-3405-997c-1d1aefe4d85f,69,looming width-height 2 missing,1,0
+av2,5d062611-5417-3405-997c-1d1aefe4d85f,70,looming width-height 2 missing,1,0
+av2,5d333477-796b-3e49-bf41-0cdbed39c8dd,1,looming width-height 2 missing,2,1
+av2,5d333477-796b-3e49-bf41-0cdbed39c8dd,18,looming height 3,1,1
+av2,5d333477-796b-3e49-bf41-0cdbed39c8dd,22,looming height 3,1,1
+av2,5d333477-796b-3e49-bf41-0cdbed39c8dd,51,looming width-height 2 missing,1,0
+av2,5d391e54-adec-3584-adf0-5025d7564e1b,1,looming width-height 2 missing,1,0
+av2,5d391e54-adec-3584-adf0-5025d7564e1b,6,looming width-height 2 missing,1,0
+av2,5d391e54-adec-3584-adf0-5025d7564e1b,7,looming height 3,1,0
+av2,5d391e54-adec-3584-adf0-5025d7564e1b,18,looming width-height 2 missing,1,0
+av2,5d391e54-adec-3584-adf0-5025d7564e1b,43,looming width-height 2 missing,1,0
+av2,5d391e54-adec-3584-adf0-5025d7564e1b,61,looming width-height 2 missing,1,0
+av2,5d40499f-c9be-38b9-a0cb-cd234850ba85,37,looming height 3,1,0
+av2,5d40499f-c9be-38b9-a0cb-cd234850ba85,45,looming height 3,1,0
+av2,5d55a63a-3146-32d9-89ec-e207e95ecbde,1,looming width-height 2 missing,1,0
+av2,5d55a63a-3146-32d9-89ec-e207e95ecbde,3,looming width-height 2 missing,1,0
+av2,5d55a63a-3146-32d9-89ec-e207e95ecbde,14,looming width-height 2 missing,2,0
+av2,5d55a63a-3146-32d9-89ec-e207e95ecbde,19,looming width-height 2 missing,1,0
+av2,5d55a63a-3146-32d9-89ec-e207e95ecbde,23,looming width-height 2 missing,1,0
+av2,5d55a63a-3146-32d9-89ec-e207e95ecbde,29,looming width-height 2 missing,1,0
+av2,5d55a63a-3146-32d9-89ec-e207e95ecbde,30,looming height 3,1,0
+av2,5d55a63a-3146-32d9-89ec-e207e95ecbde,63,looming width-height 2 missing,1,0
+av2,5d55a63a-3146-32d9-89ec-e207e95ecbde,65,looming width-height 2 missing,1,0
+av2,5d55a63a-3146-32d9-89ec-e207e95ecbde,68,looming width-height 2 missing,1,0
+av2,5d8f4b0a-27f8-3889-925f-e9a146a395eb,9,looming height 3,1,1
+av2,5d8f4b0a-27f8-3889-925f-e9a146a395eb,14,looming height 3,1,1
+av2,5d8f4b0a-27f8-3889-925f-e9a146a395eb,15,looming height 3,1,1
+av2,5d8f4b0a-27f8-3889-925f-e9a146a395eb,17,looming width-height 2 missing,1,1
+av2,5d9c1080-e6e9-3222-96a2-37ca7286a874,39,looming height 3,1,1
+av2,5d9c1080-e6e9-3222-96a2-37ca7286a874,39,looming width-height 3,1,1
+av2,5d9c1080-e6e9-3222-96a2-37ca7286a874,40,looming height 3,1,1
+av2,5d9c1080-e6e9-3222-96a2-37ca7286a874,40,looming width-height 3,1,1
+av2,5d9c1080-e6e9-3222-96a2-37ca7286a874,41,looming height 3,1,2
+av2,5d9c1080-e6e9-3222-96a2-37ca7286a874,41,looming width-height 3,1,2
+av2,5d9c1080-e6e9-3222-96a2-37ca7286a874,42,looming height 3,1,0
+av2,5d9c1080-e6e9-3222-96a2-37ca7286a874,42,looming width-height 3,1,0
+av2,5d9c1080-e6e9-3222-96a2-37ca7286a874,43,looming height 3,1,0
+av2,5d9c1080-e6e9-3222-96a2-37ca7286a874,43,looming width-height 3,1,0
+av2,5d9c1080-e6e9-3222-96a2-37ca7286a874,44,looming height 3,1,0
+av2,5d9c1080-e6e9-3222-96a2-37ca7286a874,44,looming width-height 3,1,0
+av2,5d9c1080-e6e9-3222-96a2-37ca7286a874,65,looming height 3,1,0
+av2,5d9c1080-e6e9-3222-96a2-37ca7286a874,66,looming width-height 2 missing,1,0
+av2,5d9c1080-e6e9-3222-96a2-37ca7286a874,71,looming width-height 2 missing,1,0
+av2,61e56102-4d85-3a40-bbba-1a007c816f68,30,looming width-height 2 missing,2,0
+av2,61e56102-4d85-3a40-bbba-1a007c816f68,31,looming height 3,1,0
+av2,61e56102-4d85-3a40-bbba-1a007c816f68,32,looming height 3,1,0
+av2,61e56102-4d85-3a40-bbba-1a007c816f68,37,looming width-height 2 missing,1,0
+av2,61e56102-4d85-3a40-bbba-1a007c816f68,42,looming width-height 2 missing,1,0
+av2,61e56102-4d85-3a40-bbba-1a007c816f68,51,looming width-height 2 missing,2,1
+av2,61e56102-4d85-3a40-bbba-1a007c816f68,54,looming height 3,1,2
+av2,61e56102-4d85-3a40-bbba-1a007c816f68,55,looming height 3,1,0
+av2,61e56102-4d85-3a40-bbba-1a007c816f68,66,looming width-height 2 missing,1,0
+av2,61e56102-4d85-3a40-bbba-1a007c816f68,70,looming width-height 2 missing,1,0
+av2,61e56102-4d85-3a40-bbba-1a007c816f68,73,looming width-height 2 missing,1,0
+av2,62879808-1586-4d49-80fe-2f547e355191,1,looming width-height 2 missing,1,1
+av2,62879808-1586-4d49-80fe-2f547e355191,15,looming width-height 2 missing,1,1
+av2,62879808-1586-4d49-80fe-2f547e355191,28,looming height 3,1,1
+av2,62879808-1586-4d49-80fe-2f547e355191,29,looming height 3,1,1
+av2,62879808-1586-4d49-80fe-2f547e355191,56,looming width-height 2 missing,1,1
+av2,62879808-1586-4d49-80fe-2f547e355191,66,looming height 3,1,1
+av2,633addf9-441c-35e7-868a-738aa612d51c,30,looming width-height 2 missing,1,0
+av2,633addf9-441c-35e7-868a-738aa612d51c,39,looming width-height 2 missing,1,0
+av2,633addf9-441c-35e7-868a-738aa612d51c,51,looming width-height 2 missing,1,0
+av2,633addf9-441c-35e7-868a-738aa612d51c,53,looming height 3,1,0
+av2,633addf9-441c-35e7-868a-738aa612d51c,56,looming height 3,1,0
+av2,64037371-4aa4-3fed-97f4-bafc1674caee,42,looming height 3,1,1
+av2,64037371-4aa4-3fed-97f4-bafc1674caee,42,looming width-height 3,1,1
+av2,64037371-4aa4-3fed-97f4-bafc1674caee,43,looming height 3,1,1
+av2,64037371-4aa4-3fed-97f4-bafc1674caee,43,looming width-height 3,1,1
+av2,64037371-4aa4-3fed-97f4-bafc1674caee,45,looming width-height 2 missing,1,1
+av2,64037371-4aa4-3fed-97f4-bafc1674caee,46,looming width-height 2 missing,1,0
+av2,65d3f43d-1969-35d4-bf86-bd5e4b1ac803,73,looming width-height 2 missing,2,0
+av2,65d3f43d-1969-35d4-bf86-bd5e4b1ac803,76,looming width-height 2 missing,2,0
+av2,67d5fb0a-baf8-32f4-9316-18ce755f3e8b,9,looming width-height 2 missing,1,1
+av2,67d5fb0a-baf8-32f4-9316-18ce755f3e8b,15,looming height 3,1,0
+av2,67d5fb0a-baf8-32f4-9316-18ce755f3e8b,15,looming width-height 2 missing,2,0
+av2,67d5fb0a-baf8-32f4-9316-18ce755f3e8b,16,looming height 3,1,0
+av2,67d5fb0a-baf8-32f4-9316-18ce755f3e8b,21,looming height 3,1,0
+av2,67d5fb0a-baf8-32f4-9316-18ce755f3e8b,21,looming width-height 3,1,0
+av2,67d5fb0a-baf8-32f4-9316-18ce755f3e8b,23,looming height 3,1,0
+av2,67d5fb0a-baf8-32f4-9316-18ce755f3e8b,23,looming width-height 3,1,0
+av2,67d5fb0a-baf8-32f4-9316-18ce755f3e8b,34,looming height 3,1,0
+av2,67d5fb0a-baf8-32f4-9316-18ce755f3e8b,38,looming width-height 2 missing,1,1
+av2,67d5fb0a-baf8-32f4-9316-18ce755f3e8b,39,looming width-height 2 missing,1,1
+av2,67d5fb0a-baf8-32f4-9316-18ce755f3e8b,40,looming height 3,1,2
+av2,67d5fb0a-baf8-32f4-9316-18ce755f3e8b,45,looming height 3,1,2
+av2,67d5fb0a-baf8-32f4-9316-18ce755f3e8b,45,looming width-height 3,1,2
+av2,67d5fb0a-baf8-32f4-9316-18ce755f3e8b,47,looming height 3,1,1
+av2,67d5fb0a-baf8-32f4-9316-18ce755f3e8b,48,looming height 3,1,1
+av2,67d5fb0a-baf8-32f4-9316-18ce755f3e8b,48,looming width-height 2 missing,1,1
+av2,67d5fb0a-baf8-32f4-9316-18ce755f3e8b,52,looming width-height 2 missing,1,1
+av2,67d5fb0a-baf8-32f4-9316-18ce755f3e8b,53,looming height 3,1,1
+av2,67d5fb0a-baf8-32f4-9316-18ce755f3e8b,54,looming height 3,1,0
+av2,6aa2ac89-6b25-3af6-ad59-221351189f4b,19,looming width-height 2 missing,1,2
+av2,6aa2ac89-6b25-3af6-ad59-221351189f4b,47,looming width-height 2 missing,1,0
+av2,6aa2ac89-6b25-3af6-ad59-221351189f4b,53,looming width-height 2 missing,1,0
+av2,6aa2ac89-6b25-3af6-ad59-221351189f4b,54,looming width-height 2 missing,1,0
+av2,6aa2ac89-6b25-3af6-ad59-221351189f4b,60,looming height 3,1,0
+av2,6aa2ac89-6b25-3af6-ad59-221351189f4b,77,looming width-height 2 missing,1,1
+av2,6aae7f38-21de-31bf-8761-29d458338958,31,looming height 3,1,0
+av2,6aae7f38-21de-31bf-8761-29d458338958,33,looming width-height 2 missing,1,0
+av2,6b14d7c0-20f9-390b-af38-507a5de5998c,7,looming width-height 2 missing,1,2
+av2,6b14d7c0-20f9-390b-af38-507a5de5998c,10,looming width-height 2 missing,1,2
+av2,6b14d7c0-20f9-390b-af38-507a5de5998c,13,looming width-height 2 missing,1,2
+av2,6b14d7c0-20f9-390b-af38-507a5de5998c,55,looming width-height 2 missing,1,1
+av2,6b14d7c0-20f9-390b-af38-507a5de5998c,72,looming width-height 2 missing,1,1
+av2,6d3bfbc9-45dc-316e-a94c-a441371d0571,22,looming width-height 2 missing,1,1
+av2,6d3bfbc9-45dc-316e-a94c-a441371d0571,36,looming width-height 2 missing,2,1
+av2,6d3bfbc9-45dc-316e-a94c-a441371d0571,37,looming height 3,1,2
+av2,6d3bfbc9-45dc-316e-a94c-a441371d0571,38,looming height 3,1,2
+av2,6d3bfbc9-45dc-316e-a94c-a441371d0571,47,looming width-height 2 missing,1,0
+av2,6d3bfbc9-45dc-316e-a94c-a441371d0571,52,looming width-height 2 missing,1,0
+av2,6d3bfbc9-45dc-316e-a94c-a441371d0571,53,looming width-height 2 missing,1,0
+av2,6d3bfbc9-45dc-316e-a94c-a441371d0571,77,looming width-height 2 missing,1,0
+av2,6dadba1d-0f67-345b-bc5e-407ab8f7654c,1,looming width-height 2 missing,1,2
+av2,6dc6e668-549e-33b8-b952-ed8e807b1d48,5,looming width-height 2 missing,1,0
+av2,6dc6e668-549e-33b8-b952-ed8e807b1d48,8,looming width-height 2 missing,1,0
+av2,6dc6e668-549e-33b8-b952-ed8e807b1d48,24,looming width-height 2 missing,1,1
+av2,6dc6e668-549e-33b8-b952-ed8e807b1d48,33,looming height 3,1,1
+av2,6dc6e668-549e-33b8-b952-ed8e807b1d48,33,looming width-height 2 missing,1,1
+av2,6dc6e668-549e-33b8-b952-ed8e807b1d48,34,looming width-height 2 missing,2,1
+av2,6dc6e668-549e-33b8-b952-ed8e807b1d48,37,looming width-height 2 missing,1,1
+av2,6dc6e668-549e-33b8-b952-ed8e807b1d48,39,looming height 3,1,1
+av2,6dc6e668-549e-33b8-b952-ed8e807b1d48,42,looming height 3,1,1
+av2,6dc6e668-549e-33b8-b952-ed8e807b1d48,43,looming height 3,1,1
+av2,6dc6e668-549e-33b8-b952-ed8e807b1d48,43,looming width-height 3,1,1
+av2,6dc6e668-549e-33b8-b952-ed8e807b1d48,43,looming width-height 2 missing,1,1
+av2,6f2f7d1e-8ded-35c5-ba83-3ca906b05127,10,looming width-height 2 missing,1,0
+av2,6f2f7d1e-8ded-35c5-ba83-3ca906b05127,36,looming width-height 2 missing,1,0
+av2,6f2f7d1e-8ded-35c5-ba83-3ca906b05127,37,looming height 3,1,0
+av2,6f2f7d1e-8ded-35c5-ba83-3ca906b05127,69,looming width-height 2 missing,1,0
+av2,6fdd8d39-7b04-365a-9941-e9e805b05ecf,12,looming width-height 2 missing,1,1
+av2,6fdd8d39-7b04-365a-9941-e9e805b05ecf,32,looming width-height 2 missing,1,1
+av2,6fdd8d39-7b04-365a-9941-e9e805b05ecf,39,looming height 3,1,1
+av2,6fdd8d39-7b04-365a-9941-e9e805b05ecf,44,looming width-height 2 missing,1,1
+av2,6fdd8d39-7b04-365a-9941-e9e805b05ecf,45,looming width-height 2 missing,1,1
+av2,6fdd8d39-7b04-365a-9941-e9e805b05ecf,49,looming width-height 2 missing,1,1
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,8,looming width-height 2 missing,2,0
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,12,looming width-height 2 missing,2,1
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,17,looming width-height 2 missing,3,1
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,18,looming height 3,1,1
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,18,looming width-height 3,1,1
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,19,looming height 3,2,1
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,19,looming width-height 3,2,1
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,23,looming width-height 2 missing,4,1
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,24,looming height 3,1,1
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,24,looming width-height 3,1,1
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,24,looming width-height 2 missing,1,1
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,25,looming height 3,1,1
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,25,looming width-height 3,1,1
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,27,looming height 3,1,1
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,27,looming width-height 3,1,1
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,27,looming width-height 2 missing,1,1
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,28,looming height 3,1,1
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,28,looming width-height 3,1,1
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,29,looming height 3,2,1
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,29,looming width-height 3,2,1
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,30,looming height 3,1,1
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,30,looming width-height 3,1,1
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,31,looming height 3,2,1
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,31,looming width-height 3,2,1
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,31,looming width-height 2 missing,1,1
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,32,looming height 3,1,1
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,32,looming width-height 3,1,1
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,32,looming width-height 2 missing,1,1
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,34,looming height 3,2,2
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,34,looming width-height 3,1,2
+av2,6ff3a51a-e0ab-32be-beb5-4079e56933c6,39,looming width-height 2 missing,1,2
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,20,looming width-height 2 missing,1,1
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,26,looming width-height 2 missing,3,1
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,30,looming width-height 2 missing,1,1
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,33,looming width-height 2 missing,1,1
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,38,looming height 3,1,2
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,38,looming width-height 3,1,2
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,39,looming height 3,2,2
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,39,looming width-height 3,2,2
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,40,looming height 3,1,2
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,40,looming width-height 3,1,2
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,41,looming height 3,1,2
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,41,looming width-height 3,1,2
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,41,looming width-height 2 missing,1,2
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,42,looming height 3,1,2
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,42,looming width-height 3,1,2
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,43,looming height 3,2,2
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,43,looming width-height 3,2,2
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,44,looming height 3,2,2
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,44,looming width-height 3,1,2
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,44,looming width-height 2 missing,1,2
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,45,looming height 3,2,2
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,45,looming width-height 3,1,2
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,45,looming width-height 2 missing,1,2
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,46,looming height 3,1,2
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,46,looming width-height 3,1,2
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,47,looming height 3,1,2
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,49,looming height 3,1,2
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,49,looming width-height 3,1,2
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,52,looming width-height 2 missing,2,1
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,53,looming height 3,1,1
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,53,looming width-height 3,1,1
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,53,looming width-height 2 missing,1,1
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,54,looming height 3,1,1
+av2,70e92418-e4e6-32a2-98c8-9844b1c24f92,54,looming width-height 3,1,1
+av2,713ac3dd-8777-373d-b87d-f3dd9820320e,7,looming width-height 2 missing,1,0
+av2,713ac3dd-8777-373d-b87d-f3dd9820320e,19,looming width-height 2 missing,1,0
+av2,713ac3dd-8777-373d-b87d-f3dd9820320e,20,looming width-height 2 missing,1,0
+av2,713ac3dd-8777-373d-b87d-f3dd9820320e,42,looming height 3,1,1
+av2,713ac3dd-8777-373d-b87d-f3dd9820320e,46,looming width-height 2 missing,1,1
+av2,713ac3dd-8777-373d-b87d-f3dd9820320e,65,looming width-height 2 missing,1,0
+av2,713ac3dd-8777-373d-b87d-f3dd9820320e,67,looming width-height 2 missing,1,0
+av2,713ac3dd-8777-373d-b87d-f3dd9820320e,72,looming width-height 2 missing,1,0
+av2,713ac3dd-8777-373d-b87d-f3dd9820320e,76,looming width-height 2 missing,1,0
+av2,718a2f8d-954a-3cd8-89e6-43898cf21fee,7,looming width-height 2 missing,1,0
+av2,718a2f8d-954a-3cd8-89e6-43898cf21fee,25,looming width-height 2 missing,1,0
+av2,718a2f8d-954a-3cd8-89e6-43898cf21fee,26,looming width-height 2 missing,1,0
+av2,718a2f8d-954a-3cd8-89e6-43898cf21fee,40,looming width-height 2 missing,1,1
+av2,718a2f8d-954a-3cd8-89e6-43898cf21fee,41,looming height 3,1,1
+av2,718a2f8d-954a-3cd8-89e6-43898cf21fee,41,looming width-height 3,1,1
+av2,718a2f8d-954a-3cd8-89e6-43898cf21fee,50,looming width-height 2 missing,1,1
+av2,71d95611-9032-3787-a66e-e26313b08d46,13,looming width-height 2 missing,1,1
+av2,71d95611-9032-3787-a66e-e26313b08d46,49,looming width-height 2 missing,1,1
+av2,71d95611-9032-3787-a66e-e26313b08d46,62,looming width-height 2 missing,1,1
+av2,71d95611-9032-3787-a66e-e26313b08d46,63,looming width-height 2 missing,1,1
+av2,71d95611-9032-3787-a66e-e26313b08d46,64,looming width-height 2 missing,1,1
+av2,71d95611-9032-3787-a66e-e26313b08d46,66,looming width-height 2 missing,1,1
+av2,72ad5f22-3a9c-3758-81af-abda8181a622,1,looming width-height 2 missing,1,1
+av2,72ad5f22-3a9c-3758-81af-abda8181a622,5,looming width-height 2 missing,1,1
+av2,72ad5f22-3a9c-3758-81af-abda8181a622,7,looming width-height 2 missing,1,0
+av2,72ad5f22-3a9c-3758-81af-abda8181a622,8,looming width-height 2 missing,1,0
+av2,72ad5f22-3a9c-3758-81af-abda8181a622,16,looming height 3,1,0
+av2,72ad5f22-3a9c-3758-81af-abda8181a622,19,looming height 3,1,0
+av2,72ad5f22-3a9c-3758-81af-abda8181a622,19,looming width-height 3,1,0
+av2,72ad5f22-3a9c-3758-81af-abda8181a622,20,looming width-height 2 missing,1,0
+av2,72ad5f22-3a9c-3758-81af-abda8181a622,25,looming width-height 2 missing,1,0
+av2,72ad5f22-3a9c-3758-81af-abda8181a622,37,looming width-height 2 missing,1,0
+av2,73d86f1c-5e5c-3842-b671-7f29c78ccc55,46,looming width-height 2 missing,1,1
+av2,74648e09-358d-3183-9b40-278620befa40,1,looming width-height 2 missing,2,0
+av2,74648e09-358d-3183-9b40-278620befa40,5,looming height 3,1,0
+av2,74648e09-358d-3183-9b40-278620befa40,5,looming width-height 3,1,0
+av2,74648e09-358d-3183-9b40-278620befa40,12,looming width-height 2 missing,2,1
+av2,74648e09-358d-3183-9b40-278620befa40,23,looming width-height 2 missing,1,1
+av2,74648e09-358d-3183-9b40-278620befa40,26,looming width-height 2 missing,1,1
+av2,74648e09-358d-3183-9b40-278620befa40,31,looming height 3,1,1
+av2,74648e09-358d-3183-9b40-278620befa40,33,looming width-height 2 missing,4,1
+av2,74648e09-358d-3183-9b40-278620befa40,38,looming width-height 2 missing,1,1
+av2,74648e09-358d-3183-9b40-278620befa40,39,looming height 3,1,1
+av2,74648e09-358d-3183-9b40-278620befa40,39,looming width-height 3,1,1
+av2,74648e09-358d-3183-9b40-278620befa40,40,looming height 3,1,1
+av2,74648e09-358d-3183-9b40-278620befa40,40,looming width-height 3,1,1
+av2,74648e09-358d-3183-9b40-278620befa40,41,looming height 3,1,1
+av2,74648e09-358d-3183-9b40-278620befa40,44,looming width-height 2 missing,1,1
+av2,74648e09-358d-3183-9b40-278620befa40,45,looming height 3,1,0
+av2,74648e09-358d-3183-9b40-278620befa40,46,looming height 3,1,0
+av2,74648e09-358d-3183-9b40-278620befa40,46,looming width-height 3,1,0
+av2,74648e09-358d-3183-9b40-278620befa40,47,looming height 3,1,0
+av2,74648e09-358d-3183-9b40-278620befa40,48,looming height 3,1,0
+av2,74648e09-358d-3183-9b40-278620befa40,48,looming width-height 2 missing,1,0
+av2,74648e09-358d-3183-9b40-278620befa40,74,looming width-height 2 missing,2,0
+av2,74a3e9ae-6811-4d11-a112-4c4963773cfe,59,looming width-height 2 missing,2,0
+av2,74a3e9ae-6811-4d11-a112-4c4963773cfe,72,looming height 3,1,0
+av2,756f4ed0-5352-31e4-b3c6-2841b9e779d7,73,looming height 3,1,0
+av2,76038978-47aa-30ed-bfa1-2d63753a866c,1,looming width-height 2 missing,1,1
+av2,76038978-47aa-30ed-bfa1-2d63753a866c,6,looming width-height 2 missing,1,1
+av2,76038978-47aa-30ed-bfa1-2d63753a866c,7,looming width-height 2 missing,1,1
+av2,76038978-47aa-30ed-bfa1-2d63753a866c,8,looming height 3,1,1
+av2,76038978-47aa-30ed-bfa1-2d63753a866c,9,looming height 3,1,1
+av2,76038978-47aa-30ed-bfa1-2d63753a866c,9,looming width-height 2 missing,2,1
+av2,76038978-47aa-30ed-bfa1-2d63753a866c,10,looming height 3,1,1
+av2,76038978-47aa-30ed-bfa1-2d63753a866c,10,looming width-height 2 missing,1,1
+av2,76038978-47aa-30ed-bfa1-2d63753a866c,12,looming height 3,1,0
+av2,76038978-47aa-30ed-bfa1-2d63753a866c,13,looming height 3,1,0
+av2,76038978-47aa-30ed-bfa1-2d63753a866c,13,looming width-height 3,1,0
+av2,76038978-47aa-30ed-bfa1-2d63753a866c,17,looming width-height 2 missing,1,0
+av2,76038978-47aa-30ed-bfa1-2d63753a866c,30,looming height 3,1,0
+av2,76038978-47aa-30ed-bfa1-2d63753a866c,41,looming width-height 2 missing,1,0
+av2,76038978-47aa-30ed-bfa1-2d63753a866c,46,looming width-height 2 missing,1,0
+av2,76038978-47aa-30ed-bfa1-2d63753a866c,54,looming width-height 2 missing,1,0
+av2,76038978-47aa-30ed-bfa1-2d63753a866c,55,looming height 3,1,0
+av2,79cb0109-4c92-3ede-8849-76cc6824b95a,1,looming width-height 2 missing,1,0
+av2,79cb0109-4c92-3ede-8849-76cc6824b95a,3,looming width-height 2 missing,1,0
+av2,79cb0109-4c92-3ede-8849-76cc6824b95a,5,looming height 3,1,0
+av2,79cb0109-4c92-3ede-8849-76cc6824b95a,5,looming width-height 3,1,0
+av2,79cb0109-4c92-3ede-8849-76cc6824b95a,5,looming width-height 2 missing,1,0
+av2,7a1412d3-5a53-378f-85df-ba58b2408f46,9,looming width-height 2 missing,1,1
+av2,7a1412d3-5a53-378f-85df-ba58b2408f46,43,looming width-height 2 missing,1,0
+av2,7a17d467-9f29-3706-8e40-32bb7fb033de,1,looming width-height 2 missing,1,1
+av2,7a17d467-9f29-3706-8e40-32bb7fb033de,7,looming width-height 2 missing,1,1
+av2,7a17d467-9f29-3706-8e40-32bb7fb033de,14,looming width-height 2 missing,1,1
+av2,7a17d467-9f29-3706-8e40-32bb7fb033de,15,looming height 3,1,1
+av2,7a17d467-9f29-3706-8e40-32bb7fb033de,15,looming width-height 3,1,1
+av2,7a17d467-9f29-3706-8e40-32bb7fb033de,22,looming width-height 2 missing,1,1
+av2,7a17d467-9f29-3706-8e40-32bb7fb033de,33,looming width-height 2 missing,1,1
+av2,7a17d467-9f29-3706-8e40-32bb7fb033de,34,looming width-height 2 missing,1,1
+av2,7a17d467-9f29-3706-8e40-32bb7fb033de,36,looming height 3,1,2
+av2,7a17d467-9f29-3706-8e40-32bb7fb033de,37,looming height 3,1,2
+av2,7a17d467-9f29-3706-8e40-32bb7fb033de,38,looming height 3,1,2
+av2,7a17d467-9f29-3706-8e40-32bb7fb033de,38,looming width-height 3,1,2
+av2,7a17d467-9f29-3706-8e40-32bb7fb033de,39,looming height 3,1,2
+av2,7a17d467-9f29-3706-8e40-32bb7fb033de,40,looming height 3,1,2
+av2,7a17d467-9f29-3706-8e40-32bb7fb033de,40,looming width-height 3,1,2
+av2,7a17d467-9f29-3706-8e40-32bb7fb033de,41,looming height 3,1,2
+av2,7a17d467-9f29-3706-8e40-32bb7fb033de,41,looming width-height 3,1,2
+av2,7a17d467-9f29-3706-8e40-32bb7fb033de,44,looming height 3,1,1
+av2,7a17d467-9f29-3706-8e40-32bb7fb033de,48,looming width-height 2 missing,1,0
+av2,7a17d467-9f29-3706-8e40-32bb7fb033de,69,looming width-height 2 missing,2,0
+av2,7c30c3fc-ea17-38d8-9c52-c75ccb112253,4,looming height 3,1,1
+av2,7c30c3fc-ea17-38d8-9c52-c75ccb112253,5,looming height 3,2,1
+av2,7c30c3fc-ea17-38d8-9c52-c75ccb112253,5,looming width-height 3,1,1
+av2,7c30c3fc-ea17-38d8-9c52-c75ccb112253,6,looming height 3,1,1
+av2,7c30c3fc-ea17-38d8-9c52-c75ccb112253,28,looming height 3,2,1
+av2,7c30c3fc-ea17-38d8-9c52-c75ccb112253,28,looming width-height 3,2,1
+av2,7c30c3fc-ea17-38d8-9c52-c75ccb112253,28,looming width-height 2 missing,1,1
+av2,7c30c3fc-ea17-38d8-9c52-c75ccb112253,34,looming height 3,1,1
+av2,7c30c3fc-ea17-38d8-9c52-c75ccb112253,34,looming width-height 3,1,1
+av2,7c30c3fc-ea17-38d8-9c52-c75ccb112253,34,looming width-height 2 missing,1,1
+av2,7c30c3fc-ea17-38d8-9c52-c75ccb112253,35,looming height 3,1,1
+av2,7c30c3fc-ea17-38d8-9c52-c75ccb112253,35,looming width-height 3,1,1
+av2,7c30c3fc-ea17-38d8-9c52-c75ccb112253,39,looming height 3,1,1
+av2,7c30c3fc-ea17-38d8-9c52-c75ccb112253,39,looming width-height 3,1,1
+av2,7c30c3fc-ea17-38d8-9c52-c75ccb112253,40,looming width-height 2 missing,1,1
+av2,7c30c3fc-ea17-38d8-9c52-c75ccb112253,41,looming height 3,1,1
+av2,7c5e3704-33c8-3a4e-b032-9187a6f90206,35,looming width-height 2 missing,1,1
+av2,7c5e3704-33c8-3a4e-b032-9187a6f90206,36,looming height 3,1,2
+av2,7c5e3704-33c8-3a4e-b032-9187a6f90206,36,looming width-height 3,1,2
+av2,7c5e3704-33c8-3a4e-b032-9187a6f90206,38,looming width-height 2 missing,2,2
+av2,7c5e3704-33c8-3a4e-b032-9187a6f90206,43,looming width-height 2 missing,1,2
+av2,7c5e3704-33c8-3a4e-b032-9187a6f90206,45,looming width-height 2 missing,1,1
+av2,7c5e3704-33c8-3a4e-b032-9187a6f90206,54,looming width-height 2 missing,1,2
+av2,7c5e3704-33c8-3a4e-b032-9187a6f90206,55,looming height 3,1,2
+av2,7c5e3704-33c8-3a4e-b032-9187a6f90206,68,looming width-height 2 missing,1,1
+av2,7c5e3704-33c8-3a4e-b032-9187a6f90206,73,looming width-height 2 missing,1,0
+av2,7cd08674-1787-37d9-9365-988df023724b,7,looming width-height 2 missing,1,0
+av2,7cd08674-1787-37d9-9365-988df023724b,10,looming width-height 2 missing,1,0
+av2,7cd08674-1787-37d9-9365-988df023724b,24,looming width-height 2 missing,2,1
+av2,7cd08674-1787-37d9-9365-988df023724b,29,looming width-height 2 missing,2,1
+av2,7cd08674-1787-37d9-9365-988df023724b,30,looming width-height 2 missing,1,1
+av2,7cd08674-1787-37d9-9365-988df023724b,31,looming width-height 2 missing,1,1
+av2,7cd08674-1787-37d9-9365-988df023724b,32,looming width-height 2 missing,1,1
+av2,7cd08674-1787-37d9-9365-988df023724b,33,looming height 3,1,1
+av2,7cd08674-1787-37d9-9365-988df023724b,39,looming width-height 2 missing,2,1
+av2,7cd08674-1787-37d9-9365-988df023724b,65,looming width-height 2 missing,1,0
+av2,7ce2a2ce-eed6-36d7-ba62-dda9acddb070,1,looming width-height 2 missing,2,0
+av2,7ce2a2ce-eed6-36d7-ba62-dda9acddb070,26,looming width-height 2 missing,1,0
+av2,7d1d720d-6708-3148-917a-b8dc78f1dcd9,21,looming width-height 2 missing,3,0
+av2,7d1d720d-6708-3148-917a-b8dc78f1dcd9,26,looming width-height 2 missing,1,0
+av2,7d1d720d-6708-3148-917a-b8dc78f1dcd9,28,looming width-height 2 missing,1,0
+av2,7d1d720d-6708-3148-917a-b8dc78f1dcd9,31,looming width-height 2 missing,2,1
+av2,7d1d720d-6708-3148-917a-b8dc78f1dcd9,34,looming height 3,1,1
+av2,7d1d720d-6708-3148-917a-b8dc78f1dcd9,36,looming width-height 2 missing,3,1
+av2,7d1d720d-6708-3148-917a-b8dc78f1dcd9,39,looming width-height 2 missing,1,1
+av2,7d1d720d-6708-3148-917a-b8dc78f1dcd9,40,looming width-height 2 missing,1,1
+av2,7d1d720d-6708-3148-917a-b8dc78f1dcd9,41,looming height 3,2,1
+av2,7d1d720d-6708-3148-917a-b8dc78f1dcd9,42,looming height 3,2,2
+av2,7d1d720d-6708-3148-917a-b8dc78f1dcd9,43,looming height 3,2,2
+av2,7d1d720d-6708-3148-917a-b8dc78f1dcd9,44,looming height 3,1,2
+av2,7d1d720d-6708-3148-917a-b8dc78f1dcd9,45,looming width-height 2 missing,1,1
+av2,7d1d720d-6708-3148-917a-b8dc78f1dcd9,46,looming height 3,2,1
+av2,7d1d720d-6708-3148-917a-b8dc78f1dcd9,46,looming width-height 3,1,1
+av2,7d1d720d-6708-3148-917a-b8dc78f1dcd9,47,looming height 3,1,1
+av2,7d1d720d-6708-3148-917a-b8dc78f1dcd9,48,looming height 3,1,1
+av2,7d1d720d-6708-3148-917a-b8dc78f1dcd9,49,looming height 3,1,0
+av2,7d1d720d-6708-3148-917a-b8dc78f1dcd9,69,looming width-height 2 missing,3,0
+av2,7d3f2f76-2f4f-3762-bf0f-f94f79eb0404,1,looming width-height 2 missing,2,0
+av2,7d3f2f76-2f4f-3762-bf0f-f94f79eb0404,2,looming height 3,1,0
+av2,7d3f2f76-2f4f-3762-bf0f-f94f79eb0404,2,looming width-height 3,1,0
+av2,7d3f2f76-2f4f-3762-bf0f-f94f79eb0404,3,looming height 3,1,0
+av2,7d3f2f76-2f4f-3762-bf0f-f94f79eb0404,3,looming width-height 3,1,0
+av2,7d3f2f76-2f4f-3762-bf0f-f94f79eb0404,11,looming width-height 2 missing,2,0
+av2,7d3f2f76-2f4f-3762-bf0f-f94f79eb0404,15,looming height 3,1,0
+av2,7d3f2f76-2f4f-3762-bf0f-f94f79eb0404,15,looming width-height 3,1,0
+av2,7d3f2f76-2f4f-3762-bf0f-f94f79eb0404,61,looming width-height 2 missing,1,0
+av2,7d3f2f76-2f4f-3762-bf0f-f94f79eb0404,62,looming height 3,1,0
+av2,7d3f2f76-2f4f-3762-bf0f-f94f79eb0404,62,looming width-height 3,1,0
+av2,7d3f2f76-2f4f-3762-bf0f-f94f79eb0404,73,looming width-height 2 missing,1,0
+av2,7d3f2f76-2f4f-3762-bf0f-f94f79eb0404,75,looming width-height 2 missing,1,0
+av2,7d3f2f76-2f4f-3762-bf0f-f94f79eb0404,80,looming width-height 2 missing,1,1
+av2,7d3f2f76-2f4f-3762-bf0f-f94f79eb0404,81,looming width-height 2 missing,1,0
+av2,7d3f2f76-2f4f-3762-bf0f-f94f79eb0404,82,looming width-height 2 missing,1,0
+av2,7df1f32e-f059-3ac4-9d57-213f2f69b8b4,1,looming width-height 2 missing,1,0
+av2,7df1f32e-f059-3ac4-9d57-213f2f69b8b4,16,looming width-height 2 missing,1,0
+av2,7df1f32e-f059-3ac4-9d57-213f2f69b8b4,36,looming width-height 2 missing,2,0
+av2,7df1f32e-f059-3ac4-9d57-213f2f69b8b4,67,looming width-height 2 missing,1,1
+av2,7ef4a6cc-7266-3a31-8dd4-01c3d3c58dcb,4,looming width-height 2 missing,1,1
+av2,7ef4a6cc-7266-3a31-8dd4-01c3d3c58dcb,7,looming width-height 2 missing,1,1
+av2,7ef4a6cc-7266-3a31-8dd4-01c3d3c58dcb,10,looming height 3,1,1
+av2,7ef4a6cc-7266-3a31-8dd4-01c3d3c58dcb,12,looming width-height 2 missing,1,1
+av2,7ef4a6cc-7266-3a31-8dd4-01c3d3c58dcb,20,looming width-height 2 missing,1,1
+av2,7ef4a6cc-7266-3a31-8dd4-01c3d3c58dcb,24,looming width-height 2 missing,1,1
+av2,7ef4a6cc-7266-3a31-8dd4-01c3d3c58dcb,33,looming width-height 2 missing,1,1
+av2,7ef4a6cc-7266-3a31-8dd4-01c3d3c58dcb,39,looming width-height 2 missing,1,1
+av2,7ef4a6cc-7266-3a31-8dd4-01c3d3c58dcb,42,looming width-height 2 missing,1,1
+av2,7ef4a6cc-7266-3a31-8dd4-01c3d3c58dcb,43,looming height 3,1,1
+av2,7ef4a6cc-7266-3a31-8dd4-01c3d3c58dcb,43,looming width-height 3,1,1
+av2,7ef4a6cc-7266-3a31-8dd4-01c3d3c58dcb,48,looming width-height 2 missing,1,1
+av2,7ef4a6cc-7266-3a31-8dd4-01c3d3c58dcb,54,looming width-height 2 missing,1,1
+av2,7f7e4709-7596-35f9-89ac-d808178b1533,1,looming width-height 2 missing,1,1
+av2,7f7e4709-7596-35f9-89ac-d808178b1533,10,looming width-height 2 missing,1,1
+av2,7f7e4709-7596-35f9-89ac-d808178b1533,13,looming width-height 2 missing,1,1
+av2,7f7e4709-7596-35f9-89ac-d808178b1533,15,looming width-height 2 missing,1,1
+av2,7f7e4709-7596-35f9-89ac-d808178b1533,17,looming width-height 2 missing,1,0
+av2,7f7e4709-7596-35f9-89ac-d808178b1533,39,looming width-height 2 missing,1,0
+av2,7f7e4709-7596-35f9-89ac-d808178b1533,41,looming width-height 2 missing,1,0
+av2,7f7e4709-7596-35f9-89ac-d808178b1533,43,looming width-height 2 missing,1,0
+av2,7f7e4709-7596-35f9-89ac-d808178b1533,46,looming width-height 2 missing,1,0
+av2,7f7e4709-7596-35f9-89ac-d808178b1533,49,looming width-height 2 missing,1,0
+av2,8066e267-a653-3b43-8fce-a5a780912c82,1,looming width-height 2 missing,1,1
+av2,8066e267-a653-3b43-8fce-a5a780912c82,34,looming width-height 2 missing,2,0
+av2,806d3ab3-4c53-30d6-ba6a-09ef6df5af5a,38,looming width-height 2 missing,1,0
+av2,806d3ab3-4c53-30d6-ba6a-09ef6df5af5a,41,looming width-height 2 missing,1,0
+av2,80da8956-f418-319c-9f49-3d47d9002546,1,looming width-height 2 missing,2,1
+av2,80da8956-f418-319c-9f49-3d47d9002546,8,looming width-height 2 missing,1,1
+av2,80da8956-f418-319c-9f49-3d47d9002546,24,looming width-height 2 missing,1,0
+av2,80da8956-f418-319c-9f49-3d47d9002546,67,looming width-height 2 missing,1,0
+av2,80da8956-f418-319c-9f49-3d47d9002546,72,looming width-height 2 missing,1,0
+av2,80da8956-f418-319c-9f49-3d47d9002546,74,looming width-height 2 missing,1,0
+av2,80da8956-f418-319c-9f49-3d47d9002546,76,looming width-height 2 missing,1,0
+av2,81700b3c-2db4-3f72-935c-274d3607d6d2,1,looming width-height 2 missing,2,1
+av2,81700b3c-2db4-3f72-935c-274d3607d6d2,3,looming width-height 2 missing,2,1
+av2,81700b3c-2db4-3f72-935c-274d3607d6d2,8,looming width-height 2 missing,2,1
+av2,81700b3c-2db4-3f72-935c-274d3607d6d2,14,looming width-height 2 missing,2,1
+av2,81700b3c-2db4-3f72-935c-274d3607d6d2,17,looming width-height 2 missing,1,1
+av2,81700b3c-2db4-3f72-935c-274d3607d6d2,20,looming width-height 2 missing,1,1
+av2,81700b3c-2db4-3f72-935c-274d3607d6d2,21,looming width-height 2 missing,2,0
+av2,81700b3c-2db4-3f72-935c-274d3607d6d2,22,looming width-height 2 missing,1,0
+av2,81700b3c-2db4-3f72-935c-274d3607d6d2,23,looming width-height 2 missing,1,0
+av2,81700b3c-2db4-3f72-935c-274d3607d6d2,24,looming height 3,1,0
+av2,81700b3c-2db4-3f72-935c-274d3607d6d2,33,looming width-height 2 missing,1,0
+av2,81700b3c-2db4-3f72-935c-274d3607d6d2,35,looming height 3,1,0
+av2,81700b3c-2db4-3f72-935c-274d3607d6d2,39,looming width-height 2 missing,2,0
+av2,81700b3c-2db4-3f72-935c-274d3607d6d2,41,looming width-height 2 missing,1,0
+av2,81700b3c-2db4-3f72-935c-274d3607d6d2,65,looming width-height 2 missing,1,0
+av2,828ddef2-7609-3683-8e32-c21e7c07d6a6,1,looming width-height 2 missing,1,0
+av2,828ddef2-7609-3683-8e32-c21e7c07d6a6,13,looming width-height 2 missing,1,0
+av2,828ddef2-7609-3683-8e32-c21e7c07d6a6,15,looming width-height 2 missing,1,0
+av2,828ddef2-7609-3683-8e32-c21e7c07d6a6,16,looming width-height 2 missing,1,0
+av2,828ddef2-7609-3683-8e32-c21e7c07d6a6,17,looming height 3,1,0
+av2,828ddef2-7609-3683-8e32-c21e7c07d6a6,38,looming width-height 2 missing,1,1
+av2,828ddef2-7609-3683-8e32-c21e7c07d6a6,45,looming width-height 2 missing,1,1
+av2,828ddef2-7609-3683-8e32-c21e7c07d6a6,48,looming height 3,1,1
+av2,828ddef2-7609-3683-8e32-c21e7c07d6a6,51,looming height 3,1,1
+av2,828ddef2-7609-3683-8e32-c21e7c07d6a6,61,looming width-height 2 missing,1,0
+av2,828ddef2-7609-3683-8e32-c21e7c07d6a6,71,looming width-height 2 missing,1,0
+av2,828ddef2-7609-3683-8e32-c21e7c07d6a6,72,looming width-height 2 missing,1,0
+av2,8346e544-4a73-3c88-9339-c7a21fbd3a2f,2,looming width-height 2 missing,1,0
+av2,8346e544-4a73-3c88-9339-c7a21fbd3a2f,16,looming width-height 2 missing,1,0
+av2,8346e544-4a73-3c88-9339-c7a21fbd3a2f,37,looming width-height 2 missing,1,1
+av2,8346e544-4a73-3c88-9339-c7a21fbd3a2f,38,looming width-height 2 missing,1,1
+av2,8346e544-4a73-3c88-9339-c7a21fbd3a2f,40,looming height 3,1,1
+av2,8346e544-4a73-3c88-9339-c7a21fbd3a2f,40,looming width-height 3,1,1
+av2,8346e544-4a73-3c88-9339-c7a21fbd3a2f,40,looming width-height 2 missing,1,1
+av2,8346e544-4a73-3c88-9339-c7a21fbd3a2f,41,looming height 3,2,1
+av2,8346e544-4a73-3c88-9339-c7a21fbd3a2f,41,looming width-height 3,2,1
+av2,8346e544-4a73-3c88-9339-c7a21fbd3a2f,42,looming height 3,1,1
+av2,8346e544-4a73-3c88-9339-c7a21fbd3a2f,46,looming height 3,1,1
+av2,8346e544-4a73-3c88-9339-c7a21fbd3a2f,47,looming height 3,1,1
+av2,8346e544-4a73-3c88-9339-c7a21fbd3a2f,48,looming width-height 2 missing,1,1
+av2,8346e544-4a73-3c88-9339-c7a21fbd3a2f,50,looming height 3,1,0
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,1,looming width-height 2 missing,1,0
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,4,looming width-height 2 missing,1,1
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,31,looming height 3,1,1
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,32,looming width-height 2 missing,1,1
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,33,looming height 3,1,1
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,33,looming width-height 3,1,1
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,34,looming height 3,1,1
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,34,looming width-height 3,1,1
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,35,looming height 3,1,1
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,35,looming width-height 3,1,1
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,40,looming width-height 2 missing,1,2
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,41,looming height 3,1,2
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,41,looming width-height 3,1,2
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,43,looming width-height 2 missing,1,2
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,44,looming height 3,1,1
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,49,looming width-height 2 missing,1,0
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,59,looming width-height 2 missing,1,1
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,60,looming height 3,1,1
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,60,looming width-height 3,1,1
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,61,looming height 3,1,1
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,61,looming width-height 3,1,1
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,62,looming height 3,1,1
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,62,looming width-height 3,1,1
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,63,looming height 3,2,1
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,63,looming width-height 3,1,1
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,64,looming height 3,2,1
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,64,looming width-height 3,1,1
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,65,looming height 3,1,1
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,65,looming width-height 3,1,1
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,66,looming height 3,1,1
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,66,looming width-height 3,1,1
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,67,looming height 3,1,1
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,68,looming height 3,1,1
+av2,85026edc-5fdf-308e-a8ef-a1aad1151c50,68,looming width-height 3,1,1
+av2,8606d399-57d4-3ae9-938b-db7b8fb7ef8c,1,looming width-height 2 missing,3,0
+av2,8606d399-57d4-3ae9-938b-db7b8fb7ef8c,30,looming width-height 2 missing,1,0
+av2,8606d399-57d4-3ae9-938b-db7b8fb7ef8c,43,looming width-height 2 missing,1,0
+av2,8606d399-57d4-3ae9-938b-db7b8fb7ef8c,46,looming width-height 2 missing,1,0
+av2,8606d399-57d4-3ae9-938b-db7b8fb7ef8c,48,looming height 3,1,0
+av2,8606d399-57d4-3ae9-938b-db7b8fb7ef8c,63,looming width-height 2 missing,1,0
+av2,8606d399-57d4-3ae9-938b-db7b8fb7ef8c,67,looming width-height 2 missing,1,0
+av2,8606d399-57d4-3ae9-938b-db7b8fb7ef8c,75,looming height 3,1,0
+av2,8606d399-57d4-3ae9-938b-db7b8fb7ef8c,76,looming height 3,1,0
+av2,86519a39-4ce9-3d0b-a3f9-dd9aa26a2b25,24,looming width-height 2 missing,3,0
+av2,86519a39-4ce9-3d0b-a3f9-dd9aa26a2b25,31,looming width-height 2 missing,1,0
+av2,86519a39-4ce9-3d0b-a3f9-dd9aa26a2b25,34,looming height 3,1,0
+av2,86519a39-4ce9-3d0b-a3f9-dd9aa26a2b25,35,looming height 3,1,0
+av2,86519a39-4ce9-3d0b-a3f9-dd9aa26a2b25,43,looming height 3,1,0
+av2,8858428d-8fd5-3c3f-8ca4-d01f6e25e63c,25,looming width-height 2 missing,1,1
+av2,890cf3b7-3385-390c-8b2e-132c744b5d2d,25,looming width-height 2 missing,2,0
+av2,890cf3b7-3385-390c-8b2e-132c744b5d2d,70,looming height 3,1,0
+av2,8911207d-fc3d-3009-bb35-18138197724f,41,looming width-height 2 missing,1,0
+av2,8911207d-fc3d-3009-bb35-18138197724f,46,looming width-height 2 missing,1,0
+av2,89f79c55-6698-3037-bd2e-d40c81af169a,48,looming height 3,1,0
+av2,89f79c55-6698-3037-bd2e-d40c81af169a,77,looming width-height 2 missing,1,0
+av2,89f79c55-6698-3037-bd2e-d40c81af169a,78,looming width-height 2 missing,1,0
+av2,8aad8778-73ce-3fa0-93c7-804ac998667d,45,looming width-height 2 missing,1,0
+av2,8aad8778-73ce-3fa0-93c7-804ac998667d,62,looming width-height 2 missing,2,1
+av2,8bc34c99-1b8f-3463-b0e7-12bf1eb222b3,11,looming width-height 2 missing,1,0
+av2,8bc34c99-1b8f-3463-b0e7-12bf1eb222b3,12,looming width-height 2 missing,1,0
+av2,8bc34c99-1b8f-3463-b0e7-12bf1eb222b3,19,looming width-height 2 missing,1,0
+av2,8bc34c99-1b8f-3463-b0e7-12bf1eb222b3,71,looming width-height 2 missing,1,0
+av2,8beeb8db-28f9-396c-b752-17f906505948,30,looming width-height 2 missing,1,0
+av2,8beeb8db-28f9-396c-b752-17f906505948,43,looming width-height 2 missing,1,0
+av2,8beeb8db-28f9-396c-b752-17f906505948,60,looming width-height 2 missing,1,0
+av2,8c52d911-fe34-3424-9864-d3fdfac38064,16,looming height 3,1,0
+av2,8c52d911-fe34-3424-9864-d3fdfac38064,16,looming width-height 3,1,0
+av2,8c52d911-fe34-3424-9864-d3fdfac38064,28,looming width-height 2 missing,1,0
+av2,8e02e2db-2836-37ec-af33-a1cc2e6e49dc,11,looming width-height 2 missing,1,0
+av2,8e02e2db-2836-37ec-af33-a1cc2e6e49dc,23,looming width-height 2 missing,1,0
+av2,8e02e2db-2836-37ec-af33-a1cc2e6e49dc,32,looming width-height 2 missing,1,0
+av2,8e02e2db-2836-37ec-af33-a1cc2e6e49dc,37,looming width-height 2 missing,1,1
+av2,8e02e2db-2836-37ec-af33-a1cc2e6e49dc,50,looming width-height 2 missing,1,0
+av2,8e5022ed-87a9-4480-b2a7-a7c0494f5c7b,50,looming height 3,1,0
+av2,8e5022ed-87a9-4480-b2a7-a7c0494f5c7b,66,looming width-height 2 missing,1,0
+av2,8f317f00-f8b4-325e-a5c7-e4045427a610,35,looming width-height 2 missing,1,0
+av2,8f317f00-f8b4-325e-a5c7-e4045427a610,37,looming height 3,1,0
+av2,8f317f00-f8b4-325e-a5c7-e4045427a610,37,looming width-height 2 missing,1,0
+av2,8f317f00-f8b4-325e-a5c7-e4045427a610,42,looming height 3,1,0
+av2,8f317f00-f8b4-325e-a5c7-e4045427a610,42,looming width-height 3,1,0
+av2,8f317f00-f8b4-325e-a5c7-e4045427a610,42,looming width-height 2 missing,1,0
+av2,902d5e72-b665-3615-af2d-a2b6164864b2,1,looming width-height 2 missing,1,1
+av2,902d5e72-b665-3615-af2d-a2b6164864b2,39,looming height 3,1,0
+av2,902d5e72-b665-3615-af2d-a2b6164864b2,39,looming width-height 2 missing,1,0
+av2,902d5e72-b665-3615-af2d-a2b6164864b2,40,looming height 3,2,0
+av2,902d5e72-b665-3615-af2d-a2b6164864b2,40,looming width-height 3,1,0
+av2,902d5e72-b665-3615-af2d-a2b6164864b2,41,looming height 3,1,0
+av2,902d5e72-b665-3615-af2d-a2b6164864b2,41,looming width-height 2 missing,2,0
+av2,902d5e72-b665-3615-af2d-a2b6164864b2,70,looming width-height 2 missing,1,2
+av2,90f360d8-35f7-3c54-b2da-e99b354bc4cb,9,looming height 3,1,1
+av2,90f360d8-35f7-3c54-b2da-e99b354bc4cb,9,looming width-height 3,1,1
+av2,90f360d8-35f7-3c54-b2da-e99b354bc4cb,10,looming height 3,1,1
+av2,90f360d8-35f7-3c54-b2da-e99b354bc4cb,10,looming width-height 3,1,1
+av2,90f360d8-35f7-3c54-b2da-e99b354bc4cb,13,looming width-height 2 missing,1,1
+av2,90f360d8-35f7-3c54-b2da-e99b354bc4cb,21,looming height 3,1,1
+av2,90f360d8-35f7-3c54-b2da-e99b354bc4cb,22,looming height 3,1,1
+av2,90f360d8-35f7-3c54-b2da-e99b354bc4cb,27,looming height 3,1,0
+av2,90f360d8-35f7-3c54-b2da-e99b354bc4cb,28,looming height 3,1,0
+av2,90f360d8-35f7-3c54-b2da-e99b354bc4cb,28,looming width-height 3,1,0
+av2,91cded81-9f72-3930-bab7-5d3e3fa0a220,36,looming width-height 2 missing,1,0
+av2,91cded81-9f72-3930-bab7-5d3e3fa0a220,37,looming width-height 2 missing,1,0
+av2,91cded81-9f72-3930-bab7-5d3e3fa0a220,40,looming width-height 2 missing,1,0
+av2,91cded81-9f72-3930-bab7-5d3e3fa0a220,65,looming height 3,1,0
+av2,91cded81-9f72-3930-bab7-5d3e3fa0a220,65,looming width-height 3,1,0
+av2,91cded81-9f72-3930-bab7-5d3e3fa0a220,68,looming height 3,1,0
+av2,91cded81-9f72-3930-bab7-5d3e3fa0a220,72,looming width-height 2 missing,1,0
+av2,9239d493-31d7-3dd0-a05f-03d50a242392,1,looming width-height 2 missing,1,0
+av2,9239d493-31d7-3dd0-a05f-03d50a242392,23,looming width-height 2 missing,1,0
+av2,9239d493-31d7-3dd0-a05f-03d50a242392,33,looming height 3,1,0
+av2,9239d493-31d7-3dd0-a05f-03d50a242392,33,looming width-height 3,1,0
+av2,924116d9-0a48-3d97-b8c9-0d16b087c16a,32,looming width-height 2 missing,1,1
+av2,924116d9-0a48-3d97-b8c9-0d16b087c16a,34,looming height 3,1,1
+av2,924116d9-0a48-3d97-b8c9-0d16b087c16a,35,looming height 3,1,1
+av2,924116d9-0a48-3d97-b8c9-0d16b087c16a,35,looming width-height 3,1,1
+av2,924116d9-0a48-3d97-b8c9-0d16b087c16a,38,looming height 3,1,1
+av2,924116d9-0a48-3d97-b8c9-0d16b087c16a,38,looming width-height 3,1,1
+av2,924116d9-0a48-3d97-b8c9-0d16b087c16a,39,looming width-height 2 missing,1,0
+av2,93582b51-5be1-30cd-abb0-3eac16dd6dbc,35,looming height 3,1,1
+av2,93582b51-5be1-30cd-abb0-3eac16dd6dbc,72,looming width-height 2 missing,1,0
+av2,95312039-73b9-35a2-9aec-905494a4f7f0,3,looming height 3,1,0
+av2,95312039-73b9-35a2-9aec-905494a4f7f0,29,looming width-height 2 missing,1,0
+av2,95312039-73b9-35a2-9aec-905494a4f7f0,41,looming height 3,1,2
+av2,95312039-73b9-35a2-9aec-905494a4f7f0,41,looming width-height 3,1,2
+av2,95312039-73b9-35a2-9aec-905494a4f7f0,42,looming height 3,1,2
+av2,95312039-73b9-35a2-9aec-905494a4f7f0,42,looming width-height 3,1,2
+av2,95312039-73b9-35a2-9aec-905494a4f7f0,45,looming height 3,1,2
+av2,95312039-73b9-35a2-9aec-905494a4f7f0,46,looming height 3,1,2
+av2,95312039-73b9-35a2-9aec-905494a4f7f0,53,looming width-height 2 missing,1,1
+av2,95312039-73b9-35a2-9aec-905494a4f7f0,72,looming width-height 2 missing,1,1
+av2,95a47a36-1041-3924-bbd0-4dcad52c323a,76,looming width-height 2 missing,1,0
+av2,95acebfe-c694-3dab-9e6d-01cb501ff426,22,looming width-height 2 missing,1,0
+av2,95acebfe-c694-3dab-9e6d-01cb501ff426,23,looming width-height 2 missing,1,0
+av2,95acebfe-c694-3dab-9e6d-01cb501ff426,24,looming width-height 2 missing,1,0
+av2,95acebfe-c694-3dab-9e6d-01cb501ff426,34,looming width-height 2 missing,1,0
+av2,95acebfe-c694-3dab-9e6d-01cb501ff426,44,looming height 3,1,1
+av2,95acebfe-c694-3dab-9e6d-01cb501ff426,44,looming width-height 3,1,1
+av2,96284bbc-6b58-330f-a5a6-76cd518543f0,17,looming width-height 2 missing,1,0
+av2,96284bbc-6b58-330f-a5a6-76cd518543f0,30,looming width-height 2 missing,1,1
+av2,96284bbc-6b58-330f-a5a6-76cd518543f0,31,looming height 3,1,1
+av2,96284bbc-6b58-330f-a5a6-76cd518543f0,31,looming width-height 3,1,1
+av2,96284bbc-6b58-330f-a5a6-76cd518543f0,37,looming width-height 2 missing,2,1
+av2,96284bbc-6b58-330f-a5a6-76cd518543f0,39,looming width-height 2 missing,1,2
+av2,96284bbc-6b58-330f-a5a6-76cd518543f0,42,looming height 3,1,2
+av2,96284bbc-6b58-330f-a5a6-76cd518543f0,42,looming width-height 3,1,2
+av2,96284bbc-6b58-330f-a5a6-76cd518543f0,42,looming width-height 2 missing,2,2
+av2,96284bbc-6b58-330f-a5a6-76cd518543f0,43,looming height 3,1,2
+av2,96284bbc-6b58-330f-a5a6-76cd518543f0,43,looming width-height 3,1,2
+av2,96284bbc-6b58-330f-a5a6-76cd518543f0,43,looming width-height 2 missing,1,2
+av2,96284bbc-6b58-330f-a5a6-76cd518543f0,48,looming height 3,1,2
+av2,96284bbc-6b58-330f-a5a6-76cd518543f0,48,looming width-height 3,1,2
+av2,96284bbc-6b58-330f-a5a6-76cd518543f0,49,looming height 3,1,2
+av2,96284bbc-6b58-330f-a5a6-76cd518543f0,65,looming width-height 2 missing,1,1
+av2,96284bbc-6b58-330f-a5a6-76cd518543f0,72,looming width-height 2 missing,1,1
+av2,9807c577-0dc0-3116-864b-cf46a1276389,10,looming width-height 2 missing,1,0
+av2,9807c577-0dc0-3116-864b-cf46a1276389,31,looming width-height 2 missing,2,2
+av2,9807c577-0dc0-3116-864b-cf46a1276389,39,looming height 3,1,2
+av2,9807c577-0dc0-3116-864b-cf46a1276389,39,looming width-height 3,1,2
+av2,9807c577-0dc0-3116-864b-cf46a1276389,40,looming height 3,1,2
+av2,9807c577-0dc0-3116-864b-cf46a1276389,40,looming width-height 3,1,2
+av2,9807c577-0dc0-3116-864b-cf46a1276389,41,looming height 3,1,2
+av2,9807c577-0dc0-3116-864b-cf46a1276389,41,looming width-height 3,1,2
+av2,9807c577-0dc0-3116-864b-cf46a1276389,42,looming height 3,1,2
+av2,9807c577-0dc0-3116-864b-cf46a1276389,44,looming height 3,2,2
+av2,9807c577-0dc0-3116-864b-cf46a1276389,44,looming width-height 3,1,2
+av2,9807c577-0dc0-3116-864b-cf46a1276389,46,looming height 3,1,1
+av2,982bcae9-1840-37f4-9278-3dbb63031aac,28,looming width-height 2 missing,1,1
+av2,982bcae9-1840-37f4-9278-3dbb63031aac,42,looming width-height 2 missing,3,0
+av2,982bcae9-1840-37f4-9278-3dbb63031aac,43,looming height 3,1,0
+av2,982bcae9-1840-37f4-9278-3dbb63031aac,47,looming width-height 2 missing,2,0
+av2,982bcae9-1840-37f4-9278-3dbb63031aac,51,looming height 3,1,0
+av2,988ab841-c422-3d08-bb52-a09f8fdb6ab2,37,looming width-height 2 missing,2,1
+av2,988ab841-c422-3d08-bb52-a09f8fdb6ab2,42,looming width-height 2 missing,1,1
+av2,988ab841-c422-3d08-bb52-a09f8fdb6ab2,44,looming width-height 2 missing,1,1
+av2,988ab841-c422-3d08-bb52-a09f8fdb6ab2,45,looming width-height 2 missing,1,1
+av2,988ab841-c422-3d08-bb52-a09f8fdb6ab2,47,looming width-height 2 missing,1,1
+av2,988ab841-c422-3d08-bb52-a09f8fdb6ab2,49,looming height 3,1,0
+av2,988ab841-c422-3d08-bb52-a09f8fdb6ab2,57,looming width-height 2 missing,2,0
+av2,988ab841-c422-3d08-bb52-a09f8fdb6ab2,60,looming width-height 2 missing,1,0
+av2,988ab841-c422-3d08-bb52-a09f8fdb6ab2,71,looming width-height 2 missing,1,0
+av2,9a25fd14-783b-35c3-ab2d-df4687f82b5e,16,looming width-height 2 missing,1,0
+av2,9a25fd14-783b-35c3-ab2d-df4687f82b5e,17,looming width-height 2 missing,1,0
+av2,9a25fd14-783b-35c3-ab2d-df4687f82b5e,40,looming width-height 2 missing,1,1
+av2,9a25fd14-783b-35c3-ab2d-df4687f82b5e,44,looming width-height 2 missing,1,1
+av2,9a25fd14-783b-35c3-ab2d-df4687f82b5e,47,looming width-height 2 missing,1,2
+av2,9a25fd14-783b-35c3-ab2d-df4687f82b5e,50,looming width-height 2 missing,1,1
+av2,9a25fd14-783b-35c3-ab2d-df4687f82b5e,53,looming width-height 2 missing,1,1
+av2,9a25fd14-783b-35c3-ab2d-df4687f82b5e,55,looming width-height 2 missing,1,1
+av2,9a25fd14-783b-35c3-ab2d-df4687f82b5e,61,looming width-height 2 missing,1,1
+av2,9a25fd14-783b-35c3-ab2d-df4687f82b5e,65,looming height 3,1,1
+av2,9a25fd14-783b-35c3-ab2d-df4687f82b5e,67,looming width-height 2 missing,2,1
+av2,9a25fd14-783b-35c3-ab2d-df4687f82b5e,69,looming width-height 2 missing,1,1
+av2,9a25fd14-783b-35c3-ab2d-df4687f82b5e,76,looming width-height 2 missing,5,0
+av2,9a25fd14-783b-35c3-ab2d-df4687f82b5e,78,looming height 3,1,0
+av2,9a25fd14-783b-35c3-ab2d-df4687f82b5e,78,looming width-height 2 missing,1,0
+av2,9a8aea4b-9b61-3884-9f3c-84c3c36e6373,42,looming height 3,1,1
+av2,9a8aea4b-9b61-3884-9f3c-84c3c36e6373,45,looming width-height 2 missing,1,2
+av2,9d65b03d-b59d-3a45-ba66-e313d3cdab40,3,looming width-height 2 missing,1,0
+av2,9d65b03d-b59d-3a45-ba66-e313d3cdab40,17,looming height 3,1,0
+av2,9d65b03d-b59d-3a45-ba66-e313d3cdab40,21,looming width-height 2 missing,1,1
+av2,9d65b03d-b59d-3a45-ba66-e313d3cdab40,22,looming width-height 2 missing,2,1
+av2,9d65b03d-b59d-3a45-ba66-e313d3cdab40,32,looming width-height 2 missing,1,1
+av2,9d65b03d-b59d-3a45-ba66-e313d3cdab40,37,looming width-height 2 missing,1,1
+av2,9e684390-4af3-3ec5-b163-855bbd026ff1,1,looming width-height 2 missing,1,0
+av2,9e684390-4af3-3ec5-b163-855bbd026ff1,2,looming width-height 2 missing,1,0
+av2,9e684390-4af3-3ec5-b163-855bbd026ff1,25,looming width-height 2 missing,1,0
+av2,9e684390-4af3-3ec5-b163-855bbd026ff1,69,looming width-height 2 missing,1,0
+av2,9fd55542-e982-361f-814f-61ad4ad07adf,1,looming width-height 2 missing,2,0
+av2,9fd55542-e982-361f-814f-61ad4ad07adf,5,looming width-height 2 missing,1,0
+av2,9fd55542-e982-361f-814f-61ad4ad07adf,7,looming width-height 2 missing,2,0
+av2,9fd55542-e982-361f-814f-61ad4ad07adf,12,looming width-height 2 missing,2,0
+av2,9fd55542-e982-361f-814f-61ad4ad07adf,36,looming width-height 2 missing,1,0
+av2,9fd55542-e982-361f-814f-61ad4ad07adf,61,looming width-height 2 missing,1,0
+av2,9fd55542-e982-361f-814f-61ad4ad07adf,75,looming width-height 2 missing,1,0
+av2,a0cb0614-ee71-3cf3-b891-a4274883362f,5,looming width-height 2 missing,1,1
+av2,a0cb0614-ee71-3cf3-b891-a4274883362f,9,looming width-height 2 missing,1,1
+av2,a146ab19-f4f3-334f-b830-fc68de83e26c,1,looming width-height 2 missing,1,0
+av2,a146ab19-f4f3-334f-b830-fc68de83e26c,2,looming width-height 2 missing,1,0
+av2,a146ab19-f4f3-334f-b830-fc68de83e26c,26,looming height 3,1,0
+av2,a146ab19-f4f3-334f-b830-fc68de83e26c,30,looming width-height 2 missing,1,0
+av2,a146ab19-f4f3-334f-b830-fc68de83e26c,31,looming width-height 2 missing,1,0
+av2,a146ab19-f4f3-334f-b830-fc68de83e26c,35,looming width-height 2 missing,1,0
+av2,a146ab19-f4f3-334f-b830-fc68de83e26c,40,looming width-height 2 missing,1,0
+av2,a146ab19-f4f3-334f-b830-fc68de83e26c,46,looming width-height 2 missing,1,0
+av2,a146ab19-f4f3-334f-b830-fc68de83e26c,51,looming width-height 2 missing,1,0
+av2,a146ab19-f4f3-334f-b830-fc68de83e26c,52,looming height 3,1,0
+av2,a146ab19-f4f3-334f-b830-fc68de83e26c,56,looming width-height 2 missing,1,0
+av2,a146ab19-f4f3-334f-b830-fc68de83e26c,57,looming height 3,1,0
+av2,a146ab19-f4f3-334f-b830-fc68de83e26c,57,looming width-height 3,1,0
+av2,a146ab19-f4f3-334f-b830-fc68de83e26c,58,looming height 3,1,0
+av2,a160c635-aa67-352c-a5e6-03b113493090,70,looming width-height 2 missing,1,0
+av2,a160c635-aa67-352c-a5e6-03b113493090,72,looming width-height 2 missing,1,0
+av2,a2f568b5-060f-33f0-9175-7e2062d86b6c,38,looming width-height 2 missing,1,2
+av2,a2f568b5-060f-33f0-9175-7e2062d86b6c,71,looming width-height 2 missing,1,0
+av2,a3876690-9d49-3c98-9421-02cfe0ccb551,47,looming width-height 2 missing,1,0
+av2,a3876690-9d49-3c98-9421-02cfe0ccb551,54,looming width-height 2 missing,1,0
+av2,a3876690-9d49-3c98-9421-02cfe0ccb551,75,looming width-height 2 missing,2,2
+av2,a4087bac-8194-4c9e-8b2d-4bda58773a3c,11,looming width-height 2 missing,1,1
+av2,a4087bac-8194-4c9e-8b2d-4bda58773a3c,16,looming width-height 2 missing,1,0
+av2,a4087bac-8194-4c9e-8b2d-4bda58773a3c,19,looming width-height 2 missing,1,0
+av2,a4087bac-8194-4c9e-8b2d-4bda58773a3c,45,looming width-height 2 missing,1,0
+av2,a4087bac-8194-4c9e-8b2d-4bda58773a3c,66,looming width-height 2 missing,1,1
+av2,a50b198c-4de2-3f8c-a2b9-ab280605b350,1,looming width-height 2 missing,3,1
+av2,a50b198c-4de2-3f8c-a2b9-ab280605b350,7,looming width-height 2 missing,1,1
+av2,a50b198c-4de2-3f8c-a2b9-ab280605b350,10,looming height 3,1,1
+av2,a50b198c-4de2-3f8c-a2b9-ab280605b350,11,looming height 3,1,1
+av2,a50b198c-4de2-3f8c-a2b9-ab280605b350,12,looming height 3,1,0
+av2,a50b198c-4de2-3f8c-a2b9-ab280605b350,13,looming height 3,1,0
+av2,a50b198c-4de2-3f8c-a2b9-ab280605b350,16,looming width-height 2 missing,1,0
+av2,a50b198c-4de2-3f8c-a2b9-ab280605b350,19,looming width-height 2 missing,1,0
+av2,a50b198c-4de2-3f8c-a2b9-ab280605b350,22,looming width-height 2 missing,1,0
+av2,a50b198c-4de2-3f8c-a2b9-ab280605b350,27,looming width-height 2 missing,1,1
+av2,a50b198c-4de2-3f8c-a2b9-ab280605b350,45,looming height 3,1,1
+av2,a50b198c-4de2-3f8c-a2b9-ab280605b350,46,looming height 3,1,1
+av2,a783b484-437b-3569-bd44-4f83ad9e05cf,1,looming width-height 2 missing,2,0
+av2,a783b484-437b-3569-bd44-4f83ad9e05cf,5,looming width-height 2 missing,1,0
+av2,a783b484-437b-3569-bd44-4f83ad9e05cf,15,looming width-height 2 missing,1,0
+av2,a783b484-437b-3569-bd44-4f83ad9e05cf,17,looming width-height 2 missing,2,1
+av2,a783b484-437b-3569-bd44-4f83ad9e05cf,19,looming width-height 2 missing,1,1
+av2,a783b484-437b-3569-bd44-4f83ad9e05cf,20,looming width-height 2 missing,1,1
+av2,a783b484-437b-3569-bd44-4f83ad9e05cf,36,looming width-height 2 missing,1,1
+av2,a783b484-437b-3569-bd44-4f83ad9e05cf,43,looming height 3,1,0
+av2,a783b484-437b-3569-bd44-4f83ad9e05cf,43,looming width-height 3,1,0
+av2,a783b484-437b-3569-bd44-4f83ad9e05cf,44,looming height 3,1,1
+av2,a783b484-437b-3569-bd44-4f83ad9e05cf,44,looming width-height 3,1,1
+av2,a88da814-ecc6-39c0-93ba-8a81f403a7e4,36,looming width-height 2 missing,1,0
+av2,a88da814-ecc6-39c0-93ba-8a81f403a7e4,37,looming width-height 2 missing,1,0
+av2,a88da814-ecc6-39c0-93ba-8a81f403a7e4,41,looming width-height 2 missing,1,0
+av2,a88da814-ecc6-39c0-93ba-8a81f403a7e4,43,looming height 3,1,0
+av2,a88da814-ecc6-39c0-93ba-8a81f403a7e4,43,looming width-height 3,1,0
+av2,a88da814-ecc6-39c0-93ba-8a81f403a7e4,69,looming width-height 2 missing,1,0
+av2,a88da814-ecc6-39c0-93ba-8a81f403a7e4,70,looming width-height 2 missing,1,0
+av2,a88da814-ecc6-39c0-93ba-8a81f403a7e4,76,looming width-height 2 missing,1,0
+av2,a88da814-ecc6-39c0-93ba-8a81f403a7e4,77,looming width-height 2 missing,1,0
+av2,aa105408-2974-35e7-ae76-35060cfde21a,57,looming width-height 2 missing,1,0
+av2,aa105408-2974-35e7-ae76-35060cfde21a,70,looming width-height 2 missing,4,0
+av2,aa105408-2974-35e7-ae76-35060cfde21a,74,looming width-height 2 missing,3,0
+av2,aa630060-2eda-37bd-ae88-a513fd9fc8e3,11,looming width-height 2 missing,1,1
+av2,aa630060-2eda-37bd-ae88-a513fd9fc8e3,29,looming width-height 2 missing,2,1
+av2,aa630060-2eda-37bd-ae88-a513fd9fc8e3,30,looming height 3,1,1
+av2,aa630060-2eda-37bd-ae88-a513fd9fc8e3,31,looming height 3,1,1
+av2,aa630060-2eda-37bd-ae88-a513fd9fc8e3,47,looming height 3,1,1
+av2,ab83611b-436e-3de7-aad1-f0c9ad254196,15,looming width-height 2 missing,1,0
+av2,ab83611b-436e-3de7-aad1-f0c9ad254196,34,looming height 3,1,0
+av2,ab83611b-436e-3de7-aad1-f0c9ad254196,34,looming width-height 3,1,0
+av2,ab83611b-436e-3de7-aad1-f0c9ad254196,35,looming height 3,1,0
+av2,ab83611b-436e-3de7-aad1-f0c9ad254196,35,looming width-height 3,1,0
+av2,ab83611b-436e-3de7-aad1-f0c9ad254196,36,looming height 3,1,0
+av2,ab83611b-436e-3de7-aad1-f0c9ad254196,37,looming height 3,1,0
+av2,ab83611b-436e-3de7-aad1-f0c9ad254196,38,looming height 3,3,0
+av2,ab83611b-436e-3de7-aad1-f0c9ad254196,39,looming height 3,2,0
+av2,ab83611b-436e-3de7-aad1-f0c9ad254196,39,looming width-height 2 missing,1,0
+av2,ab83611b-436e-3de7-aad1-f0c9ad254196,40,looming height 3,2,0
+av2,ab83611b-436e-3de7-aad1-f0c9ad254196,41,looming height 3,2,0
+av2,ab83611b-436e-3de7-aad1-f0c9ad254196,44,looming height 3,1,0
+av2,ac3e33eb-5a53-369d-9e5a-7950392bfe99,12,looming width-height 2 missing,1,0
+av2,ac3e33eb-5a53-369d-9e5a-7950392bfe99,16,looming width-height 2 missing,1,0
+av2,ac3e33eb-5a53-369d-9e5a-7950392bfe99,64,looming width-height 2 missing,1,0
+av2,ac3e33eb-5a53-369d-9e5a-7950392bfe99,74,looming width-height 2 missing,1,0
+av2,ac3e33eb-5a53-369d-9e5a-7950392bfe99,78,looming width-height 2 missing,1,0
+av2,ad870270-f3d8-3790-866a-78d61b5b76ee,2,looming width-height 2 missing,1,0
+av2,ad870270-f3d8-3790-866a-78d61b5b76ee,14,looming width-height 2 missing,1,0
+av2,ad870270-f3d8-3790-866a-78d61b5b76ee,38,looming height 3,1,0
+av2,ad870270-f3d8-3790-866a-78d61b5b76ee,39,looming width-height 2 missing,1,1
+av2,ad870270-f3d8-3790-866a-78d61b5b76ee,73,looming height 3,1,0
+av2,aed1b616-9d9a-36d3-a047-07ad3955fbb7,2,looming width-height 2 missing,1,1
+av2,aed1b616-9d9a-36d3-a047-07ad3955fbb7,5,looming width-height 2 missing,1,1
+av2,aed1b616-9d9a-36d3-a047-07ad3955fbb7,10,looming width-height 2 missing,1,1
+av2,aed1b616-9d9a-36d3-a047-07ad3955fbb7,15,looming width-height 2 missing,1,0
+av2,aed1b616-9d9a-36d3-a047-07ad3955fbb7,31,looming width-height 2 missing,1,0
+av2,aed1b616-9d9a-36d3-a047-07ad3955fbb7,33,looming width-height 2 missing,1,0
+av2,aed1b616-9d9a-36d3-a047-07ad3955fbb7,39,looming width-height 2 missing,1,0
+av2,aedbd525-e6df-4c0c-8be6-61c27fe58fd6,36,looming width-height 2 missing,1,0
+av2,af170aac-8465-3d7b-82c5-64147e94af7d,47,looming height 3,1,0
+av2,af170aac-8465-3d7b-82c5-64147e94af7d,47,looming width-height 3,1,0
+av2,b09ba294-96b3-3c45-aeed-c40a309e5f4e,24,looming width-height 2 missing,1,1
+av2,b09ba294-96b3-3c45-aeed-c40a309e5f4e,29,looming width-height 2 missing,3,0
+av2,b09ba294-96b3-3c45-aeed-c40a309e5f4e,35,looming height 3,1,1
+av2,b09ba294-96b3-3c45-aeed-c40a309e5f4e,40,looming width-height 2 missing,1,1
+av2,b09ba294-96b3-3c45-aeed-c40a309e5f4e,41,looming height 3,1,1
+av2,b09ba294-96b3-3c45-aeed-c40a309e5f4e,41,looming width-height 3,1,1
+av2,b09ba294-96b3-3c45-aeed-c40a309e5f4e,44,looming height 3,1,1
+av2,b09ba294-96b3-3c45-aeed-c40a309e5f4e,45,looming height 3,1,1
+av2,b09ba294-96b3-3c45-aeed-c40a309e5f4e,45,looming width-height 3,1,1
+av2,b09ba294-96b3-3c45-aeed-c40a309e5f4e,46,looming height 3,1,1
+av2,b09ba294-96b3-3c45-aeed-c40a309e5f4e,46,looming width-height 3,1,1
+av2,b09ba294-96b3-3c45-aeed-c40a309e5f4e,47,looming height 3,1,1
+av2,b09ba294-96b3-3c45-aeed-c40a309e5f4e,47,looming width-height 3,1,1
+av2,b09ba294-96b3-3c45-aeed-c40a309e5f4e,48,looming height 3,1,1
+av2,b09ba294-96b3-3c45-aeed-c40a309e5f4e,48,looming width-height 3,1,1
+av2,b09ba294-96b3-3c45-aeed-c40a309e5f4e,49,looming height 3,1,1
+av2,b09ba294-96b3-3c45-aeed-c40a309e5f4e,49,looming width-height 3,1,1
+av2,b09ba294-96b3-3c45-aeed-c40a309e5f4e,50,looming height 3,1,1
+av2,b09ba294-96b3-3c45-aeed-c40a309e5f4e,50,looming width-height 3,1,1
+av2,b09ba294-96b3-3c45-aeed-c40a309e5f4e,51,looming height 3,1,1
+av2,b09ba294-96b3-3c45-aeed-c40a309e5f4e,51,looming width-height 3,1,1
+av2,b09ba294-96b3-3c45-aeed-c40a309e5f4e,51,looming width-height 2 missing,1,1
+av2,b09ba294-96b3-3c45-aeed-c40a309e5f4e,52,looming height 3,1,0
+av2,b09ba294-96b3-3c45-aeed-c40a309e5f4e,52,looming width-height 3,1,0
+av2,b1527e96-5a5d-3adc-a893-314ab3a6012e,9,looming width-height 2 missing,1,0
+av2,b1527e96-5a5d-3adc-a893-314ab3a6012e,10,looming width-height 2 missing,1,0
+av2,b1527e96-5a5d-3adc-a893-314ab3a6012e,11,looming width-height 2 missing,1,0
+av2,b1527e96-5a5d-3adc-a893-314ab3a6012e,22,looming height 3,1,0
+av2,b1527e96-5a5d-3adc-a893-314ab3a6012e,22,looming width-height 3,1,0
+av2,b1527e96-5a5d-3adc-a893-314ab3a6012e,25,looming width-height 2 missing,1,0
+av2,b1527e96-5a5d-3adc-a893-314ab3a6012e,28,looming height 3,1,0
+av2,b1527e96-5a5d-3adc-a893-314ab3a6012e,28,looming width-height 3,1,0
+av2,b1527e96-5a5d-3adc-a893-314ab3a6012e,28,looming width-height 2 missing,1,0
+av2,b1527e96-5a5d-3adc-a893-314ab3a6012e,29,looming width-height 2 missing,1,0
+av2,b1527e96-5a5d-3adc-a893-314ab3a6012e,63,looming height 3,1,0
+av2,b1527e96-5a5d-3adc-a893-314ab3a6012e,63,looming width-height 3,1,0
+av2,b1527e96-5a5d-3adc-a893-314ab3a6012e,67,looming height 3,1,0
+av2,b1527e96-5a5d-3adc-a893-314ab3a6012e,67,looming width-height 3,1,0
+av2,b275d09d-9da2-380b-a748-528ee28bc9af,1,looming width-height 2 missing,1,1
+av2,b275d09d-9da2-380b-a748-528ee28bc9af,3,looming width-height 2 missing,1,0
+av2,b275d09d-9da2-380b-a748-528ee28bc9af,6,looming width-height 2 missing,1,0
+av2,b275d09d-9da2-380b-a748-528ee28bc9af,13,looming width-height 2 missing,1,1
+av2,b275d09d-9da2-380b-a748-528ee28bc9af,14,looming width-height 2 missing,1,1
+av2,b275d09d-9da2-380b-a748-528ee28bc9af,15,looming width-height 2 missing,1,1
+av2,b275d09d-9da2-380b-a748-528ee28bc9af,27,looming width-height 2 missing,1,1
+av2,b275d09d-9da2-380b-a748-528ee28bc9af,56,looming height 3,1,2
+av2,b28a3715-4624-3a54-9652-b8f0b293a5a8,28,looming width-height 2 missing,1,0
+av2,b28a3715-4624-3a54-9652-b8f0b293a5a8,36,looming width-height 2 missing,1,1
+av2,b28a3715-4624-3a54-9652-b8f0b293a5a8,39,looming width-height 2 missing,1,1
+av2,b28a3715-4624-3a54-9652-b8f0b293a5a8,40,looming width-height 2 missing,1,1
+av2,b28a3715-4624-3a54-9652-b8f0b293a5a8,47,looming width-height 2 missing,1,2
+av2,b28a3715-4624-3a54-9652-b8f0b293a5a8,48,looming height 3,1,1
+av2,b28a3715-4624-3a54-9652-b8f0b293a5a8,48,looming width-height 3,1,1
+av2,b28a3715-4624-3a54-9652-b8f0b293a5a8,49,looming height 3,1,1
+av2,b28a3715-4624-3a54-9652-b8f0b293a5a8,49,looming width-height 3,1,1
+av2,b28a3715-4624-3a54-9652-b8f0b293a5a8,50,looming width-height 2 missing,1,0
+av2,b28a3715-4624-3a54-9652-b8f0b293a5a8,59,looming width-height 2 missing,1,1
+av2,b28a3715-4624-3a54-9652-b8f0b293a5a8,70,looming width-height 2 missing,1,0
+av2,b436606f-daa4-337f-8103-4360bf4704d9,1,looming width-height 2 missing,2,1
+av2,b436606f-daa4-337f-8103-4360bf4704d9,15,looming height 3,1,1
+av2,b436606f-daa4-337f-8103-4360bf4704d9,22,looming width-height 2 missing,1,1
+av2,b436606f-daa4-337f-8103-4360bf4704d9,29,looming width-height 2 missing,1,1
+av2,b436606f-daa4-337f-8103-4360bf4704d9,33,looming width-height 2 missing,1,1
+av2,b43d449e-daaf-33a1-bb7f-3f7a0b5f056c,39,looming width-height 2 missing,2,0
+av2,b43d449e-daaf-33a1-bb7f-3f7a0b5f056c,41,looming width-height 2 missing,1,0
+av2,b43d449e-daaf-33a1-bb7f-3f7a0b5f056c,43,looming height 3,2,0
+av2,b48d6d4b-f0dd-35da-850d-36a715691e2f,8,looming width-height 2 missing,2,0
+av2,b48d6d4b-f0dd-35da-850d-36a715691e2f,9,looming width-height 2 missing,1,0
+av2,b48d6d4b-f0dd-35da-850d-36a715691e2f,26,looming width-height 2 missing,1,0
+av2,b48d6d4b-f0dd-35da-850d-36a715691e2f,43,looming width-height 2 missing,1,0
+av2,b48d6d4b-f0dd-35da-850d-36a715691e2f,48,looming width-height 2 missing,1,0
+av2,b48d6d4b-f0dd-35da-850d-36a715691e2f,58,looming width-height 2 missing,1,1
+av2,b48d6d4b-f0dd-35da-850d-36a715691e2f,64,looming width-height 2 missing,1,0
+av2,b48d6d4b-f0dd-35da-850d-36a715691e2f,66,looming width-height 2 missing,1,1
+av2,b56e3f47-72a6-34e8-9ada-b4169e28e5b9,11,looming width-height 2 missing,1,0
+av2,b56e3f47-72a6-34e8-9ada-b4169e28e5b9,12,looming width-height 2 missing,1,0
+av2,b56e3f47-72a6-34e8-9ada-b4169e28e5b9,30,looming width-height 2 missing,1,0
+av2,b56e3f47-72a6-34e8-9ada-b4169e28e5b9,33,looming width-height 2 missing,1,0
+av2,b56e3f47-72a6-34e8-9ada-b4169e28e5b9,66,looming width-height 2 missing,1,0
+av2,b5a1b0b0-a7fc-3a47-af82-9b25a81a8c0b,30,looming width-height 2 missing,1,0
+av2,b5a1b0b0-a7fc-3a47-af82-9b25a81a8c0b,49,looming width-height 2 missing,1,1
+av2,b5a1b0b0-a7fc-3a47-af82-9b25a81a8c0b,59,looming width-height 2 missing,1,0
+av2,b5a1b0b0-a7fc-3a47-af82-9b25a81a8c0b,60,looming height 3,1,0
+av2,b5a1b0b0-a7fc-3a47-af82-9b25a81a8c0b,60,looming width-height 3,1,0
+av2,b5a1b0b0-a7fc-3a47-af82-9b25a81a8c0b,61,looming height 3,1,0
+av2,b5a1b0b0-a7fc-3a47-af82-9b25a81a8c0b,62,looming height 3,2,0
+av2,b5a1b0b0-a7fc-3a47-af82-9b25a81a8c0b,62,looming width-height 3,1,0
+av2,b5a1b0b0-a7fc-3a47-af82-9b25a81a8c0b,63,looming height 3,1,0
+av2,b5a1b0b0-a7fc-3a47-af82-9b25a81a8c0b,63,looming width-height 3,1,0
+av2,b5a1b0b0-a7fc-3a47-af82-9b25a81a8c0b,64,looming height 3,1,0
+av2,b5a1b0b0-a7fc-3a47-af82-9b25a81a8c0b,64,looming width-height 3,1,0
+av2,b5a1b0b0-a7fc-3a47-af82-9b25a81a8c0b,65,looming height 3,1,0
+av2,b5a1b0b0-a7fc-3a47-af82-9b25a81a8c0b,65,looming width-height 3,1,0
+av2,b5a1b0b0-a7fc-3a47-af82-9b25a81a8c0b,69,looming width-height 2 missing,2,0
+av2,b5ea60b0-2540-4efe-b60e-f421ade3c128,30,looming width-height 2 missing,1,0
+av2,b5f3900c-b421-3032-aef2-2e91a69d1163,13,looming width-height 2 missing,1,0
+av2,b5f3900c-b421-3032-aef2-2e91a69d1163,23,looming width-height 2 missing,1,0
+av2,b5f3900c-b421-3032-aef2-2e91a69d1163,24,looming width-height 2 missing,1,0
+av2,b5f3900c-b421-3032-aef2-2e91a69d1163,42,looming width-height 2 missing,1,1
+av2,b5f3900c-b421-3032-aef2-2e91a69d1163,43,looming height 3,1,1
+av2,b5f3900c-b421-3032-aef2-2e91a69d1163,43,looming width-height 3,1,1
+av2,b5f3900c-b421-3032-aef2-2e91a69d1163,44,looming height 3,1,1
+av2,b5f3900c-b421-3032-aef2-2e91a69d1163,45,looming height 3,1,1
+av2,b5f3900c-b421-3032-aef2-2e91a69d1163,76,looming width-height 2 missing,1,0
+av2,b6c86134-d7e6-3af6-9db5-8aba3df4f7a7,30,looming width-height 2 missing,1,0
+av2,b6c86134-d7e6-3af6-9db5-8aba3df4f7a7,34,looming height 3,1,0
+av2,b6c86134-d7e6-3af6-9db5-8aba3df4f7a7,39,looming width-height 2 missing,1,0
+av2,b81922e7-092f-3052-8cd1-fec6a6763295,1,looming width-height 2 missing,2,1
+av2,b81922e7-092f-3052-8cd1-fec6a6763295,4,looming width-height 2 missing,1,1
+av2,b81922e7-092f-3052-8cd1-fec6a6763295,7,looming width-height 2 missing,1,1
+av2,b81922e7-092f-3052-8cd1-fec6a6763295,9,looming width-height 2 missing,1,1
+av2,b81922e7-092f-3052-8cd1-fec6a6763295,33,looming width-height 2 missing,1,1
+av2,b81922e7-092f-3052-8cd1-fec6a6763295,38,looming width-height 2 missing,2,1
+av2,b81922e7-092f-3052-8cd1-fec6a6763295,40,looming width-height 2 missing,2,1
+av2,b81922e7-092f-3052-8cd1-fec6a6763295,41,looming height 3,1,1
+av2,b81922e7-092f-3052-8cd1-fec6a6763295,41,looming width-height 3,1,1
+av2,b81922e7-092f-3052-8cd1-fec6a6763295,42,looming height 3,1,1
+av2,b81922e7-092f-3052-8cd1-fec6a6763295,42,looming width-height 3,1,1
+av2,b81922e7-092f-3052-8cd1-fec6a6763295,43,looming height 3,1,1
+av2,b81922e7-092f-3052-8cd1-fec6a6763295,43,looming width-height 3,1,1
+av2,b81922e7-092f-3052-8cd1-fec6a6763295,53,looming width-height 2 missing,1,1
+av2,b81922e7-092f-3052-8cd1-fec6a6763295,56,looming height 3,1,1
+av2,b81922e7-092f-3052-8cd1-fec6a6763295,62,looming width-height 2 missing,1,1
+av2,b9b1564c-66d0-4597-a664-2735cf2ffd04,1,looming width-height 2 missing,2,0
+av2,b9b1564c-66d0-4597-a664-2735cf2ffd04,2,looming width-height 2 missing,1,0
+av2,b9b1564c-66d0-4597-a664-2735cf2ffd04,3,looming height 3,1,0
+av2,b9b1564c-66d0-4597-a664-2735cf2ffd04,3,looming width-height 3,1,0
+av2,b9b1564c-66d0-4597-a664-2735cf2ffd04,10,looming width-height 2 missing,1,0
+av2,b9b1564c-66d0-4597-a664-2735cf2ffd04,11,looming width-height 2 missing,1,0
+av2,b9b1564c-66d0-4597-a664-2735cf2ffd04,15,looming width-height 2 missing,1,0
+av2,b9b1564c-66d0-4597-a664-2735cf2ffd04,22,looming width-height 2 missing,1,0
+av2,b9b1564c-66d0-4597-a664-2735cf2ffd04,40,looming width-height 2 missing,1,0
+av2,b9b1564c-66d0-4597-a664-2735cf2ffd04,47,looming height 3,1,0
+av2,b9b1564c-66d0-4597-a664-2735cf2ffd04,47,looming width-height 3,1,0
+av2,b9b1564c-66d0-4597-a664-2735cf2ffd04,48,looming height 3,1,0
+av2,b9b1564c-66d0-4597-a664-2735cf2ffd04,48,looming width-height 3,1,0
+av2,ba66bb3c-5437-4bc6-afe3-299109e5ced4,5,looming width-height 2 missing,1,1
+av2,ba66bb3c-5437-4bc6-afe3-299109e5ced4,6,looming height 3,1,1
+av2,ba66bb3c-5437-4bc6-afe3-299109e5ced4,6,looming width-height 3,1,1
+av2,ba66bb3c-5437-4bc6-afe3-299109e5ced4,22,looming width-height 2 missing,2,1
+av2,ba66bb3c-5437-4bc6-afe3-299109e5ced4,34,looming height 3,1,1
+av2,ba66bb3c-5437-4bc6-afe3-299109e5ced4,35,looming height 3,1,1
+av2,ba66bb3c-5437-4bc6-afe3-299109e5ced4,61,looming width-height 2 missing,3,1
+av2,ba66bb3c-5437-4bc6-afe3-299109e5ced4,76,looming height 3,1,1
+av2,ba66bb3c-5437-4bc6-afe3-299109e5ced4,77,looming height 3,1,1
+av2,ba66bb3c-5437-4bc6-afe3-299109e5ced4,77,looming width-height 2 missing,2,1
+av2,bb110668-5037-3c04-bd34-34cf1ace8d0f,12,looming width-height 2 missing,1,0
+av2,bb110668-5037-3c04-bd34-34cf1ace8d0f,28,looming width-height 2 missing,1,0
+av2,bb110668-5037-3c04-bd34-34cf1ace8d0f,31,looming width-height 2 missing,1,0
+av2,bb110668-5037-3c04-bd34-34cf1ace8d0f,37,looming width-height 2 missing,1,0
+av2,bb110668-5037-3c04-bd34-34cf1ace8d0f,40,looming width-height 2 missing,2,0
+av2,bb110668-5037-3c04-bd34-34cf1ace8d0f,42,looming width-height 2 missing,1,0
+av2,bba89165-0e5d-3052-abb6-6a61e37861a3,1,looming width-height 2 missing,1,0
+av2,bba89165-0e5d-3052-abb6-6a61e37861a3,69,looming width-height 2 missing,1,1
+av2,bd9636d2-7220-3585-9c7d-4acaea167b71,5,looming width-height 2 missing,1,0
+av2,bd9636d2-7220-3585-9c7d-4acaea167b71,62,looming width-height 2 missing,1,0
+av2,bd9636d2-7220-3585-9c7d-4acaea167b71,66,looming width-height 2 missing,1,0
+av2,be94abe3-f84c-34d6-8461-3105bcfcedb7,36,looming width-height 2 missing,1,1
+av2,be94abe3-f84c-34d6-8461-3105bcfcedb7,39,looming width-height 2 missing,1,2
+av2,be94abe3-f84c-34d6-8461-3105bcfcedb7,40,looming width-height 2 missing,1,2
+av2,be94abe3-f84c-34d6-8461-3105bcfcedb7,41,looming width-height 2 missing,1,2
+av2,be94abe3-f84c-34d6-8461-3105bcfcedb7,42,looming width-height 2 missing,2,2
+av2,be94abe3-f84c-34d6-8461-3105bcfcedb7,46,looming width-height 2 missing,1,0
+av2,bee1146d-2e80-37e3-b08a-6ac8858e8973,5,looming width-height 2 missing,1,0
+av2,bee1146d-2e80-37e3-b08a-6ac8858e8973,25,looming width-height 2 missing,1,0
+av2,bee1146d-2e80-37e3-b08a-6ac8858e8973,35,looming width-height 2 missing,1,1
+av2,bee1146d-2e80-37e3-b08a-6ac8858e8973,38,looming width-height 2 missing,1,1
+av2,bee1146d-2e80-37e3-b08a-6ac8858e8973,62,looming width-height 2 missing,1,0
+av2,c062ba0f-7591-3225-a57d-8181622dc2da,43,looming width-height 2 missing,1,1
+av2,c062ba0f-7591-3225-a57d-8181622dc2da,48,looming width-height 2 missing,1,1
+av2,c062ba0f-7591-3225-a57d-8181622dc2da,71,looming width-height 2 missing,2,0
+av2,c0d36fde-5672-430a-9dd1-3e2a5d4f6cab,57,looming height 3,1,0
+av2,c0d36fde-5672-430a-9dd1-3e2a5d4f6cab,67,looming width-height 2 missing,1,0
+av2,c2c0e6bc-05e5-30dd-8e5e-0e7b6106ad30,21,looming width-height 2 missing,1,0
+av2,c2c0e6bc-05e5-30dd-8e5e-0e7b6106ad30,44,looming height 3,1,0
+av2,c2f301b6-5d19-3296-a8ac-418ff48e052b,35,looming width-height 2 missing,1,0
+av2,c2f301b6-5d19-3296-a8ac-418ff48e052b,67,looming width-height 2 missing,1,0
+av2,c2f301b6-5d19-3296-a8ac-418ff48e052b,71,looming width-height 2 missing,1,0
+av2,c67f439a-f945-33cb-8517-40c9fdf60d59,1,looming width-height 2 missing,2,1
+av2,c67f439a-f945-33cb-8517-40c9fdf60d59,6,looming width-height 2 missing,1,1
+av2,c67f439a-f945-33cb-8517-40c9fdf60d59,12,looming width-height 2 missing,1,1
+av2,c67f439a-f945-33cb-8517-40c9fdf60d59,28,looming width-height 2 missing,1,0
+av2,c69e348a-8e10-31dc-b71b-dd8e5cfd7211,1,looming width-height 2 missing,1,1
+av2,c69e348a-8e10-31dc-b71b-dd8e5cfd7211,5,looming width-height 2 missing,1,1
+av2,c69e348a-8e10-31dc-b71b-dd8e5cfd7211,30,looming width-height 2 missing,1,2
+av2,c69e348a-8e10-31dc-b71b-dd8e5cfd7211,32,looming width-height 2 missing,1,2
+av2,c858bd6a-81ab-3f54-b46d-ffc091ef6945,12,looming height 3,1,1
+av2,c858bd6a-81ab-3f54-b46d-ffc091ef6945,28,looming height 3,1,1
+av2,c858bd6a-81ab-3f54-b46d-ffc091ef6945,48,looming height 3,1,1
+av2,c858bd6a-81ab-3f54-b46d-ffc091ef6945,48,looming width-height 3,1,1
+av2,c858bd6a-81ab-3f54-b46d-ffc091ef6945,49,looming height 3,1,1
+av2,c858bd6a-81ab-3f54-b46d-ffc091ef6945,54,looming height 3,1,1
+av2,c858bd6a-81ab-3f54-b46d-ffc091ef6945,55,looming height 3,1,1
+av2,c858bd6a-81ab-3f54-b46d-ffc091ef6945,55,looming width-height 3,1,1
+av2,c858bd6a-81ab-3f54-b46d-ffc091ef6945,56,looming height 3,1,1
+av2,c858bd6a-81ab-3f54-b46d-ffc091ef6945,56,looming width-height 3,1,1
+av2,c858bd6a-81ab-3f54-b46d-ffc091ef6945,62,looming width-height 2 missing,1,1
+av2,c858bd6a-81ab-3f54-b46d-ffc091ef6945,66,looming width-height 2 missing,1,1
+av2,c858bd6a-81ab-3f54-b46d-ffc091ef6945,69,looming width-height 2 missing,1,1
+av2,c858bd6a-81ab-3f54-b46d-ffc091ef6945,76,looming height 3,2,1
+av2,c858bd6a-81ab-3f54-b46d-ffc091ef6945,76,looming width-height 3,1,1
+av2,c85ebc24-0934-3423-9c14-f0fdbee64b68,1,looming width-height 2 missing,1,0
+av2,c85ebc24-0934-3423-9c14-f0fdbee64b68,12,looming width-height 2 missing,2,1
+av2,c85ebc24-0934-3423-9c14-f0fdbee64b68,18,looming width-height 2 missing,1,0
+av2,c85ebc24-0934-3423-9c14-f0fdbee64b68,20,looming width-height 2 missing,1,0
+av2,c85ebc24-0934-3423-9c14-f0fdbee64b68,25,looming width-height 2 missing,2,0
+av2,c85ebc24-0934-3423-9c14-f0fdbee64b68,42,looming width-height 2 missing,2,0
+av2,c8cdffb0-7942-3ff5-9f71-210e095e1d31,1,looming width-height 2 missing,1,1
+av2,c8cdffb0-7942-3ff5-9f71-210e095e1d31,4,looming width-height 2 missing,1,1
+av2,c8cdffb0-7942-3ff5-9f71-210e095e1d31,5,looming height 3,1,1
+av2,c8cdffb0-7942-3ff5-9f71-210e095e1d31,10,looming height 3,1,1
+av2,c8cdffb0-7942-3ff5-9f71-210e095e1d31,11,looming height 3,1,1
+av2,c8cdffb0-7942-3ff5-9f71-210e095e1d31,14,looming height 3,1,1
+av2,c8cdffb0-7942-3ff5-9f71-210e095e1d31,22,looming width-height 2 missing,1,1
+av2,c8cdffb0-7942-3ff5-9f71-210e095e1d31,25,looming width-height 2 missing,1,1
+av2,c8cdffb0-7942-3ff5-9f71-210e095e1d31,36,looming width-height 2 missing,1,1
+av2,c8cdffb0-7942-3ff5-9f71-210e095e1d31,41,looming height 3,1,1
+av2,c8cdffb0-7942-3ff5-9f71-210e095e1d31,41,looming width-height 3,1,1
+av2,c8cdffb0-7942-3ff5-9f71-210e095e1d31,41,looming width-height 2 missing,1,1
+av2,c8cdffb0-7942-3ff5-9f71-210e095e1d31,42,looming height 3,1,1
+av2,c8cdffb0-7942-3ff5-9f71-210e095e1d31,42,looming width-height 3,1,1
+av2,c8cdffb0-7942-3ff5-9f71-210e095e1d31,44,looming height 3,1,1
+av2,c8cdffb0-7942-3ff5-9f71-210e095e1d31,44,looming width-height 3,1,1
+av2,c990cafc-f96c-3107-b213-01d217b11272,30,looming width-height 2 missing,1,1
+av2,c990cafc-f96c-3107-b213-01d217b11272,32,looming width-height 2 missing,1,1
+av2,c990cafc-f96c-3107-b213-01d217b11272,35,looming width-height 2 missing,1,2
+av2,c990cafc-f96c-3107-b213-01d217b11272,40,looming width-height 2 missing,1,2
+av2,c990cafc-f96c-3107-b213-01d217b11272,41,looming height 3,1,2
+av2,c990cafc-f96c-3107-b213-01d217b11272,46,looming width-height 2 missing,1,1
+av2,c990cafc-f96c-3107-b213-01d217b11272,55,looming width-height 2 missing,1,1
+av2,c990cafc-f96c-3107-b213-01d217b11272,56,looming height 3,1,1
+av2,c990cafc-f96c-3107-b213-01d217b11272,56,looming width-height 3,1,1
+av2,c990cafc-f96c-3107-b213-01d217b11272,66,looming width-height 2 missing,1,1
+av2,ccb4e29d-e88f-3fbe-8958-67cfd62350a3,1,looming width-height 2 missing,1,0
+av2,ccb4e29d-e88f-3fbe-8958-67cfd62350a3,18,looming width-height 2 missing,1,0
+av2,ccb4e29d-e88f-3fbe-8958-67cfd62350a3,36,looming height 3,1,0
+av2,cd822baf-4aa1-33fa-bfe5-d91386598edb,37,looming width-height 2 missing,1,0
+av2,cd822baf-4aa1-33fa-bfe5-d91386598edb,43,looming height 3,1,0
+av2,cd822baf-4aa1-33fa-bfe5-d91386598edb,44,looming height 3,1,0
+av2,cd822baf-4aa1-33fa-bfe5-d91386598edb,45,looming height 3,2,0
+av2,cd822baf-4aa1-33fa-bfe5-d91386598edb,45,looming width-height 3,1,0
+av2,cd822baf-4aa1-33fa-bfe5-d91386598edb,48,looming width-height 2 missing,1,1
+av2,cd822baf-4aa1-33fa-bfe5-d91386598edb,54,looming width-height 2 missing,1,0
+av2,cd822baf-4aa1-33fa-bfe5-d91386598edb,57,looming width-height 2 missing,1,1
+av2,cd822baf-4aa1-33fa-bfe5-d91386598edb,60,looming height 3,1,1
+av2,cd822baf-4aa1-33fa-bfe5-d91386598edb,64,looming width-height 2 missing,1,0
+av2,cd822baf-4aa1-33fa-bfe5-d91386598edb,65,looming height 3,1,0
+av2,cd822baf-4aa1-33fa-bfe5-d91386598edb,68,looming height 3,1,0
+av2,cd822baf-4aa1-33fa-bfe5-d91386598edb,68,looming width-height 2 missing,1,0
+av2,cd822baf-4aa1-33fa-bfe5-d91386598edb,69,looming height 3,1,0
+av2,cd822baf-4aa1-33fa-bfe5-d91386598edb,70,looming height 3,1,0
+av2,cd822baf-4aa1-33fa-bfe5-d91386598edb,71,looming height 3,1,0
+av2,cd822baf-4aa1-33fa-bfe5-d91386598edb,72,looming height 3,1,0
+av2,cd822baf-4aa1-33fa-bfe5-d91386598edb,73,looming height 3,1,0
+av2,cd83b7cd-e2e7-34f6-bee7-1ff5ca3ed665,7,looming width-height 2 missing,1,0
+av2,cd83b7cd-e2e7-34f6-bee7-1ff5ca3ed665,13,looming width-height 2 missing,1,0
+av2,cd83b7cd-e2e7-34f6-bee7-1ff5ca3ed665,24,looming width-height 2 missing,1,0
+av2,cd83b7cd-e2e7-34f6-bee7-1ff5ca3ed665,30,looming width-height 2 missing,1,0
+av2,cd83b7cd-e2e7-34f6-bee7-1ff5ca3ed665,38,looming width-height 2 missing,1,1
+av2,cd83b7cd-e2e7-34f6-bee7-1ff5ca3ed665,45,looming width-height 2 missing,1,1
+av2,cd83b7cd-e2e7-34f6-bee7-1ff5ca3ed665,46,looming width-height 2 missing,1,2
+av2,cd83b7cd-e2e7-34f6-bee7-1ff5ca3ed665,47,looming height 3,1,2
+av2,cd83b7cd-e2e7-34f6-bee7-1ff5ca3ed665,48,looming height 3,1,2
+av2,ce0575bf-c2fc-38bd-9947-ea7494a799f9,50,looming width-height 2 missing,1,0
+av2,ce0575bf-c2fc-38bd-9947-ea7494a799f9,60,looming width-height 2 missing,1,0
+av2,ce0575bf-c2fc-38bd-9947-ea7494a799f9,65,looming width-height 2 missing,1,0
+av2,ce34ff64-0faa-3fae-a79e-985f7a5172c9,57,looming width-height 2 missing,1,0
+av2,ce34ff64-0faa-3fae-a79e-985f7a5172c9,59,looming width-height 2 missing,1,0
+av2,ce34ff64-0faa-3fae-a79e-985f7a5172c9,67,looming width-height 2 missing,1,0
+av2,ce5033ee-e74e-354a-9299-8aaefbd03f59,37,looming width-height 2 missing,1,0
+av2,ce5033ee-e74e-354a-9299-8aaefbd03f59,39,looming width-height 2 missing,1,0
+av2,ce5033ee-e74e-354a-9299-8aaefbd03f59,44,looming width-height 2 missing,1,0
+av2,ce5033ee-e74e-354a-9299-8aaefbd03f59,61,looming height 3,1,0
+av2,ce5033ee-e74e-354a-9299-8aaefbd03f59,62,looming height 3,1,0
+av2,ce5033ee-e74e-354a-9299-8aaefbd03f59,63,looming height 3,1,0
+av2,d2901fe5-4b64-3144-98e1-67ef5ef83fa7,36,looming width-height 2 missing,1,0
+av2,d2901fe5-4b64-3144-98e1-67ef5ef83fa7,38,looming width-height 2 missing,1,0
+av2,d2901fe5-4b64-3144-98e1-67ef5ef83fa7,41,looming width-height 2 missing,1,0
+av2,d2901fe5-4b64-3144-98e1-67ef5ef83fa7,50,looming width-height 2 missing,1,0
+av2,d2c6775c-e0a0-3460-b1b8-8d0ce2e0ae4e,34,looming width-height 2 missing,1,1
+av2,d2c6775c-e0a0-3460-b1b8-8d0ce2e0ae4e,42,looming width-height 2 missing,1,1
+av2,d2c6775c-e0a0-3460-b1b8-8d0ce2e0ae4e,43,looming width-height 2 missing,1,1
+av2,d2c6775c-e0a0-3460-b1b8-8d0ce2e0ae4e,51,looming height 3,1,2
+av2,d2c6775c-e0a0-3460-b1b8-8d0ce2e0ae4e,51,looming width-height 3,1,2
+av2,d2c6775c-e0a0-3460-b1b8-8d0ce2e0ae4e,52,looming height 3,1,2
+av2,d2c6775c-e0a0-3460-b1b8-8d0ce2e0ae4e,52,looming width-height 3,1,2
+av2,d2c6775c-e0a0-3460-b1b8-8d0ce2e0ae4e,58,looming width-height 2 missing,1,0
+av2,d33f667d-7b6c-39aa-9ba9-eac2fa615ae1,1,looming width-height 2 missing,1,1
+av2,d33f667d-7b6c-39aa-9ba9-eac2fa615ae1,15,looming width-height 2 missing,1,0
+av2,d33f667d-7b6c-39aa-9ba9-eac2fa615ae1,18,looming width-height 2 missing,1,0
+av2,d33f667d-7b6c-39aa-9ba9-eac2fa615ae1,65,looming width-height 2 missing,1,0
+av2,d33f667d-7b6c-39aa-9ba9-eac2fa615ae1,68,looming width-height 2 missing,1,0
+av2,d37be0e2-8223-3eeb-a0e2-c4b75d5ff87b,1,looming width-height 2 missing,1,0
+av2,d37be0e2-8223-3eeb-a0e2-c4b75d5ff87b,22,looming width-height 2 missing,1,0
+av2,d37be0e2-8223-3eeb-a0e2-c4b75d5ff87b,27,looming height 3,1,0
+av2,d37be0e2-8223-3eeb-a0e2-c4b75d5ff87b,27,looming width-height 3,1,0
+av2,d37be0e2-8223-3eeb-a0e2-c4b75d5ff87b,28,looming height 3,1,0
+av2,d37be0e2-8223-3eeb-a0e2-c4b75d5ff87b,28,looming width-height 3,1,0
+av2,d37be0e2-8223-3eeb-a0e2-c4b75d5ff87b,28,looming width-height 2 missing,1,0
+av2,d37be0e2-8223-3eeb-a0e2-c4b75d5ff87b,29,looming height 3,1,0
+av2,d37be0e2-8223-3eeb-a0e2-c4b75d5ff87b,29,looming width-height 3,1,0
+av2,d78b78a0-2322-32c2-833a-e42ddc132d30,11,looming width-height 2 missing,1,1
+av2,d78b78a0-2322-32c2-833a-e42ddc132d30,15,looming height 3,1,2
+av2,d78b78a0-2322-32c2-833a-e42ddc132d30,15,looming width-height 3,1,2
+av2,d78b78a0-2322-32c2-833a-e42ddc132d30,29,looming width-height 2 missing,1,0
+av2,d78b78a0-2322-32c2-833a-e42ddc132d30,36,looming width-height 2 missing,1,1
+av2,d78b78a0-2322-32c2-833a-e42ddc132d30,41,looming width-height 2 missing,2,0
+av2,d78b78a0-2322-32c2-833a-e42ddc132d30,43,looming width-height 2 missing,1,0
+av2,d78b78a0-2322-32c2-833a-e42ddc132d30,44,looming width-height 2 missing,2,0
+av2,d78b78a0-2322-32c2-833a-e42ddc132d30,45,looming width-height 2 missing,1,0
+av2,d78b78a0-2322-32c2-833a-e42ddc132d30,50,looming width-height 2 missing,1,0
+av2,d78b78a0-2322-32c2-833a-e42ddc132d30,51,looming height 3,1,0
+av2,d78b78a0-2322-32c2-833a-e42ddc132d30,51,looming width-height 3,1,0
+av2,d78b78a0-2322-32c2-833a-e42ddc132d30,56,looming width-height 2 missing,1,0
+av2,d842ce41-8d9c-3c0f-9c04-595d97be5140,5,looming width-height 2 missing,1,1
+av2,d842ce41-8d9c-3c0f-9c04-595d97be5140,9,looming height 3,1,1
+av2,d842ce41-8d9c-3c0f-9c04-595d97be5140,9,looming width-height 3,1,1
+av2,d842ce41-8d9c-3c0f-9c04-595d97be5140,9,looming width-height 2 missing,1,1
+av2,d842ce41-8d9c-3c0f-9c04-595d97be5140,11,looming height 3,1,1
+av2,d842ce41-8d9c-3c0f-9c04-595d97be5140,11,looming width-height 3,1,1
+av2,d842ce41-8d9c-3c0f-9c04-595d97be5140,17,looming width-height 2 missing,1,1
+av2,d842ce41-8d9c-3c0f-9c04-595d97be5140,20,looming height 3,1,1
+av2,d842ce41-8d9c-3c0f-9c04-595d97be5140,20,looming width-height 3,1,1
+av2,d842ce41-8d9c-3c0f-9c04-595d97be5140,29,looming width-height 2 missing,1,2
+av2,d842ce41-8d9c-3c0f-9c04-595d97be5140,39,looming height 3,1,1
+av2,d8bd6071-f3ae-31fd-866a-9e6e4d6519e2,17,looming width-height 2 missing,1,0
+av2,d8bd6071-f3ae-31fd-866a-9e6e4d6519e2,19,looming width-height 2 missing,1,0
+av2,d8bd6071-f3ae-31fd-866a-9e6e4d6519e2,38,looming width-height 2 missing,1,1
+av2,d8bd6071-f3ae-31fd-866a-9e6e4d6519e2,49,looming width-height 2 missing,1,0
+av2,d97ae2c0-b8d1-341c-94b7-f19d5fd2982a,1,looming width-height 2 missing,1,0
+av2,d97ae2c0-b8d1-341c-94b7-f19d5fd2982a,32,looming width-height 2 missing,1,1
+av2,d97ae2c0-b8d1-341c-94b7-f19d5fd2982a,35,looming width-height 2 missing,2,0
+av2,d9c267be-f19a-3183-afe0-f0625a375743,1,looming width-height 2 missing,2,0
+av2,d9c267be-f19a-3183-afe0-f0625a375743,53,looming width-height 2 missing,2,0
+av2,d9c267be-f19a-3183-afe0-f0625a375743,54,looming width-height 2 missing,1,0
+av2,d9c267be-f19a-3183-afe0-f0625a375743,60,looming width-height 2 missing,1,0
+av2,d9fd666a-8f55-38bb-8387-80fa44c29348,46,looming width-height 2 missing,2,1
+av2,d9fd666a-8f55-38bb-8387-80fa44c29348,47,looming width-height 2 missing,1,1
+av2,d9fd666a-8f55-38bb-8387-80fa44c29348,62,looming width-height 2 missing,1,0
+av2,da30abcf-652b-38df-a128-10942b225ec5,1,looming width-height 2 missing,2,1
+av2,da30abcf-652b-38df-a128-10942b225ec5,3,looming width-height 2 missing,2,1
+av2,da30abcf-652b-38df-a128-10942b225ec5,6,looming width-height 2 missing,4,1
+av2,da30abcf-652b-38df-a128-10942b225ec5,10,looming width-height 2 missing,1,1
+av2,da30abcf-652b-38df-a128-10942b225ec5,14,looming width-height 2 missing,1,0
+av2,da30abcf-652b-38df-a128-10942b225ec5,16,looming width-height 2 missing,1,0
+av2,da30abcf-652b-38df-a128-10942b225ec5,22,looming width-height 2 missing,1,0
+av2,da30abcf-652b-38df-a128-10942b225ec5,23,looming height 3,1,0
+av2,da30abcf-652b-38df-a128-10942b225ec5,27,looming width-height 2 missing,1,1
+av2,da30abcf-652b-38df-a128-10942b225ec5,34,looming height 3,1,1
+av2,da30abcf-652b-38df-a128-10942b225ec5,34,looming width-height 3,1,1
+av2,da30abcf-652b-38df-a128-10942b225ec5,35,looming height 3,1,1
+av2,da30abcf-652b-38df-a128-10942b225ec5,35,looming width-height 3,1,1
+av2,da30abcf-652b-38df-a128-10942b225ec5,38,looming height 3,1,0
+av2,da30abcf-652b-38df-a128-10942b225ec5,38,looming width-height 3,1,0
+av2,da30abcf-652b-38df-a128-10942b225ec5,38,looming width-height 2 missing,1,0
+av2,da30abcf-652b-38df-a128-10942b225ec5,39,looming height 3,1,0
+av2,da30abcf-652b-38df-a128-10942b225ec5,43,looming width-height 2 missing,1,0
+av2,dbe19bf6-93ad-372e-b96d-f7b652cdba93,16,looming width-height 2 missing,1,1
+av2,dbe19bf6-93ad-372e-b96d-f7b652cdba93,26,looming height 3,1,0
+av2,df1935dc-1e5f-3f4d-bdcb-e6c2bcb07667,8,looming width-height 2 missing,1,0
+av2,df1935dc-1e5f-3f4d-bdcb-e6c2bcb07667,15,looming width-height 2 missing,1,0
+av2,df1935dc-1e5f-3f4d-bdcb-e6c2bcb07667,23,looming width-height 2 missing,1,0
+av2,df1935dc-1e5f-3f4d-bdcb-e6c2bcb07667,29,looming width-height 2 missing,1,1
+av2,df1935dc-1e5f-3f4d-bdcb-e6c2bcb07667,32,looming width-height 2 missing,1,2
+av2,df1935dc-1e5f-3f4d-bdcb-e6c2bcb07667,43,looming height 3,1,1
+av2,df321672-461c-361b-aac9-e81cc9a88b9f,25,looming height 3,1,0
+av2,df321672-461c-361b-aac9-e81cc9a88b9f,26,looming width-height 2 missing,1,0
+av2,df321672-461c-361b-aac9-e81cc9a88b9f,31,looming height 3,1,0
+av2,df321672-461c-361b-aac9-e81cc9a88b9f,31,looming width-height 3,1,0
+av2,df321672-461c-361b-aac9-e81cc9a88b9f,37,looming height 3,1,0
+av2,df321672-461c-361b-aac9-e81cc9a88b9f,37,looming width-height 3,1,0
+av2,df321672-461c-361b-aac9-e81cc9a88b9f,45,looming height 3,1,0
+av2,df321672-461c-361b-aac9-e81cc9a88b9f,45,looming width-height 3,1,0
+av2,df321672-461c-361b-aac9-e81cc9a88b9f,45,looming width-height 2 missing,1,0
+av2,df321672-461c-361b-aac9-e81cc9a88b9f,53,looming height 3,1,0
+av2,df321672-461c-361b-aac9-e81cc9a88b9f,54,looming height 3,1,0
+av2,df321672-461c-361b-aac9-e81cc9a88b9f,56,looming width-height 2 missing,1,0
+av2,df321672-461c-361b-aac9-e81cc9a88b9f,62,looming height 3,1,0
+av2,e033cc8e-b23d-3fc6-8954-d90c5e98550e,15,looming width-height 2 missing,1,1
+av2,e033cc8e-b23d-3fc6-8954-d90c5e98550e,16,looming width-height 2 missing,1,1
+av2,e033cc8e-b23d-3fc6-8954-d90c5e98550e,24,looming width-height 2 missing,1,1
+av2,e033cc8e-b23d-3fc6-8954-d90c5e98550e,34,looming width-height 2 missing,1,1
+av2,e033cc8e-b23d-3fc6-8954-d90c5e98550e,48,looming height 3,1,1
+av2,e0d2fe70-8f98-3ce2-8d8f-4268a81f7169,41,looming width-height 2 missing,2,0
+av2,e0d2fe70-8f98-3ce2-8d8f-4268a81f7169,42,looming width-height 2 missing,2,0
+av2,e0d2fe70-8f98-3ce2-8d8f-4268a81f7169,45,looming width-height 2 missing,1,0
+av2,e10475f7-0d56-3a75-870d-d4206fa165d7,30,looming width-height 2 missing,1,2
+av2,e10475f7-0d56-3a75-870d-d4206fa165d7,32,looming width-height 2 missing,1,2
+av2,e10475f7-0d56-3a75-870d-d4206fa165d7,36,looming width-height 2 missing,1,2
+av2,e10475f7-0d56-3a75-870d-d4206fa165d7,43,looming width-height 2 missing,1,2
+av2,e10475f7-0d56-3a75-870d-d4206fa165d7,44,looming height 3,1,2
+av2,e10475f7-0d56-3a75-870d-d4206fa165d7,44,looming width-height 3,1,2
+av2,e10475f7-0d56-3a75-870d-d4206fa165d7,48,looming height 3,1,2
+av2,e10475f7-0d56-3a75-870d-d4206fa165d7,48,looming width-height 3,1,2
+av2,e10475f7-0d56-3a75-870d-d4206fa165d7,49,looming height 3,1,2
+av2,e10475f7-0d56-3a75-870d-d4206fa165d7,49,looming width-height 3,1,2
+av2,e10475f7-0d56-3a75-870d-d4206fa165d7,53,looming width-height 2 missing,1,2
+av2,e10475f7-0d56-3a75-870d-d4206fa165d7,54,looming height 3,1,2
+av2,e10475f7-0d56-3a75-870d-d4206fa165d7,54,looming width-height 2 missing,1,2
+av2,e125bb91-dcaf-3013-9cc7-da653d7e11e1,1,looming width-height 2 missing,1,0
+av2,e125bb91-dcaf-3013-9cc7-da653d7e11e1,14,looming width-height 2 missing,1,0
+av2,e125bb91-dcaf-3013-9cc7-da653d7e11e1,20,looming width-height 2 missing,1,0
+av2,e125bb91-dcaf-3013-9cc7-da653d7e11e1,38,looming width-height 2 missing,1,1
+av2,e125bb91-dcaf-3013-9cc7-da653d7e11e1,42,looming height 3,1,1
+av2,e125bb91-dcaf-3013-9cc7-da653d7e11e1,42,looming width-height 2 missing,1,1
+av2,e125bb91-dcaf-3013-9cc7-da653d7e11e1,45,looming width-height 2 missing,1,1
+av2,e1e9d341-716f-3613-9ec2-2201c72361af,30,looming width-height 2 missing,1,1
+av2,e1e9d341-716f-3613-9ec2-2201c72361af,39,looming width-height 2 missing,1,1
+av2,e1e9d341-716f-3613-9ec2-2201c72361af,44,looming height 3,1,1
+av2,e1e9d341-716f-3613-9ec2-2201c72361af,46,looming height 3,1,1
+av2,e1e9d341-716f-3613-9ec2-2201c72361af,46,looming width-height 3,1,1
+av2,e1e9d341-716f-3613-9ec2-2201c72361af,47,looming height 3,1,0
+av2,e1f37027-6a39-3eb1-b38a-3f2836b84735,26,looming width-height 2 missing,2,0
+av2,e331aa95-3660-3c71-be9e-030bab0b8ee2,18,looming width-height 2 missing,1,0
+av2,e331aa95-3660-3c71-be9e-030bab0b8ee2,30,looming height 3,1,0
+av2,e331aa95-3660-3c71-be9e-030bab0b8ee2,38,looming height 3,1,1
+av2,e331aa95-3660-3c71-be9e-030bab0b8ee2,44,looming width-height 2 missing,2,0
+av2,e331aa95-3660-3c71-be9e-030bab0b8ee2,45,looming height 3,1,1
+av2,e331aa95-3660-3c71-be9e-030bab0b8ee2,45,looming width-height 3,1,1
+av2,e331aa95-3660-3c71-be9e-030bab0b8ee2,46,looming height 3,1,1
+av2,e331aa95-3660-3c71-be9e-030bab0b8ee2,46,looming width-height 3,1,1
+av2,e38c1e1d-f0e9-3d73-8193-29cbea481b4c,1,looming width-height 2 missing,2,1
+av2,e38c1e1d-f0e9-3d73-8193-29cbea481b4c,31,looming width-height 2 missing,1,1
+av2,e38c1e1d-f0e9-3d73-8193-29cbea481b4c,34,looming height 3,1,1
+av2,e38c1e1d-f0e9-3d73-8193-29cbea481b4c,37,looming height 3,1,1
+av2,e38c1e1d-f0e9-3d73-8193-29cbea481b4c,41,looming height 3,1,2
+av2,e38c1e1d-f0e9-3d73-8193-29cbea481b4c,42,looming height 3,1,2
+av2,e38c1e1d-f0e9-3d73-8193-29cbea481b4c,51,looming height 3,1,1
+av2,e38c1e1d-f0e9-3d73-8193-29cbea481b4c,51,looming width-height 3,1,1
+av2,e38c1e1d-f0e9-3d73-8193-29cbea481b4c,52,looming width-height 2 missing,1,1
+av2,e38c1e1d-f0e9-3d73-8193-29cbea481b4c,54,looming width-height 2 missing,1,1
+av2,e4279e3e-b7e1-3f43-aeef-2bfa2836dab6,35,looming height 3,1,2
+av2,e4279e3e-b7e1-3f43-aeef-2bfa2836dab6,39,looming height 3,1,2
+av2,e4279e3e-b7e1-3f43-aeef-2bfa2836dab6,40,looming height 3,1,2
+av2,e4279e3e-b7e1-3f43-aeef-2bfa2836dab6,41,looming height 3,1,2
+av2,e4279e3e-b7e1-3f43-aeef-2bfa2836dab6,42,looming height 3,1,2
+av2,e4279e3e-b7e1-3f43-aeef-2bfa2836dab6,43,looming height 3,1,2
+av2,e4279e3e-b7e1-3f43-aeef-2bfa2836dab6,43,looming width-height 3,1,2
+av2,e4279e3e-b7e1-3f43-aeef-2bfa2836dab6,44,looming height 3,1,2
+av2,e4279e3e-b7e1-3f43-aeef-2bfa2836dab6,45,looming height 3,1,2
+av2,e4279e3e-b7e1-3f43-aeef-2bfa2836dab6,45,looming width-height 3,1,2
+av2,e4d53680-f7ef-364b-91a4-00e5aa91ab9b,5,looming height 3,1,0
+av2,e4d53680-f7ef-364b-91a4-00e5aa91ab9b,12,looming height 3,1,0
+av2,e4d53680-f7ef-364b-91a4-00e5aa91ab9b,14,looming height 3,1,0
+av2,e4d53680-f7ef-364b-91a4-00e5aa91ab9b,26,looming height 3,1,1
+av2,e4d53680-f7ef-364b-91a4-00e5aa91ab9b,27,looming height 3,1,1
+av2,e4d53680-f7ef-364b-91a4-00e5aa91ab9b,31,looming width-height 2 missing,1,1
+av2,e4d53680-f7ef-364b-91a4-00e5aa91ab9b,41,looming width-height 2 missing,1,1
+av2,e4d53680-f7ef-364b-91a4-00e5aa91ab9b,57,looming width-height 2 missing,1,1
+av2,e4d53680-f7ef-364b-91a4-00e5aa91ab9b,58,looming height 3,1,1
+av2,e4d53680-f7ef-364b-91a4-00e5aa91ab9b,60,looming width-height 2 missing,1,1
+av2,e68d1f0d-eb44-3751-975d-f80609f695ae,1,looming width-height 2 missing,1,0
+av2,e68d1f0d-eb44-3751-975d-f80609f695ae,20,looming width-height 2 missing,1,0
+av2,e68d1f0d-eb44-3751-975d-f80609f695ae,22,looming width-height 2 missing,1,1
+av2,e68d1f0d-eb44-3751-975d-f80609f695ae,27,looming width-height 2 missing,1,1
+av2,e68d1f0d-eb44-3751-975d-f80609f695ae,30,looming width-height 2 missing,1,0
+av2,e68d1f0d-eb44-3751-975d-f80609f695ae,38,looming width-height 2 missing,2,0
+av2,e68d1f0d-eb44-3751-975d-f80609f695ae,43,looming width-height 2 missing,1,0
+av2,e68d1f0d-eb44-3751-975d-f80609f695ae,44,looming width-height 2 missing,1,0
+av2,e68d1f0d-eb44-3751-975d-f80609f695ae,46,looming width-height 2 missing,1,0
+av2,e68d1f0d-eb44-3751-975d-f80609f695ae,57,looming height 3,1,0
+av2,e68d1f0d-eb44-3751-975d-f80609f695ae,57,looming width-height 2 missing,1,0
+av2,e68d1f0d-eb44-3751-975d-f80609f695ae,63,looming width-height 2 missing,1,0
+av2,e68d1f0d-eb44-3751-975d-f80609f695ae,67,looming width-height 2 missing,1,0
+av2,e7547e4c-1ebc-3428-8964-a5b91e81098e,23,looming width-height 2 missing,1,0
+av2,e7547e4c-1ebc-3428-8964-a5b91e81098e,53,looming width-height 2 missing,1,0
+av2,e7547e4c-1ebc-3428-8964-a5b91e81098e,59,looming width-height 2 missing,1,0
+av2,e7547e4c-1ebc-3428-8964-a5b91e81098e,75,looming width-height 2 missing,1,0
+av2,e7547e4c-1ebc-3428-8964-a5b91e81098e,76,looming height 3,1,0
+av2,e7547e4c-1ebc-3428-8964-a5b91e81098e,76,looming width-height 3,1,0
+av2,e757cddd-5ff5-305a-af11-d7c6747d3979,1,looming width-height 2 missing,1,0
+av2,e757cddd-5ff5-305a-af11-d7c6747d3979,17,looming width-height 2 missing,1,0
+av2,e757cddd-5ff5-305a-af11-d7c6747d3979,41,looming width-height 2 missing,1,0
+av2,e757cddd-5ff5-305a-af11-d7c6747d3979,51,looming height 3,1,1
+av2,e757cddd-5ff5-305a-af11-d7c6747d3979,54,looming height 3,1,0
+av2,e757cddd-5ff5-305a-af11-d7c6747d3979,62,looming width-height 2 missing,1,0
+av2,e757cddd-5ff5-305a-af11-d7c6747d3979,65,looming height 3,1,0
+av2,e757cddd-5ff5-305a-af11-d7c6747d3979,65,looming width-height 2 missing,1,0
+av2,e757cddd-5ff5-305a-af11-d7c6747d3979,73,looming width-height 2 missing,2,0
+av2,e7e178aa-931a-4674-9bff-9278a54e6aae,29,looming width-height 2 missing,1,0
+av2,e7e178aa-931a-4674-9bff-9278a54e6aae,43,looming width-height 2 missing,1,1
+av2,e7e178aa-931a-4674-9bff-9278a54e6aae,45,looming width-height 2 missing,1,1
+av2,e7e178aa-931a-4674-9bff-9278a54e6aae,46,looming width-height 2 missing,1,1
+av2,e7e178aa-931a-4674-9bff-9278a54e6aae,47,looming width-height 2 missing,1,1
+av2,e7e178aa-931a-4674-9bff-9278a54e6aae,48,looming width-height 2 missing,1,1
+av2,e7e178aa-931a-4674-9bff-9278a54e6aae,49,looming width-height 2 missing,2,0
+av2,e7e178aa-931a-4674-9bff-9278a54e6aae,59,looming width-height 2 missing,1,0
+av2,e7e178aa-931a-4674-9bff-9278a54e6aae,66,looming width-height 2 missing,1,0
+av2,e7e178aa-931a-4674-9bff-9278a54e6aae,74,looming width-height 2 missing,1,0
+av2,e7e178aa-931a-4674-9bff-9278a54e6aae,79,looming height 3,1,0
+av2,e7e7ebad-79d2-3ae1-95ce-f3035bc8f719,4,looming height 3,1,0
+av2,e7e7ebad-79d2-3ae1-95ce-f3035bc8f719,14,looming width-height 2 missing,2,0
+av2,e7e7ebad-79d2-3ae1-95ce-f3035bc8f719,15,looming height 3,1,0
+av2,e7e7ebad-79d2-3ae1-95ce-f3035bc8f719,15,looming width-height 2 missing,1,0
+av2,e7e7ebad-79d2-3ae1-95ce-f3035bc8f719,27,looming height 3,1,0
+av2,e7e7ebad-79d2-3ae1-95ce-f3035bc8f719,32,looming width-height 2 missing,1,1
+av2,e7e7ebad-79d2-3ae1-95ce-f3035bc8f719,38,looming width-height 2 missing,1,0
+av2,e7e7ebad-79d2-3ae1-95ce-f3035bc8f719,39,looming width-height 2 missing,1,0
+av2,e7e7ebad-79d2-3ae1-95ce-f3035bc8f719,40,looming width-height 2 missing,1,0
+av2,e7e7ebad-79d2-3ae1-95ce-f3035bc8f719,41,looming width-height 2 missing,1,0
+av2,e7e7ebad-79d2-3ae1-95ce-f3035bc8f719,42,looming width-height 2 missing,1,0
+av2,e7e7ebad-79d2-3ae1-95ce-f3035bc8f719,44,looming height 3,1,0
+av2,e7e7ebad-79d2-3ae1-95ce-f3035bc8f719,61,looming width-height 2 missing,1,0
+av2,e7e7ebad-79d2-3ae1-95ce-f3035bc8f719,62,looming width-height 2 missing,1,1
+av2,e7e7ebad-79d2-3ae1-95ce-f3035bc8f719,67,looming width-height 2 missing,1,1
+av2,e7e7ebad-79d2-3ae1-95ce-f3035bc8f719,73,looming width-height 2 missing,1,0
+av2,e7e7ebad-79d2-3ae1-95ce-f3035bc8f719,74,looming width-height 2 missing,1,0
+av2,e94f58d9-177b-31be-aa05-e6dd10d04124,2,looming width-height 2 missing,1,1
+av2,ea6895f2-504b-37b5-bfd0-cbf7017f22c3,1,looming width-height 2 missing,1,0
+av2,ea6895f2-504b-37b5-bfd0-cbf7017f22c3,18,looming width-height 2 missing,1,0
+av2,ea6895f2-504b-37b5-bfd0-cbf7017f22c3,22,looming width-height 2 missing,1,0
+av2,ea6895f2-504b-37b5-bfd0-cbf7017f22c3,29,looming width-height 2 missing,1,1
+av2,ea6895f2-504b-37b5-bfd0-cbf7017f22c3,41,looming width-height 2 missing,1,1
+av2,ea6895f2-504b-37b5-bfd0-cbf7017f22c3,43,looming width-height 2 missing,1,1
+av2,ea6895f2-504b-37b5-bfd0-cbf7017f22c3,44,looming width-height 2 missing,1,1
+av2,ea6895f2-504b-37b5-bfd0-cbf7017f22c3,49,looming width-height 2 missing,2,1
+av2,ea6895f2-504b-37b5-bfd0-cbf7017f22c3,56,looming height 3,1,1
+av2,ea6895f2-504b-37b5-bfd0-cbf7017f22c3,56,looming width-height 3,1,1
+av2,ea6895f2-504b-37b5-bfd0-cbf7017f22c3,57,looming height 3,1,1
+av2,eb222d5d-0052-3ce7-9b87-19e09054a2c0,1,looming width-height 2 missing,2,1
+av2,eb222d5d-0052-3ce7-9b87-19e09054a2c0,6,looming width-height 2 missing,1,1
+av2,eb222d5d-0052-3ce7-9b87-19e09054a2c0,16,looming height 3,1,1
+av2,eb222d5d-0052-3ce7-9b87-19e09054a2c0,22,looming width-height 2 missing,1,1
+av2,eb222d5d-0052-3ce7-9b87-19e09054a2c0,29,looming height 3,1,1
+av2,eb222d5d-0052-3ce7-9b87-19e09054a2c0,34,looming width-height 2 missing,1,1
+av2,eb222d5d-0052-3ce7-9b87-19e09054a2c0,45,looming width-height 2 missing,1,1
+av2,eb69a196-fb43-3ddf-9bbe-9d55fa1e8200,2,looming width-height 2 missing,1,1
+av2,eb69a196-fb43-3ddf-9bbe-9d55fa1e8200,3,looming height 3,1,1
+av2,eb69a196-fb43-3ddf-9bbe-9d55fa1e8200,3,looming width-height 3,1,1
+av2,eb69a196-fb43-3ddf-9bbe-9d55fa1e8200,3,looming width-height 2 missing,1,1
+av2,eb69a196-fb43-3ddf-9bbe-9d55fa1e8200,4,looming height 3,1,1
+av2,eb69a196-fb43-3ddf-9bbe-9d55fa1e8200,4,looming width-height 3,1,1
+av2,eb69a196-fb43-3ddf-9bbe-9d55fa1e8200,4,looming width-height 2 missing,1,1
+av2,eb69a196-fb43-3ddf-9bbe-9d55fa1e8200,5,looming height 3,1,1
+av2,eb69a196-fb43-3ddf-9bbe-9d55fa1e8200,6,looming height 3,1,1
+av2,eb69a196-fb43-3ddf-9bbe-9d55fa1e8200,7,looming height 3,1,1
+av2,eb69a196-fb43-3ddf-9bbe-9d55fa1e8200,7,looming width-height 2 missing,3,1
+av2,eb69a196-fb43-3ddf-9bbe-9d55fa1e8200,8,looming height 3,1,1
+av2,eb69a196-fb43-3ddf-9bbe-9d55fa1e8200,8,looming width-height 3,1,1
+av2,eb69a196-fb43-3ddf-9bbe-9d55fa1e8200,16,looming width-height 2 missing,1,1
+av2,eb69a196-fb43-3ddf-9bbe-9d55fa1e8200,17,looming width-height 2 missing,1,1
+av2,eb69a196-fb43-3ddf-9bbe-9d55fa1e8200,36,looming width-height 2 missing,1,1
+av2,eb69a196-fb43-3ddf-9bbe-9d55fa1e8200,38,looming width-height 2 missing,1,1
+av2,eb777faa-5b76-387e-a408-90524c6f2848,22,looming width-height 2 missing,1,0
+av2,eb777faa-5b76-387e-a408-90524c6f2848,24,looming width-height 2 missing,1,0
+av2,eb777faa-5b76-387e-a408-90524c6f2848,25,looming width-height 2 missing,2,0
+av2,eb777faa-5b76-387e-a408-90524c6f2848,32,looming width-height 2 missing,2,1
+av2,eb777faa-5b76-387e-a408-90524c6f2848,37,looming height 3,1,2
+av2,eb777faa-5b76-387e-a408-90524c6f2848,37,looming width-height 3,1,2
+av2,eb777faa-5b76-387e-a408-90524c6f2848,37,looming width-height 2 missing,1,2
+av2,eb777faa-5b76-387e-a408-90524c6f2848,39,looming height 3,1,1
+av2,eb777faa-5b76-387e-a408-90524c6f2848,39,looming width-height 3,1,1
+av2,eb777faa-5b76-387e-a408-90524c6f2848,41,looming width-height 2 missing,1,1
+av2,eb777faa-5b76-387e-a408-90524c6f2848,43,looming width-height 2 missing,1,1
+av2,eb777faa-5b76-387e-a408-90524c6f2848,47,looming width-height 2 missing,1,1
+av2,eb777faa-5b76-387e-a408-90524c6f2848,48,looming width-height 2 missing,1,1
+av2,eb777faa-5b76-387e-a408-90524c6f2848,54,looming width-height 2 missing,1,1
+av2,eb777faa-5b76-387e-a408-90524c6f2848,58,looming width-height 2 missing,1,1
+av2,eb777faa-5b76-387e-a408-90524c6f2848,60,looming width-height 2 missing,1,1
+av2,ed6ad297-ee09-3532-bcfc-c16ad5a05c49,1,looming width-height 2 missing,2,0
+av2,ed6ad297-ee09-3532-bcfc-c16ad5a05c49,8,looming width-height 2 missing,1,0
+av2,ed6ad297-ee09-3532-bcfc-c16ad5a05c49,11,looming width-height 2 missing,2,0
+av2,ed6ad297-ee09-3532-bcfc-c16ad5a05c49,12,looming height 3,1,0
+av2,ed6ad297-ee09-3532-bcfc-c16ad5a05c49,15,looming width-height 2 missing,1,0
+av2,ed6ad297-ee09-3532-bcfc-c16ad5a05c49,18,looming height 3,1,0
+av2,ed6ad297-ee09-3532-bcfc-c16ad5a05c49,25,looming width-height 2 missing,1,0
+av2,ed6ad297-ee09-3532-bcfc-c16ad5a05c49,28,looming height 3,1,1
+av2,ed6ad297-ee09-3532-bcfc-c16ad5a05c49,32,looming height 3,1,1
+av2,ed6ad297-ee09-3532-bcfc-c16ad5a05c49,40,looming height 3,1,1
+av2,ed6ad297-ee09-3532-bcfc-c16ad5a05c49,43,looming width-height 2 missing,1,0
+av2,ed6ad297-ee09-3532-bcfc-c16ad5a05c49,44,looming width-height 2 missing,1,0
+av2,ed6ad297-ee09-3532-bcfc-c16ad5a05c49,48,looming width-height 2 missing,1,0
+av2,ed6ad297-ee09-3532-bcfc-c16ad5a05c49,52,looming height 3,1,0
+av2,ed6ad297-ee09-3532-bcfc-c16ad5a05c49,52,looming width-height 3,1,0
+av2,ed6ad297-ee09-3532-bcfc-c16ad5a05c49,52,looming width-height 2 missing,1,0
+av2,ed6ad297-ee09-3532-bcfc-c16ad5a05c49,53,looming height 3,1,0
+av2,ed6ad297-ee09-3532-bcfc-c16ad5a05c49,53,looming width-height 3,1,0
+av2,ed6ad297-ee09-3532-bcfc-c16ad5a05c49,53,looming width-height 2 missing,1,0
+av2,ef625e46-d0d4-38b9-9403-5614e7b39ec8,1,looming width-height 2 missing,1,0
+av2,ef625e46-d0d4-38b9-9403-5614e7b39ec8,10,looming width-height 2 missing,1,0
+av2,ef625e46-d0d4-38b9-9403-5614e7b39ec8,14,looming width-height 2 missing,1,0
+av2,ef625e46-d0d4-38b9-9403-5614e7b39ec8,19,looming width-height 2 missing,1,0
+av2,ef625e46-d0d4-38b9-9403-5614e7b39ec8,26,looming width-height 2 missing,2,1
+av2,ef625e46-d0d4-38b9-9403-5614e7b39ec8,32,looming width-height 2 missing,1,1
+av2,ef625e46-d0d4-38b9-9403-5614e7b39ec8,33,looming width-height 2 missing,1,1
+av2,ef625e46-d0d4-38b9-9403-5614e7b39ec8,35,looming width-height 2 missing,1,1
+av2,ef625e46-d0d4-38b9-9403-5614e7b39ec8,39,looming width-height 2 missing,1,1
+av2,ef625e46-d0d4-38b9-9403-5614e7b39ec8,40,looming height 3,1,1
+av2,ef625e46-d0d4-38b9-9403-5614e7b39ec8,40,looming width-height 3,1,1
+av2,ef625e46-d0d4-38b9-9403-5614e7b39ec8,40,looming width-height 2 missing,1,1
+av2,ef625e46-d0d4-38b9-9403-5614e7b39ec8,46,looming width-height 2 missing,1,0
+av2,ef625e46-d0d4-38b9-9403-5614e7b39ec8,50,looming width-height 2 missing,1,0
+av2,ef625e46-d0d4-38b9-9403-5614e7b39ec8,76,looming width-height 2 missing,1,0
+av2,f03bfd11-5ba2-3bc6-ad76-4166b06491f5,1,looming width-height 2 missing,1,0
+av2,f03bfd11-5ba2-3bc6-ad76-4166b06491f5,2,looming width-height 2 missing,1,0
+av2,f03bfd11-5ba2-3bc6-ad76-4166b06491f5,22,looming height 3,1,0
+av2,f03bfd11-5ba2-3bc6-ad76-4166b06491f5,38,looming height 3,1,1
+av2,f03bfd11-5ba2-3bc6-ad76-4166b06491f5,38,looming width-height 3,1,1
+av2,f03bfd11-5ba2-3bc6-ad76-4166b06491f5,39,looming height 3,1,1
+av2,f03bfd11-5ba2-3bc6-ad76-4166b06491f5,39,looming width-height 3,1,1
+av2,f03bfd11-5ba2-3bc6-ad76-4166b06491f5,42,looming width-height 2 missing,1,1
+av2,f03bfd11-5ba2-3bc6-ad76-4166b06491f5,43,looming height 3,1,1
+av2,f03bfd11-5ba2-3bc6-ad76-4166b06491f5,44,looming height 3,1,1
+av2,f03bfd11-5ba2-3bc6-ad76-4166b06491f5,45,looming height 3,1,0
+av2,f03bfd11-5ba2-3bc6-ad76-4166b06491f5,45,looming width-height 2 missing,1,0
+av2,f03bfd11-5ba2-3bc6-ad76-4166b06491f5,46,looming height 3,1,1
+av2,f03bfd11-5ba2-3bc6-ad76-4166b06491f5,47,looming height 3,1,1
+av2,f03bfd11-5ba2-3bc6-ad76-4166b06491f5,48,looming height 3,1,1
+av2,f03bfd11-5ba2-3bc6-ad76-4166b06491f5,49,looming height 3,1,1
+av2,f03bfd11-5ba2-3bc6-ad76-4166b06491f5,50,looming height 3,1,1
+av2,f2b0585b-ada3-3123-963e-14df7d96ca9e,1,looming width-height 2 missing,1,0
+av2,f2b0585b-ada3-3123-963e-14df7d96ca9e,3,looming height 3,1,0
+av2,f2b0585b-ada3-3123-963e-14df7d96ca9e,4,looming width-height 2 missing,1,0
+av2,f2b0585b-ada3-3123-963e-14df7d96ca9e,16,looming width-height 2 missing,1,0
+av2,f2b0585b-ada3-3123-963e-14df7d96ca9e,29,looming width-height 2 missing,1,0
+av2,f2b0585b-ada3-3123-963e-14df7d96ca9e,31,looming height 3,1,0
+av2,f2b0585b-ada3-3123-963e-14df7d96ca9e,31,looming width-height 3,1,0
+av2,f3d1e3c3-2770-3504-a592-b62619598812,6,looming width-height 2 missing,1,1
+av2,f3d1e3c3-2770-3504-a592-b62619598812,9,looming width-height 2 missing,1,1
+av2,f3d1e3c3-2770-3504-a592-b62619598812,12,looming width-height 2 missing,1,1
+av2,f3d1e3c3-2770-3504-a592-b62619598812,22,looming width-height 2 missing,1,2
+av2,f3d1e3c3-2770-3504-a592-b62619598812,27,looming width-height 2 missing,1,1
+av2,f3d1e3c3-2770-3504-a592-b62619598812,29,looming width-height 2 missing,1,2
+av2,f3d1e3c3-2770-3504-a592-b62619598812,32,looming width-height 2 missing,1,2
+av2,f3d1e3c3-2770-3504-a592-b62619598812,33,looming width-height 2 missing,1,2
+av2,f3d1e3c3-2770-3504-a592-b62619598812,35,looming width-height 2 missing,2,2
+av2,f3d1e3c3-2770-3504-a592-b62619598812,36,looming width-height 2 missing,1,2
+av2,f3d1e3c3-2770-3504-a592-b62619598812,42,looming width-height 2 missing,1,2
+av2,f3d1e3c3-2770-3504-a592-b62619598812,45,looming width-height 2 missing,1,1
+av2,f3d1e3c3-2770-3504-a592-b62619598812,47,looming width-height 2 missing,1,2
+av2,f3d1e3c3-2770-3504-a592-b62619598812,48,looming height 3,1,2
+av2,f3d1e3c3-2770-3504-a592-b62619598812,48,looming width-height 3,1,2
+av2,f3d1e3c3-2770-3504-a592-b62619598812,50,looming width-height 2 missing,1,1
+av2,f3d1e3c3-2770-3504-a592-b62619598812,51,looming width-height 2 missing,1,1
+av2,f3d1e3c3-2770-3504-a592-b62619598812,52,looming width-height 2 missing,1,1
+av2,f3d1e3c3-2770-3504-a592-b62619598812,53,looming width-height 2 missing,1,1
+av2,f3d1e3c3-2770-3504-a592-b62619598812,76,looming height 3,2,1
+av2,f3d1e3c3-2770-3504-a592-b62619598812,76,looming width-height 3,1,1
+av2,f46707f9-435f-3a06-9017-deae11feab53,4,looming width-height 2 missing,2,1
+av2,f46707f9-435f-3a06-9017-deae11feab53,18,looming height 3,1,1
+av2,f46707f9-435f-3a06-9017-deae11feab53,18,looming width-height 3,1,1
+av2,f46707f9-435f-3a06-9017-deae11feab53,19,looming height 3,1,1
+av2,f46707f9-435f-3a06-9017-deae11feab53,19,looming width-height 3,1,1
+av2,f46707f9-435f-3a06-9017-deae11feab53,20,looming width-height 2 missing,1,1
+av2,f46707f9-435f-3a06-9017-deae11feab53,25,looming width-height 2 missing,1,1
+av2,f46707f9-435f-3a06-9017-deae11feab53,27,looming height 3,2,1
+av2,f46707f9-435f-3a06-9017-deae11feab53,27,looming width-height 3,1,1
+av2,f46707f9-435f-3a06-9017-deae11feab53,28,looming width-height 2 missing,1,1
+av2,f46707f9-435f-3a06-9017-deae11feab53,34,looming height 3,1,1
+av2,f46707f9-435f-3a06-9017-deae11feab53,36,looming width-height 2 missing,1,1
+av2,f46707f9-435f-3a06-9017-deae11feab53,37,looming height 3,1,1
+av2,f46707f9-435f-3a06-9017-deae11feab53,38,looming height 3,1,1
+av2,f46707f9-435f-3a06-9017-deae11feab53,40,looming height 3,1,1
+av2,f46707f9-435f-3a06-9017-deae11feab53,40,looming width-height 3,1,1
+av2,f46707f9-435f-3a06-9017-deae11feab53,41,looming height 3,3,1
+av2,f46707f9-435f-3a06-9017-deae11feab53,42,looming height 3,2,1
+av2,f46707f9-435f-3a06-9017-deae11feab53,43,looming height 3,2,1
+av2,f46707f9-435f-3a06-9017-deae11feab53,44,looming height 3,1,1
+av2,f46707f9-435f-3a06-9017-deae11feab53,45,looming height 3,1,1
+av2,f46707f9-435f-3a06-9017-deae11feab53,45,looming width-height 3,1,1
+av2,f4cb6ba4-cd0f-30cc-9cc9-52bd14bfb3cc,7,looming width-height 2 missing,1,0
+av2,f4cb6ba4-cd0f-30cc-9cc9-52bd14bfb3cc,15,looming height 3,1,0
+av2,f4cb6ba4-cd0f-30cc-9cc9-52bd14bfb3cc,23,looming height 3,1,0
+av2,f4cb6ba4-cd0f-30cc-9cc9-52bd14bfb3cc,77,looming height 3,1,0
+av2,f64ed43e-417a-31ad-a322-b6108bf99a71,41,looming width-height 2 missing,1,0
+av2,f64ed43e-417a-31ad-a322-b6108bf99a71,59,looming height 3,1,0
+av2,f64ed43e-417a-31ad-a322-b6108bf99a71,60,looming height 3,1,0
+av2,f64ed43e-417a-31ad-a322-b6108bf99a71,63,looming width-height 2 missing,1,0
+av2,f64ed43e-417a-31ad-a322-b6108bf99a71,71,looming width-height 2 missing,1,0
+av2,f84b4941-8e99-3957-b6f6-db1590338cf6,3,looming width-height 2 missing,2,0
+av2,f84b4941-8e99-3957-b6f6-db1590338cf6,4,looming height 3,1,0
+av2,f84b4941-8e99-3957-b6f6-db1590338cf6,4,looming width-height 3,1,0
+av2,f84b4941-8e99-3957-b6f6-db1590338cf6,4,looming width-height 2 missing,1,0
+av2,f84b4941-8e99-3957-b6f6-db1590338cf6,5,looming width-height 2 missing,1,0
+av2,f84b4941-8e99-3957-b6f6-db1590338cf6,8,looming width-height 2 missing,1,0
+av2,f84b4941-8e99-3957-b6f6-db1590338cf6,33,looming width-height 2 missing,1,0
+av2,f84b4941-8e99-3957-b6f6-db1590338cf6,40,looming width-height 2 missing,1,0
+av2,f84b4941-8e99-3957-b6f6-db1590338cf6,47,looming width-height 2 missing,1,0
+av2,f84b4941-8e99-3957-b6f6-db1590338cf6,49,looming width-height 2 missing,1,0
+av2,f84b4941-8e99-3957-b6f6-db1590338cf6,51,looming width-height 2 missing,1,0
+av2,f84b4941-8e99-3957-b6f6-db1590338cf6,54,looming height 3,1,0
+av2,f84b4941-8e99-3957-b6f6-db1590338cf6,55,looming height 3,1,0
+av2,f84b4941-8e99-3957-b6f6-db1590338cf6,65,looming height 3,1,0
+av2,f84b4941-8e99-3957-b6f6-db1590338cf6,68,looming width-height 2 missing,1,0
+av2,f84b4941-8e99-3957-b6f6-db1590338cf6,72,looming width-height 2 missing,1,0
+av2,f84b4941-8e99-3957-b6f6-db1590338cf6,75,looming width-height 2 missing,1,0
+av2,f84b4941-8e99-3957-b6f6-db1590338cf6,77,looming width-height 2 missing,1,0
+av2,f8825b65-5631-3417-8309-bd5677d694aa,1,looming width-height 2 missing,1,0
+av2,f8825b65-5631-3417-8309-bd5677d694aa,7,looming width-height 2 missing,1,0
+av2,f8825b65-5631-3417-8309-bd5677d694aa,10,looming width-height 2 missing,1,0
+av2,f8825b65-5631-3417-8309-bd5677d694aa,11,looming width-height 2 missing,1,0
+av2,f8825b65-5631-3417-8309-bd5677d694aa,12,looming width-height 2 missing,1,0
+av2,f8825b65-5631-3417-8309-bd5677d694aa,37,looming width-height 2 missing,1,1
+av2,f8825b65-5631-3417-8309-bd5677d694aa,39,looming width-height 2 missing,1,1
+av2,f8825b65-5631-3417-8309-bd5677d694aa,42,looming width-height 2 missing,1,1
+av2,f8825b65-5631-3417-8309-bd5677d694aa,45,looming width-height 2 missing,2,1
+av2,f8825b65-5631-3417-8309-bd5677d694aa,55,looming width-height 2 missing,1,1
+av2,f9f6a7e9-4f79-3fdf-b1a7-ba300622f116,33,looming width-height 2 missing,1,0
+av2,f9f6a7e9-4f79-3fdf-b1a7-ba300622f116,34,looming width-height 2 missing,1,0
+av2,f9f6a7e9-4f79-3fdf-b1a7-ba300622f116,35,looming width-height 2 missing,2,1
+av2,f9f6a7e9-4f79-3fdf-b1a7-ba300622f116,36,looming height 3,1,0
+av2,f9f6a7e9-4f79-3fdf-b1a7-ba300622f116,36,looming width-height 3,1,0
+av2,f9f6a7e9-4f79-3fdf-b1a7-ba300622f116,39,looming width-height 2 missing,1,1
+av2,f9f6a7e9-4f79-3fdf-b1a7-ba300622f116,72,looming width-height 2 missing,2,0
+av2,f9f6a7e9-4f79-3fdf-b1a7-ba300622f116,73,looming width-height 2 missing,1,0
+av2,fac8a63c-6b75-39d0-9f57-4344fde0f794,1,looming width-height 2 missing,1,1
+av2,fac8a63c-6b75-39d0-9f57-4344fde0f794,7,looming height 3,1,1
+av2,fac8a63c-6b75-39d0-9f57-4344fde0f794,7,looming width-height 3,1,1
+av2,fac8a63c-6b75-39d0-9f57-4344fde0f794,28,looming width-height 2 missing,1,0
+av2,fac8a63c-6b75-39d0-9f57-4344fde0f794,62,looming width-height 2 missing,1,0
+av2,fb0c5970-dbf7-4c77-b3b6-2c8cc41b9d6f,70,looming width-height 2 missing,1,0
+av2,fb149ce0-7706-3bb5-9860-8c63d1c77592,43,looming width-height 2 missing,1,0
+av2,fb149ce0-7706-3bb5-9860-8c63d1c77592,44,looming width-height 2 missing,1,0
+av2,ff6adc87-5f47-32f7-b36a-546453c0e332,21,looming width-height 2 missing,1,0
+av2,ff6adc87-5f47-32f7-b36a-546453c0e332,41,looming width-height 2 missing,1,0
+av2,ff6adc87-5f47-32f7-b36a-546453c0e332,44,looming width-height 2 missing,1,0
+av2,ff6adc87-5f47-32f7-b36a-546453c0e332,45,looming width-height 2 missing,1,0
+av2,ff6adc87-5f47-32f7-b36a-546453c0e332,56,looming width-height 2 missing,1,0
+av2,ff6adc87-5f47-32f7-b36a-546453c0e332,59,looming width-height 2 missing,1,0
+av2,ff6adc87-5f47-32f7-b36a-546453c0e332,63,looming width-height 2 missing,1,0

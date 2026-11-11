@@ -1,0 +1,9 @@
+{
+  "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/scripts/A_navsim/k31_nav_p2.py": "0dca57834768b144f6d88127573ba52a470a0e51d71d66332bcf32aeb4a2f3a4",
+  "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/scripts/A_navsim/navsim_pdms.py": "7eba4edaf16cad75881984cc45ef83b01fe6332ad29b8535eafac0ea6aaae7c5",
+  "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/scripts/A_navsim/k30_nav_hybrid.py": "dc612954de51410a03b8a57cf710dc5795d1f5584fc3d3c62966089329367a37",
+  "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/scripts/A_navsim/k34_selector_cost.py": "de0225a8f67e5011b86d763ba693a1a6de25dbbf04a81e3ee21a9440b09aa428",
+  "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/optimization_r4_20261024/selector_cache.py": "8c3da2b8f7b96058431f195805fa44a35a7c42229046bf90de487d47b1d96ec4",
+  "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/optimization_r4_20261024/nav_selector.py": "bc42afbe0f16587138d0bc6e58adf9c5a177d8956d232d44d954ebfb2907b285",
+  "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k34/selector/token_manifest.csv": "5200c65a537b22ddc39c1ad35c0fe59704c3ca40a2ad22fb8618e1d39e46e813"
+}

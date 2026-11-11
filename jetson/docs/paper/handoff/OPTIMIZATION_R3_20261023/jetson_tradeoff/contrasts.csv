@@ -1,0 +1,217 @@
+dataset,pipeline,comparator,metric,candidate_minus_baseline,ci_lo,ci_hi
+av2_dev,round1 combined,v6-S,mean_ms,-2.9690405703301295,-7.042793871472859,0.5394519395227513
+av2_dev,round1 combined,v6-S,p95_ms,-30.401642245124094,-33.55570801068097,2.994476388776076
+av2_dev,round1 combined,v6-S,p99_ms,-35.05491312243977,-44.903294738032855,-5.432486727193457
+av2_dev,round1 combined,v6-S,above50_pct,2.278645833333332,0.055366269165247575,4.712694382280368
+av2_dev,round1 combined,v6-S,above66_7_pct,-4.231770833333334,-8.865248226950357,-0.6483213608700013
+av2_dev,round1 combined,v6-S,above100_pct,-5.598958333333334,-13.693088160063661,-0.15922303103831772
+av2_dev,round1 combined,v6-S,mean_detector_executions,-1.38671875,-2.9403274371811827,-0.21671357810570893
+av2_dev,round1 combined,v6-S,mean_network_px,0.01292401713709651,0.0007917830192203396,0.0327288267256695
+av2_dev,round1 combined,v6-S,mean_extra_encoded_crops,0.0,0.0,0.0
+av2_dev,round1 combined,v6-S,mean_head_items,0.0,0.0,0.0
+av2_dev,round1 combined,v6-S,G_prefix,0.04274571208440481,-0.012396498789646812,0.21842618960749582
+av2_dev,round1 combined,v6-S,insufficient_loss_per_frame,-0.02989474525175484,-0.09568734992384054,0.001400408078337398
+av2_dev,learned missing history,v6-S,mean_ms,5.2850052951877515,3.429021682011398,7.1173765363641195
+av2_dev,learned missing history,v6-S,p95_ms,-3.217661753296852,-5.302928475430235,20.73002420016563
+av2_dev,learned missing history,v6-S,p99_ms,1.5971083194015705,-19.37071730034891,26.18954729055993
+av2_dev,learned missing history,v6-S,above50_pct,9.960937499999996,4.786200010907094,14.763842682809361
+av2_dev,learned missing history,v6-S,above66_7_pct,6.510416666666668,3.6066836198885146,9.041018737804789
+av2_dev,learned missing history,v6-S,above100_pct,0.716145833333333,-1.8809523809523807,4.3055653324698335
+av2_dev,learned missing history,v6-S,mean_detector_executions,-1.38671875,-2.9403274371811827,-0.21671357810570893
+av2_dev,learned missing history,v6-S,mean_network_px,0.012958039314515876,0.0008345015362092959,0.03276101620788838
+av2_dev,learned missing history,v6-S,mean_extra_encoded_crops,1.39453125,0.584377754206891,2.5939654692286256
+av2_dev,learned missing history,v6-S,mean_head_items,1.8125,0.7122681894546394,3.3411143286143257
+av2_dev,learned missing history,v6-S,G_prefix,0.04239514944267597,-0.012975000317264581,0.21807869225161114
+av2_dev,learned missing history,v6-S,insufficient_loss_per_frame,-0.03047331932143557,-0.09626638544719095,0.0009017204126197797
+av2_dev,learned missing history,round1 combined,mean_ms,8.254045865517881,3.67414005124533,13.859774966320797
+av2_dev,learned missing history,round1 combined,p95_ms,27.183980491827242,16.67009206124932,40.6811359571293
+av2_dev,learned missing history,round1 combined,p99_ms,36.65202144184134,21.277439288765862,40.093731896486176
+av2_dev,learned missing history,round1 combined,above50_pct,7.682291666666664,3.7103530819868347,12.051095021418757
+av2_dev,learned missing history,round1 combined,above66_7_pct,10.742187500000002,4.938271604938271,16.17492817527453
+av2_dev,learned missing history,round1 combined,above100_pct,6.315104166666667,0.0,17.221135029354205
+av2_dev,learned missing history,round1 combined,mean_detector_executions,0.0,0.0,0.0
+av2_dev,learned missing history,round1 combined,mean_network_px,3.402217741936553e-05,0.0,0.00010206653225806207
+av2_dev,learned missing history,round1 combined,mean_extra_encoded_crops,1.39453125,0.584377754206891,2.5939654692286256
+av2_dev,learned missing history,round1 combined,mean_head_items,1.8125,0.7122681894546394,3.3411143286143257
+av2_dev,learned missing history,round1 combined,G_prefix,-0.00035056264172883544,-0.002034964255219718,0.0
+av2_dev,learned missing history,round1 combined,insufficient_loss_per_frame,-0.0005785740696807318,-0.0017357222090421676,0.0
+av2_dev,compact point fallback,v6-S,mean_ms,0.7490689224217348,-1.1116828636361562,2.593326827418348
+av2_dev,compact point fallback,v6-S,p95_ms,-16.88426174223423,-21.734412002842873,9.920047259729449
+av2_dev,compact point fallback,v6-S,p99_ms,-19.127290547476292,-33.690553829364944,5.41564991697669
+av2_dev,compact point fallback,v6-S,above50_pct,6.966145833333332,3.1352272252184457,10.522875816993466
+av2_dev,compact point fallback,v6-S,above66_7_pct,0.390625,-3.1231700450450455,3.47727454779392
+av2_dev,compact point fallback,v6-S,above100_pct,-3.190104166666667,-6.689673176272304,-0.15922303103831772
+av2_dev,compact point fallback,v6-S,mean_detector_executions,-1.38671875,-2.9403274371811827,-0.21671357810570893
+av2_dev,compact point fallback,v6-S,mean_network_px,0.01292401713709651,0.0007917830192203396,0.0327288267256695
+av2_dev,compact point fallback,v6-S,mean_extra_encoded_crops,0.0,0.0,0.0
+av2_dev,compact point fallback,v6-S,mean_head_items,1.802734375,0.6981132075471698,3.3409938886254653
+av2_dev,compact point fallback,v6-S,G_prefix,0.04274571208440481,-0.012396498789646812,0.21842618960749582
+av2_dev,compact point fallback,v6-S,insufficient_loss_per_frame,-0.02989474525175484,-0.09568734992384054,0.001400408078337398
+av2_dev,compact point fallback,round1 combined,mean_ms,3.7181094927518643,1.628091786975769,6.160553712417191
+av2_dev,compact point fallback,round1 combined,p95_ms,13.517380502889864,6.420253234682626,16.364162031095475
+av2_dev,compact point fallback,round1 combined,p99_ms,15.927622574963479,8.232734049670398,18.224396648583934
+av2_dev,compact point fallback,round1 combined,above50_pct,4.6875,2.5168815224063827,6.6896731762723025
+av2_dev,compact point fallback,round1 combined,above66_7_pct,4.622395833333334,2.2004218275611915,6.666666666666664
+av2_dev,compact point fallback,round1 combined,above100_pct,2.408854166666667,0.0,7.045009784735812
+av2_dev,compact point fallback,round1 combined,mean_detector_executions,0.0,0.0,0.0
+av2_dev,compact point fallback,round1 combined,mean_network_px,0.0,0.0,0.0
+av2_dev,compact point fallback,round1 combined,mean_extra_encoded_crops,0.0,0.0,0.0
+av2_dev,compact point fallback,round1 combined,mean_head_items,1.802734375,0.6981132075471698,3.3409938886254653
+av2_dev,compact point fallback,round1 combined,G_prefix,0.0,0.0,0.0
+av2_dev,compact point fallback,round1 combined,insufficient_loss_per_frame,0.0,0.0,0.0
+av2_dev,critical extent retention,v6-S,mean_ms,-1.7885987728808104,-4.37076323523721,0.6923527752510014
+av2_dev,critical extent retention,v6-S,p95_ms,-28.165053474367596,-30.99627597839566,2.622724181273945
+av2_dev,critical extent retention,v6-S,p99_ms,-20.455280740861625,-44.51497894478962,18.46702996408567
+av2_dev,critical extent retention,v6-S,above50_pct,3.125,0.4702390545259201,5.978986291486293
+av2_dev,critical extent retention,v6-S,above66_7_pct,-2.9296875,-8.183339350180505,1.5636105188344018
+av2_dev,critical extent retention,v6-S,above100_pct,-5.208333333333334,-12.47506747993129,-0.15922303103831772
+av2_dev,critical extent retention,v6-S,mean_detector_executions,-1.373046875,-2.9064894799863152,-0.21882951653944005
+av2_dev,critical extent retention,v6-S,mean_network_px,0.021005544354838465,0.0012012972363225959,0.054633741376158985
+av2_dev,critical extent retention,v6-S,mean_extra_encoded_crops,0.0,0.0,0.0
+av2_dev,critical extent retention,v6-S,mean_head_items,0.0,0.0,0.0
+av2_dev,critical extent retention,v6-S,G_prefix,0.03481148174869553,-0.02677624330542976,0.21842618960749582
+av2_dev,critical extent retention,v6-S,insufficient_loss_per_frame,-0.03051729839669015,-0.09626582826763141,0.0013037994343995385
+av2_dev,critical extent retention,round1 combined,mean_ms,1.180441797449319,0.1363943365604019,3.0004320474669584
+av2_dev,critical extent retention,round1 combined,p95_ms,2.236588770756498,-1.2017017629113977,14.884248885209626
+av2_dev,critical extent retention,round1 combined,p99_ms,14.599632381578147,-0.6680418508330781,54.64672204107046
+av2_dev,critical extent retention,round1 combined,above50_pct,0.8463541666666679,-0.8585804780216245,2.430196193638574
+av2_dev,critical extent retention,round1 combined,above66_7_pct,1.302083333333334,0.11953588472356881,3.11890838206628
+av2_dev,critical extent retention,round1 combined,above100_pct,0.3906250000000002,0.0,1.1695906432748533
+av2_dev,critical extent retention,round1 combined,mean_detector_executions,0.013671875,-0.008576513372448302,0.03829991380483615
+av2_dev,critical extent retention,round1 combined,mean_network_px,0.008081527217741954,0.00023015920338680107,0.022083713464972853
+av2_dev,critical extent retention,round1 combined,mean_extra_encoded_crops,0.0,0.0,0.0
+av2_dev,critical extent retention,round1 combined,mean_head_items,0.0,0.0,0.0
+av2_dev,critical extent retention,round1 combined,G_prefix,-0.00793423033570928,-0.015436436185820737,0.0
+av2_dev,critical extent retention,round1 combined,insufficient_loss_per_frame,-0.0006225531449353117,-0.0018640187731396307,0.0
+av2_dev,corroborated upper fallback,v6-S,mean_ms,5.932066886619701,3.7028612173776985,8.231446616040046
+av2_dev,corroborated upper fallback,v6-S,p95_ms,-2.219122732640244,-2.912675030529499,23.218807257871934
+av2_dev,corroborated upper fallback,v6-S,p99_ms,4.000234013073964,-15.7576678740734,29.526610067114234
+av2_dev,corroborated upper fallback,v6-S,above50_pct,10.286458333333332,5.06303322913765,15.225283808124376
+av2_dev,corroborated upper fallback,v6-S,above66_7_pct,7.421875,3.9131446039340787,10.407025224098392
+av2_dev,corroborated upper fallback,v6-S,above100_pct,1.692708333333333,-1.6835386835386834,6.124989414853063
+av2_dev,corroborated upper fallback,v6-S,mean_detector_executions,-1.38671875,-2.9403274371811827,-0.21671357810570893
+av2_dev,corroborated upper fallback,v6-S,mean_network_px,0.013038054435483629,0.0008902568275166148,0.03283472462260322
+av2_dev,corroborated upper fallback,v6-S,mean_extra_encoded_crops,1.3984375,0.5858403656690606,2.597060707323864
+av2_dev,corroborated upper fallback,v6-S,mean_head_items,1.81640625,0.7128888721955128,3.34119369369369
+av2_dev,corroborated upper fallback,v6-S,G_prefix,0.041608078291158535,-0.013775166704882547,0.21807869225161114
+av2_dev,corroborated upper fallback,v6-S,insufficient_loss_per_frame,-0.030997282362680928,-0.09627065380265966,0.0007673605142160562
+av2_dev,corroborated upper fallback,round1 combined,mean_ms,8.90110745694983,3.954283070440095,15.000004305650258
+av2_dev,corroborated upper fallback,round1 combined,p95_ms,28.18251951248385,18.389602473325795,44.28893595468253
+av2_dev,corroborated upper fallback,round1 combined,p99_ms,39.055147135513735,23.947097003474497,44.46300299605355
+av2_dev,corroborated upper fallback,round1 combined,above50_pct,8.0078125,4.112952731737263,12.146123448386698
+av2_dev,corroborated upper fallback,round1 combined,above66_7_pct,11.653645833333334,5.1660326004086485,17.780637254901947
+av2_dev,corroborated upper fallback,round1 combined,above100_pct,7.291666666666667,0.4551184390403574,19.178773366152964
+av2_dev,corroborated upper fallback,round1 combined,mean_detector_executions,0.0,0.0,0.0
+av2_dev,corroborated upper fallback,round1 combined,mean_network_px,0.00011403729838711796,0.0,0.000278475819272782
+av2_dev,corroborated upper fallback,round1 combined,mean_extra_encoded_crops,1.3984375,0.5858403656690606,2.597060707323864
+av2_dev,corroborated upper fallback,round1 combined,mean_head_items,1.81640625,0.7128888721955128,3.34119369369369
+av2_dev,corroborated upper fallback,round1 combined,G_prefix,-0.0011376337932462732,-0.006603795810554369,0.0
+av2_dev,corroborated upper fallback,round1 combined,insufficient_loss_per_frame,-0.0011025371109260884,-0.0033076113327783208,0.0
+nusc_val,round1 combined,v6-S,mean_ms,-1.7758509538907674,-4.35650097008802,-0.0035958236886573904
+nusc_val,round1 combined,v6-S,p95_ms,-12.429053997038864,-21.48668528854604,-0.9088003760552977
+nusc_val,round1 combined,v6-S,p99_ms,-21.368702637846603,-27.907814935315358,-7.594006930710751
+nusc_val,round1 combined,v6-S,above50_pct,-5.598958333333333,-13.492335290280495,-0.5177993527508091
+nusc_val,round1 combined,v6-S,above66_7_pct,-2.408854166666667,-5.797388434495623,-0.32362459546925565
+nusc_val,round1 combined,v6-S,above100_pct,-0.1953125,-0.594059405940594,0.0
+nusc_val,round1 combined,v6-S,mean_detector_executions,-0.703125,-1.2942942334414078,-0.2693704950360398
+nusc_val,round1 combined,v6-S,mean_network_px,0.004266666666666391,-0.00015395078258822887,0.010633234316298765
+nusc_val,round1 combined,v6-S,mean_extra_encoded_crops,0.0,0.0,0.0
+nusc_val,round1 combined,v6-S,mean_head_items,0.0,0.0,0.0
+nusc_val,round1 combined,v6-S,G_prefix,0.009776252608853842,0.0,0.017174590002261285
+nusc_val,round1 combined,v6-S,insufficient_loss_per_frame,-0.00467271124846963,-0.011385749347671977,0.0
+nusc_val,learned missing history,v6-S,mean_ms,2.0799902976780977,-0.1986720042025487,4.347654802989249
+nusc_val,learned missing history,v6-S,p95_ms,0.4400732577778399,-8.17066169460304,13.19531976740108
+nusc_val,learned missing history,v6-S,p99_ms,-4.577920251176707,-16.283017001114786,12.227004405576707
+nusc_val,learned missing history,v6-S,above50_pct,4.427083333333334,-2.438210608500465,11.943179954068235
+nusc_val,learned missing history,v6-S,above66_7_pct,0.390625,-1.8265735517951471,2.827087442472058
+nusc_val,learned missing history,v6-S,above100_pct,-0.1953125,-0.594059405940594,0.0
+nusc_val,learned missing history,v6-S,mean_detector_executions,-0.703125,-1.2942942334414078,-0.2693704950360398
+nusc_val,learned missing history,v6-S,mean_network_px,0.004063888888888589,-0.0003562486463071383,0.010409128474324991
+nusc_val,learned missing history,v6-S,mean_extra_encoded_crops,0.52734375,0.2523850293542074,0.8409212604491695
+nusc_val,learned missing history,v6-S,mean_head_items,0.650390625,0.2771317829457364,1.0761830987536836
+nusc_val,learned missing history,v6-S,G_prefix,0.11063338285714008,0.0,0.32271053095353486
+nusc_val,learned missing history,v6-S,insufficient_loss_per_frame,-0.04863857149548595,-0.13713650984024653,0.0
+nusc_val,learned missing history,round1 combined,mean_ms,3.855841251568865,2.2085159903136367,5.689081511781854
+nusc_val,learned missing history,round1 combined,p95_ms,12.869127254816703,5.2387660315434985,19.158623210241785
+nusc_val,learned missing history,round1 combined,p99_ms,16.790782386669896,5.95013682817822,22.741122599691153
+nusc_val,learned missing history,round1 combined,above50_pct,10.026041666666668,3.5520379118217056,17.5896155110514
+nusc_val,learned missing history,round1 combined,above66_7_pct,2.799479166666667,0.5188067444876784,5.7089429095031745
+nusc_val,learned missing history,round1 combined,above100_pct,0.0,0.0,0.0
+nusc_val,learned missing history,round1 combined,mean_detector_executions,0.0,0.0,0.0
+nusc_val,learned missing history,round1 combined,mean_network_px,-0.0002027777777778017,-0.0006095238095237959,0.0
+nusc_val,learned missing history,round1 combined,mean_extra_encoded_crops,0.52734375,0.2523850293542074,0.8409212604491695
+nusc_val,learned missing history,round1 combined,mean_head_items,0.650390625,0.2771317829457364,1.0761830987536836
+nusc_val,learned missing history,round1 combined,G_prefix,0.10085713024828624,-0.0072498272989734045,0.3217453515446911
+nusc_val,learned missing history,round1 combined,insufficient_loss_per_frame,-0.04396586024701632,-0.13164642223484202,0.0
+nusc_val,compact point fallback,v6-S,mean_ms,0.08858880611720821,-2.1374461970787495,1.841690088774033
+nusc_val,compact point fallback,v6-S,p95_ms,-8.575513696996495,-17.196776288037366,4.356753583633728
+nusc_val,compact point fallback,v6-S,p99_ms,-14.524143497692364,-21.12471122469286,-1.2955184105667592
+nusc_val,compact point fallback,v6-S,above50_pct,-0.6510416666666661,-5.098039215686274,2.942516850490189
+nusc_val,compact point fallback,v6-S,above66_7_pct,-1.822916666666667,-4.548559241889102,-0.13020833333333337
+nusc_val,compact point fallback,v6-S,above100_pct,-0.1953125,-0.594059405940594,0.0
+nusc_val,compact point fallback,v6-S,mean_detector_executions,-0.703125,-1.2942942334414078,-0.2693704950360398
+nusc_val,compact point fallback,v6-S,mean_network_px,0.004266666666666391,-0.00015395078258822887,0.010633234316298765
+nusc_val,compact point fallback,v6-S,mean_extra_encoded_crops,0.0,0.0,0.0
+nusc_val,compact point fallback,v6-S,mean_head_items,0.642578125,0.2771317829457364,1.0574693889507292
+nusc_val,compact point fallback,v6-S,G_prefix,0.032966296807281914,0.0,0.08332910020977731
+nusc_val,compact point fallback,v6-S,insufficient_loss_per_frame,-0.012744034264716736,-0.029684287338404225,0.0
+nusc_val,compact point fallback,round1 combined,mean_ms,1.8644397600079756,1.0647983788714552,2.7805572263864566
+nusc_val,compact point fallback,round1 combined,p95_ms,3.8535403000423685,1.4561450807377696,7.211197295691818
+nusc_val,compact point fallback,round1 combined,p99_ms,6.844559140154239,1.9707237160764635,10.874898987822235
+nusc_val,compact point fallback,round1 combined,above50_pct,4.947916666666667,1.4886731391585761,9.282222478032304
+nusc_val,compact point fallback,round1 combined,above66_7_pct,0.5859375,0.12919896640826875,1.1858883869753427
+nusc_val,compact point fallback,round1 combined,above100_pct,0.0,0.0,0.0
+nusc_val,compact point fallback,round1 combined,mean_detector_executions,0.0,0.0,0.0
+nusc_val,compact point fallback,round1 combined,mean_network_px,0.0,0.0,0.0
+nusc_val,compact point fallback,round1 combined,mean_extra_encoded_crops,0.0,0.0,0.0
+nusc_val,compact point fallback,round1 combined,mean_head_items,0.642578125,0.2771317829457364,1.0574693889507292
+nusc_val,compact point fallback,round1 combined,G_prefix,0.023190044198428073,-0.0072498272989734045,0.08264383094987154
+nusc_val,compact point fallback,round1 combined,insufficient_loss_per_frame,-0.008071323016247106,-0.023921837771716362,0.0
+nusc_val,critical extent retention,v6-S,mean_ms,-0.8794332770018336,-3.616124510417668,1.2821686207749952
+nusc_val,critical extent retention,v6-S,p95_ms,-10.296818989445455,-19.156886625569257,1.35694701588363
+nusc_val,critical extent retention,v6-S,p99_ms,-17.26696605328472,-25.668875711562578,-5.762251388776356
+nusc_val,critical extent retention,v6-S,above50_pct,-3.710937499999999,-10.372328383408158,0.9145889086139668
+nusc_val,critical extent retention,v6-S,above66_7_pct,-1.822916666666667,-4.901960784313726,0.06447453255963892
+nusc_val,critical extent retention,v6-S,above100_pct,-0.1953125,-0.594059405940594,0.0
+nusc_val,critical extent retention,v6-S,mean_detector_executions,-0.68359375,-1.2722160107334526,-0.2513900909918796
+nusc_val,critical extent retention,v6-S,mean_network_px,0.012886111111110307,0.002794391424188725,0.02532183622864322
+nusc_val,critical extent retention,v6-S,mean_extra_encoded_crops,0.0,0.0,0.0
+nusc_val,critical extent retention,v6-S,mean_head_items,0.0,0.0,0.0
+nusc_val,critical extent retention,v6-S,G_prefix,-0.004736954998355358,-0.012611387063904956,0.006159698113360628
+nusc_val,critical extent retention,v6-S,insufficient_loss_per_frame,-0.007239872259548863,-0.019631531808069595,0.0
+nusc_val,critical extent retention,round1 combined,mean_ms,0.8964176768889338,0.010837425242497112,2.2664142198327615
+nusc_val,critical extent retention,round1 combined,p95_ms,2.1322350075934082,0.02152822744392325,4.567341247893637
+nusc_val,critical extent retention,round1 combined,p99_ms,4.101736584561884,0.36784886993699145,8.535479528771248
+nusc_val,critical extent retention,round1 combined,above50_pct,1.888020833333334,0.3255049697449642,3.8008414554905725
+nusc_val,critical extent retention,round1 combined,above66_7_pct,0.5859375,0.1299545159194282,1.1583571689954664
+nusc_val,critical extent retention,round1 combined,above100_pct,0.0,0.0,0.0
+nusc_val,critical extent retention,round1 combined,mean_detector_executions,0.01953125,0.0,0.05405666788645543
+nusc_val,critical extent retention,round1 combined,mean_network_px,0.008619444444443916,0.0,0.020116424640315964
+nusc_val,critical extent retention,round1 combined,mean_extra_encoded_crops,0.0,0.0,0.0
+nusc_val,critical extent retention,round1 combined,mean_head_items,0.0,0.0,0.0
+nusc_val,critical extent retention,round1 combined,G_prefix,-0.0145132076072092,-0.029472234581653396,0.0
+nusc_val,critical extent retention,round1 combined,insufficient_loss_per_frame,-0.002567161011079233,-0.00773168492748566,0.0
+nusc_val,corroborated upper fallback,v6-S,mean_ms,2.4523379961086285,0.2946577546314689,4.730145138508183
+nusc_val,corroborated upper fallback,v6-S,p95_ms,2.199464972363785,-6.679936348082237,14.455100502236757
+nusc_val,corroborated upper fallback,v6-S,p99_ms,-1.6079874825663723,-13.517029697773909,13.620907199219797
+nusc_val,corroborated upper fallback,v6-S,above50_pct,4.947916666666668,-1.8880208333333321,12.175235297736213
+nusc_val,corroborated upper fallback,v6-S,above66_7_pct,0.911458333333333,-1.1132940406024883,3.560043695616586
+nusc_val,corroborated upper fallback,v6-S,above100_pct,-0.1953125,-0.594059405940594,0.0
+nusc_val,corroborated upper fallback,v6-S,mean_detector_executions,-0.703125,-1.2942942334414078,-0.2693704950360398
+nusc_val,corroborated upper fallback,v6-S,mean_network_px,0.004063888888888589,-0.0003562486463071383,0.010409128474324991
+nusc_val,corroborated upper fallback,v6-S,mean_extra_encoded_crops,0.52734375,0.2523850293542074,0.8409212604491695
+nusc_val,corroborated upper fallback,v6-S,mean_head_items,0.650390625,0.2771317829457364,1.0761830987536836
+nusc_val,corroborated upper fallback,v6-S,G_prefix,0.08630847461400282,0.0,0.24761021172395925
+nusc_val,corroborated upper fallback,v6-S,insufficient_loss_per_frame,-0.04863857149548595,-0.13713650984024653,0.0
+nusc_val,corroborated upper fallback,round1 combined,mean_ms,4.228188949999396,2.4233696292258458,6.224682188003594
+nusc_val,corroborated upper fallback,round1 combined,p95_ms,14.628518969402649,6.3573147464922,20.530003545645737
+nusc_val,corroborated upper fallback,round1 combined,p99_ms,19.76071515528023,7.1650699828751385,24.66317586146758
+nusc_val,corroborated upper fallback,round1 combined,above50_pct,10.546875,4.2878756969944245,18.009300700474952
+nusc_val,corroborated upper fallback,round1 combined,above66_7_pct,3.3203125,0.5187815596942567,6.939982806985788
+nusc_val,corroborated upper fallback,round1 combined,above100_pct,0.0,0.0,0.0
+nusc_val,corroborated upper fallback,round1 combined,mean_detector_executions,0.0,0.0,0.0
+nusc_val,corroborated upper fallback,round1 combined,mean_network_px,-0.0002027777777778017,-0.0006095238095237959,0.0
+nusc_val,corroborated upper fallback,round1 combined,mean_extra_encoded_crops,0.52734375,0.2523850293542074,0.8409212604491695
+nusc_val,corroborated upper fallback,round1 combined,mean_head_items,0.650390625,0.2771317829457364,1.0761830987536836
+nusc_val,corroborated upper fallback,round1 combined,G_prefix,0.07653222200514898,-0.0072498272989734045,0.2468600578498836
+nusc_val,corroborated upper fallback,round1 combined,insufficient_loss_per_frame,-0.04396586024701632,-0.13164642223484202,0.0

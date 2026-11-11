@@ -1,0 +1,13 @@
+{
+  "nusc_frames_checked": 9181,
+  "nusc_a_cheap_mismatches": 0,
+  "av2_frames_checked": 11818,
+  "av2_a_cheap_mismatches": 0,
+  "ahd_frames_checked": 15062,
+  "ahd_a_cheap_mismatches": 0,
+  "frames_per_dataset": {
+    "ahd": 15006,
+    "av2": 11818,
+    "nusc": 9181
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "source": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/tmp/desp_k40/artifacts/records/jetson_latency.parquet",
+  "source_md5": "39463846dc71c4b5a17500a989461e2e",
+  "script_md5": "4d710c5a412a905d40be706d8ff952d2",
+  "new_device_execution": false,
+  "protocol": "K29 fast TensorRT; 20 nuScenes scenes / 8 AV2 logs"
+}

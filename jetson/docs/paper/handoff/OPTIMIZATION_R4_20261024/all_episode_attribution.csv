@@ -1,0 +1,17 @@
+dataset,pipeline,object_attribution_available,rescued,newly_missed,rescued_with_decisive_evidence,rescued_without_decisive_evidence,hard_peak_rescued,hard_peak_rescued_with_hard_evidence,suite
+av2,critical extent retention,True,0,0,0.0,0.0,0,0.0,dev
+av2,containment merge,True,0,0,0.0,0.0,0,0.0,dev
+av2,union coverage,True,0,0,0.0,0.0,0,0.0,dev
+av2,semantic consistency,True,0,0,0.0,0.0,0,0.0,dev
+av2,one-round extent,True,4,1,1.0,3.0,1,0.0,dev
+nusc,critical extent retention,True,0,0,0.0,0.0,0,0.0,dev
+nusc,containment merge,True,0,0,0.0,0.0,0,0.0,dev
+nusc,union coverage,True,0,0,0.0,0.0,0,0.0,dev
+nusc,semantic consistency,True,0,0,0.0,0.0,0,0.0,dev
+nusc,one-round extent,True,1,1,1.0,0.0,0,0.0,dev
+av2,objectwise median,True,12,0,9.0,3.0,0,0.0,readout
+av2,hard-brake corroboration,True,0,0,0.0,0.0,0,0.0,readout
+av2,framewise median,False,13,0,,,0,,readout
+nusc,objectwise median,True,0,0,0.0,0.0,0,0.0,readout
+nusc,hard-brake corroboration,True,0,0,0.0,0.0,0,0.0,readout
+nusc,framewise median,False,0,0,,,0,,readout

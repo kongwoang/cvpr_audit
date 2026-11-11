@@ -1,0 +1,11 @@
+dataset,detector,units,frames,method,G,tensor_px,full_minus_ci,full_ref_minus_ci
+av2,YOLO11s (draft + target),150.0,11818.0,u640,-0.011086201009923196,0.10322580645161294,"[+0.026, +0.121]","[+0.090, +0.211]"
+av2,YOLO11s (draft + target),150.0,11818.0,u960,-0.041148645963613055,0.23225806451612904,"[+0.060, +0.150]","[+0.120, +0.245]"
+av2,YOLO11s (draft + target),150.0,11818.0,native,-0.12054100782212879,1.0116129032258068,"[+0.095, +0.266]","[+0.145, +0.376]"
+av2,YOLO11s (draft + target),150.0,11818.0,ours without refiner,0.060529911169239614,0.05353755070177259,,
+av2,YOLO11s (draft + target),150.0,11818.0,ours + existing refiner,0.1392557874648718,0.05353755070177259,,
+av2,YOLO11s,,,refiner effect (ours + refiner minus ours),0.07872587629563219,,,"[+0.040, +0.121]"
+av2,"YOLOv8s (frozen, K14)",,,u960,-0.02073589557545917,0.23225806451612904,,
+av2,"YOLOv8s (frozen, K14)",,,native,-0.05784620757347319,1.0116129032258068,,
+av2,"YOLOv8s (frozen, K14)",,,ours without refiner,0.03145255645308786,0.05324938994098668,,
+av2,"YOLOv8s (frozen, K14)",,,ours + refiner,0.12228961309646279,0.05324938994098668,,

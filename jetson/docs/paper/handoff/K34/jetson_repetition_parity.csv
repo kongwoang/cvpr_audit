@@ -1,0 +1,7 @@
+dataset,pipeline,frames,frames_with_repetition_disagreement
+av2,B2K-A,586,0
+av2,v6-S,586,0
+av2,v6-S <= 2,586,0
+nusc_test20,B2K-A,805,0
+nusc_test20,v6-S,805,0
+nusc_test20,v6-S <= 2,805,0

@@ -1,0 +1,73 @@
+source,dataset,rep,pipeline,population,expected_frames,common_frames,missing_references,differing_frames,agreement,ci_lo,ci_hi
+legacy_k29,nusc,1,v6-S,chronological,712,712,0,2,0.9971910112359551,0.9915492957746479,1.0
+legacy_k29,nusc,1,v6-S,timed,512,512,0,2,0.99609375,0.9882583170254403,1.0
+legacy_k29,nusc,1,v6-S + recovery,chronological,712,712,0,2,0.9971910112359551,0.9915492957746479,1.0
+legacy_k29,nusc,1,v6-S + recovery,timed,512,512,0,2,0.99609375,0.9882583170254403,1.0
+legacy_k29,nusc,1,B2K-A,chronological,712,712,0,3,0.9957865168539326,0.988795518207283,1.0
+legacy_k29,nusc,1,B2K-A,timed,512,512,0,3,0.994140625,0.9845552377467272,1.0
+legacy_k29,nusc,1,B2K-A + recovery,chronological,712,712,0,2,0.9971910112359551,0.9929873772791024,1.0
+legacy_k29,nusc,1,B2K-A + recovery,timed,512,512,0,2,0.99609375,0.9902912621359223,1.0
+legacy_k29,av2,1,v6-S,chronological,712,313,399,0,1.0,1.0,1.0
+legacy_k29,av2,1,v6-S,timed,512,270,242,0,1.0,1.0,1.0
+legacy_k29,av2,1,v6-S + recovery,chronological,712,313,399,0,1.0,1.0,1.0
+legacy_k29,av2,1,v6-S + recovery,timed,512,270,242,0,1.0,1.0,1.0
+legacy_k29,av2,1,B2K-A,chronological,712,313,399,2,0.9936102236421726,0.9807692307692307,1.0
+legacy_k29,av2,1,B2K-A,timed,512,270,242,0,1.0,1.0,1.0
+legacy_k29,av2,1,B2K-A + recovery,chronological,712,313,399,2,0.9936102236421726,0.9807692307692307,1.0
+legacy_k29,av2,1,B2K-A + recovery,timed,512,270,242,0,1.0,1.0,1.0
+legacy_k29,nusc,2,v6-S,chronological,712,712,0,2,0.9971910112359551,0.9915492957746479,1.0
+legacy_k29,nusc,2,v6-S,timed,512,512,0,2,0.99609375,0.9882583170254403,1.0
+legacy_k29,nusc,2,v6-S + recovery,chronological,712,712,0,2,0.9971910112359551,0.9915492957746479,1.0
+legacy_k29,nusc,2,v6-S + recovery,timed,512,512,0,2,0.99609375,0.9882583170254403,1.0
+legacy_k29,nusc,2,B2K-A,chronological,712,712,0,3,0.9957865168539326,0.988795518207283,1.0
+legacy_k29,nusc,2,B2K-A,timed,512,512,0,3,0.994140625,0.9845552377467272,1.0
+legacy_k29,nusc,2,B2K-A + recovery,chronological,712,712,0,2,0.9971910112359551,0.9929873772791024,1.0
+legacy_k29,nusc,2,B2K-A + recovery,timed,512,512,0,2,0.99609375,0.9902912621359223,1.0
+legacy_k29,av2,2,v6-S,chronological,712,313,399,0,1.0,1.0,1.0
+legacy_k29,av2,2,v6-S,timed,512,270,242,0,1.0,1.0,1.0
+legacy_k29,av2,2,v6-S + recovery,chronological,712,313,399,0,1.0,1.0,1.0
+legacy_k29,av2,2,v6-S + recovery,timed,512,270,242,0,1.0,1.0,1.0
+legacy_k29,av2,2,B2K-A,chronological,712,313,399,2,0.9936102236421726,0.9807692307692307,1.0
+legacy_k29,av2,2,B2K-A,timed,512,270,242,0,1.0,1.0,1.0
+legacy_k29,av2,2,B2K-A + recovery,chronological,712,313,399,2,0.9936102236421726,0.9807692307692307,1.0
+legacy_k29,av2,2,B2K-A + recovery,timed,512,270,242,0,1.0,1.0,1.0
+legacy_k29,nusc,3,v6-S,chronological,712,712,0,2,0.9971910112359551,0.9915492957746479,1.0
+legacy_k29,nusc,3,v6-S,timed,512,512,0,2,0.99609375,0.9882583170254403,1.0
+legacy_k29,nusc,3,v6-S + recovery,chronological,712,712,0,2,0.9971910112359551,0.9915492957746479,1.0
+legacy_k29,nusc,3,v6-S + recovery,timed,512,512,0,2,0.99609375,0.9882583170254403,1.0
+legacy_k29,nusc,3,B2K-A,chronological,712,712,0,3,0.9957865168539326,0.988795518207283,1.0
+legacy_k29,nusc,3,B2K-A,timed,512,512,0,3,0.994140625,0.9845552377467272,1.0
+legacy_k29,nusc,3,B2K-A + recovery,chronological,712,712,0,2,0.9971910112359551,0.9929873772791024,1.0
+legacy_k29,nusc,3,B2K-A + recovery,timed,512,512,0,2,0.99609375,0.9902912621359223,1.0
+legacy_k29,av2,3,v6-S,chronological,712,313,399,0,1.0,1.0,1.0
+legacy_k29,av2,3,v6-S,timed,512,270,242,0,1.0,1.0,1.0
+legacy_k29,av2,3,v6-S + recovery,chronological,712,313,399,0,1.0,1.0,1.0
+legacy_k29,av2,3,v6-S + recovery,timed,512,270,242,0,1.0,1.0,1.0
+legacy_k29,av2,3,B2K-A,chronological,712,313,399,2,0.9936102236421726,0.9807692307692307,1.0
+legacy_k29,av2,3,B2K-A,timed,512,270,242,0,1.0,1.0,1.0
+legacy_k29,av2,3,B2K-A + recovery,chronological,712,313,399,2,0.9936102236421726,0.9807692307692307,1.0
+legacy_k29,av2,3,B2K-A + recovery,timed,512,270,242,0,1.0,1.0,1.0
+verified_cfg,av2,1,v6-S,chronological,712,712,0,1,0.9985955056179775,0.9957865168539326,1.0
+verified_cfg,av2,1,v6-S,timed,512,512,0,1,0.998046875,0.994475138121547,1.0
+verified_cfg,av2,1,v6-S + recovery,chronological,712,712,0,1,0.9985955056179775,0.9957865168539326,1.0
+verified_cfg,av2,1,v6-S + recovery,timed,512,512,0,1,0.998046875,0.994475138121547,1.0
+verified_cfg,av2,1,B2K-A,chronological,712,712,0,5,0.9929775280898876,0.9858407079646018,1.0
+verified_cfg,av2,1,B2K-A,timed,512,512,0,3,0.994140625,0.9863713798977853,1.0
+verified_cfg,av2,1,B2K-A + recovery,chronological,712,712,0,5,0.9929775280898876,0.9858407079646018,1.0
+verified_cfg,av2,1,B2K-A + recovery,timed,512,512,0,3,0.994140625,0.9863713798977853,1.0
+verified_cfg,av2,2,v6-S,chronological,712,712,0,1,0.9985955056179775,0.9957865168539326,1.0
+verified_cfg,av2,2,v6-S,timed,512,512,0,1,0.998046875,0.994475138121547,1.0
+verified_cfg,av2,2,v6-S + recovery,chronological,712,712,0,1,0.9985955056179775,0.9957865168539326,1.0
+verified_cfg,av2,2,v6-S + recovery,timed,512,512,0,1,0.998046875,0.994475138121547,1.0
+verified_cfg,av2,2,B2K-A,chronological,712,712,0,5,0.9929775280898876,0.9858407079646018,1.0
+verified_cfg,av2,2,B2K-A,timed,512,512,0,3,0.994140625,0.9863713798977853,1.0
+verified_cfg,av2,2,B2K-A + recovery,chronological,712,712,0,5,0.9929775280898876,0.9858407079646018,1.0
+verified_cfg,av2,2,B2K-A + recovery,timed,512,512,0,3,0.994140625,0.9863713798977853,1.0
+verified_cfg,av2,3,v6-S,chronological,712,712,0,1,0.9985955056179775,0.9957865168539326,1.0
+verified_cfg,av2,3,v6-S,timed,512,512,0,1,0.998046875,0.994475138121547,1.0
+verified_cfg,av2,3,v6-S + recovery,chronological,712,712,0,1,0.9985955056179775,0.9957865168539326,1.0
+verified_cfg,av2,3,v6-S + recovery,timed,512,512,0,1,0.998046875,0.994475138121547,1.0
+verified_cfg,av2,3,B2K-A,chronological,712,712,0,5,0.9929775280898876,0.9858407079646018,1.0
+verified_cfg,av2,3,B2K-A,timed,512,512,0,3,0.994140625,0.9863713798977853,1.0
+verified_cfg,av2,3,B2K-A + recovery,chronological,712,712,0,5,0.9929775280898876,0.9858407079646018,1.0
+verified_cfg,av2,3,B2K-A + recovery,timed,512,512,0,3,0.994140625,0.9863713798977853,1.0

@@ -1,0 +1,13 @@
+dataset,direction,stratum,class,subclass,episodes,share_of_direction_episodes,insufficient_loss_v6S,loss_share_v6S,insufficient_loss_cheap,loss_share_cheap
+nusc,cheap_detects_v6S_misses,all,E-other,inside_finite_ttc_refiner_not_decisive,2,0.1111111111111111,3.917672633834951,0.0115210346380732,1.5208568347332163,0.006792739642596737
+nusc,cheap_detects_v6S_misses,all,E2,inside_matched_no_finite_ttc,15,0.8333333333333334,159.4395949108091,0.4688776391838713,84.43567041003797,0.3771226275510064
+nusc,cheap_detects_v6S_misses,all,E2,inside_not_matched,1,0.05555555555555555,176.68794166671813,0.5196013261780555,137.93794166671813,0.6160846328063968
+nusc,cheap_detects_v6S_misses,below_hard,E-other,inside_finite_ttc_refiner_not_decisive,2,0.125,3.917672633834951,0.029024034132212707,1.5208568347332163,0.019180796649459278
+nusc,cheap_detects_v6S_misses,below_hard,E2,inside_matched_no_finite_ttc,14,0.875,131.06262045667205,0.9709759658677871,77.76974107565599,0.9808192033505406
+nusc,cheap_detects_v6S_misses,at_or_above_hard,E2,inside_matched_no_finite_ttc,1,0.5,28.376974454137027,0.13838044552395806,6.6659293343819765,0.04609786230640578
+nusc,cheap_detects_v6S_misses,at_or_above_hard,E2,inside_not_matched,1,0.5,176.68794166671813,0.8616195544760419,137.93794166671813,0.9539021376935941
+nusc,v6S_detects_cheap_misses,all,R1,decisive_object_only_in_verified_crop,5,0.5555555555555556,32.266549122603394,0.5209528154360324,46.80356957049169,0.43318969264204726
+nusc,v6S_detects_cheap_misses,all,R2,both_see_it_v6S_estimate_brakes,4,0.4444444444444444,29.67101636611866,0.47904718456396755,61.24048218206547,0.5668103073579527
+nusc,v6S_detects_cheap_misses,below_hard,R1,decisive_object_only_in_verified_crop,5,0.625,32.266549122603394,0.728515700940058,46.80356957049169,0.5955131679286194
+nusc,v6S_detects_cheap_misses,below_hard,R2,both_see_it_v6S_estimate_brakes,3,0.375,12.024258997204404,0.2714842990599419,31.790107431293336,0.40448683207138036
+nusc,v6S_detects_cheap_misses,at_or_above_hard,R2,both_see_it_v6S_estimate_brakes,1,1.0,17.64675736891426,1.0,29.45037475077213,1.0

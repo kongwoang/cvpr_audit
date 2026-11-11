@@ -1,0 +1,10 @@
+{
+  "status": "complete",
+  "dataset": "av2",
+  "units": 300,
+  "models": [
+    "pooled",
+    "conditional"
+  ],
+  "all_q_reported": true
+}

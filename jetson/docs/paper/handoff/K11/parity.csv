@@ -1,0 +1,7 @@
+dataset,step,frames_matched,identical_cost_ours,identical_cost_ours_noref,G_ours,G_ours_ref_run,identical_cost_cheap
+nusc,phase1_no_breakdown_syncs,3176,1.0,1.0,0.1727,0.1727,1.0
+av2,phase1_no_breakdown_syncs,586,1.0,1.0,0.5453,0.5453,1.0
+av2,phase1_+_batched_refiner,586,1.0,1.0,0.5453,0.5453,1.0
+nusc,phase2_NEW_CONFIG_ctx2.5_fmargin0.0,3176,0.9808,0.9798,0.1523,0.1727,1.0
+nusc,phase2_NEW_CONFIG_ctx2.0_fmargin0.15,3176,0.9663,0.9666,0.173,0.1727,1.0
+nusc,phase2_NEW_CONFIG_ctx2.5_fmargin0.15,3176,0.9644,0.9628,0.1975,0.1727,1.0

@@ -1,0 +1,98 @@
+{
+  "status": "complete",
+  "dataset": "nusc",
+  "models": [
+    {
+      "model": "all",
+      "train_examples": 43762,
+      "train_units": 332,
+      "train_class_counts": [
+        40433,
+        2593,
+        736
+      ],
+      "val_examples": 7033,
+      "val_units": 51,
+      "val_logloss": 0.07980424391822728,
+      "confusion": [
+        [
+          6547,
+          68,
+          16
+        ],
+        [
+          94,
+          243,
+          14
+        ],
+        [
+          4,
+          2,
+          45
+        ]
+      ],
+      "sha256": "6e8fa3339fc3a63b3de4bc002f2d917a716992c1b1af0916324f0cf69b4c70e9"
+    },
+    {
+      "model": "matched",
+      "train_examples": 34711,
+      "train_units": 322,
+      "train_class_counts": [
+        31382,
+        2593,
+        736
+      ],
+      "val_examples": 7033,
+      "val_units": 51,
+      "val_logloss": 0.08911992025307595,
+      "confusion": [
+        [
+          6487,
+          124,
+          20
+        ],
+        [
+          77,
+          256,
+          18
+        ],
+        [
+          2,
+          0,
+          49
+        ]
+      ],
+      "sha256": "b645dd7e14746c3e9090bfd5343e175f0d00965a855458e7b4cc6066eac312c1"
+    }
+  ],
+  "features": [
+    "z",
+    "lat_min",
+    "lat_max",
+    "rate",
+    "v",
+    "demand",
+    "ego_demand",
+    "confidence",
+    "vehicle",
+    "person",
+    "cyclist",
+    "x1",
+    "y1",
+    "x2",
+    "y2",
+    "width",
+    "height",
+    "full",
+    "complete_history",
+    "finite_ttc"
+  ],
+  "training_units": 383,
+  "dev_overlap": 0,
+  "invalid_matched": 344,
+  "unmatched": 10551,
+  "protocol_sha256": "83a74a3a4d58509aede43ac449172cff10a33dca9f2f9c0455dd1dc3c16c02a7",
+  "frozen_c1_sha256": "b9ebd4cc18d78e2ee9f3ad5bbbd01e43951ffeb02d126d3460df4feaa098916d",
+  "seconds": 7.263613224029541,
+  "caveat": "Annotations define unmatched negatives; not manually certified false detections. C1 embeddings are cached float16."
+}

@@ -1,0 +1,228 @@
+{
+  "status": "complete",
+  "pid": 22072,
+  "runs": [
+    {
+      "dataset": "nusc_val",
+      "mode": "audit",
+      "stage": "smoke",
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261031_014843_latency_c1_audit_static_staged_fast_timing_nusc_val_v6S_JP03_20261031_014821_smoke_audit_r1",
+      "frames": 80,
+      "timed_frames": 80,
+      "rep": 1
+    },
+    {
+      "dataset": "nusc_val",
+      "mode": "baseline",
+      "stage": "parity",
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261031_014921_latency_c1_baseline_static_staged_fast_timing_nusc_val_v6S_JP03_20261031_014821_parity_baseline_r1",
+      "frames": 712,
+      "timed_frames": 512,
+      "rep": 1
+    },
+    {
+      "dataset": "nusc_val",
+      "mode": "audit",
+      "stage": "parity",
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261031_015127_latency_c1_audit_static_staged_fast_timing_nusc_val_v6S_JP03_20261031_014821_parity_audit_r1",
+      "frames": 712,
+      "timed_frames": 512,
+      "rep": 1
+    },
+    {
+      "dataset": "av2_dev",
+      "mode": "audit",
+      "stage": "smoke",
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261031_015340_latency_c1_audit_static_staged_fast_timing_av2_dev_v6S_JP03_20261031_014821_smoke_audit_r1",
+      "frames": 80,
+      "timed_frames": 80,
+      "rep": 1
+    },
+    {
+      "dataset": "av2_dev",
+      "mode": "baseline",
+      "stage": "parity",
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261031_015434_latency_c1_baseline_static_staged_fast_timing_av2_dev_v6S_JP03_20261031_014821_parity_baseline_r1",
+      "frames": 712,
+      "timed_frames": 512,
+      "rep": 1
+    },
+    {
+      "dataset": "av2_dev",
+      "mode": "audit",
+      "stage": "parity",
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261031_015807_latency_c1_audit_static_staged_fast_timing_av2_dev_v6S_JP03_20261031_014821_parity_audit_r1",
+      "frames": 712,
+      "timed_frames": 512,
+      "rep": 1
+    },
+    {
+      "dataset": "nusc_val",
+      "mode": "baseline",
+      "stage": "timing",
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261031_020152_latency_c1_baseline_static_staged_fast_timing_nusc_val_v6S_JP03_20261031_014821_timing_baseline_r1",
+      "frames": 712,
+      "timed_frames": 512,
+      "rep": 1
+    },
+    {
+      "dataset": "nusc_val",
+      "mode": "candidate",
+      "stage": "timing",
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261031_020347_latency_c1_candidate_static_staged_fast_timing_nusc_val_v6S_JP03_20261031_014821_timing_candidate_r1",
+      "frames": 712,
+      "timed_frames": 512,
+      "rep": 1
+    },
+    {
+      "dataset": "av2_dev",
+      "mode": "baseline",
+      "stage": "timing",
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261031_020543_latency_c1_baseline_static_staged_fast_timing_av2_dev_v6S_JP03_20261031_014821_timing_baseline_r1",
+      "frames": 712,
+      "timed_frames": 512,
+      "rep": 1
+    },
+    {
+      "dataset": "av2_dev",
+      "mode": "candidate",
+      "stage": "timing",
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261031_020904_latency_c1_candidate_static_staged_fast_timing_av2_dev_v6S_JP03_20261031_014821_timing_candidate_r1",
+      "frames": 712,
+      "timed_frames": 512,
+      "rep": 1
+    },
+    {
+      "dataset": "nusc_val",
+      "mode": "candidate",
+      "stage": "timing",
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261031_021225_latency_c1_candidate_static_staged_fast_timing_nusc_val_v6S_JP03_20261031_014821_timing_candidate_r2",
+      "frames": 712,
+      "timed_frames": 512,
+      "rep": 2
+    },
+    {
+      "dataset": "nusc_val",
+      "mode": "baseline",
+      "stage": "timing",
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261031_021957_latency_c1_baseline_static_staged_fast_timing_nusc_val_v6S_JP03_20261031_014821_timing_baseline_r2",
+      "frames": 712,
+      "timed_frames": 512,
+      "rep": 2
+    },
+    {
+      "dataset": "av2_dev",
+      "mode": "candidate",
+      "stage": "timing",
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261031_022152_latency_c1_candidate_static_staged_fast_timing_av2_dev_v6S_JP03_20261031_014821_timing_candidate_r2",
+      "frames": 712,
+      "timed_frames": 512,
+      "rep": 2
+    },
+    {
+      "dataset": "av2_dev",
+      "mode": "baseline",
+      "stage": "timing",
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261031_022513_latency_c1_baseline_static_staged_fast_timing_av2_dev_v6S_JP03_20261031_014821_timing_baseline_r2",
+      "frames": 712,
+      "timed_frames": 512,
+      "rep": 2
+    },
+    {
+      "dataset": "nusc_val",
+      "mode": "baseline",
+      "stage": "timing",
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261031_022832_latency_c1_baseline_static_staged_fast_timing_nusc_val_v6S_JP03_20261031_014821_timing_baseline_r3",
+      "frames": 712,
+      "timed_frames": 512,
+      "rep": 3
+    },
+    {
+      "dataset": "nusc_val",
+      "mode": "candidate",
+      "stage": "timing",
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261031_023027_latency_c1_candidate_static_staged_fast_timing_nusc_val_v6S_JP03_20261031_014821_timing_candidate_r3",
+      "frames": 712,
+      "timed_frames": 512,
+      "rep": 3
+    },
+    {
+      "dataset": "av2_dev",
+      "mode": "baseline",
+      "stage": "timing",
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261031_023222_latency_c1_baseline_static_staged_fast_timing_av2_dev_v6S_JP03_20261031_014821_timing_baseline_r3",
+      "frames": 712,
+      "timed_frames": 512,
+      "rep": 3
+    },
+    {
+      "dataset": "av2_dev",
+      "mode": "candidate",
+      "stage": "timing",
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261031_023541_latency_c1_candidate_static_staged_fast_timing_av2_dev_v6S_JP03_20261031_014821_timing_candidate_r3",
+      "frames": 712,
+      "timed_frames": 512,
+      "rep": 3
+    }
+  ],
+  "started": "2026-10-31T01:48:21.845034+07:00",
+  "monotonic_start": 13273.730172009,
+  "child_pid": 23420,
+  "current_log": "timing_av2_dev_candidate_r3.log",
+  "command": [
+    "/home/kongwoang/research/CVPR/scripts/py",
+    "/home/kongwoang/research/CVPR/experiments/latency_opt_20261030/scripts/94_latency_c1_graph.py",
+    "--dataset",
+    "av2_dev",
+    "--config",
+    "v6S",
+    "--runtime",
+    "staged",
+    "--helper",
+    "fast",
+    "--adapter_encoder",
+    "trt32",
+    "--paths",
+    "trt32",
+    "--graphs",
+    "static",
+    "--columns_mode",
+    "baseline",
+    "--c1_graph_mode",
+    "candidate",
+    "--wf",
+    "u512,u640,u960",
+    "--wf_c1only",
+    "--bounds",
+    "2",
+    "--warmup",
+    "200",
+    "--rep",
+    "3",
+    "--max_frames",
+    "712",
+    "--tag",
+    "JP03_20261031_014821_timing_candidate_r3",
+    "--mask_y0",
+    "1830"
+  ],
+  "updated": "2026-10-31T02:38:57.920523+07:00",
+  "dataset": "av2_dev",
+  "mode": "candidate",
+  "rep": 3,
+  "resume": {
+    "time": "2026-10-31T02:19:49.944054+07:00",
+    "original_wrapper_pid": 18948,
+    "original_child_pid": 21247,
+    "original_exit_code": null,
+    "recovered_run": "/home/kongwoang/research/CVPR/results/raw/20261031_021225_latency_c1_candidate_static_staged_fast_timing_nusc_val_v6S_JP03_20261031_014821_timing_candidate_r2",
+    "reason": "Tool execution session disappeared; wrapper and child absent. Completed child has DONE marker. Device did not reboot and telemetry/fan remained active.",
+    "completed_clean_runs_retained": 5,
+    "original_state": "/home/kongwoang/research/CVPR/experiments/latency_opt_20261030/logs/JP03_20261031_014821/state.interrupted_before_resume.json",
+    "boot_id": "271f6ebc-62f8-496c-9922-30a9b39368ac"
+  },
+  "telemetry_pid": 22115,
+  "protected_sources_and_engines_unchanged": true,
+  "window_released": true,
+  "restore_errors": []
+}

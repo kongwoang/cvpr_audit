@@ -1,0 +1,13 @@
+{
+  "pilot": "JP01",
+  "state_status": "recovered_complete",
+  "window_released": true,
+  "restore_errors": [],
+  "valid_telemetry_samples": 7837,
+  "nul_bytes_retained_in_original": 4004,
+  "max_cpu_C": 52.0,
+  "max_gpu_C": 52.0,
+  "memory": "torch peak counters exclude external TensorRT/graph allocations; not total process GPU memory",
+  "energy": "not aligned to per-row intervals; no energy-per-frame or saving claim",
+  "thermal_scope": "whole window includes debug/setup/warmup/idle; not a per-row throttling certificate"
+}

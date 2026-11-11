@@ -1,0 +1,4 @@
+dataset,item,stratification,stratum,status,reason
+ahd,K34-2,class,car,not_identifiable_from_annotations,Generic vehicle/large_vehicle annotations do not identify car/truck/bus; zero classified rows is not evidence of class absence.
+ahd,K34-2,class,truck,not_identifiable_from_annotations,Generic vehicle/large_vehicle annotations do not identify car/truck/bus; zero classified rows is not evidence of class absence.
+ahd,K34-2,class,bus,not_identifiable_from_annotations,Generic vehicle/large_vehicle annotations do not identify car/truck/bus; zero classified rows is not evidence of class absence.

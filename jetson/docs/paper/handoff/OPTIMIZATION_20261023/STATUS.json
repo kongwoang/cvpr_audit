@@ -1,0 +1,737 @@
+{
+  "updated": 1792746438.539192,
+  "pid": null,
+  "server": {
+    "w1_dev_20261023": {
+      "jobs": [
+        {
+          "name": "dev_av2_0of2",
+          "host": "cuda12.ecs.vuw.ac.nz",
+          "pid": 667661,
+          "gpu": "2",
+          "start": 1792731508.5951226,
+          "status": "complete",
+          "command": [
+            "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/venv/bin/python",
+            "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/scripts/A_method/k10_masked_run.py",
+            "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/w1_dev_20261023/runner.py",
+            "--dataset",
+            "av2",
+            "--tag",
+            "dev",
+            "--shard",
+            "0/2"
+          ],
+          "experiment_sources": {
+            "runner.py": "7e071888dace5e76e715197d06ed138267b5848d210faa35b8d7a491d14af31e",
+            "sandbox_loop.py": "3e2eb6a3b2fb29a5e1544908c91a72625868f71aff54f98d1c09875a991d0e9f",
+            "helpers.py": "269223762fcd4807a630d8a5ac145efdcffcc668680fe3718aa3266de0ad3ebd",
+            "protocol.md": "fbc28e683555990e1fa0503a9a8ce3f4720d3eca9c8cbb120542616315013c09"
+          },
+          "finish": 1792738237.2755606,
+          "exit_code": 0,
+          "changed_main_sources": [],
+          "worker_alive": false
+        },
+        {
+          "name": "dev_nusc_0of2",
+          "host": "cuda13.ecs.vuw.ac.nz",
+          "pid": 670439,
+          "gpu": "0",
+          "start": 1792731500.907463,
+          "status": "complete",
+          "command": [
+            "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/venv/bin/python",
+            "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/w1_dev_20261023/runner.py",
+            "--dataset",
+            "nusc",
+            "--tag",
+            "dev",
+            "--shard",
+            "0/2"
+          ],
+          "experiment_sources": {
+            "runner.py": "7e071888dace5e76e715197d06ed138267b5848d210faa35b8d7a491d14af31e",
+            "sandbox_loop.py": "3e2eb6a3b2fb29a5e1544908c91a72625868f71aff54f98d1c09875a991d0e9f",
+            "helpers.py": "269223762fcd4807a630d8a5ac145efdcffcc668680fe3718aa3266de0ad3ebd",
+            "protocol.md": "fbc28e683555990e1fa0503a9a8ce3f4720d3eca9c8cbb120542616315013c09"
+          },
+          "finish": 1792732429.9407368,
+          "exit_code": 0,
+          "changed_main_sources": [],
+          "worker_alive": false
+        },
+        {
+          "name": "dev_nusc_1of2",
+          "host": "cuda13.ecs.vuw.ac.nz",
+          "pid": 670440,
+          "gpu": "0",
+          "start": 1792731500.9066708,
+          "status": "complete",
+          "command": [
+            "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/venv/bin/python",
+            "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/w1_dev_20261023/runner.py",
+            "--dataset",
+            "nusc",
+            "--tag",
+            "dev",
+            "--shard",
+            "1/2"
+          ],
+          "experiment_sources": {
+            "runner.py": "7e071888dace5e76e715197d06ed138267b5848d210faa35b8d7a491d14af31e",
+            "sandbox_loop.py": "3e2eb6a3b2fb29a5e1544908c91a72625868f71aff54f98d1c09875a991d0e9f",
+            "helpers.py": "269223762fcd4807a630d8a5ac145efdcffcc668680fe3718aa3266de0ad3ebd",
+            "protocol.md": "fbc28e683555990e1fa0503a9a8ce3f4720d3eca9c8cbb120542616315013c09"
+          },
+          "finish": 1792732509.8245182,
+          "exit_code": 0,
+          "changed_main_sources": [],
+          "worker_alive": false
+        },
+        {
+          "name": "dev_av2_1of2",
+          "host": "cuda12.ecs.vuw.ac.nz",
+          "pid": 667662,
+          "gpu": "2",
+          "start": 1792731508.5943863,
+          "status": "complete",
+          "command": [
+            "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/venv/bin/python",
+            "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/scripts/A_method/k10_masked_run.py",
+            "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/w1_dev_20261023/runner.py",
+            "--dataset",
+            "av2",
+            "--tag",
+            "dev",
+            "--shard",
+            "1/2"
+          ],
+          "experiment_sources": {
+            "runner.py": "7e071888dace5e76e715197d06ed138267b5848d210faa35b8d7a491d14af31e",
+            "sandbox_loop.py": "3e2eb6a3b2fb29a5e1544908c91a72625868f71aff54f98d1c09875a991d0e9f",
+            "helpers.py": "269223762fcd4807a630d8a5ac145efdcffcc668680fe3718aa3266de0ad3ebd",
+            "protocol.md": "fbc28e683555990e1fa0503a9a8ce3f4720d3eca9c8cbb120542616315013c09"
+          },
+          "finish": 1792738049.2300396,
+          "exit_code": 0,
+          "changed_main_sources": [],
+          "worker_alive": false
+        }
+      ],
+      "completed_units": {
+        "nusc": 152,
+        "av2": 300
+      }
+    },
+    "w1_bounded_20261023": {
+      "jobs": [
+        {
+          "name": "dev_av2_3of4",
+          "host": "cuda13.ecs.vuw.ac.nz",
+          "pid": 728994,
+          "gpu": "0",
+          "start": 1792739027.9665372,
+          "status": "complete",
+          "command": [
+            "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/venv/bin/python",
+            "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/scripts/A_method/k10_masked_run.py",
+            "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/w1_bounded_20261023/runner.py",
+            "--dataset",
+            "av2",
+            "--tag",
+            "dev",
+            "--shard",
+            "3/4"
+          ],
+          "experiment_sources": {
+            "runner.py": "8737466165781f4f0704fc4f224a2ecc96d2cd74c5a7da8539f03971cb2d49ac",
+            "sandbox_loop.py": "3e2eb6a3b2fb29a5e1544908c91a72625868f71aff54f98d1c09875a991d0e9f",
+            "bounded_variant.py": "2bdc2d3432430651ffc9a36519a1fa9997e7479d8a147bbde22a6eb07acb0fba",
+            "helpers.py": "269223762fcd4807a630d8a5ac145efdcffcc668680fe3718aa3266de0ad3ebd",
+            "protocol.md": "818e65e46f788acc1af984247d61e823adad10b761cf458633ae259e4341e325"
+          },
+          "finish": 1792740126.2975771,
+          "exit_code": 0,
+          "changed_main_sources": [],
+          "worker_alive": false
+        },
+        {
+          "name": "dev_av2_1of4",
+          "host": "cuda12.ecs.vuw.ac.nz",
+          "pid": 717946,
+          "gpu": "2",
+          "start": 1792739021.3021424,
+          "status": "complete",
+          "command": [
+            "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/venv/bin/python",
+            "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/scripts/A_method/k10_masked_run.py",
+            "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/w1_bounded_20261023/runner.py",
+            "--dataset",
+            "av2",
+            "--tag",
+            "dev",
+            "--shard",
+            "1/4"
+          ],
+          "experiment_sources": {
+            "runner.py": "8737466165781f4f0704fc4f224a2ecc96d2cd74c5a7da8539f03971cb2d49ac",
+            "sandbox_loop.py": "3e2eb6a3b2fb29a5e1544908c91a72625868f71aff54f98d1c09875a991d0e9f",
+            "bounded_variant.py": "2bdc2d3432430651ffc9a36519a1fa9997e7479d8a147bbde22a6eb07acb0fba",
+            "helpers.py": "269223762fcd4807a630d8a5ac145efdcffcc668680fe3718aa3266de0ad3ebd",
+            "protocol.md": "818e65e46f788acc1af984247d61e823adad10b761cf458633ae259e4341e325"
+          },
+          "finish": 1792740171.340081,
+          "exit_code": 0,
+          "changed_main_sources": [],
+          "worker_alive": false
+        },
+        {
+          "name": "dev_nusc_0of2",
+          "host": "cuda13.ecs.vuw.ac.nz",
+          "pid": 712604,
+          "gpu": "0",
+          "start": 1792736865.9444096,
+          "status": "complete",
+          "command": [
+            "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/venv/bin/python",
+            "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/w1_bounded_20261023/runner.py",
+            "--dataset",
+            "nusc",
+            "--tag",
+            "dev",
+            "--shard",
+            "0/2"
+          ],
+          "experiment_sources": {
+            "runner.py": "8737466165781f4f0704fc4f224a2ecc96d2cd74c5a7da8539f03971cb2d49ac",
+            "sandbox_loop.py": "3e2eb6a3b2fb29a5e1544908c91a72625868f71aff54f98d1c09875a991d0e9f",
+            "bounded_variant.py": "2bdc2d3432430651ffc9a36519a1fa9997e7479d8a147bbde22a6eb07acb0fba",
+            "helpers.py": "269223762fcd4807a630d8a5ac145efdcffcc668680fe3718aa3266de0ad3ebd",
+            "protocol.md": "818e65e46f788acc1af984247d61e823adad10b761cf458633ae259e4341e325"
+          },
+          "finish": 1792737529.5654118,
+          "exit_code": 0,
+          "changed_main_sources": [],
+          "worker_alive": false
+        },
+        {
+          "name": "dev_nusc_1of2",
+          "host": "cuda13.ecs.vuw.ac.nz",
+          "pid": 712605,
+          "gpu": "0",
+          "start": 1792736866.005707,
+          "status": "complete",
+          "command": [
+            "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/venv/bin/python",
+            "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/w1_bounded_20261023/runner.py",
+            "--dataset",
+            "nusc",
+            "--tag",
+            "dev",
+            "--shard",
+            "1/2"
+          ],
+          "experiment_sources": {
+            "runner.py": "8737466165781f4f0704fc4f224a2ecc96d2cd74c5a7da8539f03971cb2d49ac",
+            "sandbox_loop.py": "3e2eb6a3b2fb29a5e1544908c91a72625868f71aff54f98d1c09875a991d0e9f",
+            "bounded_variant.py": "2bdc2d3432430651ffc9a36519a1fa9997e7479d8a147bbde22a6eb07acb0fba",
+            "helpers.py": "269223762fcd4807a630d8a5ac145efdcffcc668680fe3718aa3266de0ad3ebd",
+            "protocol.md": "818e65e46f788acc1af984247d61e823adad10b761cf458633ae259e4341e325"
+          },
+          "finish": 1792737550.845163,
+          "exit_code": 0,
+          "changed_main_sources": [],
+          "worker_alive": false
+        },
+        {
+          "name": "dev_av2_0of4",
+          "host": "cuda12.ecs.vuw.ac.nz",
+          "pid": 717945,
+          "gpu": "2",
+          "start": 1792739021.3013036,
+          "status": "complete",
+          "command": [
+            "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/venv/bin/python",
+            "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/scripts/A_method/k10_masked_run.py",
+            "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/w1_bounded_20261023/runner.py",
+            "--dataset",
+            "av2",
+            "--tag",
+            "dev",
+            "--shard",
+            "0/4"
+          ],
+          "experiment_sources": {
+            "runner.py": "8737466165781f4f0704fc4f224a2ecc96d2cd74c5a7da8539f03971cb2d49ac",
+            "sandbox_loop.py": "3e2eb6a3b2fb29a5e1544908c91a72625868f71aff54f98d1c09875a991d0e9f",
+            "bounded_variant.py": "2bdc2d3432430651ffc9a36519a1fa9997e7479d8a147bbde22a6eb07acb0fba",
+            "helpers.py": "269223762fcd4807a630d8a5ac145efdcffcc668680fe3718aa3266de0ad3ebd",
+            "protocol.md": "818e65e46f788acc1af984247d61e823adad10b761cf458633ae259e4341e325"
+          },
+          "finish": 1792740272.590418,
+          "exit_code": 0,
+          "changed_main_sources": [],
+          "worker_alive": false
+        },
+        {
+          "name": "dev_av2_2of4",
+          "host": "cuda13.ecs.vuw.ac.nz",
+          "pid": 728993,
+          "gpu": "0",
+          "start": 1792739027.9672809,
+          "status": "complete",
+          "command": [
+            "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/venv/bin/python",
+            "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/scripts/A_method/k10_masked_run.py",
+            "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/w1_bounded_20261023/runner.py",
+            "--dataset",
+            "av2",
+            "--tag",
+            "dev",
+            "--shard",
+            "2/4"
+          ],
+          "experiment_sources": {
+            "runner.py": "8737466165781f4f0704fc4f224a2ecc96d2cd74c5a7da8539f03971cb2d49ac",
+            "sandbox_loop.py": "3e2eb6a3b2fb29a5e1544908c91a72625868f71aff54f98d1c09875a991d0e9f",
+            "bounded_variant.py": "2bdc2d3432430651ffc9a36519a1fa9997e7479d8a147bbde22a6eb07acb0fba",
+            "helpers.py": "269223762fcd4807a630d8a5ac145efdcffcc668680fe3718aa3266de0ad3ebd",
+            "protocol.md": "818e65e46f788acc1af984247d61e823adad10b761cf458633ae259e4341e325"
+          },
+          "finish": 1792740302.599213,
+          "exit_code": 0,
+          "changed_main_sources": [],
+          "worker_alive": false
+        }
+      ],
+      "completed_units": {
+        "nusc": 152,
+        "av2": 300
+      }
+    }
+  },
+  "local": {
+    "w1_dev_20261023": {
+      "phase": "complete",
+      "updated": 1792738306.1010964,
+      "pid": 326400,
+      "main_source_unchanged": true,
+      "report": "/home/kongwoang/research/CVPR/docs/paper/handoff/W1_DEV_20261023/REPORT.md"
+    },
+    "w1_bounded_20261023": {
+      "phase": "complete",
+      "updated": 1792740456.0205142,
+      "pid": 342116,
+      "main_source_unchanged": true,
+      "report": "/home/kongwoang/research/CVPR/docs/paper/handoff/W1_BOUNDED_20261023/REPORT.md",
+      "scheduling": "four AV2 shards"
+    },
+    "runtime_20261023": {
+      "status": "timing_complete",
+      "pid": 336979,
+      "runs": [
+        {
+          "dataset": "nusc_val",
+          "runtime": "reference",
+          "rep": 1,
+          "smoke": true,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_132221_runtime_reference_timing_nusc_val_v6S_smoke_reference"
+        },
+        {
+          "dataset": "nusc_val",
+          "runtime": "staged",
+          "rep": 1,
+          "smoke": true,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_132250_runtime_staged_timing_nusc_val_v6S_smoke_staged"
+        },
+        {
+          "dataset": "av2_dev",
+          "runtime": "reference",
+          "rep": 1,
+          "smoke": true,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_132320_runtime_reference_timing_av2_dev_v6S_smoke_reference"
+        },
+        {
+          "dataset": "av2_dev",
+          "runtime": "staged",
+          "rep": 1,
+          "smoke": true,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_132403_runtime_staged_timing_av2_dev_v6S_smoke_staged"
+        },
+        {
+          "dataset": "nusc_val",
+          "runtime": "reference",
+          "rep": 1,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_132447_runtime_reference_timing_nusc_val_v6S_r1_reference"
+        },
+        {
+          "dataset": "nusc_val",
+          "runtime": "staged",
+          "rep": 1,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_132612_runtime_staged_timing_nusc_val_v6S_r1_staged"
+        },
+        {
+          "dataset": "av2_dev",
+          "runtime": "reference",
+          "rep": 1,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_132738_runtime_reference_timing_av2_dev_v6S_r1_reference"
+        },
+        {
+          "dataset": "av2_dev",
+          "runtime": "staged",
+          "rep": 1,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_133019_runtime_staged_timing_av2_dev_v6S_r1_staged"
+        },
+        {
+          "dataset": "nusc_val",
+          "runtime": "staged",
+          "rep": 2,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_133301_runtime_staged_timing_nusc_val_v6S_r2_staged"
+        },
+        {
+          "dataset": "nusc_val",
+          "runtime": "reference",
+          "rep": 2,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_133424_runtime_reference_timing_nusc_val_v6S_r2_reference"
+        },
+        {
+          "dataset": "av2_dev",
+          "runtime": "staged",
+          "rep": 2,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_133549_runtime_staged_timing_av2_dev_v6S_r2_staged"
+        },
+        {
+          "dataset": "av2_dev",
+          "runtime": "reference",
+          "rep": 2,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_133829_runtime_reference_timing_av2_dev_v6S_r2_reference"
+        },
+        {
+          "dataset": "nusc_val",
+          "runtime": "reference",
+          "rep": 3,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_134111_runtime_reference_timing_nusc_val_v6S_r3_reference"
+        },
+        {
+          "dataset": "nusc_val",
+          "runtime": "staged",
+          "rep": 3,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_134235_runtime_staged_timing_nusc_val_v6S_r3_staged"
+        },
+        {
+          "dataset": "av2_dev",
+          "runtime": "reference",
+          "rep": 3,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_134400_runtime_reference_timing_av2_dev_v6S_r3_reference"
+        },
+        {
+          "dataset": "av2_dev",
+          "runtime": "staged",
+          "rep": 3,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_134640_runtime_staged_timing_av2_dev_v6S_r3_staged"
+        }
+      ],
+      "started": "2026-10-23T13:21:40.674067+07:00",
+      "updated": "2026-10-23T13:49:19.896576+07:00",
+      "child_pid": 340203,
+      "current_log": "av2_dev_r3_compare.log",
+      "dataset": "av2_dev",
+      "runtime": "staged",
+      "rep": 3,
+      "source_engine_hashes_unchanged": true,
+      "window_released": true,
+      "restore_errors": []
+    },
+    "temporal_jetson_20261023": {
+      "status": "timing_complete",
+      "pid": 338697,
+      "runs": [
+        {
+          "dataset": "nusc_val",
+          "runtime": "disabled",
+          "rep": 1,
+          "smoke": true,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_135020_temporal_jetson_timing_nusc_val_v6S_smoke_disabled"
+        },
+        {
+          "dataset": "nusc_val",
+          "runtime": "enabled",
+          "rep": 1,
+          "smoke": true,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_135054_temporal_jetson_timing_nusc_val_v6S_smoke_enabled"
+        },
+        {
+          "dataset": "av2_dev",
+          "runtime": "disabled",
+          "rep": 1,
+          "smoke": true,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_135133_temporal_jetson_timing_av2_dev_v6S_smoke_disabled"
+        },
+        {
+          "dataset": "av2_dev",
+          "runtime": "enabled",
+          "rep": 1,
+          "smoke": true,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_135220_temporal_jetson_timing_av2_dev_v6S_smoke_enabled"
+        },
+        {
+          "dataset": "nusc_val",
+          "runtime": "enabled",
+          "rep": 1,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_135328_temporal_jetson_timing_nusc_val_v6S_r1_enabled"
+        },
+        {
+          "dataset": "av2_dev",
+          "runtime": "enabled",
+          "rep": 1,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_135514_temporal_jetson_timing_av2_dev_v6S_r1_enabled"
+        },
+        {
+          "dataset": "nusc_val",
+          "runtime": "enabled",
+          "rep": 2,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_135832_temporal_jetson_timing_nusc_val_v6S_r2_enabled"
+        },
+        {
+          "dataset": "av2_dev",
+          "runtime": "enabled",
+          "rep": 2,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_140018_temporal_jetson_timing_av2_dev_v6S_r2_enabled"
+        },
+        {
+          "dataset": "nusc_val",
+          "runtime": "enabled",
+          "rep": 3,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_140336_temporal_jetson_timing_nusc_val_v6S_r3_enabled"
+        },
+        {
+          "dataset": "av2_dev",
+          "runtime": "enabled",
+          "rep": 3,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_140521_temporal_jetson_timing_av2_dev_v6S_r3_enabled"
+        }
+      ],
+      "started": "2026-10-23T13:35:28.161640+07:00",
+      "updated": "2026-10-23T14:08:37.921158+07:00",
+      "dataset": "av2_dev",
+      "runtime": "enabled",
+      "rep": 3,
+      "child_pid": 342696,
+      "current_log": "av2_dev_r3_check.log",
+      "source_engine_hashes_unchanged": true,
+      "window_released": true,
+      "restore_errors": []
+    },
+    "temporal_fast_20261023": {
+      "status": "timing_complete",
+      "pid": 345802,
+      "runs": [
+        {
+          "dataset": "nusc_val",
+          "runtime": "original",
+          "rep": 1,
+          "smoke": true,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_144210_temporal_helper_original_timing_nusc_val_v6S_smoke_original"
+        },
+        {
+          "dataset": "nusc_val",
+          "runtime": "fast",
+          "rep": 1,
+          "smoke": true,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_144241_temporal_helper_fast_timing_nusc_val_v6S_smoke_fast"
+        },
+        {
+          "dataset": "av2_dev",
+          "runtime": "original",
+          "rep": 1,
+          "smoke": true,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_144313_temporal_helper_original_timing_av2_dev_v6S_smoke_original"
+        },
+        {
+          "dataset": "av2_dev",
+          "runtime": "fast",
+          "rep": 1,
+          "smoke": true,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_144400_temporal_helper_fast_timing_av2_dev_v6S_smoke_fast"
+        },
+        {
+          "dataset": "nusc_val",
+          "runtime": "original",
+          "rep": 1,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_144448_temporal_helper_original_timing_nusc_val_v6S_r1_original"
+        },
+        {
+          "dataset": "nusc_val",
+          "runtime": "fast",
+          "rep": 1,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_144604_temporal_helper_fast_timing_nusc_val_v6S_r1_fast"
+        },
+        {
+          "dataset": "av2_dev",
+          "runtime": "original",
+          "rep": 1,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_144722_temporal_helper_original_timing_av2_dev_v6S_r1_original"
+        },
+        {
+          "dataset": "av2_dev",
+          "runtime": "fast",
+          "rep": 1,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_144937_temporal_helper_fast_timing_av2_dev_v6S_r1_fast"
+        },
+        {
+          "dataset": "nusc_val",
+          "runtime": "fast",
+          "rep": 2,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_145153_temporal_helper_fast_timing_nusc_val_v6S_r2_fast"
+        },
+        {
+          "dataset": "nusc_val",
+          "runtime": "original",
+          "rep": 2,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_145310_temporal_helper_original_timing_nusc_val_v6S_r2_original"
+        },
+        {
+          "dataset": "av2_dev",
+          "runtime": "fast",
+          "rep": 2,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_145429_temporal_helper_fast_timing_av2_dev_v6S_r2_fast"
+        },
+        {
+          "dataset": "av2_dev",
+          "runtime": "original",
+          "rep": 2,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_145644_temporal_helper_original_timing_av2_dev_v6S_r2_original"
+        },
+        {
+          "dataset": "nusc_val",
+          "runtime": "original",
+          "rep": 3,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_145903_temporal_helper_original_timing_nusc_val_v6S_r3_original"
+        },
+        {
+          "dataset": "nusc_val",
+          "runtime": "fast",
+          "rep": 3,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_150020_temporal_helper_fast_timing_nusc_val_v6S_r3_fast"
+        },
+        {
+          "dataset": "av2_dev",
+          "runtime": "original",
+          "rep": 3,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_150138_temporal_helper_original_timing_av2_dev_v6S_r3_original"
+        },
+        {
+          "dataset": "av2_dev",
+          "runtime": "fast",
+          "rep": 3,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_150355_temporal_helper_fast_timing_av2_dev_v6S_r3_fast"
+        }
+      ],
+      "started": "2026-10-23T14:41:48.222343+07:00",
+      "updated": "2026-10-23T15:06:08.856424+07:00",
+      "child_pid": 349661,
+      "current_log": "av2_dev_r3_compare.log",
+      "dataset": "av2_dev",
+      "runtime": "fast",
+      "rep": 3,
+      "source_engine_hashes_unchanged": true,
+      "window_released": true,
+      "restore_errors": []
+    },
+    "verified_jetson_20261023": {
+      "status": "timing_complete",
+      "pid": 352011,
+      "runs": [
+        {
+          "dataset": "av2_dev",
+          "runtime": "original",
+          "rep": 1,
+          "smoke": true,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_151907_verified_cfg_original_timing_av2_dev_v6S_smoke_original"
+        },
+        {
+          "dataset": "av2_dev",
+          "runtime": "fast",
+          "rep": 1,
+          "smoke": true,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_151953_verified_cfg_fast_timing_av2_dev_v6S_smoke_fast"
+        },
+        {
+          "dataset": "av2_dev",
+          "runtime": "fast",
+          "rep": 1,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_152039_verified_cfg_fast_timing_av2_dev_v6S_r1_fast"
+        },
+        {
+          "dataset": "av2_dev",
+          "runtime": "fast",
+          "rep": 2,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_152343_verified_cfg_fast_timing_av2_dev_v6S_r2_fast"
+        },
+        {
+          "dataset": "av2_dev",
+          "runtime": "fast",
+          "rep": 3,
+          "smoke": false,
+          "run": "/home/kongwoang/research/CVPR/results/raw/20261023_152645_verified_cfg_fast_timing_av2_dev_v6S_r3_fast"
+        }
+      ],
+      "started": "2026-10-23T15:18:56.604034+07:00",
+      "dataset": "av2_dev",
+      "runtime": "fast",
+      "rep": 3,
+      "updated": "2026-10-23T15:29:44.738478+07:00",
+      "child_pid": 353097,
+      "current_log": "r3_fast_av2_dev.log",
+      "source_engine_hashes_unchanged": true,
+      "window_released": true,
+      "restore_errors": []
+    }
+  },
+  "completed_reports": {
+    "RUNTIME_20261023": true,
+    "NAVSIM_REUSE_20261023": true,
+    "TEMPORAL_JETSON_20261023": true,
+    "REFINER_GEOMETRY_20261023": true,
+    "W1_DEV_20261023": true,
+    "W1_BOUNDED_20261023": true,
+    "FAST_RECOVERY_20261023": true,
+    "VERIFIED_JETSON_20261023": true
+  },
+  "status": "complete",
+  "finalized_at_utc": "2026-10-23T09:07:18.539212+00:00",
+  "report": "/home/kongwoang/research/CVPR/docs/paper/handoff/OPTIMIZATION_20261023/TONG_HOP.md"
+}

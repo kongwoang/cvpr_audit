@@ -1,0 +1,2 @@
+refiner_on,c1_on,a_table_produced,a_note,dev_routes_priv,priv_collision_share,priv_preventable_collision_share,b_pass,paired_routes,coll_diff,coll_lo,coll_hi,minttc_diff,minttc_lo,minttc_hi,c_pass,GATE_PASS
+False,False,True,decided by the first gate (dev_gate.csv),95,0.2,0.010526315789473684,True,92,-0.05434782608695652,-0.13043478260869565,0.010869565217391304,0.04831521739130433,-0.10079021739130438,0.20160597826086946,False,False

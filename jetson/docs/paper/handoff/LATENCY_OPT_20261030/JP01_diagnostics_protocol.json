@@ -1,0 +1,6 @@
+{
+  "script_md5": "6e87847a9f3e5cb8d3397cf4c7441ef1",
+  "selection": "baseline mean latency across three repetitions, fixed top5percent cutoff",
+  "stage_limit": "instrumented wall timers include synchronization; crop-call labels are not algorithm rounds/guard depth",
+  "causal": false
+}

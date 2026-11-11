@@ -1,0 +1,11 @@
+dataset,detector,units,frames,method,G,tensor_px,full_minus_ci,full_ref_minus_ci
+nusc,YOLO11s (draft + target),228.0,9181.0,u640,0.27572546469349324,0.1706666666666667,"[-0.009, +0.143]","[+0.017, +0.170]"
+nusc,YOLO11s (draft + target),228.0,9181.0,u960,0.3675716767900588,0.38399999999999995,"[-0.029, +0.044]","[-0.018, +0.096]"
+nusc,YOLO11s (draft + target),228.0,9181.0,native,0.36209311223114005,1.031111111111111,"[-0.037, +0.066]","[-0.027, +0.123]"
+nusc,YOLO11s (draft + target),228.0,9181.0,ours without refiner,0.3638471110316614,0.1004479105398831,,
+nusc,YOLO11s (draft + target),228.0,9181.0,ours + existing refiner,0.3884573465154486,0.1004479105398831,,
+nusc,YOLO11s,,,refiner effect (ours + refiner minus ours),0.024610235483787195,,,"[-0.004, +0.071]"
+nusc,"YOLOv8s (frozen, K14)",,,u960,0.011096992726627565,0.38399999999999995,,
+nusc,"YOLOv8s (frozen, K14)",,,native,0.1211780263751377,1.031111111111111,,
+nusc,"YOLOv8s (frozen, K14)",,,ours without refiner,0.1351704697800228,0.10039764247419186,,
+nusc,"YOLOv8s (frozen, K14)",,,ours + refiner,0.1699011946214979,0.10039764247419186,,

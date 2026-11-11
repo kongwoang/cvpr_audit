@@ -1,0 +1,17 @@
+dataset,method,against,class,frames,sum_loss_ours,sum_loss_F,sum_loss_cheap
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",ours no refiner,u960,ours brakes less,277,574.8,457.05,498.04
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",ours no refiner,u960,ours brakes more,176,390.09,1118.69,382.23
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",ours no refiner,native,ours brakes less,301,687.85,493.0,539.73
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",ours no refiner,native,ours brakes more,224,444.33,708.07,388.84
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",ours with refiner,u960,ours brakes less,357,636.33,523.8,540.8
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",ours with refiner,u960,ours brakes more,188,430.07,1324.45,580.86
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",ours with refiner,native,ours brakes less,374,763.61,546.38,573.88
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",ours with refiner,native,ours brakes more,229,450.03,907.14,577.44
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",ours no refiner,u960,ours brakes less,1586,930.63,4389.41,3557.19
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",ours no refiner,u960,ours brakes more,656,1697.42,341.2,1689.1
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",ours no refiner,native,ours brakes less,1083,649.16,2640.14,2320.53
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",ours no refiner,native,ours brakes more,1323,3699.32,1225.68,3774.41
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",ours with refiner,u960,ours brakes less,1794,985.4,4697.08,4146.55
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",ours with refiner,u960,ours brakes more,684,1922.02,878.24,1806.44
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",ours with refiner,native,ours brakes less,1312,662.05,2923.92,2853.03
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",ours with refiner,native,ours brakes more,1309,3768.93,1589.75,3729.46

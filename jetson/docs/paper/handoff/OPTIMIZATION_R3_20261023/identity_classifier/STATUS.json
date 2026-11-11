@@ -1,0 +1,6 @@
+{
+  "status": "complete",
+  "bootstrap": 2000,
+  "seed": 0,
+  "scope": "model/threshold selection holdout, exploratory"
+}

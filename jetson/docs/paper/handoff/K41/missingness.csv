@@ -1,0 +1,4 @@
+dataset,expected_frames,extracted_frames,missing_frames,units_expected,units_extracted
+nuscenes,9181,9181,0,228,228
+av2,11818,11818,0,150,150
+argoverse_hd,15006,15006,0,24,24

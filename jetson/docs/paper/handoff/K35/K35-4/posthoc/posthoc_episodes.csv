@@ -1,0 +1,85 @@
+dataset,row,level,severity,episodes,missed
+nusc,cheap,1,all,147,51
+nusc,cheap,1,below_hard,109,44
+nusc,cheap,1,at_or_above_hard,38,7
+nusc,cheap,2,all,44,27
+nusc,v6-S,1,all,147,60
+nusc,v6-S,1,below_hard,109,52
+nusc,v6-S,1,at_or_above_hard,38,8
+nusc,v6-S,2,all,44,21
+nusc,u960 + C1 + v3a,1,all,147,51
+nusc,u960 + C1 + v3a,1,below_hard,109,44
+nusc,u960 + C1 + v3a,1,at_or_above_hard,38,7
+nusc,u960 + C1 + v3a,2,all,44,22
+nusc,native + C1 + v3a,1,all,147,53
+nusc,native + C1 + v3a,1,below_hard,109,46
+nusc,native + C1 + v3a,1,at_or_above_hard,38,7
+nusc,native + C1 + v3a,2,all,44,23
+nusc,hybrid tsp8@S + C1 + v3a,1,all,147,58
+nusc,hybrid tsp8@S + C1 + v3a,1,below_hard,109,51
+nusc,hybrid tsp8@S + C1 + v3a,1,at_or_above_hard,38,7
+nusc,hybrid tsp8@S + C1 + v3a,2,all,44,20
+nusc,uncertainty unc2@S + C1 + v3a,1,all,147,63
+nusc,uncertainty unc2@S + C1 + v3a,1,below_hard,109,54
+nusc,uncertainty unc2@S + C1 + v3a,1,at_or_above_hard,38,9
+nusc,uncertainty unc2@S + C1 + v3a,2,all,44,23
+nusc,v7a = B2K-A + temporal evidence,1,all,147,55
+nusc,v7a = B2K-A + temporal evidence,1,below_hard,109,47
+nusc,v7a = B2K-A + temporal evidence,1,at_or_above_hard,38,8
+nusc,v7a = B2K-A + temporal evidence,2,all,44,21
+av2,cheap,1,all,190,21
+av2,cheap,1,below_hard,135,17
+av2,cheap,1,at_or_above_hard,55,4
+av2,cheap,2,all,59,10
+av2,v6-S,1,all,190,36
+av2,v6-S,1,below_hard,135,30
+av2,v6-S,1,at_or_above_hard,55,6
+av2,v6-S,2,all,59,11
+av2,u960 + C1 + v3a,1,all,190,31
+av2,u960 + C1 + v3a,1,below_hard,135,26
+av2,u960 + C1 + v3a,1,at_or_above_hard,55,5
+av2,u960 + C1 + v3a,2,all,59,10
+av2,native + C1 + v3a,1,all,190,29
+av2,native + C1 + v3a,1,below_hard,135,24
+av2,native + C1 + v3a,1,at_or_above_hard,55,5
+av2,native + C1 + v3a,2,all,59,12
+av2,hybrid tsp8@S + C1 + v3a,1,all,190,35
+av2,hybrid tsp8@S + C1 + v3a,1,below_hard,135,29
+av2,hybrid tsp8@S + C1 + v3a,1,at_or_above_hard,55,6
+av2,hybrid tsp8@S + C1 + v3a,2,all,59,11
+av2,uncertainty unc2@S + C1 + v3a,1,all,190,31
+av2,uncertainty unc2@S + C1 + v3a,1,below_hard,135,26
+av2,uncertainty unc2@S + C1 + v3a,1,at_or_above_hard,55,5
+av2,uncertainty unc2@S + C1 + v3a,2,all,59,12
+av2,v7a = B2K-A + temporal evidence,1,all,190,33
+av2,v7a = B2K-A + temporal evidence,1,below_hard,135,28
+av2,v7a = B2K-A + temporal evidence,1,at_or_above_hard,55,5
+av2,v7a = B2K-A + temporal evidence,2,all,59,11
+ahd,cheap,1,all,71,12
+ahd,cheap,1,below_hard,61,12
+ahd,cheap,1,at_or_above_hard,10,0
+ahd,cheap,2,all,16,3
+ahd,v6-S,1,all,71,27
+ahd,v6-S,1,below_hard,61,25
+ahd,v6-S,1,at_or_above_hard,10,2
+ahd,v6-S,2,all,16,8
+ahd,u960 + C1 + v3a,1,all,71,26
+ahd,u960 + C1 + v3a,1,below_hard,61,24
+ahd,u960 + C1 + v3a,1,at_or_above_hard,10,2
+ahd,u960 + C1 + v3a,2,all,16,8
+ahd,native + C1 + v3a,1,all,71,27
+ahd,native + C1 + v3a,1,below_hard,61,25
+ahd,native + C1 + v3a,1,at_or_above_hard,10,2
+ahd,native + C1 + v3a,2,all,16,8
+ahd,hybrid tsp8@S + C1 + v3a,1,all,71,27
+ahd,hybrid tsp8@S + C1 + v3a,1,below_hard,61,25
+ahd,hybrid tsp8@S + C1 + v3a,1,at_or_above_hard,10,2
+ahd,hybrid tsp8@S + C1 + v3a,2,all,16,8
+ahd,uncertainty unc2@S + C1 + v3a,1,all,71,28
+ahd,uncertainty unc2@S + C1 + v3a,1,below_hard,61,26
+ahd,uncertainty unc2@S + C1 + v3a,1,at_or_above_hard,10,2
+ahd,uncertainty unc2@S + C1 + v3a,2,all,16,8
+ahd,v7a = B2K-A + temporal evidence,1,all,71,27
+ahd,v7a = B2K-A + temporal evidence,1,below_hard,61,25
+ahd,v7a = B2K-A + temporal evidence,1,at_or_above_hard,10,2
+ahd,v7a = B2K-A + temporal evidence,2,all,16,8

@@ -1,0 +1,9 @@
+dataset,variant,G_no_refiner,G_with_refiner,network_px_mean,crops_per_frame,rounds_mean,guard_redet_per_frame,agreement_u960_no_ref,agreement_u960_ref,harmed_share_ref,ci_full_minus_variant_no_ref,ci_full_minus_variant_ref
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",full,0.537,0.561,0.07400000000000001,2.647,1.168,1.285,0.8103,0.7903,0.087,,
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",field_only,-0.008,-0.002,0.03,0.376,0.152,0.22399999999999998,0.5669,0.5641,0.588,"(0.4901, 0.6018)","(0.513, 0.614)"
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",support_only,0.55,0.557,0.0623,1.702,0.8590000000000001,0.6859999999999999,0.7829999999999999,0.7659999999999999,0.068,"(-0.0325, 0.0113)","(-0.0118, 0.0258)"
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",pivots,0.5,0.516,0.0608,1.96,0.991,0.93,0.7968,0.7791,0.091,"(0.0252, 0.0484)","(0.0357, 0.0552)"
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",one_round,0.5539999999999999,0.5589999999999999,0.0602,1.4409999999999998,0.77,0.528,0.7862,0.7753,0.092,"(-0.0305, -0.0019)","(-0.0137, 0.0233)"
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",no_guard,0.529,0.552,0.0626,1.405,1.206,0.0,0.8017,0.7812,0.091,"(0.0009, 0.0157)","(0.0024, 0.0165)"
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",draft_hist,0.527,0.537,0.0737,2.6460000000000004,1.169,1.285,0.7885,0.7649,0.09300000000000001,"(-0.0079, 0.0284)","(0.0087, 0.0417)"
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",no_guard_draft_hist,0.532,0.539,0.0624,1.399,1.203,0.0,0.7869,0.7628,0.092,"(-0.0129, 0.0248)","(0.0049, 0.0399)"

@@ -1,0 +1,54 @@
+{
+  "created_utc": "2026-10-22T02:33:52.171444+00:00",
+  "jobs": [
+    {
+      "job": "test/unc_L0_s1_c0",
+      "routes_replaced": [
+        "1711",
+        "2127",
+        "11755"
+      ],
+      "checkpoint": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k32/test/unc_L0_s1_c0.json",
+      "jsonl": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k32/test/unc_L0_s1_c0_save/aeb_unc_L0.jsonl",
+      "before_checkpoint_sha256": "6ce9ca338a176e521c81af52180c310df8b74f7dcfb7cae74e3fcb96dfc80e95",
+      "before_jsonl_sha256": "a12783fa25a6afd616e8a480ffd4b881f6216065bb0bca9e0ddd2074ea4006aa",
+      "prepared_checkpoint": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k32/repair/20261022_complete/prepared/test_unc_L0_s1_c0/checkpoint.json",
+      "prepared_jsonl": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k32/repair/20261022_complete/prepared/test_unc_L0_s1_c0/aeb.jsonl",
+      "after_checkpoint_sha256": "9a64e6ebe6b6613c7c57b6f1441723be107931edcc1d7d47cd6df84b1f821e6c",
+      "after_jsonl_sha256": "d6c15294f3a7cca23da414b0aa0eaf619c74de904da81fbe37b4e24fdc223390",
+      "preserved_valid_routes": 17
+    },
+    {
+      "job": "test/unc_L0_s1_c3",
+      "routes_replaced": [
+        "2082"
+      ],
+      "checkpoint": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k32/test/unc_L0_s1_c3.json",
+      "jsonl": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k32/test/unc_L0_s1_c3_save/aeb_unc_L0.jsonl",
+      "before_checkpoint_sha256": "1b78b66a79023ff5c8b225d2c59d9f4c2232b9ac4b597e2c49418c9e3b52840f",
+      "before_jsonl_sha256": "284ed6e6866cb44f2be800bf39bdd2ee36eecfb0d376bcf2452b7d8e0ffbbaf8",
+      "prepared_checkpoint": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k32/repair/20261022_complete/prepared/test_unc_L0_s1_c3/checkpoint.json",
+      "prepared_jsonl": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k32/repair/20261022_complete/prepared/test_unc_L0_s1_c3/aeb.jsonl",
+      "after_checkpoint_sha256": "dc89f30ab57dde40c86e9bb5df401e4100af30848e0a6fc70e9a095504595784",
+      "after_jsonl_sha256": "60c517a081cbe046dfb79bd39157ae8d6b323de725fff3b535e82b7e43bf4b2e",
+      "preserved_valid_routes": 18
+    },
+    {
+      "job": "test/v6Sb2_L1_s1_c3",
+      "routes_replaced": [
+        "2082",
+        "2144"
+      ],
+      "checkpoint": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k32/test/v6Sb2_L1_s1_c3.json",
+      "jsonl": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k32/test/v6Sb2_L1_s1_c3_save/aeb_v6Sb2_L1.jsonl",
+      "before_checkpoint_sha256": "d881bea860253458355836500ef5a9678e9a386487a3ad75c3566a424af818c5",
+      "before_jsonl_sha256": "ca1568e3b8118859afec4a198d9babe67e46683255e76c4a17f5a2de414901cc",
+      "prepared_checkpoint": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k32/repair/20261022_complete/prepared/test_v6Sb2_L1_s1_c3/checkpoint.json",
+      "prepared_jsonl": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k32/repair/20261022_complete/prepared/test_v6Sb2_L1_s1_c3/aeb.jsonl",
+      "after_checkpoint_sha256": "9601750eb737a891d14e9b420ed49a6f89728f0cd84c0636194bc49440476be0",
+      "after_jsonl_sha256": "81622ae542b3ce788973f3e242a41ec5b338c9cc04265e04724d66a80c79f8e8",
+      "preserved_valid_routes": 17
+    }
+  ],
+  "committed_utc": "2026-10-22T02:34:06.338390+00:00"
+}

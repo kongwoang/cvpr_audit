@@ -1,0 +1,75 @@
+{
+  "status": "complete",
+  "jobs": 8,
+  "all_exit_zero": true,
+  "unit_suites": [
+    {
+      "stage": "readout",
+      "dataset": "nusc",
+      "units": 152,
+      "frames": 6117,
+      "baseline_differences": 0
+    },
+    {
+      "stage": "readout",
+      "dataset": "av2",
+      "units": 300,
+      "frames": 23665,
+      "baseline_differences": 0
+    },
+    {
+      "stage": "dev",
+      "dataset": "nusc",
+      "units": 152,
+      "frames": 6117,
+      "baseline_differences": 0
+    },
+    {
+      "stage": "dev",
+      "dataset": "av2",
+      "units": 300,
+      "frames": 23665,
+      "baseline_differences": 0
+    }
+  ],
+  "main_source_weight_hashes_unchanged": true,
+  "test_data_used": true,
+  "local_source_files": 243,
+  "local_sources_unchanged": true,
+  "full_development_rows": 58,
+  "unique_rows": 42,
+  "jetson_windows": {
+    "optimization_r4_jetson_20261024": {
+      "status": "complete",
+      "timing_runs": 6,
+      "source_engine_hashes_unchanged": true,
+      "window_released": true
+    },
+    "optimization_r4_fast_jetson_20261024": {
+      "status": "complete",
+      "timing_runs": 6,
+      "source_engine_hashes_unchanged": true,
+      "window_released": true
+    }
+  },
+  "stored_scene_abstention_action_differences": 0,
+  "actual_jetson_abstention_action_differences": 0,
+  "no_core_promotion": true,
+  "report_generated": 1792845402.0329583,
+  "quality_test_data_used": false,
+  "posthoc_runtime_test_data_used": true,
+  "navsim_selector": {
+    "status": "complete",
+    "host": "cuda13.ecs.vuw.ac.nz",
+    "tokens": 1000,
+    "units": 125,
+    "repetitions": 3,
+    "comparisons": 6000,
+    "exact_action_field_support_differences": 0,
+    "source_hashes_unchanged": true,
+    "started": 1792828409.5883226,
+    "finished": 1792828875.4188113,
+    "scope": "post-hoc runtime on frozen existing navtest subset; no detection rerun, quality selection, core edits or general PDM-Closed speedup claim"
+  },
+  "summary_mirror": "results/vuw_summaries/OPTIMIZATION_R4_20261024/"
+}

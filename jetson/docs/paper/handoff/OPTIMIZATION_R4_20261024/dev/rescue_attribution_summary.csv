@@ -1,0 +1,11 @@
+dataset,pipeline,object_attribution_available,rescued,newly_missed,rescued_with_decisive_evidence,rescued_without_decisive_evidence,hard_peak_rescued,hard_peak_rescued_with_hard_evidence
+av2,critical extent retention,True,0,0,0,0,0,0
+av2,containment merge,True,0,0,0,0,0,0
+av2,union coverage,True,0,0,0,0,0,0
+av2,semantic consistency,True,0,0,0,0,0,0
+av2,one-round extent,True,4,1,1,3,1,0
+nusc,critical extent retention,True,0,0,0,0,0,0
+nusc,containment merge,True,0,0,0,0,0,0
+nusc,union coverage,True,0,0,0,0,0,0
+nusc,semantic consistency,True,0,0,0,0,0,0
+nusc,one-round extent,True,1,1,1,0,0,0

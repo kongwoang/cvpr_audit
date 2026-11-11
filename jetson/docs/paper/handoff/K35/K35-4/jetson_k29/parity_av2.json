@@ -1,0 +1,10 @@
+{
+  "dataset": "av2",
+  "reference": "/home/kongwoang/research/CVPR/results/raw/20261025_215158_k35_k29_reference_original_timing_av2_v6S_r0_reference_original",
+  "staged": [
+    "/home/kongwoang/research/CVPR/results/raw/20261025_215632_k35_k29_staged_fast_timing_av2_v6S_r1_staged_fast",
+    "/home/kongwoang/research/CVPR/results/raw/20261025_220101_k35_k29_staged_fast_timing_av2_v6S_r2_staged_fast",
+    "/home/kongwoang/research/CVPR/results/raw/20261025_220531_k35_k29_staged_fast_timing_av2_v6S_r3_staged_fast"
+  ],
+  "action_diff_timed_total": 0
+}

@@ -1,0 +1,7 @@
+{
+  "status": "complete",
+  "dataset": "av2",
+  "bootstrap": 2000,
+  "seed": 0,
+  "policies": 20
+}

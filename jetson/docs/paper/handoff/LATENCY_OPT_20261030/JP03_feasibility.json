@@ -1,0 +1,29 @@
+{
+  "decisions": [
+    {
+      "dataset": "nusc_val",
+      "p95_reduction_percent": 1.191285597735391,
+      "p95_delta_hi_ms": 0.8474146421121967,
+      "wholeframe_significant_slowdown": false,
+      "promising": false
+    },
+    {
+      "dataset": "av2_dev",
+      "p95_reduction_percent": 0.23419752165250496,
+      "p95_delta_hi_ms": 2.777267506121454,
+      "wholeframe_significant_slowdown": false,
+      "promising": false
+    }
+  ],
+  "script_md5": "52e055ddb5619b2c95808057aae1000d",
+  "window_status": "complete",
+  "recovery": null,
+  "instrumented_profile_available": false,
+  "encoder_graph_exact_checks_by_dataset": {
+    "nusc_val": 709,
+    "av2_dev": 2458
+  },
+  "statistic": "paired 2000 unit bootstrap seed0; candidate minus baseline; all repetitions nested in unit",
+  "multiplicity": "exploratory pilot intervals; no confirmatory superiority claim",
+  "energy": "telemetry collected but no aligned per-row energy claim"
+}

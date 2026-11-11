@@ -1,0 +1,33 @@
+row,level,severity,episodes,missed
+cheap,1,all,154,18
+cheap,1,below_hard,137,18
+cheap,1,at_or_above_hard,17,0
+cheap,2,all,32,4
+v6-S,1,all,154,43
+v6-S,1,below_hard,137,43
+v6-S,1,at_or_above_hard,17,0
+v6-S,2,all,32,10
+u960 + C1 + v3a,1,all,154,42
+u960 + C1 + v3a,1,below_hard,137,42
+u960 + C1 + v3a,1,at_or_above_hard,17,0
+u960 + C1 + v3a,2,all,32,11
+native + C1 + v3a,1,all,154,44
+native + C1 + v3a,1,below_hard,137,43
+native + C1 + v3a,1,at_or_above_hard,17,1
+native + C1 + v3a,2,all,32,10
+hybrid tsp8@S + C1 + v3a,1,all,154,44
+hybrid tsp8@S + C1 + v3a,1,below_hard,137,44
+hybrid tsp8@S + C1 + v3a,1,at_or_above_hard,17,0
+hybrid tsp8@S + C1 + v3a,2,all,32,10
+uncertainty unc2@S + C1 + v3a,1,all,154,32
+uncertainty unc2@S + C1 + v3a,1,below_hard,137,32
+uncertainty unc2@S + C1 + v3a,1,at_or_above_hard,17,0
+uncertainty unc2@S + C1 + v3a,2,all,32,11
+AnA iterated (ana05hinfi) + C1 + v3a,1,all,154,44
+AnA iterated (ana05hinfi) + C1 + v3a,1,below_hard,137,44
+AnA iterated (ana05hinfi) + C1 + v3a,1,at_or_above_hard,17,0
+AnA iterated (ana05hinfi) + C1 + v3a,2,all,32,11
+v7a = B2K-A + temporal evidence,1,all,154,42
+v7a = B2K-A + temporal evidence,1,below_hard,137,42
+v7a = B2K-A + temporal evidence,1,at_or_above_hard,17,0
+v7a = B2K-A + temporal evidence,2,all,32,10

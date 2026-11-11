@@ -1,0 +1,98 @@
+{
+  "status": "complete",
+  "dataset": "av2",
+  "models": [
+    {
+      "model": "all",
+      "train_examples": 139681,
+      "train_units": 340,
+      "train_class_counts": [
+        127192,
+        10986,
+        1503
+      ],
+      "val_examples": 25031,
+      "val_units": 60,
+      "val_logloss": 0.09618152271457509,
+      "confusion": [
+        [
+          22790,
+          237,
+          15
+        ],
+        [
+          531,
+          1337,
+          8
+        ],
+        [
+          21,
+          30,
+          62
+        ]
+      ],
+      "sha256": "e1161c6b2b288b2ebb6fcb78a5aeb963dc996fc28867a21062519d12b1a6645a"
+    },
+    {
+      "model": "matched",
+      "train_examples": 125399,
+      "train_units": 339,
+      "train_class_counts": [
+        112910,
+        10986,
+        1503
+      ],
+      "val_examples": 25031,
+      "val_units": 60,
+      "val_logloss": 0.10232092520159856,
+      "confusion": [
+        [
+          22695,
+          310,
+          37
+        ],
+        [
+          499,
+          1362,
+          15
+        ],
+        [
+          21,
+          31,
+          61
+        ]
+      ],
+      "sha256": "65122a13b8e1f1e312e2f0dba2b4edab5cbe795edaa9461cc06fdf85f320e9a1"
+    }
+  ],
+  "features": [
+    "z",
+    "lat_min",
+    "lat_max",
+    "rate",
+    "v",
+    "demand",
+    "ego_demand",
+    "confidence",
+    "vehicle",
+    "person",
+    "cyclist",
+    "x1",
+    "y1",
+    "x2",
+    "y2",
+    "width",
+    "height",
+    "full",
+    "complete_history",
+    "finite_ttc"
+  ],
+  "training_units": 400,
+  "dev_overlap": 0,
+  "invalid_matched": 192,
+  "unmatched": 16795,
+  "protocol_sha256": "83a74a3a4d58509aede43ac449172cff10a33dca9f2f9c0455dd1dc3c16c02a7",
+  "frozen_c1_sha256": "b9ebd4cc18d78e2ee9f3ad5bbbd01e43951ffeb02d126d3460df4feaa098916d",
+  "seconds": 20.779676914215088,
+  "caveat": "Annotations define unmatched negatives; not manually certified false detections. C1 embeddings are cached float16."
+}

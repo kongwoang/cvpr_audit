@@ -1,0 +1,4 @@
+family,comparisons,ci_excludes_0,p_raw_lt_05,holm_lt_05,bh_lt_05,holm_lt_05_plus1,bh_lt_05_plus1,positive_sig_holm,negative_sig_holm
+"a (12 x 3, primary)",36,29,29,25,28,25,28,25,0
+a_all (14 x 3),42,35,35,30,34,30,34,30,0
+b (3 x 3),9,7,7,7,7,7,7,7,0

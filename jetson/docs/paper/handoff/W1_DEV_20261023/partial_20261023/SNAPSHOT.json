@@ -1,0 +1,17 @@
+{
+  "status": "partial development snapshot; AV2 incomplete",
+  "datasets": {
+    "nusc": {
+      "units": 152,
+      "expected_units": 152,
+      "frames": 6117,
+      "episodes": 99
+    },
+    "av2": {
+      "units": 116,
+      "expected_units": 300,
+      "frames": 9166,
+      "episodes": 132
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "task": "cases",
+  "dataset": "nusc",
+  "status": "complete",
+  "pid": 1679371,
+  "host": "cuda12.ecs.vuw.ac.nz",
+  "started": 1792855045.9701488,
+  "scripts": {
+    "launch_cpu.py": "8d8f549427bf0795fc16c07651a50dfd74e154933b7706342ecc7b1474db945c",
+    "cases.py": "cb19a473e6fe24dd0b88861b482b55637b240b02ca2ef62ec4f6c0e29cc15ff3",
+    "fit.py": "fed94ea64c86cb6e1ec18e899e55eb19c4542a59dd7c3fb503de685345225746",
+    "analyze.py": "05239201a70857a9e488c41fd45afb21e5b7bddee77a7672d5e4546b44e681bb",
+    "job.py": "c77c577ca973dcf1275b44a18d1e5c483e7f97b5d16d24ba842c542c336006c4",
+    "residual.py": "298d4b695374a37f3ae7c32835eb00b277151ad0c00c5e9a8c54ccc7e305801b",
+    "features.py": "748decb56fd2b91c36b50effbfb05be9f710aab3830c59b3b83bf0425936fd56",
+    "readout.py": "f19154ee7616c96bd23991fd0e6af4181c95632cd250455554e6dc88dbcfefb7",
+    "audit.py": "5182a66cda14fcd616e727199963fd4515e49bb67cfd2a7cf7ccac25f21bae32",
+    "compose.py": "bf6ade142faca2715e21bbd7ada3edde13df09dd45fb0e06d31a06a7a0a1040b",
+    "common.py": "1563277aee1ade5234926eef1d9f2f6a47cbc59a52575f3c690dadbc4001e103",
+    "attribution.py": "dd8f2b504308bbc0904e849dc2ae0679737fe17621de72ab0b4ce6ed9303ac91",
+    "evaluate.py": "3fabc6d85464bd79f45f223a7c277d42b35baec3c6075ff496d7efdaf43bd9f5"
+  },
+  "exit_code": 0,
+  "finished": 1792855162.3022683,
+  "changed_main_sources": []
+}

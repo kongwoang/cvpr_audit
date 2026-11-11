@@ -1,0 +1,5 @@
+{
+  "status": "complete",
+  "scope": "Fixed 152-scene/116-log snapshot; coarse-class changes and box ambiguity only, no GT track-ID validation",
+  "frozen_chain_ids_reproduced": true
+}

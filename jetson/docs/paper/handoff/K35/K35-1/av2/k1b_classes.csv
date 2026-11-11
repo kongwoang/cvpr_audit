@@ -1,0 +1,12 @@
+dataset,direction,stratum,class,subclass,episodes,share_of_direction_episodes,insufficient_loss_v6S,loss_share_v6S,insufficient_loss_cheap,loss_share_cheap
+av2,cheap_detects_v6S_misses,all,E-other,inside_finite_ttc_refiner_not_decisive,2,0.1111111111111111,8.873917900944644,0.022897681141504627,4.66883345456389,0.027732738065921254
+av2,cheap_detects_v6S_misses,all,E2,inside_matched_no_finite_ttc,12,0.6666666666666666,341.48511123623894,0.8811459919892056,146.71110072975424,0.8714597698754957
+av2,cheap_detects_v6S_misses,all,E2,inside_not_matched,1,0.05555555555555555,7.266396299234724,0.01874973685410974,4.807828468776562,0.028558364501120176
+av2,cheap_detects_v6S_misses,all,E3,refiner_lowers_demand_below_tau1,3,0.16666666666666666,29.92114952481952,0.07720659001518003,12.163210967540316,0.07224912755746281
+av2,cheap_detects_v6S_misses,below_hard,E-other,inside_finite_ttc_refiner_not_decisive,2,0.125,8.873917900944644,0.05054801420901899,4.66883345456389,0.04957002911911796
+av2,cheap_detects_v6S_misses,below_hard,E2,inside_matched_no_finite_ttc,10,0.625,129.49277000316448,0.7376225981748599,72.54674627257731,0.7702447217759733
+av2,cheap_detects_v6S_misses,below_hard,E2,inside_not_matched,1,0.0625,7.266396299234724,0.041391176646222966,4.807828468776562,0.05104576968022092
+av2,cheap_detects_v6S_misses,below_hard,E3,refiner_lowers_demand_below_tau1,3,0.1875,29.92114952481952,0.17043821096989814,12.163210967540316,0.12913947942468798
+av2,cheap_detects_v6S_misses,at_or_above_hard,E2,inside_matched_no_finite_ttc,2,1.0,211.99234123307443,1.0,74.16435445717696,1.0
+av2,v6S_detects_cheap_misses,all,R1,decisive_object_only_in_verified_crop,3,1.0,14.634601978483492,1.0,21.842858638651897,1.0
+av2,v6S_detects_cheap_misses,below_hard,R1,decisive_object_only_in_verified_crop,3,1.0,14.634601978483492,1.0,21.842858638651897,1.0

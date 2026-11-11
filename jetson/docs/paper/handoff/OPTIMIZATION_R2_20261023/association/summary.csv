@@ -1,0 +1,7 @@
+dataset,pipeline,attempts,stored_steps,first_matches,first_known,first_same,first_confident_switch,all_confident_switch,flow_accepted,flow_cpu_ms_mean
+av2,flow + rank margin,25,47,24,23,23,0,0,42,5.420778224125821
+av2,original unique,25,48,23,22,21,0,0,0,
+av2,rank margin,25,46,23,22,22,0,0,0,
+nusc,flow + rank margin,8,13,5,4,4,0,0,12,2.754346395914371
+nusc,original unique,8,15,7,5,4,1,2,0,
+nusc,rank margin,8,12,5,5,5,0,0,0,

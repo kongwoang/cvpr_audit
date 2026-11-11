@@ -1,0 +1,17 @@
+{
+  "status": "PARTIAL DEVELOPMENT SNAPSHOT",
+  "datasets": {
+    "nusc": {
+      "units": 152,
+      "frames": 6117,
+      "episodes": 99,
+      "expected_units": 152
+    },
+    "av2": {
+      "units": 73,
+      "frames": 5781,
+      "episodes": 87,
+      "expected_units": 300
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "finalized_at_utc": "2026-10-23T09:07:18.539212+00:00",
+  "quality_frames": 29782,
+  "completion_script_sha256": "b2cbe1010e469e2d3705efd636e3efabff3bde36421c3183890e69c57a908d11",
+  "verified_timing_complete": true,
+  "train_development_overlap_rows": 0,
+  "main_source_unchanged": true,
+  "all_jetson_windows_released": true,
+  "cross_backend_exact_parity": false,
+  "cross_backend_diagnostic_rows": 75,
+  "remote_summary_files_mirrored": 20,
+  "no_new_inference": true
+}

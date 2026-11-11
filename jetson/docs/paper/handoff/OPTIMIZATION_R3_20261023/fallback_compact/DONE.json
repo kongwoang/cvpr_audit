@@ -1,0 +1,9 @@
+{
+  "status": "complete",
+  "stage": "compact",
+  "datasets": [
+    "av2",
+    "nusc"
+  ],
+  "changed_frames": 318
+}

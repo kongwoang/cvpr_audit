@@ -1,0 +1,16 @@
+dataset,pipeline,rescued,newly_missed,rescued_with_decisive_evidence,rescued_without_decisive_evidence,hard_peak_rescued,hard_peak_rescued_with_hard_evidence
+nusc,point fallback + extent retention,3,0,3,0,1,1
+nusc,objectwise median,0,0,0,0,0,0
+nusc,R5 rollback q50,1,0,1,0,0,0
+nusc,R5 rollback q80,0,0,0,0,0,0
+nusc,R5 rollback q95,0,0,0,0,0,0
+nusc,R5 missing q50,6,0,5,1,0,0
+nusc,R5 missing q80,1,0,1,0,0,0
+nusc,R5 missing q95,0,0,0,0,0,0
+nusc,R5 both q50,6,0,5,1,0,0
+nusc,R5 both q80,1,0,1,0,0,0
+nusc,R5 both q95,0,0,0,0,0,0
+nusc,R5 median_gate q50,0,0,0,0,0,0
+nusc,R5 median_gate q80,0,0,0,0,0,0
+nusc,R5 median_gate q95,0,0,0,0,0,0
+nusc,R5 matched-only both q80,4,0,3,1,0,0

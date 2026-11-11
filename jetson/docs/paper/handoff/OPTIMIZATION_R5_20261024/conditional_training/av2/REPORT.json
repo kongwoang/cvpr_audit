@@ -1,0 +1,37 @@
+{
+  "status": "complete",
+  "dataset": "av2",
+  "models": [
+    {
+      "model": "pooled",
+      "train_examples": 97078,
+      "class_counts": [
+        88509,
+        7551,
+        1018
+      ],
+      "train_units": 339,
+      "val_disagreements": 968,
+      "val_disagreement_logloss": 0.30383715129403954,
+      "sha256": "822564e87df182727b111498dc3b0c4d8db679a2feb434c98d865ce2f95ba418"
+    },
+    {
+      "model": "conditional",
+      "train_examples": 5715,
+      "class_counts": [
+        5045,
+        640,
+        30
+      ],
+      "train_units": 287,
+      "val_disagreements": 968,
+      "val_disagreement_logloss": 0.3435165555730461,
+      "sha256": "6317bad8a3b99384cb9fb48dc65b239980632c66dbcff1c5583b49fe979bdf68"
+    }
+  ],
+  "units": 400,
+  "seconds": 359.2547745704651,
+  "protocol_sha256": "48913f7f5275c5520e52f099fddd2821a8f70a8631e1dfe568e7b60963fe2892",
+  "test_or_dev_training": false,
+  "source_refiner_sha256": "46bb704a6a83068116bc7443724931d56d6d4d098cea247ef55bb3ebc64fbaa9"
+}

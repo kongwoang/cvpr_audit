@@ -1,0 +1,10 @@
+{
+  "script_md5": "5bf72c56fb29d9fa320ea75902759a38",
+  "K": 20,
+  "seed": 0,
+  "n_init": 10,
+  "horizon_s": 4,
+  "waypoint_dt_s": 0.5,
+  "ahd_transfer": "av2",
+  "test_data_used": false
+}

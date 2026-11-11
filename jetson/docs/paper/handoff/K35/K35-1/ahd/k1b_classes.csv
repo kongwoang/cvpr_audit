@@ -1,0 +1,13 @@
+dataset,direction,stratum,class,subclass,episodes,share_of_direction_episodes,insufficient_loss_v6S,loss_share_v6S,insufficient_loss_cheap,loss_share_cheap
+ahd,cheap_detects_v6S_misses,all,E-other,inside_finite_ttc_refiner_not_decisive,4,0.21052631578947367,69.92129502400351,0.2714197016504726,18.287815962617742,0.2485875952232501
+ahd,cheap_detects_v6S_misses,all,E1,outside_verified_region,1,0.05263157894736842,1.0476517567513821,0.004066762881800702,0.0,0.0
+ahd,cheap_detects_v6S_misses,all,E2,inside_matched_no_finite_ttc,3,0.15789473684210525,12.69070402020076,0.049262633046411215,5.2103598534365325,0.07082479552840777
+ahd,cheap_detects_v6S_misses,all,E3,refiner_lowers_demand_below_tau1,11,0.5789473684210527,173.95353865736303,0.6752509024213157,50.06871293474573,0.6805876092483422
+ahd,cheap_detects_v6S_misses,below_hard,E-other,inside_finite_ttc_refiner_not_decisive,3,0.17647058823529413,10.680500499975697,0.08479390631764173,3.1746161166973925,0.14142711167434918
+ahd,cheap_detects_v6S_misses,below_hard,E1,outside_verified_region,1,0.058823529411764705,1.0476517567513821,0.008317445883335862,0.0,0.0
+ahd,cheap_detects_v6S_misses,below_hard,E2,inside_matched_no_finite_ttc,3,0.17647058823529413,12.69070402020076,0.10075317798040188,5.2103598534365325,0.23211818933941195
+ahd,cheap_detects_v6S_misses,below_hard,E3,refiner_lowers_demand_below_tau1,10,0.5882352941176471,101.53949337105355,0.8061354698186205,14.062036339693066,0.6264546989862388
+ahd,cheap_detects_v6S_misses,at_or_above_hard,E-other,inside_finite_ttc_refiner_not_decisive,1,0.5,59.240794524027805,0.449970503244472,15.113199845920349,0.29564233910798327
+ahd,cheap_detects_v6S_misses,at_or_above_hard,E3,refiner_lowers_demand_below_tau1,1,0.5,72.41404528630946,0.550029496755528,36.00667659505267,0.7043576608920168
+ahd,v6S_detects_cheap_misses,all,R1,decisive_object_only_in_verified_crop,4,1.0,47.733122856192914,1.0,74.43505458138617,1.0
+ahd,v6S_detects_cheap_misses,below_hard,R1,decisive_object_only_in_verified_crop,4,1.0,47.733122856192914,1.0,74.43505458138617,1.0

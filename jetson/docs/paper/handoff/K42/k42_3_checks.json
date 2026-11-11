@@ -1,0 +1,35 @@
+{
+ "nusc": {
+  "basewf wf960+C1 vs F (differing frames)": 0,
+  "whole frame 800": "no stored full-split record (reported missing)",
+  "K33 pub wf960 (C1, no refiner) vs F (differing frames)": 0,
+  "rc bar1280_0.5: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "rc bar1280_0.5@cap: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "rc dvr1280_0.5: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "rc dvr1280_0.5@cap: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "rc ch128B_csc: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "rc ch128B_csc@cap: stored refined J reproduced from routing sizes (differing frames)": 0
+ },
+ "av2": {
+  "basewf wf960+C1 vs F (differing frames)": 0,
+  "whole frame 800": "no stored full-split record (reported missing)",
+  "K33 pub wf960 (C1, no refiner) vs F (differing frames)": 0,
+  "rc bar1280_0.5: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "rc bar1280_0.5@cap: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "rc dvr1280_0.5: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "rc dvr1280_0.5@cap: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "rc ch128B_csc: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "rc ch128B_csc@cap: stored refined J reproduced from routing sizes (differing frames)": 0
+ },
+ "ahd": {
+  "basewf wf960+C1 vs F (differing frames)": 0,
+  "whole frame 800": "no stored full-split record (reported missing)",
+  "K33 pub wf960 (C1, no refiner) vs F (differing frames)": 0,
+  "rc bar1280_0.5: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "rc bar1280_0.5@cap: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "rc dvr1280_0.5: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "rc dvr1280_0.5@cap: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "rc ch128B_csc: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "rc ch128B_csc@cap: stored refined J reproduced from routing sizes (differing frames)": 0
+ }
+}

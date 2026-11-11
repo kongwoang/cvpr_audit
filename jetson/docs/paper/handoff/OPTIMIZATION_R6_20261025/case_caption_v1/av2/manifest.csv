@@ -1,0 +1,5 @@
+dataset,kind,unit,frame,gt_demand,r5_action,candidate,image_path,panel
+av2,new_supported_action,e4279e3e-b7e1-3f43-aeef-2bfa2836dab6,62,3.9437959913765317,0,2,/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/datasets/av2/sensor/train/e4279e3e-b7e1-3f43-aeef-2bfa2836dab6/sensors/cameras/ring_front_center/315967021349927220.jpg,00_new_supported_action.png
+av2,new_false_action,e125bb91-dcaf-3013-9cc7-da653d7e11e1,4,0.3835841794740631,0,2,/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/datasets/av2/sensor/train/e125bb91-dcaf-3013-9cc7-da653d7e11e1/sensors/cameras/ring_front_center/315972167149927219.jpg,01_new_false_action.png
+av2,unresolved_hard_case,b56e3f47-72a6-34e8-9ada-b4169e28e5b9,4,9.0,0,0,/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/datasets/av2/sensor/train/b56e3f47-72a6-34e8-9ada-b4169e28e5b9/sensors/cameras/ring_front_center/315975801249927210.jpg,02_unresolved_hard_case.png
+av2,low_score_episode_rescue,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,48,1.5153306741794108,0,0,/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/datasets/av2/sensor/train/22dcf96c-ef5e-376b-9db5-dc9f91040f5e/sensors/cameras/ring_front_center/315968340149927215.jpg,03_low_score_episode_rescue.png

@@ -1,0 +1,2 @@
+refiner_on,c1_on,a_table_produced,dev_routes_priv,priv_collision_share,b_pass,paired_routes,coll_diff,coll_lo,coll_hi,minttc_diff,minttc_lo,minttc_hi,c_pass,GATE_PASS
+False,False,True,95,0.4105263157894737,False,92,-0.10869565217391304,-0.20652173913043478,0.0,0.33913043478260857,0.1359426630434782,0.5565211956521738,True,False

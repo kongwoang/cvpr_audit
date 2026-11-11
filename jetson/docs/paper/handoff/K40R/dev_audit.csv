@@ -1,0 +1,3 @@
+dataset,original_dev_units,used_dev_units,frames,target_px,manifest
+nusc,152,152,6117,0.08036985450384175,K33 nuScenes dev scenes
+av2,300,58,4583,0.05731335299458728,verified_log_manifest.json (58 disjoint CFG-DEV logs)

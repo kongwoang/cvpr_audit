@@ -1,0 +1,11 @@
+dataset,pipeline,rescued,newly_missed,rescued_with_decisive_evidence,rescued_without_decisive_evidence,hard_peak_rescued,hard_peak_rescued_with_hard_evidence
+av2,learned missing history,5,0,4,1,0,0
+av2,upper-quantile missing history,8,0,8,0,1,0
+av2,point fallback + extent retention,6,0,5,1,0,0
+av2,observed-history point fallback,0,0,0,0,0,0
+av2,corroborated upper fallback,5,0,4,1,0,0
+nusc,learned missing history,3,0,3,0,1,1
+nusc,upper-quantile missing history,9,0,8,1,2,1
+nusc,point fallback + extent retention,3,0,3,0,1,1
+nusc,observed-history point fallback,0,0,0,0,0,0
+nusc,corroborated upper fallback,5,0,5,0,1,1

@@ -1,0 +1,13 @@
+dataset,model,q,level,samples,predicted,required,correct,precision,recall
+nusc,conditional,0.5,1,90,10,6,2,0.2,0.3333333333333333
+nusc,conditional,0.5,2,90,0,1,0,,0.0
+nusc,conditional,0.8,1,90,4,6,1,0.25,0.16666666666666666
+nusc,conditional,0.8,2,90,0,1,0,,0.0
+nusc,conditional,0.95,1,90,0,6,0,,0.0
+nusc,conditional,0.95,2,90,0,1,0,,0.0
+nusc,pooled,0.5,1,90,11,6,3,0.2727272727272727,0.5
+nusc,pooled,0.5,2,90,0,1,0,,0.0
+nusc,pooled,0.8,1,90,2,6,2,1.0,0.3333333333333333
+nusc,pooled,0.8,2,90,0,1,0,,0.0
+nusc,pooled,0.95,1,90,0,6,0,,0.0
+nusc,pooled,0.95,2,90,0,1,0,,0.0

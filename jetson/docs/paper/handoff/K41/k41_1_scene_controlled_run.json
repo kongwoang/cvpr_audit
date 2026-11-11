@@ -1,0 +1,6 @@
+{
+  "script_md5": "0941fa6ff31dfbd61210e325b06eb0cd",
+  "pairs": 6043,
+  "tokens_used": 12086,
+  "scope": "Synthetic cached scene transplant; identical receiver ego/candidate/camera/probes; no real crops or downstream scores"
+}

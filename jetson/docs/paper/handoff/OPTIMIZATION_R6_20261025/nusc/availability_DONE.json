@@ -1,0 +1,5 @@
+{
+  "status": "complete",
+  "dataset": "nusc",
+  "warning": "Post-hoc IoU-match availability, not a visibility certificate, GT exclusion, deployable oracle or method."
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "status": "complete",
+    "pid": 700561,
+    "host": "cuda12.ecs.vuw.ac.nz",
+    "shard": "0/2",
+    "start": 1792736621.4994547,
+    "updated": 1792736821.6414237,
+    "tokens": 397,
+    "expected_tokens": 397,
+    "rows": 2382,
+    "source_hashes": {
+      "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/scripts/A_navsim/k31_nav_p2.py": "0dca57834768b144f6d88127573ba52a470a0e51d71d66332bcf32aeb4a2f3a4",
+      "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/scripts/A_navsim/k34_selector_cost.py": "de0225a8f67e5011b86d763ba693a1a6de25dbbf04a81e3ee21a9440b09aa428",
+      "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/navsim_reuse_20261023/kernels.py": "97e375ed9c28b08839595b6be8a06c5f0fe8adf3c507f6d80b24fe92b8c29c3b",
+      "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/navsim_reuse_20261023/runner.py": "e55500bc19af2606a9f04b4e381aa66ff720675e37babcc98b9853fa464fa890"
+    },
+    "manifest_sha256": "5200c65a537b22ddc39c1ad35c0fe59704c3ca40a2ad22fb8618e1d39e46e813",
+    "load_average": [
+      16.55126953125,
+      15.138671875,
+      15.44384765625
+    ],
+    "omp_threads": "1",
+    "finish": 1792736821.6414194
+  },
+  {
+    "status": "complete",
+    "pid": 710352,
+    "host": "cuda13.ecs.vuw.ac.nz",
+    "shard": "1/2",
+    "start": 1792736614.304857,
+    "updated": 1792736934.3049567,
+    "tokens": 603,
+    "expected_tokens": 603,
+    "rows": 3618,
+    "source_hashes": {
+      "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/scripts/A_navsim/k31_nav_p2.py": "0dca57834768b144f6d88127573ba52a470a0e51d71d66332bcf32aeb4a2f3a4",
+      "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/scripts/A_navsim/k34_selector_cost.py": "de0225a8f67e5011b86d763ba693a1a6de25dbbf04a81e3ee21a9440b09aa428",
+      "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/navsim_reuse_20261023/kernels.py": "97e375ed9c28b08839595b6be8a06c5f0fe8adf3c507f6d80b24fe92b8c29c3b",
+      "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/navsim_reuse_20261023/runner.py": "e55500bc19af2606a9f04b4e381aa66ff720675e37babcc98b9853fa464fa890"
+    },
+    "manifest_sha256": "5200c65a537b22ddc39c1ad35c0fe59704c3ca40a2ad22fb8618e1d39e46e813",
+    "load_average": [
+      32.22314453125,
+      31.2158203125,
+      30.63818359375
+    ],
+    "omp_threads": "1",
+    "finish": 1792736934.3049524
+  }
+]

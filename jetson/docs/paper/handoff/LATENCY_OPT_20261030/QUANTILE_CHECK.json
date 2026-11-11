@@ -1,0 +1,7 @@
+{
+  "cases": 800,
+  "mismatches": 0,
+  "max_abs_difference": 2.220446049250313e-16,
+  "coverage": "1/2/5/13 unequal-size units, ties, omitted/repeated units, p50/p90/p95/p99/max; compare literal scene-resampled np.quantile",
+  "source_md5": "52e055ddb5619b2c95808057aae1000d"
+}

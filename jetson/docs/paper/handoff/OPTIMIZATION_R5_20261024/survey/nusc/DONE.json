@@ -1,0 +1,7 @@
+{
+  "status": "complete",
+  "units": 152,
+  "secondary_flags": "Overlapping annotation diagnostics only; do not prove visibility or change any primary metric.",
+  "bootstrap": 2000,
+  "seed": 0
+}

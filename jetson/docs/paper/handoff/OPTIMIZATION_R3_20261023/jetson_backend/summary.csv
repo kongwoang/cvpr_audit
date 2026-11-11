@@ -1,0 +1,7 @@
+dataset,pipeline,common_frames,units,differing_actions,differing_gt,jetson_higher_actions,jetson_lower_actions
+av2_dev,learned missing history,512,8,3,0,3,0
+av2_dev,round1 combined,512,8,3,0,3,0
+av2_dev,v6-S,512,8,1,0,1,0
+nusc_val,learned missing history,512,13,3,0,2,1
+nusc_val,round1 combined,512,13,2,0,1,1
+nusc_val,v6-S,512,13,2,0,0,2

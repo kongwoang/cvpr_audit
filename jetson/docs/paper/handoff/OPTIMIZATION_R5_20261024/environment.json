@@ -1,0 +1,10 @@
+{
+  "python": "3.12.15 (main, Oct  6 2026, 12:21:09) [GCC 16.1.1 20260430]",
+  "numpy": "2.5.3",
+  "pandas": "3.0.6",
+  "torch": "2.6.0+cu124",
+  "sklearn": "1.9.1",
+  "platform": "Linux-7.0.11-arch1-1-x86_64-with-glibc2.43",
+  "completed_cpu_threads": 1,
+  "training_refiner_torch_threads": 4
+}

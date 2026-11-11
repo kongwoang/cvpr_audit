@@ -1,0 +1,3 @@
+dataset,frames,eligible_frames,eligible_fraction,max_extra_detector_executions_per_frame,required_keep_eligible_frames,baseline_missed_episodes_with_opportunity,remaining_recovery_missed_episodes_with_opportunity,baseline_only_vs_cheap_with_opportunity
+av2,23665,308,0.013015001056412423,0.026030002112824847,37,4,4,4
+nusc,6117,6,0.000980872976949485,0.00196174595389897,0,0,0,0

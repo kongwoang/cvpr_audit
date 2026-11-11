@@ -1,0 +1,19 @@
+{
+  "status": "complete",
+  "pid": 18326,
+  "runs": [],
+  "started": "2026-10-31T01:45:15.133149+07:00",
+  "monotonic_start": 13087.964236956,
+  "child_pid": 18456,
+  "current_log": "encoder_probe.log",
+  "command": [
+    "/home/kongwoang/research/CVPR/scripts/py",
+    "/home/kongwoang/research/CVPR/experiments/latency_opt_20261030/c1_graph_probe.py",
+    "--output",
+    "/home/kongwoang/research/CVPR/experiments/latency_opt_20261030/logs/JP02_20261031_014515/probe"
+  ],
+  "updated": "2026-10-31T01:46:31.841514+07:00",
+  "protected_sources_and_engines_unchanged": true,
+  "window_released": true,
+  "restore_errors": []
+}

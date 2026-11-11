@@ -1,0 +1,61 @@
+dataset,rank,unit,frame,J_v6S,act_gt,a_v6S,a_F,dec_range_gt,dec_class,found,inside_crop,dec_z_est,dec_ttc_est,cause,panel_id
+nusc,1,scene-1051,32,87.12,2,0,2,15.101045608520508,vehicle,False,True,,,decisive object inside a crop but missed,nusc/scene-1051/32
+nusc,2,scene-0171,3,87.0,2,0,1,0.6818404793739319,vehicle,False,True,,,decisive object inside a crop but missed,nusc/scene-0171/3
+nusc,3,scene-0171,2,87.0,2,0,1,2.098550319671631,vehicle,True,False,6.223660469055176,1000.0,range error (decisive object found; its estimated range keeps the demand low),nusc/scene-0171/2
+nusc,4,scene-1051,36,73.6453756275522,2,0,2,12.883602142333984,vehicle,False,True,,,decisive object inside a crop but missed,nusc/scene-1051/36
+nusc,5,scene-0443,30,72.4548371497746,2,0,2,7.058061122894287,vehicle,True,False,8.239911079406738,1000.0,"ttc / lateral error (found, range not the reason)",nusc/scene-0443/30
+nusc,6,scene-1051,6,62.7052967779124,2,0,2,18.287416458129883,vehicle,False,True,,,decisive object inside a crop but missed,nusc/scene-1051/6
+nusc,7,scene-1051,4,61.773751837623614,2,0,2,18.197778701782227,vehicle,False,True,,,decisive object inside a crop but missed,nusc/scene-1051/4
+nusc,8,scene-1010,10,47.17786266390048,2,0,1,23.29334831237793,vehicle,False,False,,,decisive object outside every crop (not found),nusc/scene-1010/10
+nusc,9,scene-0299,34,10.792914312667715,1,0,1,48.98848724365234,vehicle,True,True,64.05341829294451,inf,"ttc / lateral error (found, range not the reason)",nusc/scene-0299/34
+nusc,10,scene-0961,10,10.578471700626904,1,0,1,9.135204315185549,vehicle,False,False,,,decisive object outside every crop (not found),nusc/scene-0961/10
+nusc,11,scene-0869,8,10.092573087683215,1,0,1,28.68863677978516,vehicle,True,True,39.22084096403905,inf,"ttc / lateral error (found, range not the reason)",nusc/scene-0869/8
+nusc,12,scene-1010,7,9.442965409222786,1,0,1,48.83336639404297,vehicle,False,True,,,decisive object inside a crop but missed,nusc/scene-1010/7
+nusc,13,scene-0443,27,8.864973782874701,1,0,1,21.76368904113769,vehicle,True,True,23.004398659004178,inf,"ttc / lateral error (found, range not the reason)",nusc/scene-0443/27
+nusc,14,scene-0869,1,7.886558300988613,1,0,1,31.04644012451172,vehicle,True,True,29.47311804563115,inf,"ttc / lateral error (found, range not the reason)",nusc/scene-0869/1
+nusc,15,scene-1062,27,7.670390989242154,1,0,1,16.13896369934082,vehicle,True,True,18.301417900914664,inf,range error (decisive object found; its estimated range keeps the demand low),nusc/scene-1062/27
+nusc,16,scene-0518,29,7.412343817492195,1,0,1,34.43842315673828,vehicle,True,True,29.319530818274682,inf,"ttc / lateral error (found, range not the reason)",nusc/scene-0518/29
+nusc,17,scene-0869,6,6.905662811113766,1,0,1,27.113523483276367,vehicle,True,True,42.49323445298956,1.7704944610595703,"ttc / lateral error (found, range not the reason)",nusc/scene-0869/6
+nusc,18,scene-0349,4,6.033316364672528,1,0,1,15.637184143066406,vehicle,True,False,18.677993774414062,1000.0,"ttc / lateral error (found, range not the reason)",nusc/scene-0349/4
+nusc,19,scene-0869,7,6.011580241161297,1,0,1,35.22061920166016,vehicle,True,True,73.50885936944238,inf,"ttc / lateral error (found, range not the reason)",nusc/scene-0869/7
+nusc,20,scene-0858,12,5.632372080516922,1,0,1,25.827686309814453,vehicle,True,True,54.846366432432006,inf,"ttc / lateral error (found, range not the reason)",nusc/scene-0858/12
+av2,1,da036982-92bf-36a8-b880-4ccf4e20b74e,54,87.12,2,0,2,6.510977745056152,vehicle,True,True,7.1516254942450015,inf,"ttc / lateral error (found, range not the reason)",av2/da036982-92bf-36a8-b880-4ccf4e20b74e/54
+av2,2,201fe83b-7dd7-38f4-9d26-7b4a668638a9,32,87.05,2,0,2,-2.411859035491944,vehicle,True,False,5.9126879932778875,1000.0,range error (decisive object found; its estimated range keeps the demand low),av2/201fe83b-7dd7-38f4-9d26-7b4a668638a9/32
+av2,3,201fe83b-7dd7-38f4-9d26-7b4a668638a9,31,87.0,2,0,2,-2.616204261779785,vehicle,True,True,5.751802178693485,1000.0,range error (decisive object found; its estimated range keeps the demand low),av2/201fe83b-7dd7-38f4-9d26-7b4a668638a9/31
+av2,4,201fe83b-7dd7-38f4-9d26-7b4a668638a9,33,87.0,2,0,2,-2.2410731315612797,vehicle,True,False,5.870386423564515,17.682764088897805,range error (decisive object found; its estimated range keeps the demand low),av2/201fe83b-7dd7-38f4-9d26-7b4a668638a9/33
+av2,5,96dd6923-994c-3afe-9830-b15bdfd60f64,58,46.61838121157005,2,0,2,7.380907535552978,vehicle,True,True,8.053011712478668,inf,"ttc / lateral error (found, range not the reason)",av2/96dd6923-994c-3afe-9830-b15bdfd60f64/58
+av2,6,a1589ae2-2678-310e-91cc-c4b512cd7fa5,16,41.6384263526075,2,0,1,23.134889602661133,vehicle,True,True,24.420299887045367,inf,"ttc / lateral error (found, range not the reason)",av2/a1589ae2-2678-310e-91cc-c4b512cd7fa5/16
+av2,7,da036982-92bf-36a8-b880-4ccf4e20b74e,53,39.91508630041264,2,0,2,8.332096099853516,vehicle,True,True,8.676881769487863,inf,"ttc / lateral error (found, range not the reason)",av2/da036982-92bf-36a8-b880-4ccf4e20b74e/53
+av2,8,7e4d67b3-c3cc-3288-afe5-043602ea3c70,51,39.42916948711814,2,0,1,13.27718734741211,vehicle,True,True,11.357508755300541,inf,"ttc / lateral error (found, range not the reason)",av2/7e4d67b3-c3cc-3288-afe5-043602ea3c70/51
+av2,9,78da7b7e-8ddf-3c7d-8716-eaa890106dd3,32,32.016460116748085,2,1,2,25.341529846191406,vehicle,True,True,24.207022040933456,inf,"ttc / lateral error (found, range not the reason)",av2/78da7b7e-8ddf-3c7d-8716-eaa890106dd3/32
+av2,10,96dd6923-994c-3afe-9830-b15bdfd60f64,57,23.65158745131736,2,0,1,9.053059577941896,vehicle,True,True,9.64930728265653,inf,"ttc / lateral error (found, range not the reason)",av2/96dd6923-994c-3afe-9830-b15bdfd60f64/57
+av2,11,7fab2350-7eaf-3b7e-a39d-6937a4c1bede,1,22.04280716357257,2,1,2,22.65519523620605,vehicle,True,True,22.25949723215141,inf,"ttc / lateral error (found, range not the reason)",av2/7fab2350-7eaf-3b7e-a39d-6937a4c1bede/1
+av2,12,78da7b7e-8ddf-3c7d-8716-eaa890106dd3,31,19.6866026085015,2,1,2,29.230329513549805,vehicle,True,True,28.13941192483793,inf,"ttc / lateral error (found, range not the reason)",av2/78da7b7e-8ddf-3c7d-8716-eaa890106dd3/31
+av2,13,3b3570b4-7b0b-3268-a571-b0889dbf40b6,7,17.525846205455462,2,0,2,29.15911102294922,vehicle,True,True,28.96110650861404,inf,"ttc / lateral error (found, range not the reason)",av2/3b3570b4-7b0b-3268-a571-b0889dbf40b6/7
+av2,14,22052525-4f85-3fe8-9d7d-000a9fffce36,40,16.73007444479667,2,0,1,16.45823097229004,vehicle,True,False,14.584531015366883,1000.0,"ttc / lateral error (found, range not the reason)",av2/22052525-4f85-3fe8-9d7d-000a9fffce36/40
+av2,15,b87683ae-14c5-321f-8af3-623e7bafc3a7,18,15.72686186308836,2,0,1,38.53240203857422,vehicle,True,True,85.26555679507346,9.783265113830566,"ttc / lateral error (found, range not the reason)",av2/b87683ae-14c5-321f-8af3-623e7bafc3a7/18
+av2,16,544a8102-0ef5-3044-921e-dc0544370376,46,15.483155664571845,2,0,1,21.837862014770508,vehicle,False,True,,,decisive object inside a crop but missed,av2/544a8102-0ef5-3044-921e-dc0544370376/46
+av2,17,e8c9fd64-fdd2-422d-a2a2-6f47500d1d12,33,15.115141242011076,2,0,2,16.069480895996094,vehicle,True,True,16.196047485111755,57.9720344543457,"ttc / lateral error (found, range not the reason)",av2/e8c9fd64-fdd2-422d-a2a2-6f47500d1d12/33
+av2,18,e8c9fd64-fdd2-422d-a2a2-6f47500d1d12,32,15.06406129786805,2,0,2,16.152889251708984,vehicle,True,True,16.11544771006824,20.25887680053711,"ttc / lateral error (found, range not the reason)",av2/e8c9fd64-fdd2-422d-a2a2-6f47500d1d12/32
+av2,19,76916359-96f4-3274-81fe-bb145d497c11,54,14.174608680091415,2,0,1,52.43864440917969,vehicle,True,True,55.001591560559824,2.8555476665496826,"ttc / lateral error (found, range not the reason)",av2/76916359-96f4-3274-81fe-bb145d497c11/54
+av2,20,76916359-96f4-3274-81fe-bb145d497c11,45,13.510949307954906,2,0,1,57.519718170166016,vehicle,True,True,48.73661634690592,inf,"ttc / lateral error (found, range not the reason)",av2/76916359-96f4-3274-81fe-bb145d497c11/45
+ahd,1,seq13,42,14.722839873628802,2,0,1,77.07911682128906,vehicle,True,True,70.22965829503408,5.496844291687012,"ttc / lateral error (found, range not the reason)",ahd/seq13/42
+ahd,2,seq09,176,13.847289287713073,2,0,1,19.679542541503903,vehicle,False,False,,,decisive object outside every crop (not found),ahd/seq09/176
+ahd,3,seq13,39,13.802220350955029,2,0,1,79.3758773803711,vehicle,True,True,80.60024106642062,4.544300556182861,"ttc / lateral error (found, range not the reason)",ahd/seq13/39
+ahd,4,seq13,43,11.404416221769816,1,0,1,76.77322387695312,vehicle,True,True,70.14672810600125,4.346384048461914,"ttc / lateral error (found, range not the reason)",ahd/seq13/43
+ahd,5,seq13,41,11.200732118531946,1,0,1,77.37836456298828,vehicle,True,True,72.01114965736086,4.705785751342773,"ttc / lateral error (found, range not the reason)",ahd/seq13/41
+ahd,6,seq13,40,10.903787243729091,1,0,1,79.07307434082031,vehicle,True,True,73.39205574874406,4.626277446746826,"ttc / lateral error (found, range not the reason)",ahd/seq13/40
+ahd,7,seq13,38,10.620049477694767,1,0,1,79.67720031738281,vehicle,True,True,86.95575070804387,6.194615364074707,"ttc / lateral error (found, range not the reason)",ahd/seq13/38
+ahd,8,seq09,162,9.29152966654836,1,0,1,25.247989654541016,vehicle,True,True,27.240609553607943,5.013568878173828,range error (decisive object found; its estimated range keeps the demand low),ahd/seq09/162
+ahd,9,seq09,164,8.504305165240075,1,0,1,24.31498336791992,vehicle,True,True,26.38403434194509,4.901167392730713,range error (decisive object found; its estimated range keeps the demand low),ahd/seq09/164
+ahd,10,seq09,159,8.3162211989086,1,0,1,26.39742088317871,vehicle,True,True,28.609027542851226,4.603735446929932,"ttc / lateral error (found, range not the reason)",ahd/seq09/159
+ahd,11,seq09,163,7.949022201900245,1,0,1,25.02866554260254,vehicle,True,True,26.52339753035642,5.045103073120117,range error (decisive object found; its estimated range keeps the demand low),ahd/seq09/163
+ahd,12,seq09,156,7.255094859755994,1,0,1,27.54096221923828,vehicle,True,True,30.931690807548733,5.1156134605407715,"ttc / lateral error (found, range not the reason)",ahd/seq09/156
+ahd,13,seq09,160,7.036723064347677,1,0,1,26.18000602722168,vehicle,True,True,27.525695904993846,5.351220607757568,"ttc / lateral error (found, range not the reason)",ahd/seq09/160
+ahd,14,seq09,158,6.765937166865284,1,0,1,26.615434646606445,vehicle,True,True,28.691291079598326,4.100936412811279,"ttc / lateral error (found, range not the reason)",ahd/seq09/158
+ahd,15,seq09,157,6.248484404093856,1,0,1,27.323766708374023,vehicle,True,True,30.123502645341873,4.949187755584717,"ttc / lateral error (found, range not the reason)",ahd/seq09/157
+ahd,16,seq15,349,6.113513538486406,1,0,1,31.4046630859375,person,False,True,,,decisive object inside a crop but missed,ahd/seq15/349
+ahd,17,seq15,348,5.990435877246702,1,0,1,31.77632141113281,person,False,True,,,decisive object inside a crop but missed,ahd/seq15/348
+ahd,18,seq09,155,5.892136059419964,1,0,1,27.754079818725582,vehicle,True,True,31.746952760398916,4.662410736083984,"ttc / lateral error (found, range not the reason)",ahd/seq09/155
+ahd,19,seq15,347,5.874620982159793,1,0,1,32.150184631347656,person,False,True,,,decisive object inside a crop but missed,ahd/seq15/347
+ahd,20,seq15,346,5.680758088945016,1,0,1,32.60661697387695,person,False,True,,,decisive object inside a crop but missed,ahd/seq15/346

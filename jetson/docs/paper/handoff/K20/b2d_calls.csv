@@ -1,0 +1,6 @@
+branch,routes,system_s,steps,ms_per_step,planner_queries_by_perception_field_per_step,PDM-Lite_calls_per_step,note
+cheap,658,81748.71,448549.0,182.25,0,1,"system time per simulation step incl. CARLA; field = closed-form braking consumer (rap.planner), no PDM-Lite query; 3 runs of K6"
+ours,656,86848.51,437427.0,198.54,0,1,"system time per simulation step incl. CARLA; field = closed-form braking consumer (rap.planner), no PDM-Lite query; 3 runs of K6"
+privileged,657,54885.41,361603.0,151.78,0,1,"system time per simulation step incl. CARLA; field = closed-form braking consumer (rap.planner), no PDM-Lite query; 3 runs of K6"
+u1600,656,90254.71,463210.0,194.85,0,1,"system time per simulation step incl. CARLA; field = closed-form braking consumer (rap.planner), no PDM-Lite query; 3 runs of K6"
+u960,655,85854.83,453406.0,189.36,0,1,"system time per simulation step incl. CARLA; field = closed-form braking consumer (rap.planner), no PDM-Lite query; 3 runs of K6"

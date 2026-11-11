@@ -1,0 +1,37 @@
+{
+  "status": "complete",
+  "jobs": 8,
+  "all_exit_zero": true,
+  "unit_suites": [
+    {
+      "stage": "readout",
+      "dataset": "nusc",
+      "units": 152,
+      "frames": 6117,
+      "baseline_differences": 0
+    },
+    {
+      "stage": "readout",
+      "dataset": "av2",
+      "units": 300,
+      "frames": 23665,
+      "baseline_differences": 0
+    },
+    {
+      "stage": "dev",
+      "dataset": "nusc",
+      "units": 152,
+      "frames": 6117,
+      "baseline_differences": 0
+    },
+    {
+      "stage": "dev",
+      "dataset": "av2",
+      "units": 300,
+      "frames": 23665,
+      "baseline_differences": 0
+    }
+  ],
+  "main_source_weight_hashes_unchanged": true,
+  "test_data_used": false
+}

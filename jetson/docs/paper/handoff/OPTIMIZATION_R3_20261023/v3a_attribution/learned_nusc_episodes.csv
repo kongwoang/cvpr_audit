@@ -1,0 +1,15 @@
+dataset,stage,unit,start,end,peak,pipeline,prefix,transition,any_decisive_supported_brake,any_decisive_supported_hard_brake
+nusc,learned,scene-0249,10,11,1.3969120463574087,learned geometric,v6S_b2A_allgeo_retro,rescued,True,False
+nusc,learned,scene-0286,6,10,2.1584009579690435,learned geometric,v6S_b2A_allgeo_retro,rescued,True,False
+nusc,learned,scene-0366,19,21,1.9371726828468576,learned geometric,v6S_b2A_allgeo_retro,newly_missed,False,False
+nusc,learned,scene-1017,0,9,5.087025040119287,learned geometric,v6S_b2A_allgeo_retro,rescued,True,True
+nusc,learned,scene-0249,10,11,1.3969120463574087,learned decision,v6S_b2A_alldec_retro,rescued,True,False
+nusc,learned,scene-0286,6,10,2.1584009579690435,learned decision,v6S_b2A_alldec_retro,rescued,True,False
+nusc,learned,scene-0366,19,21,1.9371726828468576,learned decision,v6S_b2A_alldec_retro,newly_missed,False,False
+nusc,learned,scene-1017,0,9,5.087025040119287,learned decision,v6S_b2A_alldec_retro,rescued,True,True
+nusc,learned,scene-0249,10,11,1.3969120463574087,uncertainty query,v6S_b2A_query_retro,rescued,True,False
+nusc,learned,scene-0286,6,10,2.1584009579690435,uncertainty query,v6S_b2A_query_retro,rescued,True,False
+nusc,learned,scene-0366,10,10,1.4345231283303812,uncertainty query,v6S_b2A_query_retro,rescued,False,False
+nusc,learned,scene-0366,19,21,1.9371726828468576,uncertainty query,v6S_b2A_query_retro,newly_missed,False,False
+nusc,learned,scene-0926,0,2,1.8714770734670263,uncertainty query,v6S_b2A_query_retro,rescued,True,False
+nusc,learned,scene-1017,0,9,5.087025040119287,uncertainty query,v6S_b2A_query_retro,rescued,True,True

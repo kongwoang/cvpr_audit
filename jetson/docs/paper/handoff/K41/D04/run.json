@@ -1,0 +1,11 @@
+{
+  "tokens": 12146,
+  "logs": 136,
+  "field_parity_tokens": 12146,
+  "selector_nav_choice_consistency": [
+    60730,
+    60730
+  ],
+  "disagree_tokens": 724,
+  "bootstrap": "paired by log, 2000 draws, seed 0 (analysis.common.Bootstrap)"
+}

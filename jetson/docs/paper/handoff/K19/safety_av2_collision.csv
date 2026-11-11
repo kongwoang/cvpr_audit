@@ -1,0 +1,14 @@
+dataset,pipeline,collision_frames,collision_units,median_gt_min_ttc_corridor_s,median_gt_min_range_corridor_m,median_shortfall_ms2
+av2,cheap draft,4,3,inf,18.981921195983887,9.0
+av2,u640,4,2,inf,17.035396099090576,9.0
+av2,u960,4,3,inf,9.618377804756165,9.0
+av2,u1280,6,3,inf,17.035396099090576,9.0
+av2,native,7,4,inf,15.416487693786621,9.0
+av2,"best Budget-Adaptive Routing (cond_moric, picked on val; px 0.0537)",3,3,1.0962436199188232,19.309537887573242,9.0
+av2,oracle router (px 0.0532),2,2,inf,10.324884831905365,9.0
+av2,uncertainty crops,4,2,inf,17.035396099090576,9.0
+av2,temporal_crit crops,4,2,inf,17.035396099090576,9.0
+av2,support only (+ refiner),6,4,inf,17.035396099090576,9.0
+av2,field only (+ refiner),3,2,inf,18.65430450439453,9.0
+av2,ours without refiner,5,3,inf,15.416487693786621,9.0
+av2,ours,5,3,inf,15.416487693786621,9.0

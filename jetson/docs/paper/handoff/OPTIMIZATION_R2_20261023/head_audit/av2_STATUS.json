@@ -1,0 +1,13 @@
+{
+  "status": "complete",
+  "dataset": "av2",
+  "pid": 1804561,
+  "host": "cuda13.ecs.vuw.ac.nz",
+  "started": 1792755844.7809658,
+  "completed_files": 6,
+  "samples": 12364,
+  "units": 60,
+  "mae": 0.06282962125315031,
+  "expected_mae": 0.06282984465360641,
+  "finished": 1792755884.4370468
+}

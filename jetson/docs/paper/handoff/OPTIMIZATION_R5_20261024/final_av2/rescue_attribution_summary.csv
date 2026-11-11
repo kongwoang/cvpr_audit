@@ -1,0 +1,48 @@
+dataset,pipeline,rescued,newly_missed,rescued_with_decisive_evidence,rescued_without_decisive_evidence,hard_peak_rescued,hard_peak_rescued_with_hard_evidence
+av2,critical extent retention,0,0,0,0,0,0
+av2,point fallback + extent retention,6,0,5,1,0,0
+av2,objectwise median,12,0,9,3,0,0
+av2,R5 rollback q50,3,0,3,0,0,0
+av2,R5 rollback q80,0,0,0,0,0,0
+av2,R5 rollback q95,0,0,0,0,0,0
+av2,R5 missing q50,1,0,1,0,0,0
+av2,R5 missing q80,0,0,0,0,0,0
+av2,R5 missing q95,0,0,0,0,0,0
+av2,R5 both q50,3,0,3,0,0,0
+av2,R5 both q80,0,0,0,0,0,0
+av2,R5 both q95,0,0,0,0,0,0
+av2,R5 median_gate q50,1,0,1,0,0,0
+av2,R5 median_gate q80,0,0,0,0,0,0
+av2,R5 median_gate q95,0,0,0,0,0,0
+av2,R5 matched-only both q80,0,0,0,0,0,0
+av2,R5 domain_both q50,3,0,3,0,0,0
+av2,R5 domain_both q80,0,0,0,0,0,0
+av2,R5 domain_both q95,0,0,0,0,0,0
+av2,R5 residual q50,0,0,0,0,0,0
+av2,R5 residual q80,0,0,0,0,0,0
+av2,R5 residual q95,0,0,0,0,0,0
+av2,R5 residual_both q50,3,0,3,0,0,0
+av2,R5 residual_both q80,0,0,0,0,0,0
+av2,R5 residual_both q95,0,0,0,0,0,0
+av2,R5 extent_both q50,3,0,3,0,0,0
+av2,R5 extent_both q80,0,0,0,0,0,0
+av2,R5 extent_both q95,0,0,0,0,0,0
+av2,R5 point_residual q50,6,0,5,1,0,0
+av2,R5 point_residual q80,6,0,5,1,0,0
+av2,R5 point_residual q95,6,0,5,1,0,0
+av2,R5 extent_residual q50,0,0,0,0,0,0
+av2,R5 extent_residual q80,0,0,0,0,0,0
+av2,R5 extent_residual q95,0,0,0,0,0,0
+av2,R5 residual ungated,5,0,0,5,1,0
+av2,R5 cond round1 pooled q50,0,0,0,0,0,0
+av2,R5 cond round1 pooled q80,0,0,0,0,0,0
+av2,R5 cond round1 pooled q95,0,0,0,0,0,0
+av2,R5 cond round1 conditional q50,1,0,0,1,0,0
+av2,R5 cond round1 conditional q80,0,0,0,0,0,0
+av2,R5 cond round1 conditional q95,0,0,0,0,0,0
+av2,R5 cond point pooled q50,6,0,5,1,0,0
+av2,R5 cond point pooled q80,6,0,5,1,0,0
+av2,R5 cond point pooled q95,6,0,5,1,0,0
+av2,R5 cond point conditional q50,7,0,5,2,0,0
+av2,R5 cond point conditional q80,6,0,5,1,0,0
+av2,R5 cond point conditional q95,6,0,5,1,0,0

@@ -1,0 +1,11 @@
+dataset,pipeline,rescued,newly_missed,rescued_with_decisive_evidence,rescued_without_decisive_evidence,hard_peak_rescued,hard_peak_rescued_with_hard_evidence
+av2,mixed-history C1,1,0,1,0,0,0
+av2,mixed-history + recovery,1,0,1,0,0,0
+av2,cheap TTC transfer,6,0,3,3,1,0
+av2,critical extent retention,0,0,0,0,0,0
+av2,motion-conditioned field,0,1,0,0,0,0
+nusc,mixed-history C1,0,2,0,0,0,0
+nusc,mixed-history + recovery,0,0,0,0,0,0
+nusc,cheap TTC transfer,2,0,2,0,0,0
+nusc,critical extent retention,0,0,0,0,0,0
+nusc,motion-conditioned field,0,0,0,0,0,0

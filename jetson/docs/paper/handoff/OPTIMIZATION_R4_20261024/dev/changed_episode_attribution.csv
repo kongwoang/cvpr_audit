@@ -1,0 +1,8 @@
+dataset,pipeline,unit,start_frame,end_frame,peak_demand,object_attribution_available,transition,first_action_frame,any_decisive_supported_brake,any_decisive_supported_hard_brake,first_decisive_supported_frame,only_gap_frame_brake,detail
+av2,one-round extent,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,46,49,2.2721818374042377,True,rescued,49.0,False,False,,False,"[{'frame': 49, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 0.0}]"
+av2,one-round extent,6f2f7d1e-8ded-35c5-ba83-3ca906b05127,22,31,1.2333054109889523,True,rescued,30.0,True,False,30.0,False,"[{'frame': 30, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 2.6585542282372745}]"
+av2,one-round extent,76038978-47aa-30ed-bfa1-2d63753a866c,24,26,1.202555034203424,True,newly_missed,,False,False,,False,[]
+av2,one-round extent,b56e3f47-72a6-34e8-9ada-b4169e28e5b9,0,6,9.0,True,rescued,6.0,False,False,,False,"[{'frame': 6, 'gt_action': 2, 'action': 1, 'dec_found': False, 'dec_demand': nan}]"
+av2,one-round extent,f84b4941-8e99-3957-b6f6-db1590338cf6,15,15,1.1971032145051694,True,rescued,15.0,False,False,,False,"[{'frame': 15, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 0.6528926581292855}]"
+nusc,one-round extent,scene-0534,7,7,1.0612348878327302,True,newly_missed,,False,False,,False,[]
+nusc,one-round extent,scene-0640,22,22,1.0046401297395375,True,rescued,22.0,True,False,22.0,False,"[{'frame': 22, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0023262548751986}]"

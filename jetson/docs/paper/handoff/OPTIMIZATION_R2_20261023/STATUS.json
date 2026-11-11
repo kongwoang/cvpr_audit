@@ -1,0 +1,14 @@
+{
+  "phase": "complete",
+  "pid": 366577,
+  "updated": 1792754085.0905252,
+  "main_source_unchanged": true,
+  "report": "/home/kongwoang/research/CVPR/docs/paper/handoff/OPTIMIZATION_R2_20261023/REPORT.md",
+  "scheduling": "four AV2 shards",
+  "round2_followups": "complete",
+  "association_pilot": "complete",
+  "frozen_head_audit": "complete",
+  "jobs_running": 0,
+  "new_jetson_window": false,
+  "synthesis": "/home/kongwoang/research/CVPR/docs/paper/handoff/OPTIMIZATION_R2_20261023/TONG_HOP.md"
+}

@@ -1,0 +1,4 @@
+dataset,row,selected_policy,reason,dev_px,dev_DESP_px
+nuscenes,AdaScale,ada-1t1280,Dev-selected stored policy absent from test records; do not substitute a test-selected policy,0.1441566490472817,0.08036985450384175
+av2,AdaScale,ada-1t1280,Dev-selected stored policy absent from test records; do not substitute a test-selected policy,0.14311093592730498,0.05731335299458728
+argoverse_hd,AdaScale,ada-1t1280,Dev-selected stored policy absent from test records; do not substitute a test-selected policy,0.14311093592730498,0.05731335299458728

@@ -1,0 +1,93 @@
+{
+  "status": "complete",
+  "dataset": "av2",
+  "train_pairs": 231526,
+  "val_pairs": 41511,
+  "epochs": 15,
+  "best_epoch": 0,
+  "auc": 0.876602855560995,
+  "average_precision": 0.36431291542288413,
+  "valid_rejection": 0.009992293860775752,
+  "switch_recall": 0.16621464548624565,
+  "threshold": 0.9457788467407227,
+  "history": [
+    {
+      "epoch": 0,
+      "auc": 0.876602855560995,
+      "average_precision": 0.36431291542288413
+    },
+    {
+      "epoch": 1,
+      "auc": 0.8738081385309648,
+      "average_precision": 0.370090808602967
+    },
+    {
+      "epoch": 2,
+      "auc": 0.8731494144060715,
+      "average_precision": 0.37368056421220464
+    },
+    {
+      "epoch": 3,
+      "auc": 0.8615164334439078,
+      "average_precision": 0.3761893271277729
+    },
+    {
+      "epoch": 4,
+      "auc": 0.868428709951688,
+      "average_precision": 0.3867225413506438
+    },
+    {
+      "epoch": 5,
+      "auc": 0.8656143767516838,
+      "average_precision": 0.38608793089056526
+    },
+    {
+      "epoch": 6,
+      "auc": 0.8601490639822537,
+      "average_precision": 0.373683785163691
+    },
+    {
+      "epoch": 7,
+      "auc": 0.8623008662663879,
+      "average_precision": 0.3758615785876991
+    },
+    {
+      "epoch": 8,
+      "auc": 0.8606306504098944,
+      "average_precision": 0.37653610495615963
+    },
+    {
+      "epoch": 9,
+      "auc": 0.8564878218019746,
+      "average_precision": 0.3681649988856593
+    },
+    {
+      "epoch": 10,
+      "auc": 0.856931857844373,
+      "average_precision": 0.34206335286642897
+    },
+    {
+      "epoch": 11,
+      "auc": 0.8571451227344243,
+      "average_precision": 0.36852609399250286
+    },
+    {
+      "epoch": 12,
+      "auc": 0.8538456650304598,
+      "average_precision": 0.3615243212353676
+    },
+    {
+      "epoch": 13,
+      "auc": 0.8526872660005395,
+      "average_precision": 0.34355981902751276
+    },
+    {
+      "epoch": 14,
+      "auc": 0.851154726596272,
+      "average_precision": 0.3489607699610098
+    }
+  ],
+  "feasibility_gate": false,
+  "pipeline_changed": false,
+  "checkpoint_sha256": "ba773b0f32a5e12daca07ccdbf72fe14c54a989a350a18f084f93450323c25a5"
+}

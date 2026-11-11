@@ -1,0 +1,7 @@
+engine,canvas,gpu_compute_mean_ms
+static,96x288,2.16898
+dynamic,96x288,2.77411
+static,320x320,3.38048
+dynamic,320x320,3.86047
+static,640x640,8.76531
+dynamic,640x640,10.1253

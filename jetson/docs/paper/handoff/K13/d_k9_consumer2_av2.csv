@@ -1,0 +1,9 @@
+mask,dataset,consumer,method,G,network_px_mean,agreement_u960,ci_ours_minus,label
+ego mask,"av2 test (150 units, 11818 frames)","TTC warning (warn <= 4 s, brake <= 2 s)",cheap,0.0,0.0258,0.768,"(0.0592, 0.1815)","post-hoc, ego mask"
+ego mask,"av2 test (150 units, 11818 frames)","TTC warning (warn <= 4 s, brake <= 2 s)",u960,0.052000000000000005,0.2323,1.0,"(0.0204, 0.1217)","post-hoc, ego mask"
+ego mask,"av2 test (150 units, 11818 frames)","TTC warning (warn <= 4 s, brake <= 2 s)",ours (TTC field + support),0.12,0.0589,0.8251,,"post-hoc, ego mask"
+ego mask,"av2 test (150 units, 11818 frames)","TTC warning (warn <= 4 s, brake <= 2 s)",uncertainty crops (same px),0.19899999999999998,0.0913,0.8177,"(-0.1313, -0.032)","post-hoc, ego mask"
+unmasked,"av2 test (150 units, 11818 frames)","TTC warning (warn <= 4 s, brake <= 2 s)",cheap,0.0,0.0258,0.7629,"(0.078, 0.1984)","post-hoc, unmasked (pre-K10)"
+unmasked,"av2 test (150 units, 11818 frames)","TTC warning (warn <= 4 s, brake <= 2 s)",u960,0.071,0.2323,1.0,"(0.0213, 0.1217)","post-hoc, unmasked (pre-K10)"
+unmasked,"av2 test (150 units, 11818 frames)","TTC warning (warn <= 4 s, brake <= 2 s)",ours (TTC field + support),0.139,0.0593,0.8249,,"post-hoc, unmasked (pre-K10)"
+unmasked,"av2 test (150 units, 11818 frames)","TTC warning (warn <= 4 s, brake <= 2 s)",uncertainty crops (same px),0.21100000000000002,0.0917,0.8164,"(-0.1235, -0.0252)","post-hoc, unmasked (pre-K10)"

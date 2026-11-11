@@ -1,0 +1,23 @@
+dataset,category,qualifying_frames,qualifying_units
+nusc,K8 spurious_removed,318,114
+nusc,K8 range_corrected,47,10
+nusc,K8 missed_recovered_field,30,13
+nusc,K8 failure,71,37
+nusc,K15 missed recovered,39,15
+nusc,failure: unnecessary action,9,8
+nusc,failure: missed,22,9
+nusc,failure: under-reaction,40,25
+nusc,failure: other,9,7
+av2,K8 spurious_removed,1211,132
+av2,K8 range_corrected,178,46
+av2,K8 missed_recovered_field,97,26
+av2,K8 failure,136,74
+av2,K15 missed recovered,111,32
+av2,failure: unnecessary action,49,36
+av2,failure: missed,4,4
+av2,failure: under-reaction,77,38
+av2,failure: other,25,14
+ahd,failure: unnecessary action,42,15
+ahd,failure: missed,22,5
+ahd,failure: under-reaction,55,10
+ahd,failure: other,52,8

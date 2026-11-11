@@ -1,0 +1,22 @@
+dataset,policy,frames,missed_objects,recovery_rate,agreement_u960,G_on_these_frames
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",full,114,117,0.624,0.667,0.505
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",field_only,114,117,0.479,0.684,0.5539999999999999
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",support_only,114,117,0.19699999999999998,0.40399999999999997,-0.129
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",uncertainty,114,117,0.248,0.447,-0.111
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",temporal_crit,114,117,0.581,0.649,0.49
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",random,114,117,0.19699999999999998,0.465,-0.033
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",u960,114,117,1.0,1.0,0.784
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",full,360,396,0.765,0.75,0.34700000000000003
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",field_only,360,396,0.24,0.606,0.19
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",support_only,360,396,0.364,0.542,0.077
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",uncertainty,360,396,0.49,0.581,0.18
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",temporal_crit,360,396,0.785,0.639,0.244
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",random,360,396,0.396,0.528,0.026000000000000002
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",u960,360,396,1.0,1.0,0.349
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",full,110,111,0.784,0.809,0.695
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",field_only,110,111,0.73,0.7909999999999999,0.7120000000000001
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",support_only,110,111,0.11699999999999999,0.527,-0.027999999999999997
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",uncertainty,110,111,0.27899999999999997,0.573,0.005
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",temporal_crit,110,111,0.604,0.809,0.633
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",random,110,111,0.207,0.609,0.228
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",u960,110,111,1.0,1.0,0.777

@@ -1,0 +1,5 @@
+check,cases,mismatches,scope
+columns_and_postprocess,80,0,CPU synthetic tensors; device parity pending
+existing_crop_bank_history,8,0,CPU crop cache; no encoder or TTC reuse tested
+existing_NMS_stable_ties,2,0,CPU synthetic; frozen implementation unchanged
+existing_ROI_first_crop,285,0,"CPU pixels; existing K29 optimization, not new"

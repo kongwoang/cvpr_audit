@@ -1,0 +1,128 @@
+{
+  "status": "timing_complete",
+  "pid": 336979,
+  "runs": [
+    {
+      "dataset": "nusc_val",
+      "runtime": "reference",
+      "rep": 1,
+      "smoke": true,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_132221_runtime_reference_timing_nusc_val_v6S_smoke_reference"
+    },
+    {
+      "dataset": "nusc_val",
+      "runtime": "staged",
+      "rep": 1,
+      "smoke": true,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_132250_runtime_staged_timing_nusc_val_v6S_smoke_staged"
+    },
+    {
+      "dataset": "av2_dev",
+      "runtime": "reference",
+      "rep": 1,
+      "smoke": true,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_132320_runtime_reference_timing_av2_dev_v6S_smoke_reference"
+    },
+    {
+      "dataset": "av2_dev",
+      "runtime": "staged",
+      "rep": 1,
+      "smoke": true,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_132403_runtime_staged_timing_av2_dev_v6S_smoke_staged"
+    },
+    {
+      "dataset": "nusc_val",
+      "runtime": "reference",
+      "rep": 1,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_132447_runtime_reference_timing_nusc_val_v6S_r1_reference"
+    },
+    {
+      "dataset": "nusc_val",
+      "runtime": "staged",
+      "rep": 1,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_132612_runtime_staged_timing_nusc_val_v6S_r1_staged"
+    },
+    {
+      "dataset": "av2_dev",
+      "runtime": "reference",
+      "rep": 1,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_132738_runtime_reference_timing_av2_dev_v6S_r1_reference"
+    },
+    {
+      "dataset": "av2_dev",
+      "runtime": "staged",
+      "rep": 1,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_133019_runtime_staged_timing_av2_dev_v6S_r1_staged"
+    },
+    {
+      "dataset": "nusc_val",
+      "runtime": "staged",
+      "rep": 2,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_133301_runtime_staged_timing_nusc_val_v6S_r2_staged"
+    },
+    {
+      "dataset": "nusc_val",
+      "runtime": "reference",
+      "rep": 2,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_133424_runtime_reference_timing_nusc_val_v6S_r2_reference"
+    },
+    {
+      "dataset": "av2_dev",
+      "runtime": "staged",
+      "rep": 2,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_133549_runtime_staged_timing_av2_dev_v6S_r2_staged"
+    },
+    {
+      "dataset": "av2_dev",
+      "runtime": "reference",
+      "rep": 2,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_133829_runtime_reference_timing_av2_dev_v6S_r2_reference"
+    },
+    {
+      "dataset": "nusc_val",
+      "runtime": "reference",
+      "rep": 3,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_134111_runtime_reference_timing_nusc_val_v6S_r3_reference"
+    },
+    {
+      "dataset": "nusc_val",
+      "runtime": "staged",
+      "rep": 3,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_134235_runtime_staged_timing_nusc_val_v6S_r3_staged"
+    },
+    {
+      "dataset": "av2_dev",
+      "runtime": "reference",
+      "rep": 3,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_134400_runtime_reference_timing_av2_dev_v6S_r3_reference"
+    },
+    {
+      "dataset": "av2_dev",
+      "runtime": "staged",
+      "rep": 3,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_134640_runtime_staged_timing_av2_dev_v6S_r3_staged"
+    }
+  ],
+  "started": "2026-10-23T13:21:40.674067+07:00",
+  "updated": "2026-10-23T13:49:19.896576+07:00",
+  "child_pid": 340203,
+  "current_log": "av2_dev_r3_compare.log",
+  "dataset": "av2_dev",
+  "runtime": "staged",
+  "rep": 3,
+  "source_engine_hashes_unchanged": true,
+  "window_released": true,
+  "restore_errors": []
+}

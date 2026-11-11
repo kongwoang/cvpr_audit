@@ -1,0 +1,8 @@
+{
+  "dataset": "nusc_val",
+  "reference": "results/raw/20261025_133946_k35_gate_reference_original_timing_nusc_val_v6S_dry_reference",
+  "staged": [
+    "results/raw/20261025_133916_k35_gate_staged_fast_timing_nusc_val_v6S_dry_staged"
+  ],
+  "action_diff_timed_total": 0
+}

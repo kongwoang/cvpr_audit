@@ -1,0 +1,1153 @@
+dataset,deadline_ms,desp,row,statistic,desp_minus_row,ci_lo,ci_hi,excludes_0
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),u512 + comp.,G,-0.5555565017796994,-1.325442226134086,-0.035881114924794254,True
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),u512 + comp.,missed_rate,0.11111111111111105,0.0,0.3056089743589741,False
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),u512 + comp.,false_per_1000,0.0,-3.712871287128713,3.7406483790523692,False
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),u512 + comp.,late_share,0.14575569358178056,0.07378503445505392,0.22800549606367174,True
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),u640 + comp.,G,-0.5498422627177874,-1.3376578896500184,-0.009097520397865882,True
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),u640 + comp.,missed_rate,0.11111111111111105,0.0,0.3056089743589741,False
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),u640 + comp.,false_per_1000,-2.4844720496894412,-7.444399919855741,2.4906600249066004,False
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),u640 + comp.,late_share,0.14244306418219463,0.06882041655078644,0.22570393374741185,True
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),u800 + comp. (dyn),G,-0.6184844892167772,-1.5185482749691719,-0.029055287395697744,True
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),u800 + comp. (dyn),missed_rate,0.11111111111111105,0.0,0.3056089743589741,False
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),u800 + comp. (dyn),false_per_1000,1.2422360248447204,0.0,3.7548109949466904,False
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),u800 + comp. (dyn),late_share,0.1308488612836439,0.05589888722777924,0.21562608830845753,True
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),u960 + comp.,G,-0.6274222063235757,-1.4900840447068895,-0.03602741277605133,True
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),u960 + comp.,missed_rate,0.11111111111111105,0.0,0.3056089743589741,False
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),u960 + comp.,false_per_1000,-1.2422360248447204,-4.968944099378882,2.5031289111389237,False
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),u960 + comp.,late_share,0.12712215320910975,0.04897239774713139,0.21408237391407092,True
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),u1280 + comp.,G,-0.6379762330271836,-1.5359969181212314,-0.046202424334676,True
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),u1280 + comp.,missed_rate,0.06666666666666665,-0.10256410256410264,0.35714285714285715,False
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),u1280 + comp.,false_per_1000,0.0,-3.7037037037037037,3.745318352059925,False
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),u1280 + comp.,late_share,0.060869565217391314,-0.020323529502425917,0.15091405595783455,False
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),native + comp.,G,7.819733642431389,0.0680355716101207,14.614499336556909,True
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),native + comp.,missed_rate,-0.48888888888888893,-0.8224999999999999,-0.25,True
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),native + comp.,false_per_1000,1.2422360248447204,0.0,3.7548109949466904,False
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),native + comp.,late_share,-0.4198757763975155,-0.5262588958211658,-0.31169376990691605,True
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),"u960 + comp. (dyn engine, control)",G,-0.6356920894545732,-1.4923166503807075,-0.05123113686706136,True
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),"u960 + comp. (dyn engine, control)",missed_rate,0.11111111111111105,0.0,0.3056089743589741,False
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),"u960 + comp. (dyn engine, control)",false_per_1000,-1.2422360248447204,-4.968944099378882,2.5031289111389237,False
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),"u960 + comp. (dyn engine, control)",late_share,0.11759834368530023,0.03657681772113767,0.20655331297794408,True
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),hybrid tsp8 + comp. @ DESP px,G,0.07555940473081635,-0.07011829557983525,0.3362525117925681,False
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),hybrid tsp8 + comp. @ DESP px,missed_rate,-0.2222222222222222,-0.4444444444444445,0.0,False
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),hybrid tsp8 + comp. @ DESP px,false_per_1000,1.2422360248447204,0.0,3.7548109949466904,False
+nusc_test20,33.3,DESP v6-S@33.3 (in-loop),hybrid tsp8 + comp. @ DESP px,late_share,-0.07412008281573498,-0.11290655275204937,-0.036527411441050525,True
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),u512 + comp.,G,-0.061374855588721244,-0.24346883679044035,0.037078155343839195,False
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),u512 + comp.,missed_rate,0.1333333333333333,0.030303030303030304,0.23809523809523808,True
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),u512 + comp.,false_per_1000,-1.2422360248447204,-3.7359900373599,0.0,False
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),u512 + comp.,late_share,0.12712215320910975,0.055478477518483,0.21077363955657147,True
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),u640 + comp.,G,-0.0556606165268092,-0.23925878809648565,0.04534395331637752,False
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),u640 + comp.,missed_rate,0.1333333333333333,0.030303030303030304,0.23809523809523808,True
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),u640 + comp.,false_per_1000,-3.7267080745341614,-7.481530256755116,0.0,False
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),u640 + comp.,late_share,0.12380952380952381,0.04927536231884058,0.20993788819875775,True
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),u800 + comp. (dyn),G,-0.12430284302579908,-0.2789812045127247,-0.005724509366745149,True
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),u800 + comp. (dyn),missed_rate,0.1333333333333333,0.030303030303030304,0.23809523809523808,True
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),u800 + comp. (dyn),false_per_1000,0.0,0.0,0.0,False
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),u800 + comp. (dyn),late_share,0.1122153209109731,0.037246376811594206,0.19611318407960193,True
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),u960 + comp.,G,-0.13324056013259755,-0.33537494810237617,-0.023635304431126835,True
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),u960 + comp.,missed_rate,0.1333333333333333,0.030303030303030304,0.23809523809523808,True
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),u960 + comp.,false_per_1000,-2.484472049689441,-6.188118811881188,0.0,False
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),u960 + comp.,late_share,0.10848861283643893,0.03141867614180773,0.193729308846104,True
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),u1280 + comp.,G,-0.1437945868362055,-0.26894301488404715,-0.046764608790442766,True
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),u1280 + comp.,missed_rate,0.0888888888888889,-0.07692307692307693,0.29166666666666663,False
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),u1280 + comp.,false_per_1000,-1.2422360248447204,-3.7267080745341614,0.0,False
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),u1280 + comp.,late_share,0.0422360248447205,-0.03764949186174348,0.13393449419568815,False
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),native + comp.,G,8.313915288622367,0.28782082111021434,14.754730417113544,True
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),native + comp.,missed_rate,-0.4666666666666667,-0.862843137254902,-0.20829741379310368,True
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),native + comp.,false_per_1000,0.0,0.0,0.0,False
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),native + comp.,late_share,-0.43850931677018634,-0.5430587841591384,-0.3320866307383571,True
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),"u960 + comp. (dyn engine, control)",G,-0.14151044326359508,-0.3064847354315808,-0.04646227437975845,True
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),"u960 + comp. (dyn engine, control)",missed_rate,0.1333333333333333,0.030303030303030304,0.23809523809523808,True
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),"u960 + comp. (dyn engine, control)",false_per_1000,-2.484472049689441,-6.188118811881188,0.0,False
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),"u960 + comp. (dyn engine, control)",late_share,0.09896480331262941,0.020644817066113597,0.1879930462628497,True
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),hybrid tsp8 + comp. @ DESP px,G,0.5697410509217945,-0.012703460136213603,1.3979204601951143,False
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),hybrid tsp8 + comp. @ DESP px,missed_rate,-0.19999999999999996,-0.46666666666666673,0.0,False
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),hybrid tsp8 + comp. @ DESP px,false_per_1000,0.0,0.0,0.0,False
+nusc_test20,33.3,DESP B2K-A@33.3 (in-loop),hybrid tsp8 + comp. @ DESP px,late_share,-0.0927536231884058,-0.14410835144605244,-0.049031726411207247,True
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u512 + comp.,G,0.08595871873258987,-0.004393401034676647,0.20192802189743186,False
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u512 + comp.,missed_rate,0.06666666666666665,0.0,0.2142857142857143,False
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u512 + comp.,false_per_1000,1.2422360248447204,-2.487562189054726,5.006257822277847,False
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u512 + comp.,late_share,0.03146997929606626,-0.0028878782394968125,0.07574759218470704,False
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u640 + comp.,G,0.09167295779450191,0.005847422270344058,0.19707897262077634,True
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u640 + comp.,missed_rate,0.06666666666666665,0.0,0.2142857142857143,False
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u640 + comp.,false_per_1000,-1.2422360248447206,-6.22684415983702,3.75,False
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u640 + comp.,late_share,0.028157349896480333,-0.009129952831639084,0.07412238754467826,False
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u800 + comp. (dyn),G,0.02303073129551203,-0.018665501295724217,0.11585757897742223,False
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u800 + comp. (dyn),missed_rate,0.06666666666666665,0.0,0.2142857142857143,False
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u800 + comp. (dyn),false_per_1000,2.484472049689441,0.0,6.242197253433209,False
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u800 + comp. (dyn),late_share,0.01656314699792961,-0.02269117653080445,0.06352858973466469,False
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u960 + comp.,G,0.01409301418871356,-0.05738486890896353,0.057921278811138455,False
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u960 + comp.,missed_rate,0.06666666666666665,0.0,0.2142857142857143,False
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u960 + comp.,false_per_1000,0.0,-4.944375772558715,4.9937578027465666,False
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u960 + comp.,late_share,0.012836438923395449,-0.02933521274754428,0.062374795077235666,False
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u1280 + comp.,G,0.0035389874851056158,-0.023806887481600987,0.05402060370731396,False
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u1280 + comp.,missed_rate,0.022222222222222254,-0.10256410256410253,0.2224358974358963,False
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u1280 + comp.,false_per_1000,1.2422360248447204,-2.484472049689441,6.211180124223603,False
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u1280 + comp.,late_share,-0.05341614906832298,-0.10247788833609729,-0.010729357882793604,True
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),native + comp.,G,8.461248862943679,0.43605589911506437,14.888503361434575,True
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),native + comp.,missed_rate,-0.5333333333333333,-0.8888888888888888,-0.2941176470588235,True
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),native + comp.,false_per_1000,2.484472049689441,0.0,6.242197253433209,False
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),native + comp.,late_share,-0.5341614906832298,-0.6459962325369372,-0.42006171127016717,True
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),"u960 + comp. (dyn engine, control)",G,0.0058231310577160356,-0.028573606458328675,0.03454352997296544,False
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),"u960 + comp. (dyn engine, control)",missed_rate,0.06666666666666665,0.0,0.2142857142857143,False
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),"u960 + comp. (dyn engine, control)",false_per_1000,0.0,-4.944375772558715,4.9937578027465666,False
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),"u960 + comp. (dyn engine, control)",late_share,0.0033126293995859243,-0.0434270181351308,0.05631469979296066,False
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),hybrid tsp8 + comp. @ DESP px,G,0.7170746252431056,0.07394048042482168,1.5918698706147416,True
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),hybrid tsp8 + comp. @ DESP px,missed_rate,-0.2666666666666666,-0.5,-0.08333333333333326,True
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),hybrid tsp8 + comp. @ DESP px,false_per_1000,2.484472049689441,0.0,6.242197253433209,False
+nusc_test20,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),hybrid tsp8 + comp. @ DESP px,late_share,-0.18840579710144928,-0.2853105590062112,-0.10424005495793147,True
+nusc_test20,50.0,DESP v6-S@50 (in-loop),u512 + comp.,G,0.01830849064219031,-0.1421039172043805,0.1188343548059116,False
+nusc_test20,50.0,DESP v6-S@50 (in-loop),u512 + comp.,missed_rate,0.06666666666666665,0.0,0.25,False
+nusc_test20,50.0,DESP v6-S@50 (in-loop),u512 + comp.,false_per_1000,0.0,-3.712871287128713,3.7406483790523692,False
+nusc_test20,50.0,DESP v6-S@50 (in-loop),u512 + comp.,late_share,0.050103519668737065,0.011157254712680665,0.09689742282376934,True
+nusc_test20,50.0,DESP v6-S@50 (in-loop),u640 + comp.,G,0.02402272970410213,-0.13852724000812947,0.12096129588297981,False
+nusc_test20,50.0,DESP v6-S@50 (in-loop),u640 + comp.,missed_rate,0.06666666666666665,0.0,0.25,False
+nusc_test20,50.0,DESP v6-S@50 (in-loop),u640 + comp.,false_per_1000,-2.4844720496894412,-7.444399919855741,2.4906600249066004,False
+nusc_test20,50.0,DESP v6-S@50 (in-loop),u640 + comp.,late_share,0.050103519668737065,0.011157254712680665,0.09689742282376934,True
+nusc_test20,50.0,DESP v6-S@50 (in-loop),u800 + comp. (dyn),G,-0.014594838428022783,-0.09795840760272008,0.08723793249259543,False
+nusc_test20,50.0,DESP v6-S@50 (in-loop),u800 + comp. (dyn),missed_rate,0.06666666666666665,0.0,0.25,False
+nusc_test20,50.0,DESP v6-S@50 (in-loop),u800 + comp. (dyn),false_per_1000,-1.2422360248447204,-6.165418398258514,2.5032073299644604,False
+nusc_test20,50.0,DESP v6-S@50 (in-loop),u800 + comp. (dyn),late_share,0.04927536231884058,0.009848379629629629,0.09607824587795272,True
+nusc_test20,50.0,DESP v6-S@50 (in-loop),u960 + comp.,G,-0.0321708569670629,-0.17461541783159323,0.0495651533355407,False
+nusc_test20,50.0,DESP v6-S@50 (in-loop),u960 + comp.,missed_rate,0.06666666666666665,0.0,0.25,False
+nusc_test20,50.0,DESP v6-S@50 (in-loop),u960 + comp.,false_per_1000,-3.7267080745341614,-11.11111111111111,2.487562189054726,False
+nusc_test20,50.0,DESP v6-S@50 (in-loop),u960 + comp.,late_share,0.0484472049689441,0.008664031535478952,0.09607062683917376,True
+nusc_test20,50.0,DESP v6-S@50 (in-loop),u1280 + comp.,G,-0.05576803108431516,-0.20284083687619925,0.11084932528914693,False
+nusc_test20,50.0,DESP v6-S@50 (in-loop),u1280 + comp.,missed_rate,0.13333333333333336,0.0,0.38461538461538464,False
+nusc_test20,50.0,DESP v6-S@50 (in-loop),u1280 + comp.,false_per_1000,-2.4844720496894412,-8.695922561107505,2.5,False
+nusc_test20,50.0,DESP v6-S@50 (in-loop),u1280 + comp.,late_share,0.048033126293995865,0.009848379629629629,0.09405227666160791,True
+nusc_test20,50.0,DESP v6-S@50 (in-loop),native + comp.,G,-0.00974468688548702,-0.26161593339507616,0.18747657155711742,False
+nusc_test20,50.0,DESP v6-S@50 (in-loop),native + comp.,missed_rate,0.06666666666666665,0.0,0.25,False
+nusc_test20,50.0,DESP v6-S@50 (in-loop),native + comp.,false_per_1000,0.0,-3.7037037037037037,3.745318352059925,False
+nusc_test20,50.0,DESP v6-S@50 (in-loop),native + comp.,late_share,0.0443064182194617,0.004543296219880743,0.09322138578333743,True
+nusc_test20,50.0,DESP v6-S@50 (in-loop),"u960 + comp. (dyn engine, control)",G,-0.03078070223385887,-0.17333575157600142,0.05648742084365522,False
+nusc_test20,50.0,DESP v6-S@50 (in-loop),"u960 + comp. (dyn engine, control)",missed_rate,0.06666666666666665,0.0,0.25,False
+nusc_test20,50.0,DESP v6-S@50 (in-loop),"u960 + comp. (dyn engine, control)",false_per_1000,-3.7267080745341614,-11.11111111111111,2.487562189054726,False
+nusc_test20,50.0,DESP v6-S@50 (in-loop),"u960 + comp. (dyn engine, control)",late_share,0.04886128364389234,0.009848379629629629,0.09554042387968456,True
+nusc_test20,50.0,DESP v6-S@50 (in-loop),hybrid tsp8 + comp. @ DESP px,G,0.2010412704063962,0.008141940962975528,0.768478153487441,True
+nusc_test20,50.0,DESP v6-S@50 (in-loop),hybrid tsp8 + comp. @ DESP px,missed_rate,-0.19999999999999996,-0.49999999999999994,0.0,False
+nusc_test20,50.0,DESP v6-S@50 (in-loop),hybrid tsp8 + comp. @ DESP px,false_per_1000,0.0,-3.712871287128713,3.7406483790523692,False
+nusc_test20,50.0,DESP v6-S@50 (in-loop),hybrid tsp8 + comp. @ DESP px,late_share,-0.07743271221532091,-0.12185701841559622,-0.03895905089934948,True
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),u512 + comp.,G,0.04676553991802468,-0.026596108673215015,0.12138516587440108,False
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),u512 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),u512 + comp.,false_per_1000,0.0,-3.712871287128713,3.7406483790523692,False
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),u512 + comp.,late_share,0.03354037267080746,0.00740735188909183,0.06733799106738782,True
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),u640 + comp.,G,0.0524797789799365,-0.026646011153711822,0.1279175214919162,False
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),u640 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),u640 + comp.,false_per_1000,-2.4844720496894412,-7.444399919855741,2.4906600249066004,False
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),u640 + comp.,late_share,0.03354037267080746,0.00740735188909183,0.06733799106738782,True
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),u800 + comp. (dyn),G,0.013862210847811585,-0.07100648341733248,0.15898122227610825,False
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),u800 + comp. (dyn),missed_rate,0.0,0.0,0.0,False
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),u800 + comp. (dyn),false_per_1000,-1.2422360248447204,-6.165418398258514,2.5032073299644604,False
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),u800 + comp. (dyn),late_share,0.032712215320910974,0.005804131516331386,0.06683383128149703,True
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),u960 + comp.,G,-0.0037138076912285323,-0.07231589333365472,0.05853123579685918,False
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),u960 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),u960 + comp.,false_per_1000,-3.7267080745341614,-11.11111111111111,2.487562189054726,False
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),u960 + comp.,late_share,0.03188405797101449,0.004543436453310758,0.0660106953623402,True
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),u1280 + comp.,G,-0.027310981808480794,-0.14012651525641226,0.1381257510771659,False
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),u1280 + comp.,missed_rate,0.06666666666666671,0.0,0.23536414565826294,False
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),u1280 + comp.,false_per_1000,-2.4844720496894412,-8.695922561107505,2.5,False
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),u1280 + comp.,late_share,0.03146997929606626,0.005402990551847861,0.06525983962151004,True
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),native + comp.,G,0.018712362390347348,-0.19914197990616328,0.20433371653809443,False
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),native + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),native + comp.,false_per_1000,0.0,-3.7037037037037037,3.745318352059925,False
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),native + comp.,late_share,0.02774327122153209,0.0,0.0630345463692771,False
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),"u960 + comp. (dyn engine, control)",G,-0.0023236529580245024,-0.05193557276514157,0.060235887705360015,False
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),"u960 + comp. (dyn engine, control)",missed_rate,0.0,0.0,0.0,False
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),"u960 + comp. (dyn engine, control)",false_per_1000,-3.7267080745341614,-11.11111111111111,2.487562189054726,False
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),"u960 + comp. (dyn engine, control)",late_share,0.03229813664596273,0.005782555486031874,0.06610560852156507,True
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),hybrid tsp8 + comp. @ DESP px,G,0.22949831968223056,0.014888053646718103,0.7651162020930264,True
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),hybrid tsp8 + comp. @ DESP px,missed_rate,-0.2666666666666666,-0.550138888888889,0.0,False
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),hybrid tsp8 + comp. @ DESP px,false_per_1000,0.0,-3.712871287128713,3.7406483790523692,False
+nusc_test20,50.0,DESP B2K-A@50 (in-loop),hybrid tsp8 + comp. @ DESP px,late_share,-0.09399585921325052,-0.16317766514805218,-0.039527784747973256,True
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u512 + comp.,G,0.06382222945932736,-0.029027350080684956,0.17079523404517705,False
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u512 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u512 + comp.,false_per_1000,3.7267080745341614,0.0,7.5,False
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u512 + comp.,late_share,-0.0004140786749482401,-0.004962779156327543,0.0037174721189591076,False
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u640 + comp.,G,0.06953646852123918,-0.008198502244919472,0.1623741816468275,False
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u640 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u640 + comp.,false_per_1000,1.2422360248447202,-2.493843418918372,6.195786864931846,False
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u640 + comp.,late_share,-0.0004140786749482401,-0.004962779156327543,0.0037174721189591076,False
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u800 + comp. (dyn),G,0.030918900389114268,-0.01764128918979582,0.13720172712233017,False
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u800 + comp. (dyn),missed_rate,0.0,0.0,0.0,False
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u800 + comp. (dyn),false_per_1000,2.484472049689441,0.0,6.242197253433208,False
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u800 + comp. (dyn),late_share,-0.0012422360248447205,-0.007444168734491315,0.0037174721189591076,False
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u960 + comp.,G,0.01334288185007415,-0.03944746030908516,0.04593160040526306,False
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u960 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u960 + comp.,false_per_1000,0.0,-4.944375772558715,4.9937578027465666,False
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u960 + comp.,late_share,-0.002070393374741201,-0.009937888198757764,0.0037174721189591076,False
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u1280 + comp.,G,-0.010254292267178111,-0.10322514366643891,0.12202216746613796,False
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u1280 + comp.,missed_rate,0.06666666666666671,0.0,0.23536414565826294,False
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u1280 + comp.,false_per_1000,1.2422360248447202,-6.226650062266501,8.663366336633663,False
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u1280 + comp.,late_share,-0.0024844720496894407,-0.008695922561107506,0.0024875621890547263,False
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),native + comp.,G,0.03576905193165003,-0.14993213995369598,0.20258242770492102,False
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),native + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),native + comp.,false_per_1000,3.7267080745341614,-1.2406947890818858,8.739076154806492,False
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),native + comp.,late_share,-0.006211180124223602,-0.014009064688916358,0.00041307811309427596,False
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),"u960 + comp. (dyn engine, control)",G,0.01473303658327818,-0.01372216387891892,0.03851653697142941,False
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),"u960 + comp. (dyn engine, control)",missed_rate,0.0,0.0,0.0,False
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),"u960 + comp. (dyn engine, control)",false_per_1000,0.0,-4.944375772558715,4.9937578027465666,False
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),"u960 + comp. (dyn engine, control)",late_share,-0.0016563146997929607,-0.007857733664185277,0.0033003300330033004,False
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),hybrid tsp8 + comp. @ DESP px,G,0.24655500922353324,0.006747247866649053,0.7979356739787599,True
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),hybrid tsp8 + comp. @ DESP px,missed_rate,-0.2666666666666666,-0.550138888888889,0.0,False
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),hybrid tsp8 + comp. @ DESP px,false_per_1000,3.7267080745341614,0.0,7.5,False
+nusc_test20,50.0,DESP B1K-A (post-hoc)@50 (in-loop),hybrid tsp8 + comp. @ DESP px,late_share,-0.12795031055900621,-0.20849043622730443,-0.05890347592067564,True
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),u512 + comp.,G,0.041931977948264976,-0.05207877478726635,0.12303356793930759,False
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),u512 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),u512 + comp.,false_per_1000,1.2422360248447204,-2.4906600249066,5.006257822277847,False
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),u512 + comp.,late_share,0.011180124223602483,0.0,0.02525879917184265,False
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),u640 + comp.,G,0.047646217010176795,-0.0037810610539984386,0.10591482240281902,False
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),u640 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),u640 + comp.,false_per_1000,-1.2422360248447206,-5.034852914236275,2.4968789013732833,False
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),u640 + comp.,late_share,0.011180124223602483,0.0,0.02525879917184265,False
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),u800 + comp. (dyn),G,0.009028648878051881,-0.07036000553757647,0.14051010814421916,False
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),u800 + comp. (dyn),missed_rate,0.0,0.0,0.0,False
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),u800 + comp. (dyn),false_per_1000,0.0,-3.712871287128713,3.7406483790523692,False
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),u800 + comp. (dyn),late_share,0.012422360248447204,0.0012452912895051518,0.025990904155471305,True
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),u960 + comp.,G,-0.008547369660988235,-0.056013228882476465,0.04263621818745699,False
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),u960 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),u960 + comp.,false_per_1000,-2.484472049689441,-7.425742574257425,2.493765586034913,False
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),u960 + comp.,late_share,0.012422360248447204,0.0012452912895051518,0.025990904155471305,True
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),u1280 + comp.,G,-0.016798894645333684,-0.11043704990376595,0.1410489134204134,False
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),u1280 + comp.,missed_rate,0.06666666666666671,0.0,0.23536414565826294,False
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),u1280 + comp.,false_per_1000,-2.484472049689441,-9.88875154511743,3.7407651283775576,False
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),u1280 + comp.,late_share,0.011180124223602483,0.0,0.02525879917184265,False
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),native + comp.,G,0.013878800420587645,-0.20004591326732946,0.1981867703113985,False
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),native + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),native + comp.,false_per_1000,1.2422360248447204,-2.4845493031735733,6.188118811881188,False
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),native + comp.,late_share,0.012422360248447204,0.0012452912895051518,0.025990904155471305,True
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),"u960 + comp. (dyn engine, control)",G,-0.002041998550148527,-0.046989301760072176,0.05453500402713826,False
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),"u960 + comp. (dyn engine, control)",missed_rate,0.0,0.0,0.0,False
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),"u960 + comp. (dyn engine, control)",false_per_1000,-2.484472049689441,-7.425742574257425,2.493765586034913,False
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),"u960 + comp. (dyn engine, control)",late_share,0.012422360248447204,0.0012452912895051518,0.025990904155471305,True
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),hybrid tsp8 + comp. @ DESP px,G,0.18135395115000108,-0.02625385501255864,0.6629278204746563,False
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),hybrid tsp8 + comp. @ DESP px,missed_rate,-0.1333333333333333,-0.3571428571428571,0.0,False
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),hybrid tsp8 + comp. @ DESP px,false_per_1000,1.2422360248447204,-2.4906600249066,5.006257822277847,False
+nusc_test20,66.7,DESP v6-S@66.7 (in-loop),hybrid tsp8 + comp. @ DESP px,late_share,-0.05714285714285715,-0.10394150179016089,-0.017827529021558874,True
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),u512 + comp.,G,0.055223026317989254,-0.016320565411015585,0.12720275464119923,False
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),u512 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),u512 + comp.,false_per_1000,2.4844720496894412,0.0,6.226650062266501,False
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),u512 + comp.,late_share,0.0016563146997929607,-0.0024813895781637717,0.005826232833957552,False
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),u640 + comp.,G,0.06093726537990107,0.00940281974489664,0.11541708440220576,True
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),u640 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),u640 + comp.,false_per_1000,0.0,-3.7314594524265354,3.7406483790523692,False
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),u640 + comp.,late_share,0.0016563146997929607,-0.0024813895781637717,0.005826232833957552,False
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),u800 + comp. (dyn),G,0.02231969724777616,-0.06755719038390748,0.16903436591600482,False
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),u800 + comp. (dyn),missed_rate,0.0,0.0,0.0,False
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),u800 + comp. (dyn),false_per_1000,1.2422360248447206,0.0,3.7548109949466904,False
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),u800 + comp. (dyn),late_share,0.002898550724637681,0.0,0.006609044311406704,False
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),u960 + comp.,G,0.004743678708736043,-0.027358864920318665,0.05665820467078137,False
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),u960 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),u960 + comp.,false_per_1000,-1.2422360248447202,-4.9689440993788825,2.5031289111389237,False
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),u960 + comp.,late_share,0.002898550724637681,0.0,0.006609044311406704,False
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),u1280 + comp.,G,-0.0035078462756094053,-0.09843469605369995,0.16829080010228145,False
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),u1280 + comp.,missed_rate,0.06666666666666671,0.0,0.23536414565826294,False
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),u1280 + comp.,false_per_1000,-1.2422360248447202,-7.481530256755116,4.956629491945477,False
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),u1280 + comp.,late_share,0.0016563146997929607,-0.0024813895781637717,0.005826232833957552,False
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),native + comp.,G,0.027169848790311923,-0.18564457219758912,0.2051838596950039,False
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),native + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),native + comp.,false_per_1000,2.4844720496894412,-2.4721878862793574,7.4719800747198,False
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),native + comp.,late_share,0.002898550724637681,0.0,0.006609044311406704,False
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),"u960 + comp. (dyn engine, control)",G,0.011249049819575752,-0.03584148817935756,0.08259742078042001,False
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),"u960 + comp. (dyn engine, control)",missed_rate,0.0,0.0,0.0,False
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),"u960 + comp. (dyn engine, control)",false_per_1000,-1.2422360248447202,-4.9689440993788825,2.5031289111389237,False
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),"u960 + comp. (dyn engine, control)",late_share,0.002898550724637681,0.0,0.006609044311406704,False
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),hybrid tsp8 + comp. @ DESP px,G,0.19464499951972536,-0.01138043765048615,0.703244988598532,False
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),hybrid tsp8 + comp. @ DESP px,missed_rate,-0.1333333333333333,-0.3571428571428571,0.0,False
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),hybrid tsp8 + comp. @ DESP px,false_per_1000,2.4844720496894412,0.0,6.226650062266501,False
+nusc_test20,66.7,DESP B2K-A@66.7 (in-loop),hybrid tsp8 + comp. @ DESP px,late_share,-0.06666666666666667,-0.12469478789667836,-0.019430181359322393,True
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u512 + comp.,G,0.05504295680736537,-0.06038324569916472,0.16739726410740063,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u512 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u512 + comp.,false_per_1000,3.7267080745341614,0.0,7.5,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u512 + comp.,late_share,-0.0012422360248447205,-0.0037313432835820895,0.0,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u640 + comp.,G,0.06075719586927719,-0.014123060526017764,0.15630513279842986,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u640 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u640 + comp.,false_per_1000,1.2422360248447202,-2.493843418918372,6.195786864931846,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u640 + comp.,late_share,-0.0012422360248447205,-0.0037313432835820895,0.0,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u800 + comp. (dyn),G,0.02213962773715228,-0.022871272522330767,0.12316327249100933,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u800 + comp. (dyn),missed_rate,0.0,0.0,0.0,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u800 + comp. (dyn),false_per_1000,2.484472049689441,0.0,6.242197253433208,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u800 + comp. (dyn),late_share,0.0,0.0,0.0,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u960 + comp.,G,0.004563609198112162,-0.062490068931945114,0.043452053822196315,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u960 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u960 + comp.,false_per_1000,0.0,-4.944375772558715,4.9937578027465666,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u960 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u1280 + comp.,G,-0.0036879157862332868,-0.07970171764562604,0.12873053407320045,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u1280 + comp.,missed_rate,0.06666666666666671,0.0,0.23536414565826294,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u1280 + comp.,false_per_1000,0.0,-7.444168734491314,6.234413965087281,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u1280 + comp.,late_share,-0.0012422360248447205,-0.0037313432835820895,0.0,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),native + comp.,G,0.026989779279688042,-0.1679962294408135,0.19843253201195246,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),native + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),native + comp.,false_per_1000,3.7267080745341614,-1.2406947890818858,8.739076154806492,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),native + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),"u960 + comp. (dyn engine, control)",G,0.01106898030895187,-0.02808225465357708,0.03868139420044986,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),"u960 + comp. (dyn engine, control)",missed_rate,0.0,0.0,0.0,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),"u960 + comp. (dyn engine, control)",false_per_1000,0.0,-4.944375772558715,4.9937578027465666,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),"u960 + comp. (dyn engine, control)",late_share,0.0,0.0,0.0,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),hybrid tsp8 + comp. @ DESP px,G,0.19446493000910148,-0.02499779475603013,0.6476304669359031,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),hybrid tsp8 + comp. @ DESP px,missed_rate,-0.1333333333333333,-0.3571428571428571,0.0,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),hybrid tsp8 + comp. @ DESP px,false_per_1000,3.7267080745341614,0.0,7.5,False
+nusc_test20,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),hybrid tsp8 + comp. @ DESP px,late_share,-0.06956521739130435,-0.1273828487986194,-0.02111801242236025,True
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),u512 + comp.,G,0.03829032538824595,-0.05207877478726635,0.11524185157558434,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),u512 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),u512 + comp.,false_per_1000,1.2422360248447204,-2.4906600249066,5.006257822277847,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),u512 + comp.,late_share,0.002898550724637681,-0.0024813895781637717,0.009535655058043118,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),u640 + comp.,G,0.04400456445015777,-0.0037810610539984386,0.09700876280020887,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),u640 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),u640 + comp.,false_per_1000,-1.2422360248447206,-5.034852914236275,2.4968789013732833,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),u640 + comp.,late_share,0.004140786749482402,0.0,0.010313531353135313,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),u800 + comp. (dyn),G,0.005386996318032855,-0.07824915448264705,0.13805802842042098,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),u800 + comp. (dyn),missed_rate,0.0,0.0,0.0,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),u800 + comp. (dyn),false_per_1000,0.0,-3.712871287128713,3.7406483790523692,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),u800 + comp. (dyn),late_share,0.004140786749482402,0.0,0.010313531353135313,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),u960 + comp.,G,-0.012189022221007262,-0.06094122984891753,0.04233108487876441,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),u960 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),u960 + comp.,false_per_1000,-2.484472049689441,-7.425742574257425,2.493765586034913,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),u960 + comp.,late_share,0.004140786749482402,0.0,0.010313531353135313,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),u1280 + comp.,G,-0.02044054720535271,-0.11926204130464316,0.1410489134204134,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),u1280 + comp.,missed_rate,0.06666666666666671,0.0,0.23536414565826294,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),u1280 + comp.,false_per_1000,-2.484472049689441,-9.88875154511743,3.7407651283775576,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),u1280 + comp.,late_share,0.004140786749482402,0.0,0.010313531353135313,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),native + comp.,G,0.010237147860568618,-0.20902775390824932,0.1976556363364076,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),native + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),native + comp.,false_per_1000,1.2422360248447204,-2.4845493031735733,6.188118811881188,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),native + comp.,late_share,0.004140786749482402,0.0,0.010313531353135313,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),"u960 + comp. (dyn engine, control)",G,-0.0056836511101675535,-0.055036191775199604,0.05412736771828513,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),"u960 + comp. (dyn engine, control)",missed_rate,0.0,0.0,0.0,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),"u960 + comp. (dyn engine, control)",false_per_1000,-2.484472049689441,-7.425742574257425,2.493765586034913,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),"u960 + comp. (dyn engine, control)",late_share,0.004140786749482402,0.0,0.010313531353135313,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),hybrid tsp8 + comp. @ DESP px,G,0.03897706618284735,-0.00277532679330732,0.11809435244394677,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),hybrid tsp8 + comp. @ DESP px,missed_rate,-0.0222222222222222,-0.08333333333333334,0.0,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),hybrid tsp8 + comp. @ DESP px,false_per_1000,0.0,-3.712871287128713,3.7406483790523692,False
+nusc_test20,83.3,DESP v6-S@83.3 (in-loop),hybrid tsp8 + comp. @ DESP px,late_share,-0.024016563146997932,-0.05093484835593234,-0.003731227403355892,True
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),u512 + comp.,G,0.04644375366602749,-0.043195175044143524,0.12498963772990614,False
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),u512 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),u512 + comp.,false_per_1000,2.4844720496894412,0.0,6.226650062266501,False
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),u512 + comp.,late_share,-0.0012422360248447205,-0.0037313432835820895,0.0,False
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),u640 + comp.,G,0.052157992727939306,0.002473617871232154,0.10498977460928892,True
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),u640 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),u640 + comp.,false_per_1000,0.0,-3.7314594524265354,3.7406483790523692,False
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),u640 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),u800 + comp. (dyn),G,0.013540424595814393,-0.07427489002713235,0.15417690236521675,False
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),u800 + comp. (dyn),missed_rate,0.0,0.0,0.0,False
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),u800 + comp. (dyn),false_per_1000,1.2422360248447206,0.0,3.7548109949466904,False
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),u800 + comp. (dyn),late_share,0.0,0.0,0.0,False
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),u960 + comp.,G,-0.004035593943225724,-0.04680516151207863,0.04791264669836005,False
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),u960 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),u960 + comp.,false_per_1000,-1.2422360248447202,-4.9689440993788825,2.5031289111389237,False
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),u960 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),u1280 + comp.,G,-0.012287118927571172,-0.112252073340669,0.15791360682440292,False
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),u1280 + comp.,missed_rate,0.06666666666666671,0.0,0.23536414565826294,False
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),u1280 + comp.,false_per_1000,-1.2422360248447202,-7.481530256755116,4.956629491945477,False
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),u1280 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),native + comp.,G,0.018390576138350156,-0.19677124615803063,0.20270443264458993,False
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),native + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),native + comp.,false_per_1000,2.4844720496894412,-2.4721878862793574,7.4719800747198,False
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),native + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),"u960 + comp. (dyn engine, control)",G,0.0024697771676139846,-0.050573659658790335,0.07436339530692943,False
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),"u960 + comp. (dyn engine, control)",missed_rate,0.0,0.0,0.0,False
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),"u960 + comp. (dyn engine, control)",false_per_1000,-1.2422360248447202,-4.9689440993788825,2.5031289111389237,False
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),"u960 + comp. (dyn engine, control)",late_share,0.0,0.0,0.0,False
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),hybrid tsp8 + comp. @ DESP px,G,0.04713049446062889,-0.00277532679330732,0.14280090284393548,False
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),hybrid tsp8 + comp. @ DESP px,missed_rate,-0.0222222222222222,-0.08333333333333334,0.0,False
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),hybrid tsp8 + comp. @ DESP px,false_per_1000,1.2422360248447206,0.0,3.7548109949466904,False
+nusc_test20,83.3,DESP B2K-A@83.3 (in-loop),hybrid tsp8 + comp. @ DESP px,late_share,-0.028157349896480333,-0.05902512237923709,-0.004962779156327543,True
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u512 + comp.,G,0.05504295680736537,-0.06038324569916472,0.16739726410740063,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u512 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u512 + comp.,false_per_1000,3.7267080745341614,0.0,7.5,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u512 + comp.,late_share,-0.0012422360248447205,-0.0037313432835820895,0.0,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u640 + comp.,G,0.06075719586927719,-0.014123060526017764,0.15630513279842986,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u640 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u640 + comp.,false_per_1000,1.2422360248447202,-2.493843418918372,6.195786864931846,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u640 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u800 + comp. (dyn),G,0.02213962773715228,-0.022871272522330767,0.12316327249100933,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u800 + comp. (dyn),missed_rate,0.0,0.0,0.0,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u800 + comp. (dyn),false_per_1000,2.484472049689441,0.0,6.242197253433208,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u800 + comp. (dyn),late_share,0.0,0.0,0.0,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u960 + comp.,G,0.004563609198112162,-0.062490068931945114,0.043452053822196315,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u960 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u960 + comp.,false_per_1000,0.0,-4.944375772558715,4.9937578027465666,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u960 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u1280 + comp.,G,-0.0036879157862332868,-0.07970171764562604,0.12873053407320045,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u1280 + comp.,missed_rate,0.06666666666666671,0.0,0.23536414565826294,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u1280 + comp.,false_per_1000,0.0,-7.444168734491314,6.234413965087281,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u1280 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),native + comp.,G,0.026989779279688042,-0.1679962294408135,0.19843253201195246,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),native + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),native + comp.,false_per_1000,3.7267080745341614,-1.2406947890818858,8.739076154806492,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),native + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),"u960 + comp. (dyn engine, control)",G,0.01106898030895187,-0.02808225465357708,0.03868139420044986,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),"u960 + comp. (dyn engine, control)",missed_rate,0.0,0.0,0.0,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),"u960 + comp. (dyn engine, control)",false_per_1000,0.0,-4.944375772558715,4.9937578027465666,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),"u960 + comp. (dyn engine, control)",late_share,0.0,0.0,0.0,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),hybrid tsp8 + comp. @ DESP px,G,0.05572969760196678,-0.007725984354583748,0.13086047141681537,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),hybrid tsp8 + comp. @ DESP px,missed_rate,-0.0222222222222222,-0.08333333333333334,0.0,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),hybrid tsp8 + comp. @ DESP px,false_per_1000,2.484472049689441,0.0,6.242197253433208,False
+nusc_test20,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),hybrid tsp8 + comp. @ DESP px,late_share,-0.028157349896480333,-0.05902512237923709,-0.004962779156327543,True
+nusc_test20,100.0,DESP v6-S@100 (in-loop),u512 + comp.,G,0.04382028903974389,-0.04437834000366366,0.12118051720977707,False
+nusc_test20,100.0,DESP v6-S@100 (in-loop),u512 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP v6-S@100 (in-loop),u512 + comp.,false_per_1000,2.4844720496894412,0.0,6.226650062266501,False
+nusc_test20,100.0,DESP v6-S@100 (in-loop),u512 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP v6-S@100 (in-loop),u640 + comp.,G,0.049534528101655706,0.000865681013986086,0.10180658533114399,True
+nusc_test20,100.0,DESP v6-S@100 (in-loop),u640 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP v6-S@100 (in-loop),u640 + comp.,false_per_1000,0.0,-3.7314594524265354,3.7406483790523692,False
+nusc_test20,100.0,DESP v6-S@100 (in-loop),u640 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP v6-S@100 (in-loop),u800 + comp. (dyn),G,0.010916959969530793,-0.07606279445256316,0.14895275857197895,False
+nusc_test20,100.0,DESP v6-S@100 (in-loop),u800 + comp. (dyn),missed_rate,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP v6-S@100 (in-loop),u800 + comp. (dyn),false_per_1000,1.2422360248447206,0.0,3.7548109949466904,False
+nusc_test20,100.0,DESP v6-S@100 (in-loop),u800 + comp. (dyn),late_share,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP v6-S@100 (in-loop),u960 + comp.,G,-0.006659058569509324,-0.04975517765045787,0.04453331511786023,False
+nusc_test20,100.0,DESP v6-S@100 (in-loop),u960 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP v6-S@100 (in-loop),u960 + comp.,false_per_1000,-1.2422360248447202,-4.9689440993788825,2.5031289111389237,False
+nusc_test20,100.0,DESP v6-S@100 (in-loop),u960 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP v6-S@100 (in-loop),u1280 + comp.,G,-0.014910583553854773,-0.11446688737206016,0.15088540433359351,False
+nusc_test20,100.0,DESP v6-S@100 (in-loop),u1280 + comp.,missed_rate,0.06666666666666671,0.0,0.23536414565826294,False
+nusc_test20,100.0,DESP v6-S@100 (in-loop),u1280 + comp.,false_per_1000,-1.2422360248447202,-7.481530256755116,4.956629491945477,False
+nusc_test20,100.0,DESP v6-S@100 (in-loop),u1280 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP v6-S@100 (in-loop),native + comp.,G,0.015767111512066556,-0.2018107141507779,0.20075699110404394,False
+nusc_test20,100.0,DESP v6-S@100 (in-loop),native + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP v6-S@100 (in-loop),native + comp.,false_per_1000,2.4844720496894412,-2.4721878862793574,7.4719800747198,False
+nusc_test20,100.0,DESP v6-S@100 (in-loop),native + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP v6-S@100 (in-loop),"u960 + comp. (dyn engine, control)",G,-0.00015368745866961575,-0.05264083074375987,0.0684770615085976,False
+nusc_test20,100.0,DESP v6-S@100 (in-loop),"u960 + comp. (dyn engine, control)",missed_rate,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP v6-S@100 (in-loop),"u960 + comp. (dyn engine, control)",false_per_1000,-1.2422360248447202,-4.9689440993788825,2.5031289111389237,False
+nusc_test20,100.0,DESP v6-S@100 (in-loop),"u960 + comp. (dyn engine, control)",late_share,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP v6-S@100 (in-loop),hybrid tsp8 + comp. @ DESP px,G,0.03446832859760496,-0.004003183823939061,0.11393472713364394,False
+nusc_test20,100.0,DESP v6-S@100 (in-loop),hybrid tsp8 + comp. @ DESP px,missed_rate,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP v6-S@100 (in-loop),hybrid tsp8 + comp. @ DESP px,false_per_1000,1.2422360248447206,0.0,3.7548109949466904,False
+nusc_test20,100.0,DESP v6-S@100 (in-loop),hybrid tsp8 + comp. @ DESP px,late_share,-0.007039337474120083,-0.014889263360616273,-0.00041613351141497076,True
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),u512 + comp.,G,0.04644375366602749,-0.043195175044143524,0.12498963772990614,False
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),u512 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),u512 + comp.,false_per_1000,2.4844720496894412,0.0,6.226650062266501,False
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),u512 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),u640 + comp.,G,0.052157992727939306,0.002473617871232154,0.10498977460928892,True
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),u640 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),u640 + comp.,false_per_1000,0.0,-3.7314594524265354,3.7406483790523692,False
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),u640 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),u800 + comp. (dyn),G,0.013540424595814393,-0.07427489002713235,0.15417690236521675,False
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),u800 + comp. (dyn),missed_rate,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),u800 + comp. (dyn),false_per_1000,1.2422360248447206,0.0,3.7548109949466904,False
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),u800 + comp. (dyn),late_share,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),u960 + comp.,G,-0.004035593943225724,-0.04680516151207863,0.04791264669836005,False
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),u960 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),u960 + comp.,false_per_1000,-1.2422360248447202,-4.9689440993788825,2.5031289111389237,False
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),u960 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),u1280 + comp.,G,-0.012287118927571172,-0.112252073340669,0.15791360682440292,False
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),u1280 + comp.,missed_rate,0.06666666666666671,0.0,0.23536414565826294,False
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),u1280 + comp.,false_per_1000,-1.2422360248447202,-7.481530256755116,4.956629491945477,False
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),u1280 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),native + comp.,G,0.018390576138350156,-0.19677124615803063,0.20270443264458993,False
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),native + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),native + comp.,false_per_1000,2.4844720496894412,-2.4721878862793574,7.4719800747198,False
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),native + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),"u960 + comp. (dyn engine, control)",G,0.0024697771676139846,-0.050573659658790335,0.07436339530692943,False
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),"u960 + comp. (dyn engine, control)",missed_rate,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),"u960 + comp. (dyn engine, control)",false_per_1000,-1.2422360248447202,-4.9689440993788825,2.5031289111389237,False
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),"u960 + comp. (dyn engine, control)",late_share,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),hybrid tsp8 + comp. @ DESP px,G,0.03709179322388856,-0.004003183823939061,0.12414227761367734,False
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),hybrid tsp8 + comp. @ DESP px,missed_rate,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),hybrid tsp8 + comp. @ DESP px,false_per_1000,1.2422360248447206,0.0,3.7548109949466904,False
+nusc_test20,100.0,DESP B2K-A@100 (in-loop),hybrid tsp8 + comp. @ DESP px,late_share,-0.007039337474120083,-0.014889263360616273,-0.00041613351141497076,True
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u512 + comp.,G,0.05504295680736537,-0.06038324569916472,0.16739726410740063,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u512 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u512 + comp.,false_per_1000,3.7267080745341614,0.0,7.5,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u512 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u640 + comp.,G,0.06075719586927719,-0.014123060526017764,0.15630513279842986,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u640 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u640 + comp.,false_per_1000,1.2422360248447202,-2.493843418918372,6.195786864931846,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u640 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u800 + comp. (dyn),G,0.02213962773715228,-0.022871272522330767,0.12316327249100933,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u800 + comp. (dyn),missed_rate,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u800 + comp. (dyn),false_per_1000,2.484472049689441,0.0,6.242197253433208,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u800 + comp. (dyn),late_share,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u960 + comp.,G,0.004563609198112162,-0.062490068931945114,0.043452053822196315,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u960 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u960 + comp.,false_per_1000,0.0,-4.944375772558715,4.9937578027465666,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u960 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u1280 + comp.,G,-0.0036879157862332868,-0.07970171764562604,0.12873053407320045,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u1280 + comp.,missed_rate,0.06666666666666671,0.0,0.23536414565826294,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u1280 + comp.,false_per_1000,0.0,-7.444168734491314,6.234413965087281,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u1280 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),native + comp.,G,0.026989779279688042,-0.1679962294408135,0.19843253201195246,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),native + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),native + comp.,false_per_1000,3.7267080745341614,-1.2406947890818858,8.739076154806492,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),native + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),"u960 + comp. (dyn engine, control)",G,0.01106898030895187,-0.02808225465357708,0.03868139420044986,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),"u960 + comp. (dyn engine, control)",missed_rate,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),"u960 + comp. (dyn engine, control)",false_per_1000,0.0,-4.944375772558715,4.9937578027465666,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),"u960 + comp. (dyn engine, control)",late_share,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),hybrid tsp8 + comp. @ DESP px,G,0.045690996365226444,-0.018402628556482368,0.1168823052527363,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),hybrid tsp8 + comp. @ DESP px,missed_rate,0.0,0.0,0.0,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),hybrid tsp8 + comp. @ DESP px,false_per_1000,2.484472049689441,0.0,6.242197253433208,False
+nusc_test20,100.0,DESP B1K-A (post-hoc)@100 (in-loop),hybrid tsp8 + comp. @ DESP px,late_share,-0.007039337474120083,-0.014889263360616273,-0.00041613351141497076,True
+nusc_test20,inf,DESP v6-S,u512 + comp.,G,0.04382028903974389,-0.04437834000366366,0.12118051720977707,False
+nusc_test20,inf,DESP v6-S,u512 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,inf,DESP v6-S,u512 + comp.,false_per_1000,2.4844720496894412,0.0,6.226650062266501,False
+nusc_test20,inf,DESP v6-S,u512 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,inf,DESP v6-S,u640 + comp.,G,0.049534528101655706,0.000865681013986086,0.10180658533114399,True
+nusc_test20,inf,DESP v6-S,u640 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,inf,DESP v6-S,u640 + comp.,false_per_1000,0.0,-3.7314594524265354,3.7406483790523692,False
+nusc_test20,inf,DESP v6-S,u640 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,inf,DESP v6-S,u800 + comp. (dyn),G,0.010916959969530793,-0.07606279445256316,0.14895275857197895,False
+nusc_test20,inf,DESP v6-S,u800 + comp. (dyn),missed_rate,0.0,0.0,0.0,False
+nusc_test20,inf,DESP v6-S,u800 + comp. (dyn),false_per_1000,1.2422360248447206,0.0,3.7548109949466904,False
+nusc_test20,inf,DESP v6-S,u800 + comp. (dyn),late_share,0.0,0.0,0.0,False
+nusc_test20,inf,DESP v6-S,u960 + comp.,G,-0.006659058569509324,-0.04975517765045787,0.04453331511786023,False
+nusc_test20,inf,DESP v6-S,u960 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,inf,DESP v6-S,u960 + comp.,false_per_1000,-1.2422360248447202,-4.9689440993788825,2.5031289111389237,False
+nusc_test20,inf,DESP v6-S,u960 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,inf,DESP v6-S,u1280 + comp.,G,-0.014910583553854773,-0.11446688737206016,0.15088540433359351,False
+nusc_test20,inf,DESP v6-S,u1280 + comp.,missed_rate,0.06666666666666671,0.0,0.23536414565826294,False
+nusc_test20,inf,DESP v6-S,u1280 + comp.,false_per_1000,-1.2422360248447202,-7.481530256755116,4.956629491945477,False
+nusc_test20,inf,DESP v6-S,u1280 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,inf,DESP v6-S,native + comp.,G,0.015767111512066556,-0.2018107141507779,0.20075699110404394,False
+nusc_test20,inf,DESP v6-S,native + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,inf,DESP v6-S,native + comp.,false_per_1000,2.4844720496894412,-2.4721878862793574,7.4719800747198,False
+nusc_test20,inf,DESP v6-S,native + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,inf,DESP v6-S,"u960 + comp. (dyn engine, control)",G,-0.00015368745866961575,-0.05264083074375987,0.0684770615085976,False
+nusc_test20,inf,DESP v6-S,"u960 + comp. (dyn engine, control)",missed_rate,0.0,0.0,0.0,False
+nusc_test20,inf,DESP v6-S,"u960 + comp. (dyn engine, control)",false_per_1000,-1.2422360248447202,-4.9689440993788825,2.5031289111389237,False
+nusc_test20,inf,DESP v6-S,"u960 + comp. (dyn engine, control)",late_share,0.0,0.0,0.0,False
+nusc_test20,inf,DESP v6-S,hybrid tsp8 + comp. @ DESP px,G,0.0064718527417378935,-0.011143348536199481,0.02848008142865785,False
+nusc_test20,inf,DESP v6-S,hybrid tsp8 + comp. @ DESP px,missed_rate,0.0,0.0,0.0,False
+nusc_test20,inf,DESP v6-S,hybrid tsp8 + comp. @ DESP px,false_per_1000,1.2422360248447206,0.0,3.7548109949466904,False
+nusc_test20,inf,DESP v6-S,hybrid tsp8 + comp. @ DESP px,late_share,0.0,0.0,0.0,False
+nusc_test20,inf,DESP B2K-A,u512 + comp.,G,0.04644375366602749,-0.043195175044143524,0.12498963772990614,False
+nusc_test20,inf,DESP B2K-A,u512 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,inf,DESP B2K-A,u512 + comp.,false_per_1000,2.4844720496894412,0.0,6.226650062266501,False
+nusc_test20,inf,DESP B2K-A,u512 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,inf,DESP B2K-A,u640 + comp.,G,0.052157992727939306,0.002473617871232154,0.10498977460928892,True
+nusc_test20,inf,DESP B2K-A,u640 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,inf,DESP B2K-A,u640 + comp.,false_per_1000,0.0,-3.7314594524265354,3.7406483790523692,False
+nusc_test20,inf,DESP B2K-A,u640 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,inf,DESP B2K-A,u800 + comp. (dyn),G,0.013540424595814393,-0.07427489002713235,0.15417690236521675,False
+nusc_test20,inf,DESP B2K-A,u800 + comp. (dyn),missed_rate,0.0,0.0,0.0,False
+nusc_test20,inf,DESP B2K-A,u800 + comp. (dyn),false_per_1000,1.2422360248447206,0.0,3.7548109949466904,False
+nusc_test20,inf,DESP B2K-A,u800 + comp. (dyn),late_share,0.0,0.0,0.0,False
+nusc_test20,inf,DESP B2K-A,u960 + comp.,G,-0.004035593943225724,-0.04680516151207863,0.04791264669836005,False
+nusc_test20,inf,DESP B2K-A,u960 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,inf,DESP B2K-A,u960 + comp.,false_per_1000,-1.2422360248447202,-4.9689440993788825,2.5031289111389237,False
+nusc_test20,inf,DESP B2K-A,u960 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,inf,DESP B2K-A,u1280 + comp.,G,-0.012287118927571172,-0.112252073340669,0.15791360682440292,False
+nusc_test20,inf,DESP B2K-A,u1280 + comp.,missed_rate,0.06666666666666671,0.0,0.23536414565826294,False
+nusc_test20,inf,DESP B2K-A,u1280 + comp.,false_per_1000,-1.2422360248447202,-7.481530256755116,4.956629491945477,False
+nusc_test20,inf,DESP B2K-A,u1280 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,inf,DESP B2K-A,native + comp.,G,0.018390576138350156,-0.19677124615803063,0.20270443264458993,False
+nusc_test20,inf,DESP B2K-A,native + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,inf,DESP B2K-A,native + comp.,false_per_1000,2.4844720496894412,-2.4721878862793574,7.4719800747198,False
+nusc_test20,inf,DESP B2K-A,native + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,inf,DESP B2K-A,"u960 + comp. (dyn engine, control)",G,0.0024697771676139846,-0.050573659658790335,0.07436339530692943,False
+nusc_test20,inf,DESP B2K-A,"u960 + comp. (dyn engine, control)",missed_rate,0.0,0.0,0.0,False
+nusc_test20,inf,DESP B2K-A,"u960 + comp. (dyn engine, control)",false_per_1000,-1.2422360248447202,-4.9689440993788825,2.5031289111389237,False
+nusc_test20,inf,DESP B2K-A,"u960 + comp. (dyn engine, control)",late_share,0.0,0.0,0.0,False
+nusc_test20,inf,DESP B2K-A,hybrid tsp8 + comp. @ DESP px,G,0.009095317368021494,-0.004581529075146104,0.03019623700247203,False
+nusc_test20,inf,DESP B2K-A,hybrid tsp8 + comp. @ DESP px,missed_rate,0.0,0.0,0.0,False
+nusc_test20,inf,DESP B2K-A,hybrid tsp8 + comp. @ DESP px,false_per_1000,1.2422360248447206,0.0,3.7548109949466904,False
+nusc_test20,inf,DESP B2K-A,hybrid tsp8 + comp. @ DESP px,late_share,0.0,0.0,0.0,False
+nusc_test20,inf,DESP B1K-A (post-hoc),u512 + comp.,G,0.05504295680736537,-0.06038324569916472,0.16739726410740063,False
+nusc_test20,inf,DESP B1K-A (post-hoc),u512 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,inf,DESP B1K-A (post-hoc),u512 + comp.,false_per_1000,3.7267080745341614,0.0,7.5,False
+nusc_test20,inf,DESP B1K-A (post-hoc),u512 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,inf,DESP B1K-A (post-hoc),u640 + comp.,G,0.06075719586927719,-0.014123060526017764,0.15630513279842986,False
+nusc_test20,inf,DESP B1K-A (post-hoc),u640 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,inf,DESP B1K-A (post-hoc),u640 + comp.,false_per_1000,1.2422360248447202,-2.493843418918372,6.195786864931846,False
+nusc_test20,inf,DESP B1K-A (post-hoc),u640 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,inf,DESP B1K-A (post-hoc),u800 + comp. (dyn),G,0.02213962773715228,-0.022871272522330767,0.12316327249100933,False
+nusc_test20,inf,DESP B1K-A (post-hoc),u800 + comp. (dyn),missed_rate,0.0,0.0,0.0,False
+nusc_test20,inf,DESP B1K-A (post-hoc),u800 + comp. (dyn),false_per_1000,2.484472049689441,0.0,6.242197253433208,False
+nusc_test20,inf,DESP B1K-A (post-hoc),u800 + comp. (dyn),late_share,0.0,0.0,0.0,False
+nusc_test20,inf,DESP B1K-A (post-hoc),u960 + comp.,G,0.004563609198112162,-0.062490068931945114,0.043452053822196315,False
+nusc_test20,inf,DESP B1K-A (post-hoc),u960 + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,inf,DESP B1K-A (post-hoc),u960 + comp.,false_per_1000,0.0,-4.944375772558715,4.9937578027465666,False
+nusc_test20,inf,DESP B1K-A (post-hoc),u960 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,inf,DESP B1K-A (post-hoc),u1280 + comp.,G,-0.0036879157862332868,-0.07970171764562604,0.12873053407320045,False
+nusc_test20,inf,DESP B1K-A (post-hoc),u1280 + comp.,missed_rate,0.06666666666666671,0.0,0.23536414565826294,False
+nusc_test20,inf,DESP B1K-A (post-hoc),u1280 + comp.,false_per_1000,0.0,-7.444168734491314,6.234413965087281,False
+nusc_test20,inf,DESP B1K-A (post-hoc),u1280 + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,inf,DESP B1K-A (post-hoc),native + comp.,G,0.026989779279688042,-0.1679962294408135,0.19843253201195246,False
+nusc_test20,inf,DESP B1K-A (post-hoc),native + comp.,missed_rate,0.0,0.0,0.0,False
+nusc_test20,inf,DESP B1K-A (post-hoc),native + comp.,false_per_1000,3.7267080745341614,-1.2406947890818858,8.739076154806492,False
+nusc_test20,inf,DESP B1K-A (post-hoc),native + comp.,late_share,0.0,0.0,0.0,False
+nusc_test20,inf,DESP B1K-A (post-hoc),"u960 + comp. (dyn engine, control)",G,0.01106898030895187,-0.02808225465357708,0.03868139420044986,False
+nusc_test20,inf,DESP B1K-A (post-hoc),"u960 + comp. (dyn engine, control)",missed_rate,0.0,0.0,0.0,False
+nusc_test20,inf,DESP B1K-A (post-hoc),"u960 + comp. (dyn engine, control)",false_per_1000,0.0,-4.944375772558715,4.9937578027465666,False
+nusc_test20,inf,DESP B1K-A (post-hoc),"u960 + comp. (dyn engine, control)",late_share,0.0,0.0,0.0,False
+nusc_test20,inf,DESP B1K-A (post-hoc),hybrid tsp8 + comp. @ DESP px,G,0.01769452050935938,-0.059164017718193254,0.0885886487570192,False
+nusc_test20,inf,DESP B1K-A (post-hoc),hybrid tsp8 + comp. @ DESP px,missed_rate,0.0,0.0,0.0,False
+nusc_test20,inf,DESP B1K-A (post-hoc),hybrid tsp8 + comp. @ DESP px,false_per_1000,2.484472049689441,0.0,6.242197253433208,False
+nusc_test20,inf,DESP B1K-A (post-hoc),hybrid tsp8 + comp. @ DESP px,late_share,0.0,0.0,0.0,False
+av2t40,33.3,DESP v6-S@33.3 (in-loop),u512 + comp.,G,0.09454965448723351,-0.4271750309487856,0.6050792893189626,False
+av2t40,33.3,DESP v6-S@33.3 (in-loop),u512 + comp.,missed_rate,-0.07142857142857142,-0.17500000000000002,0.02631578947368421,False
+av2t40,33.3,DESP v6-S@33.3 (in-loop),u512 + comp.,false_per_1000,32.68194070080863,22.742511960027304,43.57840467883755,True
+av2t40,33.3,DESP v6-S@33.3 (in-loop),u512 + comp.,late_share,-0.06592542677448338,-0.10895006030453791,-0.030795482125757376,True
+av2t40,33.3,DESP v6-S@33.3 (in-loop),u640 + comp.,G,-0.13946335421307465,-0.5080637472288335,0.26299657876183086,False
+av2t40,33.3,DESP v6-S@33.3 (in-loop),u640 + comp.,missed_rate,-0.07142857142857142,-0.17142857142857143,0.027777777777777776,False
+av2t40,33.3,DESP v6-S@33.3 (in-loop),u640 + comp.,false_per_1000,34.81581311769991,24.07863490390709,45.78443003582552,True
+av2t40,33.3,DESP v6-S@33.3 (in-loop),u640 + comp.,late_share,-0.09355345911949685,-0.14522555620438857,-0.04927524032596497,True
+av2t40,33.3,DESP v6-S@33.3 (in-loop),u800 + comp. (dyn),G,0.3003768400010258,-0.22875687322208052,0.7441592244279983,False
+av2t40,33.3,DESP v6-S@33.3 (in-loop),u800 + comp. (dyn),missed_rate,-0.16666666666666669,-0.29269343986543317,-0.032232862903225946,True
+av2t40,33.3,DESP v6-S@33.3 (in-loop),u800 + comp. (dyn),false_per_1000,36.725067385444746,25.75394486762041,47.89403624683709,True
+av2t40,33.3,DESP v6-S@33.3 (in-loop),u800 + comp. (dyn),late_share,-0.16790206648697215,-0.2303630976145036,-0.11206831962457668,True
+av2t40,33.3,DESP v6-S@33.3 (in-loop),u960 + comp.,G,0.6917415836561263,0.021169771243058372,1.3555948081870222,True
+av2t40,33.3,DESP v6-S@33.3 (in-loop),u960 + comp.,missed_rate,-0.23809523809523808,-0.3712455436720143,-0.09846175166297132,True
+av2t40,33.3,DESP v6-S@33.3 (in-loop),u960 + comp.,false_per_1000,37.28661275831087,26.495255552490196,48.376117861703726,True
+av2t40,33.3,DESP v6-S@33.3 (in-loop),u960 + comp.,late_share,-0.26561096136567836,-0.3468470524357858,-0.19303268102638013,True
+av2t40,33.3,DESP v6-S@33.3 (in-loop),u1280 + comp.,G,1.648875605756899,0.8131300692755941,2.632698174887189,True
+av2t40,33.3,DESP v6-S@33.3 (in-loop),u1280 + comp.,missed_rate,-0.9047619047619048,-0.9761904761904762,-0.8214056776556777,True
+av2t40,33.3,DESP v6-S@33.3 (in-loop),u1280 + comp.,false_per_1000,39.08355795148248,28.561465576545697,50.16806355858215,True
+av2t40,33.3,DESP v6-S@33.3 (in-loop),u1280 + comp.,late_share,-0.7255166217430369,-0.7974457694578063,-0.6522954431338581,True
+av2t40,33.3,DESP v6-S@33.3 (in-loop),native + comp.,G,1.648875605756899,0.8131300692755941,2.632698174887189,True
+av2t40,33.3,DESP v6-S@33.3 (in-loop),native + comp.,missed_rate,-0.9047619047619048,-0.9761904761904762,-0.8214056776556777,True
+av2t40,33.3,DESP v6-S@33.3 (in-loop),native + comp.,false_per_1000,39.08355795148248,28.561465576545697,50.16806355858215,True
+av2t40,33.3,DESP v6-S@33.3 (in-loop),native + comp.,late_share,-1.0,-1.0,-1.0,True
+av2t40,33.3,DESP v6-S@33.3 (in-loop),"u960 + comp. (dyn engine, control)",G,1.1270702339724317,0.41886091896102673,1.8289545358095147,True
+av2t40,33.3,DESP v6-S@33.3 (in-loop),"u960 + comp. (dyn engine, control)",missed_rate,-0.5317460317460317,-0.6666666666666666,-0.40970643939393947,True
+av2t40,33.3,DESP v6-S@33.3 (in-loop),"u960 + comp. (dyn engine, control)",false_per_1000,38.297394429469904,27.68498841020261,49.23343356721237,True
+av2t40,33.3,DESP v6-S@33.3 (in-loop),"u960 + comp. (dyn engine, control)",late_share,-0.433288409703504,-0.5286570766602139,-0.3426445610548948,True
+av2t40,33.3,DESP v6-S@33.3 (in-loop),hybrid tsp8 + comp. @ DESP px,G,0.7257152982941613,0.10360874858491256,1.258420622676231,True
+av2t40,33.3,DESP v6-S@33.3 (in-loop),hybrid tsp8 + comp. @ DESP px,missed_rate,-0.4920634920634921,-0.6234567901234568,-0.3529411764705882,True
+av2t40,33.3,DESP v6-S@33.3 (in-loop),hybrid tsp8 + comp. @ DESP px,false_per_1000,37.3989218328841,26.63517851224287,48.6783782923318,True
+av2t40,33.3,DESP v6-S@33.3 (in-loop),hybrid tsp8 + comp. @ DESP px,late_share,-0.4693396226415094,-0.5624110759840455,-0.3857470720856812,True
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),u512 + comp.,G,-0.14653246789581376,-0.602106144460807,0.2615847721498171,False
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),u512 + comp.,missed_rate,0.1349206349206349,0.0,0.2803467365967363,False
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),u512 + comp.,false_per_1000,-2.3584905660377355,-4.867835513424415,0.11254392499106067,False
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),u512 + comp.,late_share,0.1734052111410602,0.11515473506547905,0.24130525215226845,True
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),u640 + comp.,G,-0.3805454765961219,-0.819159431308604,0.024008476918153904,False
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),u640 + comp.,missed_rate,0.1349206349206349,0.027759009009009024,0.2553647416413371,True
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),u640 + comp.,false_per_1000,-0.22461814914645117,-2.27973600068792,1.994435594022221,False
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),u640 + comp.,late_share,0.14577717879604674,0.08821801992073426,0.20895832588940097,True
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),u800 + comp. (dyn),G,0.059294717617978554,-0.4557437726751296,0.533003198788189,False
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),u800 + comp. (dyn),missed_rate,0.03968253968253965,-0.08547619047619048,0.17731678486997626,False
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),u800 + comp. (dyn),false_per_1000,1.6846361185983825,-0.8909752583717326,4.348044643897889,False
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),u800 + comp. (dyn),late_share,0.07142857142857142,0.01557960616904661,0.12984796362468654,True
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),u960 + comp.,G,0.450659461273079,-0.13976693651788866,1.0374589819577384,False
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),u960 + comp.,missed_rate,-0.031746031746031744,-0.18258611955420462,0.12320947084597224,False
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),u960 + comp.,false_per_1000,2.24618149146451,-0.4455062780308015,4.8250048048322665,False
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),u960 + comp.,late_share,-0.026280323450134785,-0.10355932734631987,0.04094628574901035,False
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),u1280 + comp.,G,1.4077934833738517,0.6994366563696952,2.3464009810711377,True
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),u1280 + comp.,missed_rate,-0.6984126984126984,-0.8421052631578947,-0.5554964539007096,True
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),u1280 + comp.,false_per_1000,4.0431266846361185,2.133117799746564,6.202695255412016,True
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),u1280 + comp.,late_share,-0.48618598382749334,-0.5605800281534745,-0.4093699318236134,True
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),native + comp.,G,1.4077934833738517,0.6994366563696952,2.3464009810711377,True
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),native + comp.,missed_rate,-0.6984126984126984,-0.8421052631578947,-0.5554964539007096,True
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),native + comp.,false_per_1000,4.0431266846361185,2.133117799746564,6.202695255412016,True
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),native + comp.,late_share,-0.7606693620844565,-0.8214513593982828,-0.6843653547587798,True
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),"u960 + comp. (dyn engine, control)",G,0.8859881115893844,0.4192897457299965,1.4381482872015088,True
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),"u960 + comp. (dyn engine, control)",missed_rate,-0.3253968253968254,-0.46671874999999996,-0.19999999999999996,True
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),"u960 + comp. (dyn engine, control)",false_per_1000,3.25696316262354,0.9851812969393523,5.655564856513362,True
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),"u960 + comp. (dyn engine, control)",late_share,-0.19395777178796045,-0.2733063727424955,-0.12569121534093466,True
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),hybrid tsp8 + comp. @ DESP px,G,0.484633175911114,0.07070224644856699,0.8841215974763267,True
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),hybrid tsp8 + comp. @ DESP px,missed_rate,-0.28571428571428575,-0.44144707207207207,-0.14073099415204682,True
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),hybrid tsp8 + comp. @ DESP px,false_per_1000,2.3584905660377355,0.44543205475970526,4.51541211974058,True
+av2t40,33.3,DESP B2K-A@33.3 (in-loop),hybrid tsp8 + comp. @ DESP px,late_share,-0.23000898472596584,-0.2820563018501163,-0.18099686000126491,True
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u512 + comp.,G,-0.05341512102570811,-0.5791980908350866,0.5010540789962183,False
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u512 + comp.,missed_rate,0.1349206349206349,0.0,0.2803467365967363,False
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u512 + comp.,false_per_1000,-1.9092542677448332,-4.652921068536092,1.034460160145122,False
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u512 + comp.,late_share,0.1676774483378257,0.11193411381165543,0.23473868873239087,True
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u640 + comp.,G,-0.2874281297260163,-0.7117938577934222,0.07615323542412666,False
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u640 + comp.,missed_rate,0.1349206349206349,0.027759009009009024,0.2553647416413371,True
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u640 + comp.,false_per_1000,0.22461814914645117,-2.0121907918096813,2.549142457719583,False
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u640 + comp.,late_share,0.14004941599281223,0.08420893195627911,0.20199915362037835,True
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u800 + comp. (dyn),G,0.1524120644880842,-0.3496726774436477,0.5844455244600358,False
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u800 + comp. (dyn),missed_rate,0.03968253968253965,-0.08547619047619048,0.17731678486997626,False
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u800 + comp. (dyn),false_per_1000,2.133872416891285,-0.665408241318899,5.0934651415952334,False
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u800 + comp. (dyn),late_share,0.06570080862533692,0.011711781231607729,0.1209836257584626,True
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u960 + comp.,G,0.5437768081431846,-0.10101241734461096,1.2590854419233437,False
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u960 + comp.,missed_rate,-0.031746031746031744,-0.18258611955420462,0.12320947084597224,False
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u960 + comp.,false_per_1000,2.6954177897574123,-0.11746518359080428,5.695288542772032,False
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u960 + comp.,late_share,-0.03200808625336929,-0.1074873645553402,0.0337438025675077,False
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u1280 + comp.,G,1.5009108302439573,0.7588293596341137,2.463633120455701,True
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u1280 + comp.,missed_rate,-0.6984126984126984,-0.8421052631578947,-0.5554964539007096,True
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u1280 + comp.,false_per_1000,4.492362982929021,2.3717972528248064,7.042533929401207,True
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),u1280 + comp.,late_share,-0.49191374663072784,-0.5652939975507874,-0.4155307106944932,True
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),native + comp.,G,1.5009108302439573,0.7588293596341137,2.463633120455701,True
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),native + comp.,missed_rate,-0.6984126984126984,-0.8421052631578947,-0.5554964539007096,True
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),native + comp.,false_per_1000,4.492362982929021,2.3717972528248064,7.042533929401207,True
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),native + comp.,late_share,-0.766397124887691,-0.8276368999824821,-0.6903425662058029,True
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),"u960 + comp. (dyn engine, control)",G,0.97910545845949,0.44793862223947245,1.6093584843598605,True
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),"u960 + comp. (dyn engine, control)",missed_rate,-0.3253968253968254,-0.46671874999999996,-0.19999999999999996,True
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),"u960 + comp. (dyn engine, control)",false_per_1000,3.706199460916442,1.226279192511997,6.433109880215263,True
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),"u960 + comp. (dyn engine, control)",late_share,-0.19968553459119495,-0.27651524592888,-0.1337250724007789,True
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),hybrid tsp8 + comp. @ DESP px,G,0.5777505227812196,0.24677832310878167,0.944931002891268,True
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),hybrid tsp8 + comp. @ DESP px,missed_rate,-0.28571428571428575,-0.44144707207207207,-0.14073099415204682,True
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),hybrid tsp8 + comp. @ DESP px,false_per_1000,2.807726864330638,0.5701418423088462,5.320491752563856,True
+av2t40,33.3,DESP B1K-A (post-hoc)@33.3 (in-loop),hybrid tsp8 + comp. @ DESP px,late_share,-0.23573674752920035,-0.28978870178411464,-0.1867176833585703,True
+av2t40,50.0,DESP v6-S@50 (in-loop),u512 + comp.,G,-0.14820888177009872,-0.31205460300753196,0.03131172126851616,False
+av2t40,50.0,DESP v6-S@50 (in-loop),u512 + comp.,missed_rate,0.047619047619047616,-0.04168882978723403,0.1463593974175035,False
+av2t40,50.0,DESP v6-S@50 (in-loop),u512 + comp.,false_per_1000,-3.1446540880503147,-6.406361428041241,0.22348196866023276,False
+av2t40,50.0,DESP v6-S@50 (in-loop),u512 + comp.,late_share,0.10354896675651393,0.06417159063552955,0.15196996975295085,True
+av2t40,50.0,DESP v6-S@50 (in-loop),u640 + comp.,G,-0.15432052530298346,-0.31818772004272167,0.02373940214271551,False
+av2t40,50.0,DESP v6-S@50 (in-loop),u640 + comp.,missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,50.0,DESP v6-S@50 (in-loop),u640 + comp.,false_per_1000,-1.7969451931716085,-4.9624940791693355,1.4585682630912493,False
+av2t40,50.0,DESP v6-S@50 (in-loop),u640 + comp.,late_share,0.10197663971248877,0.06430917661450282,0.1486231258855846,True
+av2t40,50.0,DESP v6-S@50 (in-loop),u800 + comp. (dyn),G,-0.16991377816551823,-0.3120035983875568,-0.015260281489304632,True
+av2t40,50.0,DESP v6-S@50 (in-loop),u800 + comp. (dyn),missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,50.0,DESP v6-S@50 (in-loop),u800 + comp. (dyn),false_per_1000,-0.561545372866127,-3.641880268928749,2.5482951568786314,False
+av2t40,50.0,DESP v6-S@50 (in-loop),u800 + comp. (dyn),late_share,0.09613656783468104,0.0563182099676065,0.14316474816338404,True
+av2t40,50.0,DESP v6-S@50 (in-loop),u960 + comp.,G,-0.13891637846757576,-0.3265746534010812,0.08831034901884188,False
+av2t40,50.0,DESP v6-S@50 (in-loop),u960 + comp.,missed_rate,0.047619047619047616,-0.04168882978723403,0.1463593974175035,False
+av2t40,50.0,DESP v6-S@50 (in-loop),u960 + comp.,false_per_1000,-0.7861635220125782,-3.9938452634683563,2.297533245032871,False
+av2t40,50.0,DESP v6-S@50 (in-loop),u960 + comp.,late_share,0.08917340521114106,0.05357111729502889,0.13051075149752758,True
+av2t40,50.0,DESP v6-S@50 (in-loop),u1280 + comp.,G,0.09411787363534263,-0.25777274369334924,0.4527880450510024,False
+av2t40,50.0,DESP v6-S@50 (in-loop),u1280 + comp.,missed_rate,0.023809523809523808,-0.05457070707070709,0.1143355481727572,False
+av2t40,50.0,DESP v6-S@50 (in-loop),u1280 + comp.,false_per_1000,1.5723270440251573,-1.3206333701990043,4.492703650085653,False
+av2t40,50.0,DESP v6-S@50 (in-loop),u1280 + comp.,late_share,0.03245732255166217,-0.00829517134618502,0.07198467049801613,False
+av2t40,50.0,DESP v6-S@50 (in-loop),native + comp.,G,1.8616281400490755,1.0721227922037462,2.814249320827283,True
+av2t40,50.0,DESP v6-S@50 (in-loop),native + comp.,missed_rate,-0.8095238095238095,-0.9215686274509804,-0.6857142857142857,True
+av2t40,50.0,DESP v6-S@50 (in-loop),native + comp.,false_per_1000,5.9523809523809526,3.372596055508334,8.757451682801005,True
+av2t40,50.0,DESP v6-S@50 (in-loop),native + comp.,late_share,-0.8903863432165319,-0.9310123536452202,-0.8416872933370249,True
+av2t40,50.0,DESP v6-S@50 (in-loop),"u960 + comp. (dyn engine, control)",G,-0.12315955621935182,-0.20947284851681394,-0.0320697855401764,True
+av2t40,50.0,DESP v6-S@50 (in-loop),"u960 + comp. (dyn engine, control)",missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,50.0,DESP v6-S@50 (in-loop),"u960 + comp. (dyn engine, control)",false_per_1000,-0.11230907457322559,-2.7138656813302964,2.7012214667086094,False
+av2t40,50.0,DESP v6-S@50 (in-loop),"u960 + comp. (dyn engine, control)",late_share,0.07535938903863432,0.03539745506719486,0.11677024312001053,True
+av2t40,50.0,DESP v6-S@50 (in-loop),hybrid tsp8 + comp. @ DESP px,G,0.4919638469257741,0.13896398365345197,0.941458042404911,True
+av2t40,50.0,DESP v6-S@50 (in-loop),hybrid tsp8 + comp. @ DESP px,missed_rate,-0.23809523809523808,-0.3714285714285714,-0.11764705882352941,True
+av2t40,50.0,DESP v6-S@50 (in-loop),hybrid tsp8 + comp. @ DESP px,false_per_1000,3.9308176100628933,1.5486775489366156,6.6103035390098634,True
+av2t40,50.0,DESP v6-S@50 (in-loop),hybrid tsp8 + comp. @ DESP px,late_share,-0.16475741239892186,-0.20750609198568074,-0.12494386509623932,True
+av2t40,50.0,DESP B2K-A@50 (in-loop),u512 + comp.,G,-0.23084481498607512,-0.530999812953766,0.03926055345890386,False
+av2t40,50.0,DESP B2K-A@50 (in-loop),u512 + comp.,missed_rate,0.09523809523809523,0.0,0.21428571428571427,False
+av2t40,50.0,DESP B2K-A@50 (in-loop),u512 + comp.,false_per_1000,-5.615453728661276,-8.8538297922453,-2.692380335425587,True
+av2t40,50.0,DESP B2K-A@50 (in-loop),u512 + comp.,late_share,0.18025606469002695,0.13058747678465688,0.24204840009757442,True
+av2t40,50.0,DESP B2K-A@50 (in-loop),u640 + comp.,G,-0.23695645851895986,-0.5313101159245424,0.036085723076564075,False
+av2t40,50.0,DESP B2K-A@50 (in-loop),u640 + comp.,missed_rate,0.09523809523809523,0.02127659574468084,0.20512820512820512,True
+av2t40,50.0,DESP B2K-A@50 (in-loop),u640 + comp.,false_per_1000,-4.2677448337825705,-6.63444966123856,-2.1017856946868227,True
+av2t40,50.0,DESP B2K-A@50 (in-loop),u640 + comp.,late_share,0.1786837376460018,0.12947349475529016,0.23976904359330475,True
+av2t40,50.0,DESP B2K-A@50 (in-loop),u800 + comp. (dyn),G,-0.2525497113814946,-0.5295058547168017,0.011827630315338098,False
+av2t40,50.0,DESP B2K-A@50 (in-loop),u800 + comp. (dyn),missed_rate,0.09523809523809523,0.02127659574468084,0.20512820512820512,True
+av2t40,50.0,DESP B2K-A@50 (in-loop),u800 + comp. (dyn),false_per_1000,-3.0323450134770886,-5.310377272878526,-0.9961987075232792,True
+av2t40,50.0,DESP B2K-A@50 (in-loop),u800 + comp. (dyn),late_share,0.17284366576819404,0.12196963590951278,0.2337051540703738,True
+av2t40,50.0,DESP B2K-A@50 (in-loop),u960 + comp.,G,-0.22155231168355216,-0.5352175325706388,0.06342678831685748,False
+av2t40,50.0,DESP B2K-A@50 (in-loop),u960 + comp.,missed_rate,0.09523809523809523,0.0,0.21428571428571427,False
+av2t40,50.0,DESP B2K-A@50 (in-loop),u960 + comp.,false_per_1000,-3.25696316262354,-5.542458267627325,-1.327977215805214,True
+av2t40,50.0,DESP B2K-A@50 (in-loop),u960 + comp.,late_share,0.16588050314465408,0.11970230151720182,0.2219610718470713,True
+av2t40,50.0,DESP B2K-A@50 (in-loop),u1280 + comp.,G,0.011481940419366232,-0.23483669874564675,0.23247676910214324,False
+av2t40,50.0,DESP B2K-A@50 (in-loop),u1280 + comp.,missed_rate,0.07142857142857142,-0.02440548780487807,0.18421052631578946,False
+av2t40,50.0,DESP B2K-A@50 (in-loop),u1280 + comp.,false_per_1000,-0.8984725965858043,-2.7685492801771874,0.9966860216692115,False
+av2t40,50.0,DESP B2K-A@50 (in-loop),u1280 + comp.,late_share,0.10916442048517519,0.0638026951461452,0.15782214253384202,True
+av2t40,50.0,DESP B2K-A@50 (in-loop),native + comp.,G,1.7789922068330992,0.9192296778619865,2.818826770153133,True
+av2t40,50.0,DESP B2K-A@50 (in-loop),native + comp.,missed_rate,-0.7619047619047619,-0.8846428571428571,-0.6363636363636364,True
+av2t40,50.0,DESP B2K-A@50 (in-loop),native + comp.,false_per_1000,3.481581311769991,1.6638658438131326,5.676269160722415,True
+av2t40,50.0,DESP B2K-A@50 (in-loop),native + comp.,late_share,-0.8136792452830188,-0.8646555528179786,-0.7516801853117643,True
+av2t40,50.0,DESP B2K-A@50 (in-loop),"u960 + comp. (dyn engine, control)",G,-0.20579548943532822,-0.3633707355146008,-0.03693003897691706,True
+av2t40,50.0,DESP B2K-A@50 (in-loop),"u960 + comp. (dyn engine, control)",missed_rate,0.09523809523809523,0.02127659574468084,0.20512820512820512,True
+av2t40,50.0,DESP B2K-A@50 (in-loop),"u960 + comp. (dyn engine, control)",false_per_1000,-2.583108715184187,-4.347935255673134,-1.1135525158555653,True
+av2t40,50.0,DESP B2K-A@50 (in-loop),"u960 + comp. (dyn engine, control)",late_share,0.15206648697214734,0.10214248066694906,0.20813943769722007,True
+av2t40,50.0,DESP B2K-A@50 (in-loop),hybrid tsp8 + comp. @ DESP px,G,0.4093279137097977,0.09666452836525435,0.9273765213926837,True
+av2t40,50.0,DESP B2K-A@50 (in-loop),hybrid tsp8 + comp. @ DESP px,missed_rate,-0.19047619047619047,-0.2894736842105263,-0.09520089285714306,True
+av2t40,50.0,DESP B2K-A@50 (in-loop),hybrid tsp8 + comp. @ DESP px,false_per_1000,1.4600179694519317,0.3366664634270266,2.805836139169472,True
+av2t40,50.0,DESP B2K-A@50 (in-loop),hybrid tsp8 + comp. @ DESP px,late_share,-0.08805031446540884,-0.11899645709071795,-0.059347547197530826,True
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u512 + comp.,G,-0.08400811686757481,-0.2467994454460528,0.06796970385327875,False
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u512 + comp.,missed_rate,0.047619047619047616,-0.04168882978723403,0.1463593974175035,False
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u512 + comp.,false_per_1000,-0.33692722371967676,-3.7394000308328965,3.41646737273659,False
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u512 + comp.,late_share,0.019878706199460916,0.0038808049241922864,0.04075694222181311,True
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u640 + comp.,G,-0.09011976040045955,-0.2534068534067416,0.06576307060371539,False
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u640 + comp.,missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u640 + comp.,false_per_1000,1.0107816711590294,-2.0236258371964415,4.306275983930514,False
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u640 + comp.,late_share,0.01830637915543576,0.003849044452183912,0.03766641547500863,True
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u800 + comp. (dyn),G,-0.10571301326299432,-0.2435284129519312,0.028495048340307954,False
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u800 + comp. (dyn),missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u800 + comp. (dyn),false_per_1000,2.246181491464511,-0.9051821679112919,5.772755101946301,False
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u800 + comp. (dyn),late_share,0.012466307277628033,-0.007316169227738377,0.03353447438267704,False
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u960 + comp.,G,-0.07471561356505185,-0.25860034977041113,0.12953311601050144,False
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u960 + comp.,missed_rate,0.047619047619047616,-0.04168882978723403,0.1463593974175035,False
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u960 + comp.,false_per_1000,2.0215633423180597,-1.3495504460002135,5.728052865496648,False
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u960 + comp.,late_share,0.0055031446540880526,-0.007878204100585403,0.020343114924692738,False
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u1280 + comp.,G,0.15831863853786654,-0.192234059827397,0.5108799272948812,False
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u1280 + comp.,missed_rate,0.023809523809523808,-0.05457070707070709,0.1143355481727572,False
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u1280 + comp.,false_per_1000,4.380053908355795,0.6793305369498832,8.4451288445745,True
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),u1280 + comp.,late_share,-0.05121293800539083,-0.08190960907714086,-0.025384877688426625,True
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),native + comp.,G,1.9258289049515995,1.1063619372894447,2.908143398831309,True
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),native + comp.,missed_rate,-0.8095238095238095,-0.9215686274509804,-0.6857142857142857,True
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),native + comp.,false_per_1000,8.76010781671159,5.08297965688908,13.048388662809208,True
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),native + comp.,late_share,-0.9740566037735849,-0.9902507640901388,-0.952725352335343,True
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),"u960 + comp. (dyn engine, control)",G,-0.05895879131682791,-0.12854462302774897,-0.0008860571324520114,True
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),"u960 + comp. (dyn engine, control)",missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),"u960 + comp. (dyn engine, control)",false_per_1000,2.6954177897574123,-0.6838665290677677,6.443906478392044,False
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),"u960 + comp. (dyn engine, control)",late_share,-0.008310871518418687,-0.03156349248366944,0.00854546606904844,False
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),hybrid tsp8 + comp. @ DESP px,G,0.556164611828298,0.2136282369238152,1.0041672364401475,True
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),hybrid tsp8 + comp. @ DESP px,missed_rate,-0.23809523809523808,-0.3714285714285714,-0.11764705882352941,True
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),hybrid tsp8 + comp. @ DESP px,false_per_1000,6.738544474393532,3.6688686225503186,10.12300353735662,True
+av2t40,50.0,DESP B1K-A (post-hoc)@50 (in-loop),hybrid tsp8 + comp. @ DESP px,late_share,-0.24842767295597487,-0.31089927421376884,-0.1903260733384382,True
+av2t40,66.7,DESP v6-S@66.7 (in-loop),u512 + comp.,G,-0.04568506955116225,-0.21429240999477764,0.13457085457602713,False
+av2t40,66.7,DESP v6-S@66.7 (in-loop),u512 + comp.,missed_rate,0.047619047619047616,-0.04168882978723403,0.1463593974175035,False
+av2t40,66.7,DESP v6-S@66.7 (in-loop),u512 + comp.,false_per_1000,-3.032345013477089,-6.065040061868299,-0.2172764930054703,True
+av2t40,66.7,DESP v6-S@66.7 (in-loop),u512 + comp.,late_share,0.03840970350404313,0.018454811239418455,0.06523835521130902,True
+av2t40,66.7,DESP v6-S@66.7 (in-loop),u640 + comp.,G,-0.059682238738248516,-0.22351728861341244,0.10255541367246471,False
+av2t40,66.7,DESP v6-S@66.7 (in-loop),u640 + comp.,missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,66.7,DESP v6-S@66.7 (in-loop),u640 + comp.,false_per_1000,-2.021563342318059,-4.270622611822881,0.22938323956094855,False
+av2t40,66.7,DESP v6-S@66.7 (in-loop),u640 + comp.,late_share,0.03840970350404313,0.019047506774036452,0.06419472465018743,True
+av2t40,66.7,DESP v6-S@66.7 (in-loop),u800 + comp. (dyn),G,-0.06848255892529054,-0.22846186783794048,0.10558545242288647,False
+av2t40,66.7,DESP v6-S@66.7 (in-loop),u800 + comp. (dyn),missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,66.7,DESP v6-S@66.7 (in-loop),u800 + comp. (dyn),false_per_1000,-0.7861635220125782,-2.641574561009389,1.0186843720011804,False
+av2t40,66.7,DESP v6-S@66.7 (in-loop),u800 + comp. (dyn),late_share,0.03863432165318958,0.018877085160131094,0.06514690134892635,True
+av2t40,66.7,DESP v6-S@66.7 (in-loop),u960 + comp.,G,-0.06703691889917873,-0.23240789296942038,0.10844296638100302,False
+av2t40,66.7,DESP v6-S@66.7 (in-loop),u960 + comp.,missed_rate,0.047619047619047616,-0.04168882978723403,0.1463593974175035,False
+av2t40,66.7,DESP v6-S@66.7 (in-loop),u960 + comp.,false_per_1000,-1.0107816711590294,-3.093979854484089,0.7865417902006815,False
+av2t40,66.7,DESP v6-S@66.7 (in-loop),u960 + comp.,late_share,0.0373989218328841,0.017490695404794854,0.06354945886087832,True
+av2t40,66.7,DESP v6-S@66.7 (in-loop),u1280 + comp.,G,-0.0931523222073124,-0.2674873449822489,0.09030265004005152,False
+av2t40,66.7,DESP v6-S@66.7 (in-loop),u1280 + comp.,missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,66.7,DESP v6-S@66.7 (in-loop),u1280 + comp.,false_per_1000,-2.021563342318059,-4.606427680979459,0.4559944559944564,False
+av2t40,66.7,DESP v6-S@66.7 (in-loop),u1280 + comp.,late_share,0.03459119496855346,0.015040002564420913,0.060509491490379944,True
+av2t40,66.7,DESP v6-S@66.7 (in-loop),native + comp.,G,1.9617676997831395,1.113113519664363,2.9650261038449903,True
+av2t40,66.7,DESP v6-S@66.7 (in-loop),native + comp.,missed_rate,-0.8015873015873016,-0.9145299145299146,-0.675,True
+av2t40,66.7,DESP v6-S@66.7 (in-loop),native + comp.,false_per_1000,6.064690026954178,3.648943113611672,8.581443001917538,True
+av2t40,66.7,DESP v6-S@66.7 (in-loop),native + comp.,late_share,-0.679806828391734,-0.7487699174512554,-0.6060550356506238,True
+av2t40,66.7,DESP v6-S@66.7 (in-loop),"u960 + comp. (dyn engine, control)",G,-0.08982136891908465,-0.24493964927206283,0.0625139747682052,False
+av2t40,66.7,DESP v6-S@66.7 (in-loop),"u960 + comp. (dyn engine, control)",missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,66.7,DESP v6-S@66.7 (in-loop),"u960 + comp. (dyn engine, control)",false_per_1000,-1.684636118598383,-3.678991327629358,0.1100459310636947,False
+av2t40,66.7,DESP v6-S@66.7 (in-loop),"u960 + comp. (dyn engine, control)",late_share,0.03762353998203055,0.017460499314034053,0.06435539682266683,True
+av2t40,66.7,DESP v6-S@66.7 (in-loop),hybrid tsp8 + comp. @ DESP px,G,0.4040050557785194,0.030608543367705108,0.9036011509577355,True
+av2t40,66.7,DESP v6-S@66.7 (in-loop),hybrid tsp8 + comp. @ DESP px,missed_rate,-0.14285714285714285,-0.23076923076923078,-0.05263157894736842,True
+av2t40,66.7,DESP v6-S@66.7 (in-loop),hybrid tsp8 + comp. @ DESP px,false_per_1000,2.8077268643306383,1.1146604224483498,4.760365659604358,True
+av2t40,66.7,DESP v6-S@66.7 (in-loop),hybrid tsp8 + comp. @ DESP px,late_share,-0.12387690925426775,-0.1690895228508865,-0.0838023041579183,True
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),u512 + comp.,G,-0.024367464203391864,-0.1815459448104824,0.14535583667839114,False
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),u512 + comp.,missed_rate,0.023809523809523808,-0.05003205128205129,0.11627906976744186,False
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),u512 + comp.,false_per_1000,-3.593890386343217,-6.69652613095509,-0.6740588751595724,True
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),u512 + comp.,late_share,0.03537735849056604,0.013605328418993015,0.0631075771678754,True
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),u640 + comp.,G,-0.03836463339047813,-0.18614470994784862,0.11230055545428161,False
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),u640 + comp.,missed_rate,0.023809523809523808,-0.04878048780487804,0.11907142857142844,False
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),u640 + comp.,false_per_1000,-2.5831087151841867,-4.74906296143795,-0.22920610713176326,True
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),u640 + comp.,late_share,0.03537735849056604,0.014386103151539877,0.0628914868670681,True
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),u800 + comp. (dyn),G,-0.04716495357752015,-0.19694118841014646,0.1183624086829456,False
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),u800 + comp. (dyn),missed_rate,0.023809523809523808,-0.04878048780487804,0.11907142857142844,False
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),u800 + comp. (dyn),false_per_1000,-1.3477088948787062,-3.1225866254505408,0.4459346104799724,False
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),u800 + comp. (dyn),late_share,0.035601976639712485,0.01441877888233826,0.06312340164406774,True
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),u960 + comp.,G,-0.04571931355140835,-0.19801565403008548,0.11994297728690523,False
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),u960 + comp.,missed_rate,0.023809523809523808,-0.05003205128205129,0.11627906976744186,False
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),u960 + comp.,false_per_1000,-1.5723270440251573,-3.614685881764586,0.11303362499442084,False
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),u960 + comp.,late_share,0.034366576819407,0.013045458722278377,0.06164846243989168,True
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),u1280 + comp.,G,-0.07183471685954201,-0.23211853243827366,0.10052491817777028,False
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),u1280 + comp.,missed_rate,0.023809523809523808,-0.04878048780487804,0.11907142857142844,False
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),u1280 + comp.,false_per_1000,-2.5831087151841867,-5.057358892632522,-0.22177313700946422,True
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),u1280 + comp.,late_share,0.031558849955076365,0.010801682470673342,0.05832510566453525,True
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),native + comp.,G,1.9830853051309099,1.133968660273646,2.985865095089035,True
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),native + comp.,missed_rate,-0.8253968253968255,-0.9206349206349207,-0.7166421568627452,True
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),native + comp.,false_per_1000,5.50314465408805,3.1221448509574854,7.853753771454667,True
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),native + comp.,late_share,-0.6828391734052112,-0.7527954210002403,-0.6094441645410233,True
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),"u960 + comp. (dyn engine, control)",G,-0.06850376357131427,-0.2113776111115117,0.0747133884696395,False
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),"u960 + comp. (dyn engine, control)",missed_rate,0.023809523809523808,-0.04878048780487804,0.11907142857142844,False
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),"u960 + comp. (dyn engine, control)",false_per_1000,-2.246181491464511,-4.012204060271907,-0.5650681548146266,True
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),"u960 + comp. (dyn engine, control)",late_share,0.03459119496855346,0.01273065171209524,0.0623015820099406,True
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),hybrid tsp8 + comp. @ DESP px,G,0.4253226611262898,0.04306205449004877,0.928371233546714,True
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),hybrid tsp8 + comp. @ DESP px,missed_rate,-0.16666666666666666,-0.276595744680851,-0.05882352941176472,True
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),hybrid tsp8 + comp. @ DESP px,false_per_1000,2.2461814914645104,0.6933618749594034,4.122137841033498,True
+av2t40,66.7,DESP B2K-A@66.7 (in-loop),hybrid tsp8 + comp. @ DESP px,late_share,-0.12690925426774485,-0.1720775167486238,-0.08694133830160393,True
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u512 + comp.,G,-0.0916895707455413,-0.24525857530157047,0.05137916317957944,False
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u512 + comp.,missed_rate,0.047619047619047616,-0.04168882978723403,0.1463593974175035,False
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u512 + comp.,false_per_1000,0.33692722371967676,-2.990482926785937,3.9977361803390803,False
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u512 + comp.,late_share,0.004155435759209344,-0.0012187191487217262,0.010900188364855718,False
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u640 + comp.,G,-0.10568673993262756,-0.2549316859106836,0.03703173574985721,False
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u640 + comp.,missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u640 + comp.,false_per_1000,1.347708894878707,-1.3577847779556633,4.427312040829932,False
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u640 + comp.,late_share,0.004155435759209344,-0.0006557430815800935,0.010359116572976671,False
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u800 + comp. (dyn),G,-0.11448706011966958,-0.25988655174580605,0.02257120718523628,False
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u800 + comp. (dyn),missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u800 + comp. (dyn),false_per_1000,2.5831087151841876,-0.44976334370934656,5.985968204436198,False
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u800 + comp. (dyn),late_share,0.004380053908355795,-0.0007907192510664421,0.011065585605269365,False
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u960 + comp.,G,-0.11304142009355778,-0.26548990160142144,0.03201518746238675,False
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u960 + comp.,missed_rate,0.047619047619047616,-0.04168882978723403,0.1463593974175035,False
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u960 + comp.,false_per_1000,2.3584905660377364,-1.0121628345001599,6.01433475341582,False
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u960 + comp.,late_share,0.0031446540880503146,-0.0026630593216158153,0.009827188605062346,False
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u1280 + comp.,G,-0.13915682340169144,-0.3014202127569344,0.01964024080505968,False
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u1280 + comp.,missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u1280 + comp.,false_per_1000,1.347708894878707,-2.037007905804132,5.064790250078643,False
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),u1280 + comp.,late_share,0.00033692722371967635,-0.006344065532572113,0.007232197913284526,False
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),native + comp.,G,1.9157631985887602,1.089399028651216,2.9038486556015024,True
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),native + comp.,missed_rate,-0.8015873015873016,-0.9145299145299146,-0.675,True
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),native + comp.,false_per_1000,9.433962264150944,5.683622869946291,13.66680296757644,True
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),native + comp.,late_share,-0.7140610961365678,-0.7868975983109,-0.6397113721986137,True
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),"u960 + comp. (dyn engine, control)",G,-0.1358258701134637,-0.27710702476313687,-0.0035578700951980897,True
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),"u960 + comp. (dyn engine, control)",missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),"u960 + comp. (dyn engine, control)",false_per_1000,1.684636118598383,-1.6370396924136663,5.2771319348293675,False
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),"u960 + comp. (dyn engine, control)",late_share,0.0033692722371967652,-0.0027901395153878393,0.010677467612340114,False
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),hybrid tsp8 + comp. @ DESP px,G,0.3580005545841404,0.011006118352308926,0.7895271422804349,True
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),hybrid tsp8 + comp. @ DESP px,missed_rate,-0.14285714285714285,-0.23076923076923078,-0.05263157894736842,True
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),hybrid tsp8 + comp. @ DESP px,false_per_1000,6.176999101527404,2.9624849033816423,9.722101023661663,True
+av2t40,66.7,DESP B1K-A (post-hoc)@66.7 (in-loop),hybrid tsp8 + comp. @ DESP px,late_share,-0.15813117699910154,-0.21550079777829526,-0.10828402305238584,True
+av2t40,83.3,DESP v6-S@83.3 (in-loop),u512 + comp.,G,-0.07041909886101216,-0.22379824573312318,0.0667482644962726,False
+av2t40,83.3,DESP v6-S@83.3 (in-loop),u512 + comp.,missed_rate,0.047619047619047616,-0.04168882978723403,0.1463593974175035,False
+av2t40,83.3,DESP v6-S@83.3 (in-loop),u512 + comp.,false_per_1000,-3.032345013477089,-6.185620169186988,-0.32977202058186034,True
+av2t40,83.3,DESP v6-S@83.3 (in-loop),u512 + comp.,late_share,0.017632524707996405,0.007024362034618138,0.03079424455300788,True
+av2t40,83.3,DESP v6-S@83.3 (in-loop),u640 + comp.,G,-0.08331683578163562,-0.23371626374370966,0.054816760883749885,False
+av2t40,83.3,DESP v6-S@83.3 (in-loop),u640 + comp.,missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,83.3,DESP v6-S@83.3 (in-loop),u640 + comp.,false_per_1000,-2.021563342318059,-4.1087477999246955,0.3347840642785398,False
+av2t40,83.3,DESP v6-S@83.3 (in-loop),u640 + comp.,late_share,0.017857142857142856,0.007289286915185546,0.03081316159337384,True
+av2t40,83.3,DESP v6-S@83.3 (in-loop),u800 + comp. (dyn),G,-0.0912683228743495,-0.23553412538009488,0.03674931121163853,False
+av2t40,83.3,DESP v6-S@83.3 (in-loop),u800 + comp. (dyn),missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,83.3,DESP v6-S@83.3 (in-loop),u800 + comp. (dyn),false_per_1000,-1.0107816711590294,-2.752025350406491,0.6788923889778317,False
+av2t40,83.3,DESP v6-S@83.3 (in-loop),u800 + comp. (dyn),late_share,0.018081761006289308,0.007289286915185546,0.03104070793508279,True
+av2t40,83.3,DESP v6-S@83.3 (in-loop),u960 + comp.,G,-0.09067151594256584,-0.23931926005335752,0.047454893568335405,False
+av2t40,83.3,DESP v6-S@83.3 (in-loop),u960 + comp.,missed_rate,0.047619047619047616,-0.04168882978723403,0.1463593974175035,False
+av2t40,83.3,DESP v6-S@83.3 (in-loop),u960 + comp.,false_per_1000,-1.0107816711590294,-2.975280450251872,0.6629376868836655,False
+av2t40,83.3,DESP v6-S@83.3 (in-loop),u960 + comp.,late_share,0.017070979335130278,0.006276634669367969,0.030805485948978716,True
+av2t40,83.3,DESP v6-S@83.3 (in-loop),u1280 + comp.,G,-0.11184173858503332,-0.27284895530264747,0.038065435929817704,False
+av2t40,83.3,DESP v6-S@83.3 (in-loop),u1280 + comp.,missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,83.3,DESP v6-S@83.3 (in-loop),u1280 + comp.,false_per_1000,-2.021563342318059,-4.414788581054116,0.3392159033932357,False
+av2t40,83.3,DESP v6-S@83.3 (in-loop),u1280 + comp.,late_share,0.017183288409703505,0.006645105402222605,0.03068956800659976,True
+av2t40,83.3,DESP v6-S@83.3 (in-loop),native + comp.,G,0.12461969491758662,-0.15056931053107636,0.3645957082463258,False
+av2t40,83.3,DESP v6-S@83.3 (in-loop),native + comp.,missed_rate,0.023809523809523808,-0.05003205128205129,0.11627906976744184,False
+av2t40,83.3,DESP v6-S@83.3 (in-loop),native + comp.,false_per_1000,1.3477088948787062,-1.8354941192122298,4.674574602947873,False
+av2t40,83.3,DESP v6-S@83.3 (in-loop),native + comp.,late_share,-0.03167115902964959,-0.053406460188915914,-0.014697896770231738,True
+av2t40,83.3,DESP v6-S@83.3 (in-loop),"u960 + comp. (dyn engine, control)",G,-0.11345875853905596,-0.25285971819315395,0.0131029252180018,False
+av2t40,83.3,DESP v6-S@83.3 (in-loop),"u960 + comp. (dyn engine, control)",missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,83.3,DESP v6-S@83.3 (in-loop),"u960 + comp. (dyn engine, control)",false_per_1000,-1.684636118598383,-3.387533875338753,0.0,False
+av2t40,83.3,DESP v6-S@83.3 (in-loop),"u960 + comp. (dyn engine, control)",late_share,0.017070979335130278,0.006276634669367969,0.030805485948978716,True
+av2t40,83.3,DESP v6-S@83.3 (in-loop),hybrid tsp8 + comp. @ DESP px,G,-0.04161039341190065,-0.1058583819354878,0.021697136352878805,False
+av2t40,83.3,DESP v6-S@83.3 (in-loop),hybrid tsp8 + comp. @ DESP px,missed_rate,0.0,0.0,0.0,False
+av2t40,83.3,DESP v6-S@83.3 (in-loop),hybrid tsp8 + comp. @ DESP px,false_per_1000,2.0215633423180597,0.33932813030200215,4.014855138859232,True
+av2t40,83.3,DESP v6-S@83.3 (in-loop),hybrid tsp8 + comp. @ DESP px,late_share,-0.06805929919137467,-0.10288182422271186,-0.039356489874531955,True
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),u512 + comp.,G,-0.023799241231406976,-0.17928930652262046,0.1434021172592629,False
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),u512 + comp.,missed_rate,0.023809523809523808,-0.05003205128205129,0.11627906976744186,False
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),u512 + comp.,false_per_1000,-3.032345013477089,-6.185620169186988,-0.32977202058186034,True
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),u512 + comp.,late_share,0.015610961365678345,0.00400611244504453,0.030891851244445948,True
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),u640 + comp.,G,-0.036696978152030435,-0.1818951881415507,0.1102961344762679,False
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),u640 + comp.,missed_rate,0.023809523809523808,-0.04878048780487804,0.11907142857142844,False
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),u640 + comp.,false_per_1000,-2.021563342318059,-4.1087477999246955,0.3347840642785398,False
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),u640 + comp.,late_share,0.015835579514824796,0.004503411909735095,0.030541995556770198,True
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),u800 + comp. (dyn),G,-0.044648465244744306,-0.1904293287862261,0.11818588256480621,False
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),u800 + comp. (dyn),missed_rate,0.023809523809523808,-0.04878048780487804,0.11907142857142844,False
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),u800 + comp. (dyn),false_per_1000,-1.0107816711590294,-2.752025350406491,0.6788923889778317,False
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),u800 + comp. (dyn),late_share,0.016060197663971248,0.004565489942816254,0.031250016242019986,True
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),u960 + comp.,G,-0.04405165831296065,-0.19297713144228457,0.11649224048263407,False
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),u960 + comp.,missed_rate,0.023809523809523808,-0.05003205128205129,0.11627906976744186,False
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),u960 + comp.,false_per_1000,-1.0107816711590294,-2.975280450251872,0.6629376868836655,False
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),u960 + comp.,late_share,0.015049415992812218,0.0032328101047907815,0.030224267661031343,True
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),u1280 + comp.,G,-0.06522188095542814,-0.22457210677071665,0.10177134494635506,False
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),u1280 + comp.,missed_rate,0.023809523809523808,-0.04878048780487804,0.11907142857142844,False
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),u1280 + comp.,false_per_1000,-2.021563342318059,-4.414788581054116,0.3392159033932357,False
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),u1280 + comp.,late_share,0.015161725067385444,0.003616665034466081,0.030246251143145463,True
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),native + comp.,G,0.1712395525471918,-0.09772548052447497,0.39787901694306727,False
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),native + comp.,missed_rate,0.0,-0.08695652173913045,0.1,False
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),native + comp.,false_per_1000,1.3477088948787062,-1.8354941192122298,4.674574602947873,False
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),native + comp.,late_share,-0.03369272237196766,-0.05430016900294207,-0.017681031253347218,True
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),"u960 + comp. (dyn engine, control)",G,-0.06683890090945077,-0.2071749762343139,0.07357792842154322,False
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),"u960 + comp. (dyn engine, control)",missed_rate,0.023809523809523808,-0.04878048780487804,0.11907142857142844,False
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),"u960 + comp. (dyn engine, control)",false_per_1000,-1.684636118598383,-3.387533875338753,0.0,False
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),"u960 + comp. (dyn engine, control)",late_share,0.015049415992812218,0.0032328101047907815,0.030224267661031343,True
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),hybrid tsp8 + comp. @ DESP px,G,0.00500946421770454,-0.03565782994514363,0.04180987779670571,False
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),hybrid tsp8 + comp. @ DESP px,missed_rate,-0.023809523809523808,-0.07500000000000001,0.0,False
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),hybrid tsp8 + comp. @ DESP px,false_per_1000,2.0215633423180597,0.33932813030200215,4.014855138859232,True
+av2t40,83.3,DESP B2K-A@83.3 (in-loop),hybrid tsp8 + comp. @ DESP px,late_share,-0.07008086253369272,-0.10525703752797291,-0.042028194731999084,True
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u512 + comp.,G,-0.09112163405672236,-0.24326037720329372,0.0507957879930216,False
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u512 + comp.,missed_rate,0.047619047619047616,-0.04168882978723403,0.1463593974175035,False
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u512 + comp.,false_per_1000,0.33692722371967676,-2.990482926785937,3.9977361803390803,False
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u512 + comp.,late_share,-0.00011230907457322552,-0.0011157141178234635,0.0008981775441163965,False
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u640 + comp.,G,-0.10401937097734582,-0.2511982957880897,0.037046007244224605,False
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u640 + comp.,missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u640 + comp.,false_per_1000,1.347708894878707,-1.3577847779556633,4.427312040829932,False
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u640 + comp.,late_share,0.00011230907457322552,0.0,0.0003443526170798898,False
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u800 + comp. (dyn),G,-0.11197085807005969,-0.2538180457699156,0.02285492481703466,False
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u800 + comp. (dyn),missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u800 + comp. (dyn),false_per_1000,2.3584905660377364,-0.6821515368386522,5.785978384387797,False
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u800 + comp. (dyn),late_share,0.00033692722371967657,0.0,0.0010330578512396695,False
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u960 + comp.,G,-0.11137405113827603,-0.26078970797938034,0.0325411252055163,False
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u960 + comp.,missed_rate,0.047619047619047616,-0.04168882978723403,0.1463593974175035,False
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u960 + comp.,false_per_1000,2.3584905660377364,-1.0121628345001599,6.01433475341582,False
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u960 + comp.,late_share,-0.0006738544474393531,-0.003014065639651708,0.001004352192835621,False
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u1280 + comp.,G,-0.13254427378074352,-0.2940500056443455,0.02550497636329546,False
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u1280 + comp.,missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u1280 + comp.,false_per_1000,1.347708894878707,-2.037007905804132,5.064790250078643,False
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),u1280 + comp.,late_share,-0.0005615453728661276,-0.0022282012531373145,0.0007806531921961076,False
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),native + comp.,G,0.10391715972187643,-0.18583616806971176,0.3558126181238332,False
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),native + comp.,missed_rate,0.023809523809523808,-0.05003205128205129,0.11627906976744184,False
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),native + comp.,false_per_1000,4.716981132075472,0.43462171931178833,9.168516464231732,True
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),native + comp.,late_share,-0.04941599281221923,-0.08196047448108951,-0.023121029735594732,True
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),"u960 + comp. (dyn engine, control)",G,-0.13416129373476615,-0.2736250605121741,-0.0034947199347505654,True
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),"u960 + comp. (dyn engine, control)",missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),"u960 + comp. (dyn engine, control)",false_per_1000,1.684636118598383,-1.6370396924136663,5.2771319348293675,False
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),"u960 + comp. (dyn engine, control)",late_share,-0.0006738544474393531,-0.003014065639651708,0.001004352192835621,False
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),hybrid tsp8 + comp. @ DESP px,G,-0.06231292860761084,-0.14095153867170268,0.007780455972280265,False
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),hybrid tsp8 + comp. @ DESP px,missed_rate,0.0,0.0,0.0,False
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),hybrid tsp8 + comp. @ DESP px,false_per_1000,5.3908355795148255,2.038701370175958,9.04652135339771,True
+av2t40,83.3,DESP B1K-A (post-hoc)@83.3 (in-loop),hybrid tsp8 + comp. @ DESP px,late_share,-0.08580413297394429,-0.13037241949135733,-0.04860402148974678,True
+av2t40,100.0,DESP v6-S@100 (in-loop),u512 + comp.,G,-0.05846387631343897,-0.19176835861717456,0.06552671347316313,False
+av2t40,100.0,DESP v6-S@100 (in-loop),u512 + comp.,missed_rate,0.047619047619047616,-0.04168882978723403,0.1463593974175035,False
+av2t40,100.0,DESP v6-S@100 (in-loop),u512 + comp.,false_per_1000,-3.032345013477089,-6.185620169186988,-0.32977202058186034,True
+av2t40,100.0,DESP v6-S@100 (in-loop),u512 + comp.,late_share,0.00876010781671159,0.003172382996293747,0.01573844718265867,True
+av2t40,100.0,DESP v6-S@100 (in-loop),u640 + comp.,G,-0.07136161323406243,-0.20319812135573279,0.04899868356766439,False
+av2t40,100.0,DESP v6-S@100 (in-loop),u640 + comp.,missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,100.0,DESP v6-S@100 (in-loop),u640 + comp.,false_per_1000,-2.021563342318059,-4.1087477999246955,0.3347840642785398,False
+av2t40,100.0,DESP v6-S@100 (in-loop),u640 + comp.,late_share,0.009097035040431268,0.0035782152429921694,0.01606713067871103,True
+av2t40,100.0,DESP v6-S@100 (in-loop),u800 + comp. (dyn),G,-0.0793131003267763,-0.20502228866042677,0.03709571973999645,False
+av2t40,100.0,DESP v6-S@100 (in-loop),u800 + comp. (dyn),missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,100.0,DESP v6-S@100 (in-loop),u800 + comp. (dyn),false_per_1000,-1.0107816711590294,-2.752025350406491,0.6788923889778317,False
+av2t40,100.0,DESP v6-S@100 (in-loop),u800 + comp. (dyn),late_share,0.009097035040431268,0.0035782152429921694,0.01606713067871103,True
+av2t40,100.0,DESP v6-S@100 (in-loop),u960 + comp.,G,-0.07871629339499264,-0.2100379161432219,0.047686649063426116,False
+av2t40,100.0,DESP v6-S@100 (in-loop),u960 + comp.,missed_rate,0.047619047619047616,-0.04168882978723403,0.1463593974175035,False
+av2t40,100.0,DESP v6-S@100 (in-loop),u960 + comp.,false_per_1000,-1.0107816711590294,-2.975280450251872,0.6629376868836655,False
+av2t40,100.0,DESP v6-S@100 (in-loop),u960 + comp.,late_share,0.008647798742138366,0.0029869818100345014,0.015613963545375873,True
+av2t40,100.0,DESP v6-S@100 (in-loop),u1280 + comp.,G,-0.09879780878647293,-0.24119527839058597,0.03684710494831064,False
+av2t40,100.0,DESP v6-S@100 (in-loop),u1280 + comp.,missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,100.0,DESP v6-S@100 (in-loop),u1280 + comp.,false_per_1000,-2.021563342318059,-4.414788581054116,0.3392159033932357,False
+av2t40,100.0,DESP v6-S@100 (in-loop),u1280 + comp.,late_share,0.009097035040431268,0.0035782152429921694,0.01606713067871103,True
+av2t40,100.0,DESP v6-S@100 (in-loop),native + comp.,G,0.15343299255907095,-0.08274765426297478,0.3683081861436413,False
+av2t40,100.0,DESP v6-S@100 (in-loop),native + comp.,missed_rate,0.023809523809523808,-0.05003205128205129,0.11627906976744184,False
+av2t40,100.0,DESP v6-S@100 (in-loop),native + comp.,false_per_1000,0.0,-4.051832200062916,3.844949922533544,False
+av2t40,100.0,DESP v6-S@100 (in-loop),native + comp.,late_share,0.007861635220125786,0.0029271234047749894,0.014231293267191176,True
+av2t40,100.0,DESP v6-S@100 (in-loop),"u960 + comp. (dyn engine, control)",G,-0.10150353599148276,-0.22376874303593505,0.00915117746176171,False
+av2t40,100.0,DESP v6-S@100 (in-loop),"u960 + comp. (dyn engine, control)",missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,100.0,DESP v6-S@100 (in-loop),"u960 + comp. (dyn engine, control)",false_per_1000,-1.684636118598383,-3.387533875338753,0.0,False
+av2t40,100.0,DESP v6-S@100 (in-loop),"u960 + comp. (dyn engine, control)",late_share,0.00876010781671159,0.0031908501837246096,0.015731037427860733,True
+av2t40,100.0,DESP v6-S@100 (in-loop),hybrid tsp8 + comp. @ DESP px,G,-0.023603600012246262,-0.09187139564653433,0.017103513186764445,False
+av2t40,100.0,DESP v6-S@100 (in-loop),hybrid tsp8 + comp. @ DESP px,missed_rate,0.0,0.0,0.0,False
+av2t40,100.0,DESP v6-S@100 (in-loop),hybrid tsp8 + comp. @ DESP px,false_per_1000,2.0215633423180597,0.33932813030200215,4.014855138859232,True
+av2t40,100.0,DESP v6-S@100 (in-loop),hybrid tsp8 + comp. @ DESP px,late_share,-0.03571428571428571,-0.060545633238194556,-0.015610124574401118,True
+av2t40,100.0,DESP B2K-A@100 (in-loop),u512 + comp.,G,-0.054480537870734924,-0.18813563123908386,0.06906214435128663,False
+av2t40,100.0,DESP B2K-A@100 (in-loop),u512 + comp.,missed_rate,0.023809523809523808,-0.05003205128205129,0.11627906976744186,False
+av2t40,100.0,DESP B2K-A@100 (in-loop),u512 + comp.,false_per_1000,-3.032345013477089,-6.185620169186988,-0.32977202058186034,True
+av2t40,100.0,DESP B2K-A@100 (in-loop),u512 + comp.,late_share,0.005053908355795149,0.00011072642269775052,0.011553348268178231,True
+av2t40,100.0,DESP B2K-A@100 (in-loop),u640 + comp.,G,-0.06737827479135838,-0.2015753903186883,0.05702981925115602,False
+av2t40,100.0,DESP B2K-A@100 (in-loop),u640 + comp.,missed_rate,0.023809523809523808,-0.04878048780487804,0.11907142857142844,False
+av2t40,100.0,DESP B2K-A@100 (in-loop),u640 + comp.,false_per_1000,-2.021563342318059,-4.1087477999246955,0.3347840642785398,False
+av2t40,100.0,DESP B2K-A@100 (in-loop),u640 + comp.,late_share,0.005390835579514825,0.00043975011316445517,0.011761445895218327,True
+av2t40,100.0,DESP B2K-A@100 (in-loop),u800 + comp. (dyn),G,-0.07532976188407225,-0.20114898349936536,0.04114530314315522,False
+av2t40,100.0,DESP B2K-A@100 (in-loop),u800 + comp. (dyn),missed_rate,0.023809523809523808,-0.04878048780487804,0.11907142857142844,False
+av2t40,100.0,DESP B2K-A@100 (in-loop),u800 + comp. (dyn),false_per_1000,-1.0107816711590294,-2.752025350406491,0.6788923889778317,False
+av2t40,100.0,DESP B2K-A@100 (in-loop),u800 + comp. (dyn),late_share,0.005390835579514825,0.00043975011316445517,0.011761445895218327,True
+av2t40,100.0,DESP B2K-A@100 (in-loop),u960 + comp.,G,-0.0747329549522886,-0.2081379120639132,0.05078043557654206,False
+av2t40,100.0,DESP B2K-A@100 (in-loop),u960 + comp.,missed_rate,0.023809523809523808,-0.05003205128205129,0.11627906976744186,False
+av2t40,100.0,DESP B2K-A@100 (in-loop),u960 + comp.,false_per_1000,-1.0107816711590294,-2.975280450251872,0.6629376868836655,False
+av2t40,100.0,DESP B2K-A@100 (in-loop),u960 + comp.,late_share,0.004941599281221923,-0.00021973373822545134,0.011439671339867175,False
+av2t40,100.0,DESP B2K-A@100 (in-loop),u1280 + comp.,G,-0.09481447034376889,-0.2366504483406395,0.04055920097961117,False
+av2t40,100.0,DESP B2K-A@100 (in-loop),u1280 + comp.,missed_rate,0.023809523809523808,-0.04878048780487804,0.11907142857142844,False
+av2t40,100.0,DESP B2K-A@100 (in-loop),u1280 + comp.,false_per_1000,-2.021563342318059,-4.414788581054116,0.3392159033932357,False
+av2t40,100.0,DESP B2K-A@100 (in-loop),u1280 + comp.,late_share,0.005390835579514825,0.00043975011316445517,0.011761445895218327,True
+av2t40,100.0,DESP B2K-A@100 (in-loop),native + comp.,G,0.157416331001775,-0.07447298072382037,0.36730602072015156,False
+av2t40,100.0,DESP B2K-A@100 (in-loop),native + comp.,missed_rate,0.0,-0.08695652173913045,0.1,False
+av2t40,100.0,DESP B2K-A@100 (in-loop),native + comp.,false_per_1000,0.0,-4.051832200062916,3.844949922533544,False
+av2t40,100.0,DESP B2K-A@100 (in-loop),native + comp.,late_share,0.0041554357592093446,-0.00021874789135207802,0.009700726463268012,False
+av2t40,100.0,DESP B2K-A@100 (in-loop),"u960 + comp. (dyn engine, control)",G,-0.09752019754877872,-0.22054184299902618,0.015289683843665632,False
+av2t40,100.0,DESP B2K-A@100 (in-loop),"u960 + comp. (dyn engine, control)",missed_rate,0.023809523809523808,-0.04878048780487804,0.11907142857142844,False
+av2t40,100.0,DESP B2K-A@100 (in-loop),"u960 + comp. (dyn engine, control)",false_per_1000,-1.684636118598383,-3.387533875338753,0.0,False
+av2t40,100.0,DESP B2K-A@100 (in-loop),"u960 + comp. (dyn engine, control)",late_share,0.005053908355795149,-0.00010986686911272563,0.011479910499310094,False
+av2t40,100.0,DESP B2K-A@100 (in-loop),hybrid tsp8 + comp. @ DESP px,G,-0.01962026156954222,-0.09695108092432979,0.028067668766367848,False
+av2t40,100.0,DESP B2K-A@100 (in-loop),hybrid tsp8 + comp. @ DESP px,missed_rate,-0.023809523809523808,-0.07500000000000001,0.0,False
+av2t40,100.0,DESP B2K-A@100 (in-loop),hybrid tsp8 + comp. @ DESP px,false_per_1000,2.0215633423180597,0.33932813030200215,4.014855138859232,True
+av2t40,100.0,DESP B2K-A@100 (in-loop),hybrid tsp8 + comp. @ DESP px,late_share,-0.03942048517520215,-0.06612363830491251,-0.018663026285099017,True
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u512 + comp.,G,-0.09112163405672236,-0.24326037720329372,0.0507957879930216,False
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u512 + comp.,missed_rate,0.047619047619047616,-0.04168882978723403,0.1463593974175035,False
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u512 + comp.,false_per_1000,0.33692722371967676,-2.990482926785937,3.9977361803390803,False
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u512 + comp.,late_share,-0.00033692722371967657,-0.0010323468685478321,0.0,False
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u640 + comp.,G,-0.10401937097734582,-0.2511982957880897,0.037046007244224605,False
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u640 + comp.,missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u640 + comp.,false_per_1000,1.347708894878707,-1.3577847779556633,4.427312040829932,False
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u640 + comp.,late_share,0.0,0.0,0.0,False
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u800 + comp. (dyn),G,-0.11197085807005969,-0.2538180457699156,0.02285492481703466,False
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u800 + comp. (dyn),missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u800 + comp. (dyn),false_per_1000,2.3584905660377364,-0.6821515368386522,5.785978384387797,False
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u800 + comp. (dyn),late_share,0.0,0.0,0.0,False
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u960 + comp.,G,-0.11137405113827603,-0.26078970797938034,0.0325411252055163,False
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u960 + comp.,missed_rate,0.047619047619047616,-0.04168882978723403,0.1463593974175035,False
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u960 + comp.,false_per_1000,2.3584905660377364,-1.0121628345001599,6.01433475341582,False
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u960 + comp.,late_share,-0.0004492362982929021,-0.0013647335822902877,0.0,False
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u1280 + comp.,G,-0.13145556652975632,-0.2914859734324556,0.02550497636329546,False
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u1280 + comp.,missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u1280 + comp.,false_per_1000,1.347708894878707,-2.037007905804132,5.064790250078643,False
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),u1280 + comp.,late_share,0.0,0.0,0.0,False
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),native + comp.,G,0.12077523481578756,-0.10771233421736014,0.3402793015098906,False
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),native + comp.,missed_rate,0.023809523809523808,-0.05003205128205129,0.11627906976744184,False
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),native + comp.,false_per_1000,3.369272237196766,-1.6880486158001347,8.485715450789398,False
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),native + comp.,late_share,-0.0012353998203054807,-0.00258226043933464,-0.0002229617143300008,True
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),"u960 + comp. (dyn engine, control)",G,-0.13416129373476615,-0.2736250605121741,-0.0034947199347505654,True
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),"u960 + comp. (dyn engine, control)",missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),"u960 + comp. (dyn engine, control)",false_per_1000,1.684636118598383,-1.6370396924136663,5.2771319348293675,False
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),"u960 + comp. (dyn engine, control)",late_share,-0.00033692722371967657,-0.0010235501867177157,0.0,False
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),hybrid tsp8 + comp. @ DESP px,G,-0.05626135775552965,-0.14050169977028917,0.010010684526132612,False
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),hybrid tsp8 + comp. @ DESP px,missed_rate,0.0,0.0,0.0,False
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),hybrid tsp8 + comp. @ DESP px,false_per_1000,5.3908355795148255,2.038701370175958,9.04652135339771,True
+av2t40,100.0,DESP B1K-A (post-hoc)@100 (in-loop),hybrid tsp8 + comp. @ DESP px,late_share,-0.04481132075471698,-0.0759877096836908,-0.02026033597643043,True
+av2t40,inf,DESP v6-S,u512 + comp.,G,-0.06088743751377368,-0.19270131667573573,0.05872172110158252,False
+av2t40,inf,DESP v6-S,u512 + comp.,missed_rate,0.047619047619047616,-0.04168882978723403,0.1463593974175035,False
+av2t40,inf,DESP v6-S,u512 + comp.,false_per_1000,-3.032345013477089,-6.185620169186988,-0.32977202058186034,True
+av2t40,inf,DESP v6-S,u512 + comp.,late_share,0.0,0.0,0.0,False
+av2t40,inf,DESP v6-S,u640 + comp.,G,-0.0754357651417632,-0.2061395556052302,0.045586862719375544,False
+av2t40,inf,DESP v6-S,u640 + comp.,missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,inf,DESP v6-S,u640 + comp.,false_per_1000,-2.021563342318059,-4.1087477999246955,0.3347840642785398,False
+av2t40,inf,DESP v6-S,u640 + comp.,late_share,0.0,0.0,0.0,False
+av2t40,inf,DESP v6-S,u800 + comp. (dyn),G,-0.08338725223447707,-0.20611862880695148,0.02918067309810223,False
+av2t40,inf,DESP v6-S,u800 + comp. (dyn),missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,inf,DESP v6-S,u800 + comp. (dyn),false_per_1000,-1.0107816711590294,-2.752025350406491,0.6788923889778317,False
+av2t40,inf,DESP v6-S,u800 + comp. (dyn),late_share,0.0,0.0,0.0,False
+av2t40,inf,DESP v6-S,u960 + comp.,G,-0.08279044530269342,-0.2113556608389438,0.04097724811247726,False
+av2t40,inf,DESP v6-S,u960 + comp.,missed_rate,0.047619047619047616,-0.04168882978723403,0.1463593974175035,False
+av2t40,inf,DESP v6-S,u960 + comp.,false_per_1000,-1.0107816711590294,-2.975280450251872,0.6629376868836655,False
+av2t40,inf,DESP v6-S,u960 + comp.,late_share,0.0,0.0,0.0,False
+av2t40,inf,DESP v6-S,u1280 + comp.,G,-0.1028719606941737,-0.24232019849345046,0.031593755060437254,False
+av2t40,inf,DESP v6-S,u1280 + comp.,missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,inf,DESP v6-S,u1280 + comp.,false_per_1000,-2.021563342318059,-4.414788581054116,0.3392159033932357,False
+av2t40,inf,DESP v6-S,u1280 + comp.,late_share,0.0,0.0,0.0,False
+av2t40,inf,DESP v6-S,native + comp.,G,0.1502405120457636,-0.08291262572121615,0.36208894446285245,False
+av2t40,inf,DESP v6-S,native + comp.,missed_rate,0.023809523809523808,-0.05003205128205129,0.11627906976744184,False
+av2t40,inf,DESP v6-S,native + comp.,false_per_1000,0.0,-4.051832200062916,3.844949922533544,False
+av2t40,inf,DESP v6-S,native + comp.,late_share,0.0,0.0,0.0,False
+av2t40,inf,DESP v6-S,"u960 + comp. (dyn engine, control)",G,-0.10557768789918354,-0.22612516930080392,0.006523513698942977,False
+av2t40,inf,DESP v6-S,"u960 + comp. (dyn engine, control)",missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,inf,DESP v6-S,"u960 + comp. (dyn engine, control)",false_per_1000,-1.684636118598383,-3.387533875338753,0.0,False
+av2t40,inf,DESP v6-S,"u960 + comp. (dyn engine, control)",late_share,0.0,0.0,0.0,False
+av2t40,inf,DESP v6-S,hybrid tsp8 + comp. @ DESP px,G,0.0013400255680406925,-0.00752326502595623,0.007700209877438156,False
+av2t40,inf,DESP v6-S,hybrid tsp8 + comp. @ DESP px,missed_rate,0.0,0.0,0.0,False
+av2t40,inf,DESP v6-S,hybrid tsp8 + comp. @ DESP px,false_per_1000,1.0107816711590303,0.0,2.6954177897574123,False
+av2t40,inf,DESP v6-S,hybrid tsp8 + comp. @ DESP px,late_share,0.0,0.0,0.0,False
+av2t40,inf,DESP B2K-A,u512 + comp.,G,-0.053896790513823234,-0.1879982163859737,0.06914878363922158,False
+av2t40,inf,DESP B2K-A,u512 + comp.,missed_rate,0.023809523809523808,-0.05003205128205129,0.11627906976744186,False
+av2t40,inf,DESP B2K-A,u512 + comp.,false_per_1000,-3.032345013477089,-6.185620169186988,-0.32977202058186034,True
+av2t40,inf,DESP B2K-A,u512 + comp.,late_share,0.0,0.0,0.0,False
+av2t40,inf,DESP B2K-A,u640 + comp.,G,-0.06844511814181276,-0.20161295982207728,0.05543936224708079,False
+av2t40,inf,DESP B2K-A,u640 + comp.,missed_rate,0.023809523809523808,-0.04878048780487804,0.11907142857142844,False
+av2t40,inf,DESP B2K-A,u640 + comp.,false_per_1000,-2.021563342318059,-4.1087477999246955,0.3347840642785398,False
+av2t40,inf,DESP B2K-A,u640 + comp.,late_share,0.0,0.0,0.0,False
+av2t40,inf,DESP B2K-A,u800 + comp. (dyn),G,-0.07639660523452663,-0.2019526116350231,0.039052855926581725,False
+av2t40,inf,DESP B2K-A,u800 + comp. (dyn),missed_rate,0.023809523809523808,-0.04878048780487804,0.11907142857142844,False
+av2t40,inf,DESP B2K-A,u800 + comp. (dyn),false_per_1000,-1.0107816711590294,-2.752025350406491,0.6788923889778317,False
+av2t40,inf,DESP B2K-A,u800 + comp. (dyn),late_share,0.0,0.0,0.0,False
+av2t40,inf,DESP B2K-A,u960 + comp.,G,-0.07579979830274297,-0.2081386355548526,0.04948405658432612,False
+av2t40,inf,DESP B2K-A,u960 + comp.,missed_rate,0.023809523809523808,-0.05003205128205129,0.11627906976744186,False
+av2t40,inf,DESP B2K-A,u960 + comp.,false_per_1000,-1.0107816711590294,-2.975280450251872,0.6629376868836655,False
+av2t40,inf,DESP B2K-A,u960 + comp.,late_share,0.0,0.0,0.0,False
+av2t40,inf,DESP B2K-A,u1280 + comp.,G,-0.09588131369422326,-0.23676280083724585,0.039076717774998465,False
+av2t40,inf,DESP B2K-A,u1280 + comp.,missed_rate,0.023809523809523808,-0.04878048780487804,0.11907142857142844,False
+av2t40,inf,DESP B2K-A,u1280 + comp.,false_per_1000,-2.021563342318059,-4.414788581054116,0.3392159033932357,False
+av2t40,inf,DESP B2K-A,u1280 + comp.,late_share,0.0,0.0,0.0,False
+av2t40,inf,DESP B2K-A,native + comp.,G,0.15723115904571405,-0.07339364568980448,0.36730602072015156,False
+av2t40,inf,DESP B2K-A,native + comp.,missed_rate,0.0,-0.08695652173913045,0.1,False
+av2t40,inf,DESP B2K-A,native + comp.,false_per_1000,0.0,-4.051832200062916,3.844949922533544,False
+av2t40,inf,DESP B2K-A,native + comp.,late_share,0.0,0.0,0.0,False
+av2t40,inf,DESP B2K-A,"u960 + comp. (dyn engine, control)",G,-0.09858704089923309,-0.22221164257638115,0.014403595447622396,False
+av2t40,inf,DESP B2K-A,"u960 + comp. (dyn engine, control)",missed_rate,0.023809523809523808,-0.04878048780487804,0.11907142857142844,False
+av2t40,inf,DESP B2K-A,"u960 + comp. (dyn engine, control)",false_per_1000,-1.684636118598383,-3.387533875338753,0.0,False
+av2t40,inf,DESP B2K-A,"u960 + comp. (dyn engine, control)",late_share,0.0,0.0,0.0,False
+av2t40,inf,DESP B2K-A,hybrid tsp8 + comp. @ DESP px,G,0.008330672567991138,-0.002355812803692195,0.018595473403089494,False
+av2t40,inf,DESP B2K-A,hybrid tsp8 + comp. @ DESP px,missed_rate,-0.023809523809523808,-0.07500000000000001,0.0,False
+av2t40,inf,DESP B2K-A,hybrid tsp8 + comp. @ DESP px,false_per_1000,1.0107816711590303,0.0,2.6954177897574123,False
+av2t40,inf,DESP B2K-A,hybrid tsp8 + comp. @ DESP px,late_share,0.0,0.0,0.0,False
+av2t40,inf,DESP B1K-A (post-hoc),u512 + comp.,G,-0.0894710433493563,-0.24170756252739214,0.05305389579847258,False
+av2t40,inf,DESP B1K-A (post-hoc),u512 + comp.,missed_rate,0.047619047619047616,-0.04168882978723403,0.1463593974175035,False
+av2t40,inf,DESP B1K-A (post-hoc),u512 + comp.,false_per_1000,0.33692722371967676,-2.990482926785937,3.9977361803390803,False
+av2t40,inf,DESP B1K-A (post-hoc),u512 + comp.,late_share,0.0,0.0,0.0,False
+av2t40,inf,DESP B1K-A (post-hoc),u640 + comp.,G,-0.10401937097734582,-0.2511982957880897,0.037046007244224605,False
+av2t40,inf,DESP B1K-A (post-hoc),u640 + comp.,missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,inf,DESP B1K-A (post-hoc),u640 + comp.,false_per_1000,1.347708894878707,-1.3577847779556633,4.427312040829932,False
+av2t40,inf,DESP B1K-A (post-hoc),u640 + comp.,late_share,0.0,0.0,0.0,False
+av2t40,inf,DESP B1K-A (post-hoc),u800 + comp. (dyn),G,-0.11197085807005969,-0.2538180457699156,0.02285492481703466,False
+av2t40,inf,DESP B1K-A (post-hoc),u800 + comp. (dyn),missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,inf,DESP B1K-A (post-hoc),u800 + comp. (dyn),false_per_1000,2.3584905660377364,-0.6821515368386522,5.785978384387797,False
+av2t40,inf,DESP B1K-A (post-hoc),u800 + comp. (dyn),late_share,0.0,0.0,0.0,False
+av2t40,inf,DESP B1K-A (post-hoc),u960 + comp.,G,-0.11137405113827603,-0.26078970797938034,0.0325411252055163,False
+av2t40,inf,DESP B1K-A (post-hoc),u960 + comp.,missed_rate,0.047619047619047616,-0.04168882978723403,0.1463593974175035,False
+av2t40,inf,DESP B1K-A (post-hoc),u960 + comp.,false_per_1000,2.3584905660377364,-1.0121628345001599,6.01433475341582,False
+av2t40,inf,DESP B1K-A (post-hoc),u960 + comp.,late_share,0.0,0.0,0.0,False
+av2t40,inf,DESP B1K-A (post-hoc),u1280 + comp.,G,-0.13145556652975632,-0.2914859734324556,0.02550497636329546,False
+av2t40,inf,DESP B1K-A (post-hoc),u1280 + comp.,missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,inf,DESP B1K-A (post-hoc),u1280 + comp.,false_per_1000,1.347708894878707,-2.037007905804132,5.064790250078643,False
+av2t40,inf,DESP B1K-A (post-hoc),u1280 + comp.,late_share,0.0,0.0,0.0,False
+av2t40,inf,DESP B1K-A (post-hoc),native + comp.,G,0.12165690621018099,-0.10771233421736014,0.34030079754109444,False
+av2t40,inf,DESP B1K-A (post-hoc),native + comp.,missed_rate,0.023809523809523808,-0.05003205128205129,0.11627906976744184,False
+av2t40,inf,DESP B1K-A (post-hoc),native + comp.,false_per_1000,3.369272237196766,-1.6880486158001347,8.485715450789398,False
+av2t40,inf,DESP B1K-A (post-hoc),native + comp.,late_share,0.0,0.0,0.0,False
+av2t40,inf,DESP B1K-A (post-hoc),"u960 + comp. (dyn engine, control)",G,-0.13416129373476615,-0.2736250605121741,-0.0034947199347505654,True
+av2t40,inf,DESP B1K-A (post-hoc),"u960 + comp. (dyn engine, control)",missed_rate,0.047619047619047616,0.0,0.13157894736842105,False
+av2t40,inf,DESP B1K-A (post-hoc),"u960 + comp. (dyn engine, control)",false_per_1000,1.684636118598383,-1.6370396924136663,5.2771319348293675,False
+av2t40,inf,DESP B1K-A (post-hoc),"u960 + comp. (dyn engine, control)",late_share,0.0,0.0,0.0,False
+av2t40,inf,DESP B1K-A (post-hoc),hybrid tsp8 + comp. @ DESP px,G,-0.027243580267541923,-0.0749132353797603,0.006966187334492412,False
+av2t40,inf,DESP B1K-A (post-hoc),hybrid tsp8 + comp. @ DESP px,missed_rate,0.0,0.0,0.0,False
+av2t40,inf,DESP B1K-A (post-hoc),hybrid tsp8 + comp. @ DESP px,false_per_1000,4.380053908355796,1.6611157759312198,7.639073581560283,True
+av2t40,inf,DESP B1K-A (post-hoc),hybrid tsp8 + comp. @ DESP px,late_share,0.0,0.0,0.0,False

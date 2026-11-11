@@ -1,0 +1,9 @@
+window,dataset,comparator,delta ms [95% CI]
+jetson,av2_dev,round1 combined,"+1.429 [+0.671, +1.929]"
+jetson,av2_dev,objectwise median full,"+0.296 [-0.477, +0.759]"
+jetson,nusc_val,round1 combined,"+1.691 [+1.494, +1.872]"
+jetson,nusc_val,objectwise median full,"+0.717 [+0.567, +0.851]"
+jetson_fast,av2_dev,round1 combined,"-0.425 [-0.919, -0.052]"
+jetson_fast,av2_dev,objectwise median full,"-0.573 [-1.296, -0.149]"
+jetson_fast,nusc_val,round1 combined,"-0.277 [-0.410, -0.149]"
+jetson_fast,nusc_val,objectwise median full,"-0.138 [-0.306, +0.008]"

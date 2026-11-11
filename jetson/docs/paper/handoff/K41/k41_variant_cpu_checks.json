@@ -1,0 +1,306 @@
+{
+  "oracle_fixtures": [
+    {
+      "seed": 0,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 1,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 2,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 3,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 4,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 5,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 6,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 7,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 8,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 9,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 10,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 11,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 12,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 13,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 14,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 15,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 16,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 17,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 18,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 19,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 20,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 21,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 22,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 23,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 24,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 25,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 26,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 27,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 28,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 29,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 30,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 31,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 32,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 33,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 34,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 35,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 36,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 37,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 38,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 39,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 40,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 41,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 42,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 43,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 44,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 45,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 46,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 47,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 48,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 49,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 50,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 51,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 52,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 53,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 54,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 55,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 56,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 57,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 58,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    },
+    {
+      "seed": 59,
+      "uncapped_reference_parity": true,
+      "strict_caps_pass": true
+    }
+  ],
+  "guard_pending_keep": true,
+  "network_inference": false
+}
