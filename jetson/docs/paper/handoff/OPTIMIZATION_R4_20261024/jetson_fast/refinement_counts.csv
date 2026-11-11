@@ -1,0 +1,7 @@
+dataset,pipeline,refined
+av2_dev,objectwise median full,0.599609375
+av2_dev,objectwise median skip,0.29296875
+av2_dev,round1 combined,0.599609375
+nusc_val,objectwise median full,0.052734375
+nusc_val,objectwise median skip,0.021484375
+nusc_val,round1 combined,0.052734375

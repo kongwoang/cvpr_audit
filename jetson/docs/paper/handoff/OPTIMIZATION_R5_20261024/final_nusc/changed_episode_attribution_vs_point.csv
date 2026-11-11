@@ -1,0 +1,161 @@
+dataset,pipeline,comparator,unit,start_frame,end_frame,peak_demand,transition,first_action_frame,any_decisive_supported_brake,any_decisive_supported_hard_brake,first_decisive_supported_frame,only_gap_frame_brake,detail
+nusc,critical extent retention,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,critical extent retention,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,critical extent retention,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,objectwise median,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,objectwise median,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,objectwise median,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 rollback q50,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 rollback q50,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 rollback q50,point fallback + extent retention,scene-0640,22,22,1.0046401297395375,rescued,22.0,True,False,22.0,False,"[{'frame': 22, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}]"
+nusc,R5 rollback q50,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 rollback q80,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 rollback q80,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 rollback q80,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 rollback q95,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 rollback q95,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 rollback q95,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 missing q50,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 missing q50,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 missing q50,point fallback + extent retention,scene-0389,0,5,1.1886979734077248,rescued,0.0,True,False,0.0,False,"[{'frame': 0, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}, {'frame': 1, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}]"
+nusc,R5 missing q50,point fallback + extent retention,scene-0451,0,1,3.015966808632501,rescued,1.0,False,False,,False,"[{'frame': 1, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 0.0}]"
+nusc,R5 missing q50,point fallback + extent retention,scene-0594,3,3,1.6059731573284008,rescued,3.0,True,False,3.0,False,"[{'frame': 3, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}]"
+nusc,R5 missing q50,point fallback + extent retention,scene-0640,22,22,1.0046401297395375,rescued,22.0,True,False,22.0,False,"[{'frame': 22, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}]"
+nusc,R5 missing q50,point fallback + extent retention,scene-0660,1,1,1.0402003350301752,rescued,1.0,True,False,1.0,False,"[{'frame': 1, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}]"
+nusc,R5 missing q50,point fallback + extent retention,scene-0926,21,23,1.0608608630526195,rescued,22.0,True,False,22.0,False,"[{'frame': 22, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}]"
+nusc,R5 missing q50,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 missing q80,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 missing q80,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 missing q80,point fallback + extent retention,scene-0389,0,5,1.1886979734077248,rescued,0.0,True,False,0.0,False,"[{'frame': 0, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}, {'frame': 1, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}]"
+nusc,R5 missing q80,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 missing q95,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 missing q95,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 missing q95,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 both q50,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 both q50,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 both q50,point fallback + extent retention,scene-0389,0,5,1.1886979734077248,rescued,0.0,True,False,0.0,False,"[{'frame': 0, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}, {'frame': 1, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}]"
+nusc,R5 both q50,point fallback + extent retention,scene-0451,0,1,3.015966808632501,rescued,1.0,False,False,,False,"[{'frame': 1, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 0.0}]"
+nusc,R5 both q50,point fallback + extent retention,scene-0594,3,3,1.6059731573284008,rescued,3.0,True,False,3.0,False,"[{'frame': 3, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}]"
+nusc,R5 both q50,point fallback + extent retention,scene-0640,22,22,1.0046401297395375,rescued,22.0,True,False,22.0,False,"[{'frame': 22, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}]"
+nusc,R5 both q50,point fallback + extent retention,scene-0660,1,1,1.0402003350301752,rescued,1.0,True,False,1.0,False,"[{'frame': 1, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}]"
+nusc,R5 both q50,point fallback + extent retention,scene-0926,21,23,1.0608608630526195,rescued,22.0,True,False,22.0,False,"[{'frame': 22, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}]"
+nusc,R5 both q50,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 both q80,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 both q80,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 both q80,point fallback + extent retention,scene-0389,0,5,1.1886979734077248,rescued,0.0,True,False,0.0,False,"[{'frame': 0, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}, {'frame': 1, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}]"
+nusc,R5 both q80,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 both q95,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 both q95,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 both q95,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 median_gate q50,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 median_gate q50,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 median_gate q50,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 median_gate q80,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 median_gate q80,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 median_gate q80,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 median_gate q95,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 median_gate q95,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 median_gate q95,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 matched-only both q80,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 matched-only both q80,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 matched-only both q80,point fallback + extent retention,scene-0389,0,5,1.1886979734077248,rescued,0.0,True,False,0.0,False,"[{'frame': 0, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}, {'frame': 1, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}]"
+nusc,R5 matched-only both q80,point fallback + extent retention,scene-0451,0,1,3.015966808632501,rescued,1.0,False,False,,False,"[{'frame': 1, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 0.0}]"
+nusc,R5 matched-only both q80,point fallback + extent retention,scene-0640,22,22,1.0046401297395375,rescued,22.0,True,False,22.0,False,"[{'frame': 22, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}]"
+nusc,R5 matched-only both q80,point fallback + extent retention,scene-0660,1,1,1.0402003350301752,rescued,1.0,True,False,1.0,False,"[{'frame': 1, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}]"
+nusc,R5 matched-only both q80,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 domain_both q50,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 domain_both q50,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 domain_both q50,point fallback + extent retention,scene-0389,0,5,1.1886979734077248,rescued,0.0,True,False,0.0,False,"[{'frame': 0, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': np.float64(1.0)}, {'frame': 1, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': np.float64(1.0)}]"
+nusc,R5 domain_both q50,point fallback + extent retention,scene-0451,0,1,3.015966808632501,rescued,1.0,False,False,,False,"[{'frame': 1, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': np.float64(0.0)}]"
+nusc,R5 domain_both q50,point fallback + extent retention,scene-0594,3,3,1.6059731573284008,rescued,3.0,True,False,3.0,False,"[{'frame': 3, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': np.float64(1.0)}]"
+nusc,R5 domain_both q50,point fallback + extent retention,scene-0640,22,22,1.0046401297395375,rescued,22.0,True,False,22.0,False,"[{'frame': 22, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': np.float64(1.0)}]"
+nusc,R5 domain_both q50,point fallback + extent retention,scene-0660,1,1,1.0402003350301752,rescued,1.0,True,False,1.0,False,"[{'frame': 1, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': np.float64(1.0)}]"
+nusc,R5 domain_both q50,point fallback + extent retention,scene-0926,21,23,1.0608608630526195,rescued,22.0,True,False,22.0,False,"[{'frame': 22, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': np.float64(1.0)}]"
+nusc,R5 domain_both q50,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 domain_both q80,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 domain_both q80,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 domain_both q80,point fallback + extent retention,scene-0389,0,5,1.1886979734077248,rescued,0.0,True,False,0.0,False,"[{'frame': 0, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': np.float64(1.0)}, {'frame': 1, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': np.float64(1.0)}]"
+nusc,R5 domain_both q80,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 domain_both q95,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 domain_both q95,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 domain_both q95,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 residual q50,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 residual q50,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 residual q50,point fallback + extent retention,scene-0594,3,3,1.6059731573284008,rescued,3.0,True,False,3.0,False,"[{'frame': 3, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': np.float64(1.0)}]"
+nusc,R5 residual q50,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 residual q80,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 residual q80,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 residual q80,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 residual q95,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 residual q95,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 residual q95,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 residual_both q50,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 residual_both q50,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 residual_both q50,point fallback + extent retention,scene-0389,0,5,1.1886979734077248,rescued,0.0,True,False,0.0,False,"[{'frame': 0, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': np.float64(1.0)}, {'frame': 1, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': np.float64(1.0)}]"
+nusc,R5 residual_both q50,point fallback + extent retention,scene-0451,0,1,3.015966808632501,rescued,1.0,False,False,,False,"[{'frame': 1, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': np.float64(0.0)}]"
+nusc,R5 residual_both q50,point fallback + extent retention,scene-0594,3,3,1.6059731573284008,rescued,3.0,True,False,3.0,False,"[{'frame': 3, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': np.float64(1.0)}]"
+nusc,R5 residual_both q50,point fallback + extent retention,scene-0640,22,22,1.0046401297395375,rescued,22.0,True,False,22.0,False,"[{'frame': 22, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': np.float64(1.0)}]"
+nusc,R5 residual_both q50,point fallback + extent retention,scene-0660,1,1,1.0402003350301752,rescued,1.0,True,False,1.0,False,"[{'frame': 1, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': np.float64(1.0)}]"
+nusc,R5 residual_both q50,point fallback + extent retention,scene-0926,21,23,1.0608608630526195,rescued,22.0,True,False,22.0,False,"[{'frame': 22, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': np.float64(1.0)}]"
+nusc,R5 residual_both q50,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 residual_both q80,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 residual_both q80,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 residual_both q80,point fallback + extent retention,scene-0389,0,5,1.1886979734077248,rescued,0.0,True,False,0.0,False,"[{'frame': 0, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': np.float64(1.0)}, {'frame': 1, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': np.float64(1.0)}]"
+nusc,R5 residual_both q80,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 residual_both q95,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 residual_both q95,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 residual_both q95,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 extent_both q50,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 extent_both q50,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 extent_both q50,point fallback + extent retention,scene-0389,0,5,1.1886979734077248,rescued,0.0,True,False,0.0,False,"[{'frame': 0, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}, {'frame': 1, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}]"
+nusc,R5 extent_both q50,point fallback + extent retention,scene-0451,0,1,3.015966808632501,rescued,1.0,False,False,,False,"[{'frame': 1, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 0.0}]"
+nusc,R5 extent_both q50,point fallback + extent retention,scene-0594,3,3,1.6059731573284008,rescued,3.0,True,False,3.0,False,"[{'frame': 3, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}]"
+nusc,R5 extent_both q50,point fallback + extent retention,scene-0640,22,22,1.0046401297395375,rescued,22.0,True,False,22.0,False,"[{'frame': 22, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}]"
+nusc,R5 extent_both q50,point fallback + extent retention,scene-0660,1,1,1.0402003350301752,rescued,1.0,True,False,1.0,False,"[{'frame': 1, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}]"
+nusc,R5 extent_both q50,point fallback + extent retention,scene-0926,21,23,1.0608608630526195,rescued,22.0,True,False,22.0,False,"[{'frame': 22, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}]"
+nusc,R5 extent_both q50,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 extent_both q80,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 extent_both q80,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 extent_both q80,point fallback + extent retention,scene-0389,0,5,1.1886979734077248,rescued,0.0,True,False,0.0,False,"[{'frame': 0, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}, {'frame': 1, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}]"
+nusc,R5 extent_both q80,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 extent_both q95,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 extent_both q95,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 extent_both q95,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 point_residual q50,point fallback + extent retention,scene-0594,3,3,1.6059731573284008,rescued,3.0,True,False,3.0,False,"[{'frame': 3, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': np.float64(1.0)}]"
+nusc,R5 extent_residual q50,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 extent_residual q50,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 extent_residual q50,point fallback + extent retention,scene-0594,3,3,1.6059731573284008,rescued,3.0,True,False,3.0,False,"[{'frame': 3, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': np.float64(1.0)}]"
+nusc,R5 extent_residual q50,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 extent_residual q80,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 extent_residual q80,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 extent_residual q80,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 extent_residual q95,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 extent_residual q95,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 extent_residual q95,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 residual ungated,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 residual ungated,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 residual ungated,point fallback + extent retention,scene-0366,10,10,1.4345231283303812,rescued,10.0,False,False,,False,"[{'frame': 10, 'gt_action': 1, 'action': 1, 'dec_found': False, 'dec_demand': nan}]"
+nusc,R5 residual ungated,point fallback + extent retention,scene-0594,3,3,1.6059731573284008,rescued,3.0,True,False,3.0,False,"[{'frame': 3, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': np.float64(1.420453138095443)}]"
+nusc,R5 residual ungated,point fallback + extent retention,scene-0660,1,1,1.0402003350301752,rescued,1.0,False,False,,False,"[{'frame': 1, 'gt_action': 1, 'action': 2, 'dec_found': True, 'dec_demand': np.float64(0.9133055313168312)}]"
+nusc,R5 residual ungated,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 residual ungated,point fallback + extent retention,scene-1017,14,18,6.248583872374119,rescued,15.0,True,False,15.0,False,"[{'frame': 15, 'gt_action': 1, 'action': 2, 'dec_found': np.True_, 'dec_demand': np.float64(5.313959652422919)}]"
+nusc,R5 cond round1 pooled q50,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 cond round1 pooled q50,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 cond round1 pooled q50,point fallback + extent retention,scene-0640,22,22,1.0046401297395375,rescued,22.0,True,False,22.0,False,"[{'frame': 22, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}]"
+nusc,R5 cond round1 pooled q50,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 cond round1 pooled q80,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 cond round1 pooled q80,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 cond round1 pooled q80,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 cond round1 pooled q95,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 cond round1 pooled q95,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 cond round1 pooled q95,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 cond round1 conditional q50,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 cond round1 conditional q50,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 cond round1 conditional q50,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 cond round1 conditional q80,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 cond round1 conditional q80,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 cond round1 conditional q80,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 cond round1 conditional q95,point fallback + extent retention,scene-0249,10,11,1.3969120463574087,newly_missed,,False,False,,False,[]
+nusc,R5 cond round1 conditional q95,point fallback + extent retention,scene-0286,6,10,2.1584009579690435,newly_missed,,False,False,,False,[]
+nusc,R5 cond round1 conditional q95,point fallback + extent retention,scene-1017,0,9,5.087025040119287,newly_missed,,False,False,,False,[]
+nusc,R5 cond point pooled q50,point fallback + extent retention,scene-0640,22,22,1.0046401297395375,rescued,22.0,True,False,22.0,False,"[{'frame': 22, 'gt_action': 1, 'action': 1, 'dec_found': True, 'dec_demand': 1.0}]"

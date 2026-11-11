@@ -1,0 +1,11 @@
+dataset,pipeline,rescued,newly_missed,rescued_with_decisive_evidence,rescued_without_decisive_evidence,hard_peak_rescued,hard_peak_rescued_with_hard_evidence
+av2,learned missing history,5,0,4,1,0,0
+av2,learned geometric / adapt,6,8,6,0,1,0
+av2,learned decision / adapt,6,11,6,0,1,0
+av2,upper-quantile missing history,8,0,8,0,1,0
+av2,uncertainty query / adapt,12,7,12,0,5,0
+nusc,learned missing history,3,0,3,0,1,1
+nusc,learned geometric / adapt,4,0,4,0,1,1
+nusc,learned decision / adapt,4,0,4,0,1,1
+nusc,upper-quantile missing history,9,0,8,1,2,1
+nusc,uncertainty query / adapt,6,0,5,1,1,1

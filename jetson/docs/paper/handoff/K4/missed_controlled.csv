@@ -1,0 +1,281 @@
+dataset,setting,stratum,policy,frames,deleted_objects,recovery_rate,agreement_u960,loss_vs_unmodified_cheap,network_px_mean
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,all,cheap,791,823,0.0,0.327,4.368,0.0427
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,all,full,791,823,0.9640000000000001,0.899,0.34,0.1679
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,all,field_only,791,823,0.92,0.872,0.309,0.14300000000000002
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,all,support_only,791,823,0.149,0.336,4.621,0.055999999999999994
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,all,uncertainty,791,823,0.389,0.513,3.7439999999999998,0.1863
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,all,temporal_crit,791,823,0.8190000000000001,0.799,1.6640000000000001,0.2249
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,all,random,791,823,0.542,0.612,2.76,0.445
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,all,u960,791,823,0.987,1.0,0.275,0.384
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,range <30 m,cheap,625,642,0.0,0.28,4.989,0.0427
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,range <30 m,full,625,642,0.958,0.909,0.39799999999999996,0.1833
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,range <30 m,field_only,625,642,0.9079999999999999,0.88,0.35200000000000004,0.1531
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,range <30 m,support_only,625,642,0.162,0.29,5.287999999999999,0.0587
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,range <30 m,uncertainty,625,642,0.39299999999999996,0.47700000000000004,4.373,0.1928
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,range <30 m,temporal_crit,625,642,0.821,0.8079999999999999,1.954,0.2457
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,range <30 m,random,625,642,0.59,0.618,3.147,0.511
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,range <30 m,u960,625,642,0.983,1.0,0.377,0.384
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,range 30-50 m,cheap,151,152,0.0,0.523,0.9690000000000001,0.0427
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,range 30-50 m,full,151,152,0.987,0.887,-0.222,0.1145
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,range 30-50 m,field_only,151,152,0.961,0.868,-0.175,0.1075
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,range 30-50 m,support_only,151,152,0.086,0.523,1.014,0.0455
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,range 30-50 m,uncertainty,151,152,0.375,0.662,0.48100000000000004,0.1637
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,range 30-50 m,temporal_crit,151,152,0.7829999999999999,0.7809999999999999,-0.161,0.1552
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,range 30-50 m,random,151,152,0.38799999999999996,0.623,0.565,0.2113
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,range 30-50 m,u960,151,152,1.0,1.0,-0.19699999999999998,0.384
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,range >50 m,cheap,28,28,0.0,0.39299999999999996,0.257,0.0427
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,range >50 m,full,28,28,1.0,0.7859999999999999,-0.27,0.1292
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,range >50 m,field_only,28,28,1.0,0.75,-0.221,0.1231
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,range >50 m,support_only,28,28,0.214,0.429,0.275,0.0493
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,range >50 m,uncertainty,28,28,0.35700000000000004,0.5710000000000001,0.223,0.2538
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,range >50 m,temporal_crit,28,28,1.0,0.75,-0.341,0.2382
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,range >50 m,random,28,28,0.28600000000000003,0.5,0.243,0.2993
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,range >50 m,u960,28,28,1.0,1.0,-0.423,0.384
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,speed tercile 1,cheap,264,282,0.0,0.364,0.912,0.0427
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,speed tercile 1,full,264,282,0.9570000000000001,0.867,0.008,0.2278
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,speed tercile 1,field_only,264,282,0.897,0.818,0.071,0.1905
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,speed tercile 1,support_only,264,282,0.142,0.379,0.961,0.0617
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,speed tercile 1,uncertainty,264,282,0.496,0.636,0.414,0.2704
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,speed tercile 1,temporal_crit,264,282,0.84,0.8140000000000001,0.192,0.3523
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,speed tercile 1,random,264,282,0.745,0.754,0.204,0.8489
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,speed tercile 1,u960,264,282,1.0,1.0,-0.111,0.384
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,speed tercile 2,cheap,263,275,0.0,0.289,6.507000000000001,0.0427
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,speed tercile 2,full,263,275,0.9670000000000001,0.894,0.33799999999999997,0.1639
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,speed tercile 2,field_only,263,275,0.9129999999999999,0.878,0.222,0.1328
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,speed tercile 2,support_only,263,275,0.135,0.297,6.872000000000001,0.0604
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,speed tercile 2,uncertainty,263,275,0.364,0.47100000000000003,5.22,0.1753
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,speed tercile 2,temporal_crit,263,275,0.833,0.8059999999999999,1.097,0.2074
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,speed tercile 2,random,263,275,0.462,0.54,3.696,0.3293
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,speed tercile 2,u960,263,275,0.993,1.0,-0.07200000000000001,0.384
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,speed tercile 3,cheap,264,266,0.0,0.33,9.811,0.0427
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,speed tercile 3,full,264,266,0.966,0.9359999999999999,1.026,0.11199999999999999
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,speed tercile 3,field_only,264,266,0.951,0.92,0.866,0.1056
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,speed tercile 3,support_only,264,266,0.17300000000000001,0.33299999999999996,10.398,0.0459
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,speed tercile 3,uncertainty,264,266,0.301,0.43200000000000005,9.448,0.113
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,speed tercile 3,temporal_crit,264,266,0.782,0.777,5.1339999999999995,0.1149
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,speed tercile 3,random,264,266,0.41,0.542,7.294,0.1564
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_all,speed tercile 3,u960,264,266,0.966,1.0,1.3419999999999999,0.384
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,all,cheap,399,403,0.0,0.34600000000000003,3.846,0.0427
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,all,full,399,403,0.958,0.877,0.483,0.1682
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,all,field_only,399,403,0.9129999999999999,0.86,0.354,0.1408
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,all,support_only,399,403,0.151,0.35100000000000003,4.166,0.059000000000000004
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,all,uncertainty,399,403,0.377,0.516,3.429,0.1839
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,all,temporal_crit,399,403,0.888,0.852,0.845,0.2348
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,all,random,399,403,0.5329999999999999,0.604,2.585,0.4558
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,all,u960,399,403,0.985,1.0,0.341,0.384
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,range <30 m,cheap,308,309,0.0,0.302,4.488,0.0427
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,range <30 m,full,308,309,0.951,0.8859999999999999,0.565,0.1833
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,range <30 m,field_only,308,309,0.9,0.873,0.38,0.1492
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,range <30 m,support_only,308,309,0.162,0.305,4.869,0.0629
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,range <30 m,uncertainty,308,309,0.375,0.48100000000000004,4.159,0.1851
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,range <30 m,temporal_crit,308,309,0.88,0.877,1.0070000000000001,0.253
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,range <30 m,random,308,309,0.579,0.61,3.01,0.5229
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,range <30 m,u960,308,309,0.981,1.0,0.48200000000000004,0.384
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,range 30-50 m,cheap,81,81,0.0,0.519,0.898,0.0427
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,range 30-50 m,full,81,81,0.988,0.877,-0.306,0.1182
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,range 30-50 m,field_only,81,81,0.963,0.8270000000000001,-0.172,0.1103
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,range 30-50 m,support_only,81,81,0.12300000000000001,0.519,1.025,0.046
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,range 30-50 m,uncertainty,81,81,0.38299999999999995,0.642,0.45899999999999996,0.1647
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,range 30-50 m,temporal_crit,81,81,0.914,0.802,-0.285,0.1649
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,range 30-50 m,random,81,81,0.395,0.593,0.536,0.2312
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,range 30-50 m,u960,81,81,1.0,1.0,-0.28600000000000003,0.384
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,range >50 m,cheap,12,12,0.0,0.25,0.342,0.0427
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,range >50 m,full,12,12,1.0,0.75,-0.261,0.1307
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,range >50 m,field_only,12,12,1.0,0.75,-0.261,0.1301
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,range >50 m,support_only,12,12,0.083,0.33299999999999996,0.392,0.0434
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,range >50 m,uncertainty,12,12,0.33299999999999996,0.5,0.257,0.3381
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,range >50 m,temporal_crit,12,12,1.0,0.583,-0.304,0.3049
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,range >50 m,random,12,12,0.33299999999999996,0.5,0.305,0.2528
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,range >50 m,u960,12,12,1.0,1.0,-0.268,0.384
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,speed tercile 1,cheap,133,135,0.0,0.406,0.69,0.0427
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,speed tercile 1,full,133,135,0.963,0.85,0.09,0.2319
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,speed tercile 1,field_only,133,135,0.904,0.82,0.10300000000000001,0.191
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,speed tercile 1,support_only,133,135,0.126,0.414,0.72,0.0639
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,speed tercile 1,uncertainty,133,135,0.452,0.639,0.316,0.27399999999999997
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,speed tercile 1,temporal_crit,133,135,0.8740000000000001,0.865,0.105,0.3723
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,speed tercile 1,random,133,135,0.741,0.7290000000000001,0.226,0.8596
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,speed tercile 1,u960,133,135,1.0,1.0,-0.057999999999999996,0.384
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,speed tercile 2,cheap,133,135,0.0,0.316,6.74,0.0427
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,speed tercile 2,full,133,135,0.956,0.865,0.626,0.1633
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,speed tercile 2,field_only,133,135,0.889,0.85,0.304,0.1286
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,speed tercile 2,support_only,133,135,0.17800000000000002,0.32299999999999995,7.228,0.0674
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,speed tercile 2,uncertainty,133,135,0.39299999999999996,0.489,5.62,0.1657
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,speed tercile 2,temporal_crit,133,135,0.889,0.8270000000000001,1.033,0.2036
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,speed tercile 2,random,133,135,0.467,0.541,3.985,0.3532
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,speed tercile 2,u960,133,135,1.0,1.0,-0.272,0.384
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,speed tercile 3,cheap,133,133,0.0,0.316,9.41,0.0427
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,speed tercile 3,full,133,133,0.955,0.917,1.35,0.1095
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,speed tercile 3,field_only,133,133,0.9470000000000001,0.91,1.021,0.1028
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,speed tercile 3,support_only,133,133,0.15,0.316,10.32,0.0455
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,speed tercile 3,uncertainty,133,133,0.28600000000000003,0.42100000000000004,9.449,0.11199999999999999
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,speed tercile 3,temporal_crit,133,133,0.902,0.865,2.545,0.1285
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,speed tercile 3,random,133,133,0.391,0.541,7.355,0.1545
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)",del_half,speed tercile 3,u960,133,133,0.955,1.0,1.829,0.384
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,all,cheap,2584,2923,0.0,0.409,0.361,0.0258
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,all,full,2584,2923,0.789,0.775,-0.001,0.1097
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,all,field_only,2584,2923,0.24,0.539,0.025,0.0338
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,all,support_only,2584,2923,0.18600000000000003,0.301,1.585,0.0711
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,all,uncertainty,2584,2923,0.503,0.519,0.818,0.15
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,all,temporal_crit,2584,2923,0.843,0.606,0.1,0.1839
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,all,random,2584,2923,0.6609999999999999,0.512,0.18600000000000003,0.2332
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,all,u960,2584,2923,0.995,1.0,-0.33399999999999996,0.2323
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,range <30 m,cheap,1762,1886,0.0,0.435,0.34700000000000003,0.0258
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,range <30 m,full,1762,1886,0.764,0.777,-0.008,0.1204
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,range <30 m,field_only,1762,1886,0.198,0.5489999999999999,0.031,0.0335
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,range <30 m,support_only,1762,1886,0.19,0.299,1.8719999999999999,0.0753
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,range <30 m,uncertainty,1762,1886,0.564,0.5539999999999999,0.961,0.1643
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,range <30 m,temporal_crit,1762,1886,0.836,0.617,0.141,0.2125
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,range <30 m,random,1762,1886,0.731,0.55,0.107,0.27699999999999997
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,range <30 m,u960,1762,1886,0.9990000000000001,1.0,-0.366,0.2323
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,range 30-50 m,cheap,675,721,0.0,0.42100000000000004,0.5579999999999999,0.0258
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,range 30-50 m,full,675,721,0.853,0.797,-0.306,0.0933
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,range 30-50 m,field_only,675,721,0.331,0.584,-0.025,0.035
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,range 30-50 m,support_only,675,721,0.183,0.31,1.828,0.0648
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,range 30-50 m,uncertainty,675,721,0.386,0.45299999999999996,1.0659999999999998,0.1273
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,range 30-50 m,temporal_crit,675,721,0.879,0.639,-0.086,0.1418
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,range 30-50 m,random,675,721,0.5579999999999999,0.502,0.363,0.1578
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,range 30-50 m,u960,675,721,0.9890000000000001,1.0,-0.348,0.2323
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,range >50 m,cheap,293,305,0.0,0.375,0.248,0.0258
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,range >50 m,full,293,305,0.82,0.778,-0.327,0.0857
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,range >50 m,field_only,293,305,0.292,0.515,-0.068,0.0321
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,range >50 m,support_only,293,305,0.18,0.345,1.013,0.0645
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,range >50 m,uncertainty,293,305,0.426,0.485,0.541,0.1142
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,range >50 m,temporal_crit,293,305,0.823,0.58,0.028999999999999998,0.1187
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,range >50 m,random,293,305,0.466,0.42,0.263,0.138
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,range >50 m,u960,293,305,0.9840000000000001,1.0,-0.34299999999999997,0.2323
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,speed tercile 1,cheap,861,931,0.0,0.35100000000000003,0.298,0.0258
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,speed tercile 1,full,861,931,0.675,0.677,0.379,0.1276
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,speed tercile 1,field_only,861,931,0.185,0.436,0.084,0.034
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,speed tercile 1,support_only,861,931,0.21899999999999997,0.302,1.189,0.0809
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,speed tercile 1,uncertainty,861,931,0.594,0.5329999999999999,0.6,0.1694
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,speed tercile 1,temporal_crit,861,931,0.765,0.511,0.201,0.2258
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,speed tercile 1,random,861,931,0.735,0.499,0.129,0.3408
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,speed tercile 1,u960,861,931,0.998,1.0,-0.313,0.2323
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,speed tercile 2,cheap,861,986,0.0,0.424,0.33299999999999996,0.0258
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,speed tercile 2,full,861,986,0.8490000000000001,0.8059999999999999,-0.41600000000000004,0.1085
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,speed tercile 2,field_only,861,986,0.248,0.578,-0.05,0.0341
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,speed tercile 2,support_only,861,986,0.16399999999999998,0.281,1.953,0.0674
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,speed tercile 2,uncertainty,861,986,0.555,0.56,0.932,0.1561
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,speed tercile 2,temporal_crit,861,986,0.91,0.659,-0.031,0.1863
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,speed tercile 2,random,861,986,0.6829999999999999,0.524,0.084,0.2029
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,speed tercile 2,u960,861,986,0.991,1.0,-0.35700000000000004,0.2323
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,speed tercile 3,cheap,862,1006,0.0,0.45399999999999996,0.517,0.0258
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,speed tercile 3,full,862,1006,0.835,0.841,-0.31,0.0929
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,speed tercile 3,field_only,862,1006,0.28300000000000003,0.603,-0.01,0.0334
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,speed tercile 3,support_only,862,1006,0.17800000000000002,0.32,1.9769999999999999,0.0649
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,speed tercile 3,uncertainty,862,1006,0.369,0.46299999999999997,1.13,0.1246
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,speed tercile 3,temporal_crit,862,1006,0.85,0.648,0.040999999999999995,0.1396
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,speed tercile 3,random,862,1006,0.5710000000000001,0.512,0.40700000000000003,0.1561
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_all,speed tercile 3,u960,862,1006,0.996,1.0,-0.35100000000000003,0.2323
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,all,cheap,1363,1457,0.0,0.431,0.39399999999999996,0.0258
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,all,full,1363,1457,0.789,0.7829999999999999,0.098,0.1116
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,all,field_only,1363,1457,0.24100000000000002,0.5539999999999999,0.10400000000000001,0.0337
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,all,support_only,1363,1457,0.242,0.35700000000000004,1.411,0.0754
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,all,uncertainty,1363,1457,0.541,0.55,0.757,0.1577
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,all,temporal_crit,1363,1457,0.873,0.629,0.16,0.1903
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,all,random,1363,1457,0.6679999999999999,0.5329999999999999,0.23600000000000002,0.2444
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,all,u960,1363,1457,0.9940000000000001,1.0,-0.27399999999999997,0.2323
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,range <30 m,cheap,915,945,0.0,0.444,0.385,0.0258
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,range <30 m,full,915,945,0.765,0.774,0.145,0.1238
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,range <30 m,field_only,915,945,0.192,0.546,0.14400000000000002,0.0336
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,range <30 m,support_only,915,945,0.24600000000000002,0.344,1.656,0.0806
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,range <30 m,uncertainty,915,945,0.61,0.5770000000000001,0.826,0.1733
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,range <30 m,temporal_crit,915,945,0.853,0.624,0.212,0.2213
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,range <30 m,random,915,945,0.75,0.5670000000000001,0.157,0.2956
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,range <30 m,u960,915,945,0.998,1.0,-0.282,0.2323
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,range 30-50 m,cheap,355,371,0.0,0.428,0.607,0.0258
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,range 30-50 m,full,355,371,0.852,0.8170000000000001,-0.332,0.0898
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,range 30-50 m,field_only,355,371,0.361,0.611,-0.02,0.0354
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,range 30-50 m,support_only,355,371,0.235,0.361,1.2109999999999999,0.0651
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,range 30-50 m,uncertainty,355,371,0.40399999999999997,0.499,0.7070000000000001,0.13
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,range 30-50 m,temporal_crit,355,371,0.9329999999999999,0.6679999999999999,-0.153,0.139
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,range 30-50 m,random,355,371,0.536,0.507,0.396,0.1474
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,range 30-50 m,u960,355,371,0.9890000000000001,1.0,-0.374,0.2323
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,range >50 m,cheap,135,136,0.0,0.415,0.111,0.0258
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,range >50 m,full,135,136,0.816,0.8,-0.261,0.0895
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,range >50 m,field_only,135,136,0.265,0.519,-0.024,0.0307
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,range >50 m,support_only,135,136,0.25,0.452,0.616,0.0702
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,range >50 m,uncertainty,135,136,0.456,0.541,0.374,0.1225
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,range >50 m,temporal_crit,135,136,0.875,0.637,-0.01,0.1253
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,range >50 m,random,135,136,0.456,0.43,0.3,0.1444
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,range >50 m,u960,135,136,0.978,1.0,-0.27899999999999997,0.2323
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,speed tercile 1,cheap,454,475,0.0,0.341,0.379,0.0258
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,speed tercile 1,full,454,475,0.669,0.6779999999999999,0.628,0.1322
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,speed tercile 1,field_only,454,475,0.175,0.42100000000000004,0.254,0.0341
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,speed tercile 1,support_only,454,475,0.23199999999999998,0.322,1.454,0.0858
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,speed tercile 1,uncertainty,454,475,0.581,0.518,0.9229999999999999,0.1758
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,speed tercile 1,temporal_crit,454,475,0.768,0.542,0.39399999999999996,0.2398
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,speed tercile 1,random,454,475,0.745,0.498,0.231,0.3603
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,speed tercile 1,u960,454,475,0.996,1.0,-0.187,0.2323
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,speed tercile 2,cheap,454,488,0.0,0.449,0.37,0.0258
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,speed tercile 2,full,454,488,0.85,0.8190000000000001,-0.43,0.1082
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,speed tercile 2,field_only,454,488,0.264,0.608,-0.024,0.0345
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,speed tercile 2,support_only,454,488,0.25,0.33899999999999997,1.4169999999999998,0.0707
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,speed tercile 2,uncertainty,454,488,0.635,0.599,0.423,0.1646
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,speed tercile 2,temporal_crit,454,488,0.93,0.654,-0.016,0.1872
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,speed tercile 2,random,454,488,0.682,0.5529999999999999,0.043,0.2096
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,speed tercile 2,u960,454,488,0.988,1.0,-0.337,0.2323
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,speed tercile 3,cheap,455,494,0.0,0.503,0.441,0.0258
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,speed tercile 3,full,455,494,0.8440000000000001,0.851,-0.253,0.0945
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,speed tercile 3,field_only,455,494,0.281,0.633,-0.016,0.0326
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,speed tercile 3,support_only,455,494,0.245,0.409,1.337,0.0698
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,speed tercile 3,uncertainty,455,494,0.409,0.532,0.809,0.1326
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,speed tercile 3,temporal_crit,455,494,0.917,0.6920000000000001,-0.05,0.14400000000000002
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,speed tercile 3,random,455,494,0.579,0.5489999999999999,0.43,0.1635
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)",del_half,speed tercile 3,u960,455,494,0.998,1.0,-0.354,0.2323
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,all,cheap,567,600,0.0,0.307,7.939,0.0427
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,all,full,567,600,0.9420000000000001,0.903,0.696,0.1645
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,all,field_only,567,600,0.92,0.882,0.662,0.1436
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,all,support_only,567,600,0.157,0.321,7.999,0.0531
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,all,uncertainty,567,600,0.368,0.49,6.994,0.1997
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,all,temporal_crit,567,600,0.743,0.7509999999999999,2.798,0.2228
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,all,random,567,600,0.555,0.612,4.811,0.4103
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,all,u960,567,600,0.987,1.0,0.298,0.384
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,range <30 m,cheap,445,455,0.0,0.27399999999999997,9.301,0.0427
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,range <30 m,full,445,455,0.9490000000000001,0.924,0.879,0.1791
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,range <30 m,field_only,445,455,0.932,0.912,0.8240000000000001,0.1546
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,range <30 m,support_only,445,455,0.16699999999999998,0.28300000000000003,9.363999999999999,0.0549
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,range <30 m,uncertainty,445,455,0.4,0.48100000000000004,8.211,0.2003
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,range <30 m,temporal_crit,445,455,0.763,0.7659999999999999,3.327,0.2406
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,range <30 m,random,445,455,0.615,0.645,5.606,0.4697
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,range <30 m,u960,445,455,0.985,1.0,0.39,0.384
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,range 30-50 m,cheap,115,121,0.0,0.33899999999999997,2.069,0.0427
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,range 30-50 m,full,115,121,0.9259999999999999,0.852,-0.249,0.11800000000000001
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,range 30-50 m,field_only,115,121,0.9009999999999999,0.809,-0.191,0.106
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,range 30-50 m,support_only,115,121,0.14,0.374,2.06,0.048
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,range 30-50 m,uncertainty,115,121,0.281,0.461,1.771,0.2017
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,range 30-50 m,temporal_crit,115,121,0.6859999999999999,0.73,0.004,0.16699999999999998
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,range 30-50 m,random,115,121,0.38799999999999996,0.47,0.9840000000000001,0.2088
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,range 30-50 m,u960,115,121,0.992,1.0,-0.16,0.384
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,range >50 m,cheap,24,24,0.0,0.667,0.42200000000000004,0.0427
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,range >50 m,full,24,24,0.875,0.833,0.157,0.1155
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,range >50 m,field_only,24,24,0.792,0.75,0.18100000000000002,0.1069
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,range >50 m,support_only,24,24,0.042,0.625,0.66,0.0448
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,range >50 m,uncertainty,24,24,0.20800000000000002,0.667,0.5770000000000001,0.1673
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,range >50 m,temporal_crit,24,24,0.667,0.708,-0.043,0.1617
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,range >50 m,random,24,24,0.25,0.625,0.419,0.1668
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,range >50 m,u960,24,24,1.0,1.0,0.021,0.384
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,speed tercile 1,cheap,189,194,0.0,0.47600000000000003,1.577,0.0427
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,speed tercile 1,full,189,194,0.948,0.868,0.34299999999999997,0.2371
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,speed tercile 1,field_only,189,194,0.9229999999999999,0.862,0.344,0.2005
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,speed tercile 1,support_only,189,194,0.18,0.466,1.632,0.0602
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,speed tercile 1,uncertainty,189,194,0.531,0.698,1.078,0.3169
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,speed tercile 1,temporal_crit,189,194,0.804,0.804,0.541,0.3542
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,speed tercile 1,random,189,194,0.763,0.7879999999999999,0.546,0.8335
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,speed tercile 1,u960,189,194,1.0,1.0,0.095,0.384
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,speed tercile 2,cheap,189,212,0.0,0.27,4.285,0.0427
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,speed tercile 2,full,189,212,0.9620000000000001,0.937,-0.222,0.1432
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,speed tercile 2,field_only,189,212,0.934,0.878,-0.105,0.1248
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,speed tercile 2,support_only,189,212,0.18899999999999997,0.317,4.246,0.0532
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,speed tercile 2,uncertainty,189,212,0.425,0.55,2.781,0.1835
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,speed tercile 2,temporal_crit,189,212,0.8109999999999999,0.81,0.091,0.2002
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,speed tercile 2,random,189,212,0.547,0.608,1.446,0.2582
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,speed tercile 2,u960,189,212,0.995,1.0,-0.267,0.384
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,speed tercile 3,cheap,189,194,0.0,0.175,15.925,0.0427
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,speed tercile 3,full,189,194,0.912,0.905,1.5430000000000001,0.1132
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,speed tercile 3,field_only,189,194,0.902,0.905,1.391,0.1054
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,speed tercile 3,support_only,189,194,0.098,0.18,16.044,0.0457
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,speed tercile 3,uncertainty,189,194,0.14400000000000002,0.222,14.88,0.0988
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,speed tercile 3,temporal_crit,189,194,0.608,0.64,6.426,0.1141
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,speed tercile 3,random,189,194,0.35600000000000004,0.439,10.681,0.1392
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)",del_all,speed tercile 3,u960,189,194,0.9640000000000001,1.0,0.807,0.384

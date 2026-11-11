@@ -1,0 +1,12 @@
+{
+  "k30_eval.py": "55471d347ce43412bb1285740b0752fb",
+  "k40r_detector.py": "f4fd992143a68bc1c0a6bd0e8e2ebac2",
+  "k40r_build_detector.py": "2c02922d1be0af45d19d5f0127c98807",
+  "k41_variant_loop.py": "74f6750ab139640827b8c4cd79b99fee",
+  "k40r_tube_geometry.py": "01f9dfebf8c089b64bdf86739a7bd190",
+  "k40r_runcheck.py": "f71b01942607a4dad17f5bc9c98940f2",
+  "k41_k39_cap_reference.py": "85a45fca9afbcabd24b90f53e69888fe",
+  "k40r_d02_tests.py": "d4bb05dfb302cfabd562e5e182666069",
+  "k40r_d02_dispatch.py": "8646cb826f9b3a7658f3b345d7b39b28",
+  "k41_job_exec.py": "c03a29ff0145878ae2957bfe4508db5b"
+}

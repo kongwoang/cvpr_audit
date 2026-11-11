@@ -1,0 +1,8 @@
+source,v_close,max_rounds,crop_scale,crop_area_mean,network_px_mean,G,G_refiner_v1,G_refiner_v2
+nusc_full/eval__new_test_curve_vc0_r1_s0.4.pkl,0.0,1,0.4,0.0666,0.0533,-0.136,-0.093,-0.087
+nusc_full/eval__new_test_curve_vc0_r3_s0.6.pkl,0.0,3,0.6,0.0744,0.0694,0.133,0.166,0.169
+nusc_full/eval__new_test_curve_vc0_r3_s0.8.pkl,0.0,3,0.8,0.0755,0.091,0.111,0.146,0.147
+nusc_full/eval__new_test_curve_vc10_r1_s0.6.pkl,10.0,1,0.6,0.1218,0.0865,0.016,0.059,0.062
+nusc_full/eval__new_test_curve_vc10_r3_s0.4.pkl,10.0,3,0.4,0.1242,0.0625,-0.056,-0.019,-0.005
+nusc_full/eval__new_test_v3_confirm.pkl,10.0,3,0.6,0.127,0.0884,0.135,0.171,
+nusc_full/eval__new_test_curve_vc10_r3_s0.8.pkl,10.0,3,0.8,0.1278,0.1245,0.1,0.139,0.147

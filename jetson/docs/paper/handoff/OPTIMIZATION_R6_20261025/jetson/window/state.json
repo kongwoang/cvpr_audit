@@ -1,0 +1,13 @@
+{
+  "status": "complete",
+  "pid": 528529,
+  "runs": [],
+  "started": "2026-10-25T01:52:37.357096+07:00",
+  "updated": "2026-10-25T01:56:09.523069+07:00",
+  "child_pid": 528631,
+  "current_log": "readout.log",
+  "source_hashes_unchanged": true,
+  "engines_used": false,
+  "window_released": true,
+  "restore_errors": []
+}

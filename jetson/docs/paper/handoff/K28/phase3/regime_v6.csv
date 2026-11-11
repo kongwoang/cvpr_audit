@@ -1,0 +1,259 @@
+dataset,regime,frames,share_of_frames,pipeline,refiner,G_regime,G_outside
+nusc,"no support in the draft, braking required",312,0.03398322622807973,draft (cheap),-,0.0,0.0
+nusc,"no support in the draft, braking required",312,0.03398322622807973,whole frame u640,none,0.3184518585634797,-0.664849860826413
+nusc,"no support in the draft, braking required",312,0.03398322622807973,whole frame u640,v3a,0.3078673103150812,-0.5447510217434506
+nusc,"no support in the draft, braking required",312,0.03398322622807973,whole frame u640 + C1,none,0.3311011214118459,-0.4888897817388305
+nusc,"no support in the draft, braking required",312,0.03398322622807973,whole frame u640 + C1,v3a,0.32185287950063124,-0.40430586777853506
+nusc,"no support in the draft, braking required",312,0.03398322622807973,whole frame u960,none,0.4406555505534731,-0.43164095789586066
+nusc,"no support in the draft, braking required",312,0.03398322622807973,whole frame u960,v3a,0.41476526986016565,-0.3162389113785495
+nusc,"no support in the draft, braking required",312,0.03398322622807973,whole frame u960 + C1,none,0.4319654856799545,-0.27186599409791645
+nusc,"no support in the draft, braking required",312,0.03398322622807973,whole frame u960 + C1,v3a,0.40862898105829065,-0.19365716447919995
+nusc,"no support in the draft, braking required",312,0.03398322622807973,whole frame native,none,0.4619705227217031,-0.2300704091893108
+nusc,"no support in the draft, braking required",312,0.03398322622807973,whole frame native,v3a,0.44241636268898055,-0.09924441819863171
+nusc,"no support in the draft, braking required",312,0.03398322622807973,whole frame native + C1,none,0.42971816122867723,-0.05705936226217304
+nusc,"no support in the draft, braking required",312,0.03398322622807973,whole frame native + C1,v3a,0.40777350465657636,0.030604976273284477
+nusc,"no support in the draft, braking required",312,0.03398322622807973,v5.1-S,none,0.34784264552523686,-0.02907943148466831
+nusc,"no support in the draft, braking required",312,0.03398322622807973,v5.1-S,v3a,0.3407851390008967,0.05209507159637773
+nusc,"no support in the draft, braking required",312,0.03398322622807973,v6-S,none,0.3394665628034945,0.017720885268352988
+nusc,"no support in the draft, braking required",312,0.03398322622807973,v6-S,v3a,0.33111344088584604,0.08667169392816308
+nusc,"no support in the draft, braking required",312,0.03398322622807973,v6-S support only,none,0.0,-0.24655089764497687
+nusc,"no support in the draft, braking required",312,0.03398322622807973,v6-S support only,v3a,0.0,-0.19358164154307345
+nusc,"no support in the draft, braking required",312,0.03398322622807973,v6-S field only,none,0.3390004496933787,-0.01571702396048726
+nusc,"no support in the draft, braking required",312,0.03398322622807973,v6-S field only,v3a,0.32920474156195845,0.013643341834861782
+nusc,"no support in the draft, braking required",312,0.03398322622807973,heuristic unc2@S + C1,none,0.06014324889871551,-0.2348438873878947
+nusc,"no support in the draft, braking required",312,0.03398322622807973,heuristic unc2@S + C1,v3a,0.05549005422369627,-0.17739810096210318
+nusc,"no support in the draft, braking required",312,0.03398322622807973,heuristic unc4@S + C1,none,0.06564785925716726,-0.24577275467516035
+nusc,"no support in the draft, braking required",312,0.03398322622807973,heuristic unc4@S + C1,v3a,0.060994664582148014,-0.20209567800469677
+nusc,"no support in the draft, braking required",312,0.03398322622807973,heuristic tcr0@S + C1,none,0.25394237169936523,-0.11086409830179407
+nusc,"no support in the draft, braking required",312,0.03398322622807973,heuristic tcr0@S + C1,v3a,0.24574846524003374,-0.05873497301337397
+nusc,"no support in the draft, braking required",312,0.03398322622807973,heuristic tcr3@S + C1,none,0.33652426716583417,-0.0310801536319803
+nusc,"no support in the draft, braking required",312,0.03398322622807973,heuristic tcr3@S + C1,v3a,0.3305640962405152,0.009755563290031284
+nusc,"no support in the draft, braking required",312,0.03398322622807973,heuristic cor0@S + C1,none,0.26927902623068517,-0.2427302399684902
+nusc,"no support in the draft, braking required",312,0.03398322622807973,heuristic cor0@S + C1,v3a,0.2639799166773749,-0.16712534473786536
+nusc,"no support in the draft, braking required",312,0.03398322622807973,heuristic cor8@S + C1,none,0.27640285166094186,-0.3888390065650599
+nusc,"no support in the draft, braking required",312,0.03398322622807973,heuristic cor8@S + C1,v3a,0.2735296264189339,-0.3313336522738238
+nusc,"no support in the draft, braking required",312,0.03398322622807973,heuristic tsp2@S + C1,none,0.27905652291149247,-0.12199309620890524
+nusc,"no support in the draft, braking required",312,0.03398322622807973,heuristic tsp2@S + C1,v3a,0.2712463998846663,-0.048157695636518255
+nusc,"no support in the draft, braking required",312,0.03398322622807973,heuristic tsp8@S + C1,none,0.27846946063925365,0.0017561790952012048
+nusc,"no support in the draft, braking required",312,0.03398322622807973,heuristic tsp8@S + C1,v3a,0.2755962353972457,0.06911066187604574
+nusc,"no support in the draft, braking required",312,0.03398322622807973,heuristic rnd@S + C1,none,0.05532388261843685,-0.20016466755157294
+nusc,"no support in the draft, braking required",312,0.03398322622807973,heuristic rnd@S + C1,v3a,0.05532388261843685,-0.13309165054762762
+nusc,"no support in the draft, braking required",312,0.03398322622807973,v6-M,none,0.3788251781387211,0.15421557578383216
+nusc,"no support in the draft, braking required",312,0.03398322622807973,v6-M,ref,0.3687117869442587,0.22497969220299466
+nusc,"no support in the draft, braking required",312,0.03398322622807973,v6-L,none,0.4173975014275956,0.15333426806592002
+nusc,"no support in the draft, braking required",312,0.03398322622807973,v6-L,ref,0.4095747670476346,0.21672486889724726
+nusc,draft below the required action (K24),384,0.04182550920379044,draft (cheap),-,0.0,0.0
+nusc,draft below the required action (K24),384,0.04182550920379044,whole frame u640,none,0.24022363280744252,-0.8029857228374923
+nusc,draft below the required action (K24),384,0.04182550920379044,whole frame u640,v3a,0.29285714137582447,-0.7474322170219058
+nusc,draft below the required action (K24),384,0.04182550920379044,whole frame u640 + C1,none,0.2654042714229283,-0.6033597776013396
+nusc,draft below the required action (K24),384,0.04182550920379044,whole frame u640 + C1,v3a,0.3191481663764667,-0.5927449837548707
+nusc,draft below the required action (K24),384,0.04182550920379044,whole frame u960,none,0.34638106865226853,-0.5151370252260241
+nusc,draft below the required action (K24),384,0.04182550920379044,whole frame u960,v3a,0.38184914794746966,-0.4585464336429721
+nusc,draft below the required action (K24),384,0.04182550920379044,whole frame u960 + C1,none,0.3521700947310136,-0.3333855111782267
+nusc,draft below the required action (K24),384,0.04182550920379044,whole frame u960 + C1,v3a,0.3840874004717275,-0.31495369709714166
+nusc,draft below the required action (K24),384,0.04182550920379044,whole frame native,none,0.3491524686251022,-0.2366317097553667
+nusc,draft below the required action (K24),384,0.04182550920379044,whole frame native,v3a,0.37871798064874984,-0.14299691752199628
+nusc,draft below the required action (K24),384,0.04182550920379044,whole frame native + C1,none,0.3257445848532015,-0.023036144009226232
+nusc,draft below the required action (K24),384,0.04182550920379044,whole frame native + C1,v3a,0.35356854369305646,0.015599955111657866
+nusc,draft below the required action (K24),384,0.04182550920379044,v5.1-S,none,0.26806988123239595,-0.00388995845733719
+nusc,draft below the required action (K24),384,0.04182550920379044,v5.1-S,v3a,0.32021749483142814,0.0077732279494704655
+nusc,draft below the required action (K24),384,0.04182550920379044,v6-S,none,0.26110988414462716,0.05532869250034701
+nusc,draft below the required action (K24),384,0.04182550920379044,v6-S,v3a,0.31218092296952443,0.0515246610854327
+nusc,draft below the required action (K24),384,0.04182550920379044,v6-S support only,none,-0.03677228916046132,-0.2542577656043718
+nusc,draft below the required action (K24),384,0.04182550920379044,v6-S support only,v3a,0.01662636700608818,-0.27104335676965724
+nusc,draft below the required action (K24),384,0.04182550920379044,v6-S field only,none,0.28923362272333586,-0.03173044627352792
+nusc,draft below the required action (K24),384,0.04182550920379044,v6-S field only,v3a,0.29483295177140334,-0.01614289567496563
+nusc,draft below the required action (K24),384,0.04182550920379044,heuristic unc2@S + C1,none,0.03942016522079739,-0.2805926758587963
+nusc,draft below the required action (K24),384,0.04182550920379044,heuristic unc2@S + C1,v3a,0.0703540063201616,-0.2625235505728297
+nusc,draft below the required action (K24),384,0.04182550920379044,heuristic unc4@S + C1,none,0.04286368502134162,-0.29264720441610326
+nusc,draft below the required action (K24),384,0.04182550920379044,heuristic unc4@S + C1,v3a,0.07233220964186955,-0.2897004388649779
+nusc,draft below the required action (K24),384,0.04182550920379044,heuristic tcr0@S + C1,none,0.2002451410090176,-0.12338577280583277
+nusc,draft below the required action (K24),384,0.04182550920379044,heuristic tcr0@S + C1,v3a,0.2334506067809967,-0.12022711209281904
+nusc,draft below the required action (K24),384,0.04182550920379044,heuristic tcr3@S + C1,none,0.28666147987521373,-0.05036248027201065
+nusc,draft below the required action (K24),384,0.04182550920379044,heuristic tcr3@S + C1,v3a,0.31154594834913574,-0.04552078664746821
+nusc,draft below the required action (K24),384,0.04182550920379044,heuristic cor0@S + C1,none,0.21310884640913372,-0.2904304326213493
+nusc,draft below the required action (K24),384,0.04182550920379044,heuristic cor0@S + C1,v3a,0.2654924712739376,-0.2838919097453694
+nusc,draft below the required action (K24),384,0.04182550920379044,heuristic cor8@S + C1,none,0.21000568601260602,-0.46114761545104443
+nusc,draft below the required action (K24),384,0.04182550920379044,heuristic cor8@S + C1,v3a,0.2530471510912837,-0.45968485426034794
+nusc,draft below the required action (K24),384,0.04182550920379044,heuristic tsp2@S + C1,none,0.21091294654407836,-0.12145800633061726
+nusc,draft below the required action (K24),384,0.04182550920379044,heuristic tsp2@S + C1,v3a,0.26243518324086096,-0.11908133292107226
+nusc,draft below the required action (K24),384,0.04182550920379044,heuristic tsp8@S + C1,none,0.21511068169325817,0.02777375084548328
+nusc,draft below the required action (K24),384,0.04182550920379044,heuristic tsp8@S + C1,v3a,0.2707351694477762,0.021949812908567016
+nusc,draft below the required action (K24),384,0.04182550920379044,heuristic rnd@S + C1,none,0.029085424370965354,-0.2267761422777565
+nusc,draft below the required action (K24),384,0.04182550920379044,heuristic rnd@S + C1,v3a,0.08025824358814866,-0.2222220900439349
+nusc,draft below the required action (K24),384,0.04182550920379044,v6-M,none,0.31531072409036404,0.19430304894872996
+nusc,draft below the required action (K24),384,0.04182550920379044,v6-M,ref,0.36307862078472847,0.19568212903804869
+nusc,draft below the required action (K24),384,0.04182550920379044,v6-L,none,0.3358171805504905,0.21130751270959797
+nusc,draft below the required action (K24),384,0.04182550920379044,v6-L,ref,0.3854488034419579,0.20341879068912488
+av2,"no support in the draft, braking required",352,0.029785073616517176,draft (cheap),-,0.0,0.0
+av2,"no support in the draft, braking required",352,0.029785073616517176,whole frame u640,none,0.31110233213853616,-0.10084203479867133
+av2,"no support in the draft, braking required",352,0.029785073616517176,whole frame u640,v3a,0.2591300549824679,0.0992272929004806
+av2,"no support in the draft, braking required",352,0.029785073616517176,whole frame u640 + C1,none,0.4029897551593521,0.2424060703639083
+av2,"no support in the draft, braking required",352,0.029785073616517176,whole frame u640 + C1,v3a,0.32240552300294506,0.30807352699267865
+av2,"no support in the draft, braking required",352,0.029785073616517176,whole frame u960,none,0.394699280347591,-0.12320569678563169
+av2,"no support in the draft, braking required",352,0.029785073616517176,whole frame u960,v3a,0.3751727747502225,0.13466685695101077
+av2,"no support in the draft, braking required",352,0.029785073616517176,whole frame u960 + C1,none,0.4591268906348686,0.24885028466499468
+av2,"no support in the draft, braking required",352,0.029785073616517176,whole frame u960 + C1,v3a,0.4139595884434894,0.31975184811059804
+av2,"no support in the draft, braking required",352,0.029785073616517176,whole frame native,none,0.38372004952140815,-0.16676141073386577
+av2,"no support in the draft, braking required",352,0.029785073616517176,whole frame native,v3a,0.34381436963614687,0.10828209533446158
+av2,"no support in the draft, braking required",352,0.029785073616517176,whole frame native + C1,none,0.3668558315349687,0.21458413382121913
+av2,"no support in the draft, braking required",352,0.029785073616517176,whole frame native + C1,v3a,0.3238297809254884,0.2861067529132868
+av2,"no support in the draft, braking required",352,0.029785073616517176,v5.1-S,none,0.32998706193081934,0.10235050602509727
+av2,"no support in the draft, braking required",352,0.029785073616517176,v5.1-S,v3a,0.3045181570281412,0.2511093287644269
+av2,"no support in the draft, braking required",352,0.029785073616517176,v6-S,none,0.32830055869753183,0.21947455517520204
+av2,"no support in the draft, braking required",352,0.029785073616517176,v6-S,v3a,0.2887016787029093,0.29469773745959144
+av2,"no support in the draft, braking required",352,0.029785073616517176,v6-S support only,none,0.0,0.2366610463300729
+av2,"no support in the draft, braking required",352,0.029785073616517176,v6-S support only,v3a,0.0,0.2720718037427364
+av2,"no support in the draft, braking required",352,0.029785073616517176,v6-S field only,none,0.2858596564925227,-0.045538486835369194
+av2,"no support in the draft, braking required",352,0.029785073616517176,v6-S field only,v3a,0.22377898232245913,-0.029163980876146856
+av2,"no support in the draft, braking required",352,0.029785073616517176,heuristic unc2@S + C1,none,0.13372449061996294,0.20170738811325772
+av2,"no support in the draft, braking required",352,0.029785073616517176,heuristic unc2@S + C1,v3a,0.10773232378519154,0.246038614129896
+av2,"no support in the draft, braking required",352,0.029785073616517176,heuristic unc4@S + C1,none,0.18620564319454352,0.19405729811916647
+av2,"no support in the draft, braking required",352,0.029785073616517176,heuristic unc4@S + C1,v3a,0.15072463152177362,0.19257247111367415
+av2,"no support in the draft, braking required",352,0.029785073616517176,heuristic tcr0@S + C1,none,0.25640710557689855,0.19524758321004843
+av2,"no support in the draft, braking required",352,0.029785073616517176,heuristic tcr0@S + C1,v3a,0.20677136888087155,0.2410688818974766
+av2,"no support in the draft, braking required",352,0.029785073616517176,heuristic tcr3@S + C1,none,0.2889493433790271,0.2041174325598388
+av2,"no support in the draft, braking required",352,0.029785073616517176,heuristic tcr3@S + C1,v3a,0.23963085067749923,0.24199942321309084
+av2,"no support in the draft, braking required",352,0.029785073616517176,heuristic cor0@S + C1,none,0.29274725001967566,0.09181826520466195
+av2,"no support in the draft, braking required",352,0.029785073616517176,heuristic cor0@S + C1,v3a,0.25843559143596206,0.16060013053650113
+av2,"no support in the draft, braking required",352,0.029785073616517176,heuristic cor8@S + C1,none,0.3287345195217039,0.17769429553671565
+av2,"no support in the draft, braking required",352,0.029785073616517176,heuristic cor8@S + C1,v3a,0.2853163813684158,0.25392864931434095
+av2,"no support in the draft, braking required",352,0.029785073616517176,heuristic tsp2@S + C1,none,0.30575620962246375,0.22279643575859417
+av2,"no support in the draft, braking required",352,0.029785073616517176,heuristic tsp2@S + C1,v3a,0.2708260207364695,0.29015128400315965
+av2,"no support in the draft, braking required",352,0.029785073616517176,heuristic tsp8@S + C1,none,0.32091422482582754,0.21716317505834434
+av2,"no support in the draft, braking required",352,0.029785073616517176,heuristic tsp8@S + C1,v3a,0.2795785199755639,0.3004374707439851
+av2,"no support in the draft, braking required",352,0.029785073616517176,heuristic rnd@S + C1,none,0.11516105132284252,-0.027624406591078454
+av2,"no support in the draft, braking required",352,0.029785073616517176,heuristic rnd@S + C1,v3a,0.08835420182358178,0.0009134779620642783
+av2,"no support in the draft, braking required",352,0.029785073616517176,v6-M,none,0.3148845025393021,0.2094998502847037
+av2,"no support in the draft, braking required",352,0.029785073616517176,v6-M,ref,0.27029478654919026,0.28360608200153203
+av2,"no support in the draft, braking required",352,0.029785073616517176,v6-L,none,0.34249652559948224,0.21737026987236674
+av2,"no support in the draft, braking required",352,0.029785073616517176,v6-L,ref,0.28169290648987955,0.29396508895629997
+av2,draft below the required action (K24),397,0.03359282450499238,draft (cheap),-,0.0,0.0
+av2,draft below the required action (K24),397,0.03359282450499238,whole frame u640,none,0.2533998023782333,-0.13595945861768252
+av2,draft below the required action (K24),397,0.03359282450499238,whole frame u640,v3a,0.2947986686612546,0.06076651596839405
+av2,draft below the required action (K24),397,0.03359282450499238,whole frame u640 + C1,none,0.39799504391448337,0.2212341273580537
+av2,draft below the required action (K24),397,0.03359282450499238,whole frame u640 + C1,v3a,0.37341029028345685,0.28418365705145004
+av2,draft below the required action (K24),397,0.03359282450499238,whole frame u960,none,0.2633020283989199,-0.14219070552171595
+av2,draft below the required action (K24),397,0.03359282450499238,whole frame u960,v3a,0.3558320685492716,0.10802907511652465
+av2,draft below the required action (K24),397,0.03359282450499238,whole frame u960 + C1,none,0.436555675337926,0.2279814601401454
+av2,draft below the required action (K24),397,0.03359282450499238,whole frame u960 + C1,v3a,0.44277451865583833,0.2937569191076178
+av2,draft below the required action (K24),397,0.03359282450499238,whole frame native,none,0.2203839794156925,-0.17681762522518357
+av2,draft below the required action (K24),397,0.03359282450499238,whole frame native,v3a,0.1954954444171274,0.13751738012667222
+av2,draft below the required action (K24),397,0.03359282450499238,whole frame native + C1,none,0.25518020388114226,0.2402354546594289
+av2,draft below the required action (K24),397,0.03359282450499238,whole frame native + C1,v3a,0.21743163742085003,0.32612741768353015
+av2,draft below the required action (K24),397,0.03359282450499238,v5.1-S,none,0.2431455478983673,0.1064440204206707
+av2,draft below the required action (K24),397,0.03359282450499238,v5.1-S,v3a,0.3468762984903733,0.2252450120406052
+av2,draft below the required action (K24),397,0.03359282450499238,v6-S,none,0.28747536112786226,0.22113604578187276
+av2,draft below the required action (K24),397,0.03359282450499238,v6-S,v3a,0.3309432299800459,0.27750551054477773
+av2,draft below the required action (K24),397,0.03359282450499238,v6-S support only,none,0.06650834953268901,0.2425718534504423
+av2,draft below the required action (K24),397,0.03359282450499238,v6-S support only,v3a,0.13332634568555152,0.2545508329390054
+av2,draft below the required action (K24),397,0.03359282450499238,v6-S field only,none,0.17865511624836686,-0.04779805296135553
+av2,draft below the required action (K24),397,0.03359282450499238,v6-S field only,v3a,0.1435874922067259,-0.03158708285328331
+av2,draft below the required action (K24),397,0.03359282450499238,heuristic unc2@S + C1,none,0.111002977571124,0.22129040118153587
+av2,draft below the required action (K24),397,0.03359282450499238,heuristic unc2@S + C1,v3a,0.14633122536633172,0.24960796248023223
+av2,draft below the required action (K24),397,0.03359282450499238,heuristic unc4@S + C1,none,0.14087236798112154,0.21458145452150498
+av2,draft below the required action (K24),397,0.03359282450499238,heuristic unc4@S + C1,v3a,0.1319969143690618,0.206654399436716
+av2,draft below the required action (K24),397,0.03359282450499238,heuristic tcr0@S + C1,none,0.22066897971135285,0.20165232043911469
+av2,draft below the required action (K24),397,0.03359282450499238,heuristic tcr0@S + C1,v3a,0.26486727874355126,0.2212050937819756
+av2,draft below the required action (K24),397,0.03359282450499238,heuristic tcr3@S + C1,none,0.22258890259767755,0.22018039819661317
+av2,draft below the required action (K24),397,0.03359282450499238,heuristic tcr3@S + C1,v3a,0.2290160448995193,0.24688210441022365
+av2,draft below the required action (K24),397,0.03359282450499238,heuristic cor0@S + C1,none,0.2470111188049406,0.08221152137180927
+av2,draft below the required action (K24),397,0.03359282450499238,heuristic cor0@S + C1,v3a,0.2836425679667269,0.1356214247720396
+av2,draft below the required action (K24),397,0.03359282450499238,heuristic cor8@S + C1,none,0.2976835289103024,0.16904920706629686
+av2,draft below the required action (K24),397,0.03359282450499238,heuristic cor8@S + C1,v3a,0.3253510136668892,0.23225408661500355
+av2,draft below the required action (K24),397,0.03359282450499238,heuristic tsp2@S + C1,none,0.28729899616228655,0.21864767732323998
+av2,draft below the required action (K24),397,0.03359282450499238,heuristic tsp2@S + C1,v3a,0.33279908954271786,0.26645649470642474
+av2,draft below the required action (K24),397,0.03359282450499238,heuristic tsp8@S + C1,none,0.2908979193738645,0.21493937279398384
+av2,draft below the required action (K24),397,0.03359282450499238,heuristic tsp8@S + C1,v3a,0.3306983650446487,0.2816061321545714
+av2,draft below the required action (K24),397,0.03359282450499238,heuristic rnd@S + C1,none,0.07238780479461489,-0.030058924446142266
+av2,draft below the required action (K24),397,0.03359282450499238,heuristic rnd@S + C1,v3a,0.11241030316742838,-0.022064383826847632
+av2,draft below the required action (K24),397,0.03359282450499238,v6-M,none,0.27355571355124875,0.211876166840504
+av2,draft below the required action (K24),397,0.03359282450499238,v6-M,ref,0.2886253992643764,0.27769994808909193
+av2,draft below the required action (K24),397,0.03359282450499238,v6-L,none,0.30356209390664346,0.215857391346198
+av2,draft below the required action (K24),397,0.03359282450499238,v6-L,ref,0.3106164015640901,0.2833786107847711
+ahd,"no support in the draft, braking required",855,0.056977209116353456,draft (cheap),-,0.0,0.0
+ahd,"no support in the draft, braking required",855,0.056977209116353456,whole frame u640,none,0.44402696082047277,-0.11127483286817841
+ahd,"no support in the draft, braking required",855,0.056977209116353456,whole frame u640,v3a,0.46119966102607607,0.04016485507166901
+ahd,"no support in the draft, braking required",855,0.056977209116353456,whole frame u640 + C1,none,0.6360009013383635,0.21929255941061582
+ahd,"no support in the draft, braking required",855,0.056977209116353456,whole frame u640 + C1,v3a,0.5692891265512511,0.23173851459217873
+ahd,"no support in the draft, braking required",855,0.056977209116353456,whole frame u960,none,0.5364017241066641,-0.12377014641739748
+ahd,"no support in the draft, braking required",855,0.056977209116353456,whole frame u960,v3a,0.5490265628525155,0.05509616618337052
+ahd,"no support in the draft, braking required",855,0.056977209116353456,whole frame u960 + C1,none,0.738892429192799,0.22433495980595095
+ahd,"no support in the draft, braking required",855,0.056977209116353456,whole frame u960 + C1,v3a,0.6839816414656645,0.23406818900601634
+ahd,"no support in the draft, braking required",855,0.056977209116353456,whole frame native,none,0.5469984481976718,-0.19556331444392033
+ahd,"no support in the draft, braking required",855,0.056977209116353456,whole frame native,v3a,0.5914743537682416,0.07551741749078564
+ahd,"no support in the draft, braking required",855,0.056977209116353456,whole frame native + C1,none,0.7360383811873228,0.36227169303967227
+ahd,"no support in the draft, braking required",855,0.056977209116353456,whole frame native + C1,v3a,0.6981153595952292,0.38644846737359134
+ahd,"no support in the draft, braking required",855,0.056977209116353456,v5.1-S,none,0.626807002220517,0.2256553893506009
+ahd,"no support in the draft, braking required",855,0.056977209116353456,v5.1-S,v3a,0.6013239380049917,0.2958462572616874
+ahd,"no support in the draft, braking required",855,0.056977209116353456,v6-S,none,0.7447231203767584,0.3695701504666207
+ahd,"no support in the draft, braking required",855,0.056977209116353456,v6-S,v3a,0.6835370246235518,0.3748841998602621
+ahd,"no support in the draft, braking required",855,0.056977209116353456,v6-S support only,none,0.0,0.3646620692759148
+ahd,"no support in the draft, braking required",855,0.056977209116353456,v6-S support only,v3a,0.0,0.3635966953676625
+ahd,"no support in the draft, braking required",855,0.056977209116353456,v6-S field only,none,0.7337076543745005,-0.013921039645228835
+ahd,"no support in the draft, braking required",855,0.056977209116353456,v6-S field only,v3a,0.6778440425440104,-0.016910760712926947
+ahd,"no support in the draft, braking required",855,0.056977209116353456,heuristic unc2@S + C1,none,0.07870923026168723,0.30774348200224616
+ahd,"no support in the draft, braking required",855,0.056977209116353456,heuristic unc2@S + C1,v3a,0.04305703034963939,0.32079979042985923
+ahd,"no support in the draft, braking required",855,0.056977209116353456,heuristic unc4@S + C1,none,0.19216123718608583,0.2888914255839696
+ahd,"no support in the draft, braking required",855,0.056977209116353456,heuristic unc4@S + C1,v3a,0.16727272676591926,0.29013087103877316
+ahd,"no support in the draft, braking required",855,0.056977209116353456,heuristic tcr0@S + C1,none,0.5543429853835702,0.34247016983452616
+ahd,"no support in the draft, braking required",855,0.056977209116353456,heuristic tcr0@S + C1,v3a,0.5114327235200415,0.3563145498632812
+ahd,"no support in the draft, braking required",855,0.056977209116353456,heuristic tcr3@S + C1,none,0.6442170552503325,0.3114145993355139
+ahd,"no support in the draft, braking required",855,0.056977209116353456,heuristic tcr3@S + C1,v3a,0.6057974487382162,0.3134581167326355
+ahd,"no support in the draft, braking required",855,0.056977209116353456,heuristic cor0@S + C1,none,0.6678208830969069,0.27423798156113127
+ahd,"no support in the draft, braking required",855,0.056977209116353456,heuristic cor0@S + C1,v3a,0.6310050805788359,0.2980355619502283
+ahd,"no support in the draft, braking required",855,0.056977209116353456,heuristic cor8@S + C1,none,0.7023998320938689,0.33817861092622203
+ahd,"no support in the draft, braking required",855,0.056977209116353456,heuristic cor8@S + C1,v3a,0.6476183398086989,0.3475999953818921
+ahd,"no support in the draft, braking required",855,0.056977209116353456,heuristic tsp2@S + C1,none,0.66224240548698,0.3557401860427468
+ahd,"no support in the draft, braking required",855,0.056977209116353456,heuristic tsp2@S + C1,v3a,0.6289515808576495,0.36827436898161986
+ahd,"no support in the draft, braking required",855,0.056977209116353456,heuristic tsp8@S + C1,none,0.7113854497286304,0.3571939806707241
+ahd,"no support in the draft, braking required",855,0.056977209116353456,heuristic tsp8@S + C1,v3a,0.6541601226283623,0.3680120630275474
+ahd,"no support in the draft, braking required",855,0.056977209116353456,heuristic rnd@S + C1,none,0.14673392280996167,0.13576039851132649
+ahd,"no support in the draft, braking required",855,0.056977209116353456,heuristic rnd@S + C1,v3a,0.14433304268336108,0.13851946010130267
+ahd,"no support in the draft, braking required",855,0.056977209116353456,v6-M,none,0.7304470866698055,0.3609187030669988
+ahd,"no support in the draft, braking required",855,0.056977209116353456,v6-M,ref,0.7135188111706234,0.38177406467336533
+ahd,"no support in the draft, braking required",855,0.056977209116353456,v6-L,none,0.7401439675000175,0.36661714460310546
+ahd,"no support in the draft, braking required",855,0.056977209116353456,v6-L,ref,0.71259550325594,0.38504902401437285
+ahd,draft below the required action (K24),861,0.05737704918032787,draft (cheap),-,0.0,0.0
+ahd,draft below the required action (K24),861,0.05737704918032787,whole frame u640,none,0.445649529495001,-0.11229556771788755
+ahd,draft below the required action (K24),861,0.05737704918032787,whole frame u640,v3a,0.46240339322889434,0.03939525426245753
+ahd,draft below the required action (K24),861,0.05737704918032787,whole frame u640 + C1,none,0.6254313662542869,0.22045132980491167
+ahd,draft below the required action (K24),861,0.05737704918032787,whole frame u640 + C1,v3a,0.5592756295448482,0.23291422429667605
+ahd,draft below the required action (K24),861,0.05737704918032787,whole frame u960,none,0.5390731383951818,-0.12510488083042273
+ahd,draft below the required action (K24),861,0.05737704918032787,whole frame u960,v3a,0.5515927499740213,0.05400487407023668
+ahd,draft below the required action (K24),861,0.05737704918032787,whole frame u960 + C1,none,0.727465300265062,0.22550059305514306
+ahd,draft below the required action (K24),861,0.05737704918032787,whole frame u960 + C1,v3a,0.6730121901960138,0.2352470694657501
+ahd,draft below the required action (K24),861,0.05737704918032787,whole frame native,none,0.5440342634167573,-0.19608993452693532
+ahd,draft below the required action (K24),861,0.05737704918032787,whole frame native,v3a,0.5878637621672956,0.0754047664197508
+ahd,draft below the required action (K24),861,0.05737704918032787,whole frame native + C1,none,0.7246350405544051,0.36362506223024793
+ahd,draft below the required action (K24),861,0.05737704918032787,whole frame native + C1,v3a,0.6870281047521578,0.38783474186345035
+ahd,draft below the required action (K24),861,0.05737704918032787,v5.1-S,none,0.6194618773422411,0.2263088118617613
+ahd,draft below the required action (K24),861,0.05737704918032787,v5.1-S,v3a,0.5902258418256914,0.2972427257556602
+ahd,draft below the required action (K24),861,0.05737704918032787,v6-S,none,0.7332473930370049,0.37093345307191183
+ahd,draft below the required action (K24),861,0.05737704918032787,v6-S,v3a,0.667100939767339,0.37714799882397687
+ahd,draft below the required action (K24),861,0.05737704918032787,v6-S support only,none,-0.005268511093821969,0.36601869183868846
+ahd,draft below the required action (K24),861,0.05737704918032787,v6-S support only,v3a,-0.01073885053133732,0.3658451317065557
+ahd,draft below the required action (K24),861,0.05737704918032787,v6-S field only,none,0.7275922512838949,-0.013939986588668532
+ahd,draft below the required action (K24),861,0.05737704918032787,v6-S field only,v3a,0.6721942588351895,-0.016933776754466622
+ahd,draft below the required action (K24),861,0.05737704918032787,heuristic unc2@S + C1,none,0.07278468311981305,0.30902263669758856
+ahd,draft below the required action (K24),861,0.05737704918032787,heuristic unc2@S + C1,v3a,0.03742964185430392,0.32209671514408056
+ahd,draft below the required action (K24),861,0.05737704918032787,heuristic unc4@S + C1,none,0.1852910753301708,0.29014492207735426
+ahd,draft below the required action (K24),861,0.05737704918032787,heuristic unc4@S + C1,v3a,0.16061000894120198,0.2913860544537906
+ahd,draft below the required action (K24),861,0.05737704918032787,heuristic tcr0@S + C1,none,0.5444540634410153,0.34379658857098716
+ahd,draft below the required action (K24),861,0.05737704918032787,heuristic tcr0@S + C1,v3a,0.5019014556737121,0.3576598112071945
+ahd,draft below the required action (K24),861,0.05737704918032787,heuristic tcr3@S + C1,none,0.6335790390856422,0.3126987505292678
+ahd,draft below the required action (K24),861,0.05737704918032787,heuristic tcr3@S + C1,v3a,0.5900093179271836,0.3156383129947992
+ahd,draft below the required action (K24),861,0.05737704918032787,heuristic cor0@S + C1,none,0.6569861306423572,0.2754715342872275
+ahd,draft below the required action (K24),861,0.05737704918032787,heuristic cor0@S + C1,v3a,0.620477185318919,0.2993015038815222
+ahd,draft below the required action (K24),861,0.05737704918032787,heuristic cor8@S + C1,none,0.6912768664657138,0.33949918872508245
+ahd,draft below the required action (K24),861,0.05737704918032787,heuristic cor8@S + C1,v3a,0.6369519741699692,0.34893339596144674
+ahd,draft below the required action (K24),861,0.05737704918032787,heuristic tsp2@S + C1,none,0.6514541492615663,0.3570846656606469
+ahd,draft below the required action (K24),861,0.05737704918032787,heuristic tsp2@S + C1,v3a,0.6129704619398697,0.37052917177155775
+ahd,draft below the required action (K24),861,0.05737704918032787,heuristic tsp8@S + C1,none,0.7001875895923875,0.3585404389457715
+ahd,draft below the required action (K24),861,0.05737704918032787,heuristic tsp8@S + C1,v3a,0.6434392316774936,0.36937324503011537
+ahd,draft below the required action (K24),861,0.05737704918032787,heuristic rnd@S + C1,none,0.14024239451071924,0.13680547918356933
+ahd,draft below the required action (K24),861,0.05737704918032787,heuristic rnd@S + C1,v3a,0.13786152555567838,0.1395682959373281
+ahd,draft below the required action (K24),861,0.05737704918032787,v6-M,none,0.7190903490940714,0.3622702307985212
+ahd,draft below the required action (K24),861,0.05737704918032787,v6-M,ref,0.696832830175235,0.38404724094525877
+ahd,draft below the required action (K24),861,0.05737704918032787,v6-L,none,0.7287064070861343,0.36797642808076675
+ahd,draft below the required action (K24),861,0.05737704918032787,v6-L,ref,0.6959172179688372,0.3873266576020259

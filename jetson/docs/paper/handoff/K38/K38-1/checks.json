@@ -1,0 +1,63 @@
+{
+ "medians_sha256": "ebbecacdde3445f6f5a50720c28f34d5a3d556c5a4abcff582beef99b9292eee",
+ "nusc_test20_rep1_a_gt_vs_k30_max_abs_diff": 8.881784197001252e-16,
+ "nusc_test20_rep2_a_gt_vs_k30_max_abs_diff": 8.881784197001252e-16,
+ "nusc_test20_rep3_a_gt_vs_k30_max_abs_diff": 8.881784197001252e-16,
+ "nusc_test20_stored_cost_max_abs_diff": 8.881784197001252e-16,
+ "nusc_test20_Dinf_parity_vs_K34_3": {
+  "v6-S rep1": {
+   "common_frames": 805,
+   "differing": 0
+  },
+  "B2K-A rep1": {
+   "common_frames": 805,
+   "differing": 0
+  },
+  "v6-S rep2": {
+   "common_frames": 805,
+   "differing": 0
+  },
+  "B2K-A rep2": {
+   "common_frames": 805,
+   "differing": 0
+  },
+  "v6-S rep3": {
+   "common_frames": 805,
+   "differing": 0
+  },
+  "B2K-A rep3": {
+   "common_frames": 805,
+   "differing": 0
+  }
+ },
+ "av2t40_rep1_a_gt_vs_k30_max_abs_diff": 4.440892098500626e-16,
+ "av2t40_rep2_a_gt_vs_k30_max_abs_diff": 4.440892098500626e-16,
+ "av2t40_rep3_a_gt_vs_k30_max_abs_diff": 4.440892098500626e-16,
+ "av2t40_stored_cost_max_abs_diff": 3.552713678800501e-15,
+ "av2t40_Dinf_parity_vs_K34_3": {
+  "v6-S rep1": {
+   "common_frames": 586,
+   "differing": 0
+  },
+  "B2K-A rep1": {
+   "common_frames": 586,
+   "differing": 0
+  },
+  "v6-S rep2": {
+   "common_frames": 586,
+   "differing": 0
+  },
+  "B2K-A rep2": {
+   "common_frames": 586,
+   "differing": 0
+  },
+  "v6-S rep3": {
+   "common_frames": 586,
+   "differing": 0
+  },
+  "B2K-A rep3": {
+   "common_frames": 586,
+   "differing": 0
+  }
+ }
+}

@@ -1,0 +1,15 @@
+setting,dataset,variant,agreement_with_u960,ci_lo,ci_hi,crops_per_frame
+ego mask,"AV2 val, first 50 logs (3958 frames)",cheap draft,0.7966144517433047,0.7642097804805593,0.8302235618534288,
+ego mask,"AV2 val, first 50 logs (3958 frames)","real crops (ours, no refiner), v_close 0",0.8534613441131885,0.8233794492400325,0.8840245416853244,2.0672056594239514
+ego mask,"AV2 val, first 50 logs (3958 frames)","exact locality (F's objects inside the crops), v_close 0",0.9320363820111168,0.9120361860032578,0.9502551478143516,1.4729661445174331
+ego mask,"AV2 val, first 50 logs (3958 frames)","exact locality + F's ttc history, v_close 0",0.9519959575543204,0.9346878976762694,0.9668859523880706,1.4580596260737746
+ego mask,"AV2 val, first 50 logs (3958 frames)","real crops (ours, no refiner), v_close 10",0.8585144012127337,0.8289473684210527,0.887916368910885,3.3100050530570995
+ego mask,"AV2 val, first 50 logs (3958 frames)","exact locality (F's objects inside the crops), v_close 10",0.9757453259221828,0.9670598379816586,0.9833296492121948,2.3226376958059625
+ego mask,"AV2 val, first 50 logs (3958 frames)","exact locality + F's ttc history, v_close 10",0.9848408287013644,0.9784043343431368,0.9901595279370432,2.314047498736736
+unmasked (K12),"AV2 val, first 50 logs (3958 frames)",cheap draft,0.5409297625063163,0.4874792113337482,0.5958750839924656,
+unmasked (K12),"AV2 val, first 50 logs (3958 frames)","real crops (ours, no refiner), v_close 0",0.8024254674077818,0.7621466971718155,0.8402063697018504,2.5674583122789287
+unmasked (K12),"AV2 val, first 50 logs (3958 frames)","exact locality (F's objects inside the crops), v_close 0",0.9234461849418898,0.9041971553302351,0.940581606008176,1.9191510864072765
+unmasked (K12),"AV2 val, first 50 logs (3958 frames)","exact locality + F's ttc history, v_close 0",0.944921677614957,0.9285528193837692,0.9588250807913932,1.9050025265285495
+unmasked (K12),"AV2 val, first 50 logs (3958 frames)","real crops (ours, no refiner), v_close 10",0.8120262758969177,0.7720531860374116,0.8472093972238111,3.774128347650328
+unmasked (K12),"AV2 val, first 50 logs (3958 frames)","exact locality (F's objects inside the crops), v_close 10",0.9628600303183426,0.9518153546896688,0.9727081915629238,2.7246083880747847
+unmasked (K12),"AV2 val, first 50 logs (3958 frames)","exact locality + F's ttc history, v_close 10",0.9744820616472966,0.9638004497573678,0.9829866112384692,2.7177867609903994

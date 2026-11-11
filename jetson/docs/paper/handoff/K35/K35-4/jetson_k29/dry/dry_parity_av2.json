@@ -1,0 +1,8 @@
+{
+  "dataset": "av2",
+  "reference": "/home/kongwoang/research/CVPR/results/raw/20261025_214704_k35_k29_reference_original_timing_av2_v6S_dry_reference",
+  "staged": [
+    "/home/kongwoang/research/CVPR/results/raw/20261025_214636_k35_k29_staged_fast_timing_av2_v6S_dry_staged"
+  ],
+  "action_diff_timed_total": 0
+}

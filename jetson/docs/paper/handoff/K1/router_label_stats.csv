@@ -1,0 +1,3 @@
+dataset,frames,share_ORIC_gt0,share_V_gt0,share_V_lt0,spearman_ORIC_V,source_file
+nuScenes new train,15475,0.6205,0.0486,0.03,0.0292,router/frames__train.pkl
+AV2 train (router train logs),22715,0.9017,0.3626,0.068,-0.0033,av2_sota/frames__train.pkl

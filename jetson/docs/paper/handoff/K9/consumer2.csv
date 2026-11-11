@@ -1,0 +1,13 @@
+dataset,consumer,method,G,network_px_mean,agreement_u960,ci_ours_minus
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)","TTC warning (warn <= 4 s, brake <= 2 s)",cheap,0.0,0.0427,0.9207,"(0.1078, 0.2756)"
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)","TTC warning (warn <= 4 s, brake <= 2 s)",u960,0.165,0.384,1.0,"(-0.0445, 0.1001)"
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)","TTC warning (warn <= 4 s, brake <= 2 s)",ours (TTC field + support),0.187,0.1238,0.9513,
+"nuScenes new val (development) — nusc val (152 units, 6117 frames)","TTC warning (warn <= 4 s, brake <= 2 s)",uncertainty crops (same px),0.192,0.1781,0.9547,"(-0.07, 0.0544)"
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)","TTC warning (warn <= 4 s, brake <= 2 s)",cheap,0.0,0.0427,0.9232,"(0.0551, 0.1759)"
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)","TTC warning (warn <= 4 s, brake <= 2 s)",u960,0.091,0.384,1.0,"(-0.0247, 0.0813)"
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)","TTC warning (warn <= 4 s, brake <= 2 s)",ours (TTC field + support),0.114,0.1212,0.9571,
+"nuScenes new test (post-hoc) — nusc test (228 units, 9181 frames)","TTC warning (warn <= 4 s, brake <= 2 s)",uncertainty crops (same px),0.149,0.1674,0.955,"(-0.0881, 0.0167)"
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)","TTC warning (warn <= 4 s, brake <= 2 s)",cheap,0.0,0.0258,0.7629,"(0.078, 0.1984)"
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)","TTC warning (warn <= 4 s, brake <= 2 s)",u960,0.071,0.2323,1.0,"(0.0213, 0.1217)"
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)","TTC warning (warn <= 4 s, brake <= 2 s)",ours (TTC field + support),0.139,0.0593,0.8249,
+"AV2 val (post-hoc) — av2 test (150 units, 11818 frames)","TTC warning (warn <= 4 s, brake <= 2 s)",uncertainty crops (same px),0.21100000000000002,0.0917,0.8164,"(-0.1235, -0.0252)"

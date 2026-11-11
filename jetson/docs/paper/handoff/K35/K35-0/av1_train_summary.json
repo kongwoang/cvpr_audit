@@ -1,0 +1,12 @@
+{
+ "sequences_in_train_json": 65,
+ "units_ok": 65,
+ "units_missing": 0,
+ "labelled_frames": 39265,
+ "required_episodes": 154,
+ "episodes_by_severity": {
+  "below_hard": 137,
+  "at_or_above_hard": 17
+ },
+ "units_with_episodes": 50
+}

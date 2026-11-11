@@ -1,0 +1,16 @@
+{
+  "remote/A_method/k41_jetson_pilot_summary.py": "52e055ddb5619b2c95808057aae1000d",
+  "scripts/93_latency_pilot_report.py": "d7c2271f0f6c714a28b1eb5c54b717c5",
+  "experiments/latency_opt_20261030/build_jp03.py": "647032ffcb702938482c1ae2da488efe",
+  "experiments/latency_opt_20261030/recover_jp01.py": "4507925a4b6014ba43b98c427e3c729b",
+  "experiments/latency_opt_20261030/c1_fixed_graph.py": "d996a6bf7f2d7cac74e3534cdd244527",
+  "experiments/latency_opt_20261030/c1_pipeline_window.py": "a2fa3b62c7cf67f02a121cb6076b329b",
+  "experiments/latency_opt_20261030/scripts/94_latency_c1_graph.py": "f4ba81ed0e904724f850a074e329a1a7",
+  "scripts/95_latency_c1_report.py": "81e9c5e4fbf8a56595a91d87dfdb2f62",
+  "remote/A_method/k41_jetson_pilot_quality.py": "8381007c53865d5e89222c0af49fd7e9",
+  "remote/A_method/k41_jetson_pilot_diagnostics.py": "6e87847a9f3e5cb8d3397cf4c7441ef1",
+  "scripts/96_collect_latency_pilot.py": "f6085cd309bf343f4aab726980d4c6a7",
+  "scripts/97_latency_pilot_metadata.py": "17e697efeb1867ae7c783d43df603356",
+  "scripts/98_resume_latency_jp03.py": "5a5b0da9dbb0e1e93ff957b37816fdb0",
+  "scripts/99_finish_latency_jp03.py": "c150e69ea5a2a6ab6ac805ba069fdded"
+}

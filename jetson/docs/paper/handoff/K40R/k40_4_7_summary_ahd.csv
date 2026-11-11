@@ -1,0 +1,6 @@
+stage,frames,exact_matches,literal_matches,projection_matches,oracle_matches
+cheap,15006,15006,9156,15006,15006
+desp_no_ref,15006,15006,8300,15006,15006
+synthetic_action_0,15006,15006,5049,15006,15006
+synthetic_action_1,15006,15006,10119,15006,15006
+synthetic_action_2,15006,15006,15006,15006,15006

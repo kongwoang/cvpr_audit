@@ -1,0 +1,21 @@
+dataset,group,stage,frames,mean_ms,median_ms,p95_ms,scope
+nusc_val,all,draft_including_upload_geometry,512,6.694141074248705,6.944521999685094,7.367834350952762,separate instrumented run; group selected by clean baseline mean; no additive p95 claim
+nusc_val,all,all_crop_calls_including_guard,512,12.349757034996856,6.199272498633945,40.46875874773832,separate instrumented run; group selected by clean baseline mean; no additive p95 claim
+nusc_val,all,C1_total_including_CPU_and_synchronization,512,1.2720015019738184,0.0,8.368882698050582,separate instrumented run; group selected by clean baseline mean; no additive p95 claim
+nusc_val,all,support_refiner_including_patches,512,0.3358433650362258,0.10938100240309723,0.4137341980822383,separate instrumented run; group selected by clean baseline mean; no additive p95 claim
+nusc_val,all,unattributed_residual_instrumented,512,4.25108759792181,4.560781500913436,8.662458057733602,separate instrumented run; group selected by clean baseline mean; no additive p95 claim
+nusc_val,slowest_5percent_clean_mean,draft_including_upload_geometry,26,7.03778280820608,6.9903639996482525,7.351644246227806,separate instrumented run; group selected by clean baseline mean; no additive p95 claim
+nusc_val,slowest_5percent_clean_mean,all_crop_calls_including_guard,26,48.480240382699634,47.461106994887814,63.08961149989045,separate instrumented run; group selected by clean baseline mean; no additive p95 claim
+nusc_val,slowest_5percent_clean_mean,C1_total_including_CPU_and_synchronization,26,5.151029231526011,5.602205499599222,12.362846497126156,separate instrumented run; group selected by clean baseline mean; no additive p95 claim
+nusc_val,slowest_5percent_clean_mean,support_refiner_including_patches,26,0.3862870381943559,0.3072299987252336,0.4024739973829128,separate instrumented run; group selected by clean baseline mean; no additive p95 claim
+nusc_val,slowest_5percent_clean_mean,unattributed_residual_instrumented,26,10.026577809465099,8.8609940103197,14.668589506982244,separate instrumented run; group selected by clean baseline mean; no additive p95 claim
+av2_dev,all,draft_including_upload_geometry,512,9.199156422084798,9.241075502359308,9.641365447168937,separate instrumented run; group selected by clean baseline mean; no additive p95 claim
+av2_dev,all,all_crop_calls_including_guard,512,17.303424060742145,5.787255002360325,73.37876230303664,separate instrumented run; group selected by clean baseline mean; no additive p95 claim
+av2_dev,all,C1_total_including_CPU_and_synchronization,512,3.7055377441674864,0.11118900147266686,14.369292497576673,separate instrumented run; group selected by clean baseline mean; no additive p95 claim
+av2_dev,all,support_refiner_including_patches,512,1.5068058671090512,0.3036300004168879,4.121975699308678,separate instrumented run; group selected by clean baseline mean; no additive p95 claim
+av2_dev,all,unattributed_residual_instrumented,512,5.583500056516755,5.714036000426859,15.185328759616821,separate instrumented run; group selected by clean baseline mean; no additive p95 claim
+av2_dev,slowest_5percent_clean_mean,draft_including_upload_geometry,26,9.35768019329631,9.303078502853168,9.674799252024968,separate instrumented run; group selected by clean baseline mean; no additive p95 claim
+av2_dev,slowest_5percent_clean_mean,all_crop_calls_including_guard,26,85.02247969730749,80.79056450878852,105.78747250838205,separate instrumented run; group selected by clean baseline mean; no additive p95 claim
+av2_dev,slowest_5percent_clean_mean,C1_total_including_CPU_and_synchronization,26,15.475422654932258,15.63832599640591,24.614205252873944,separate instrumented run; group selected by clean baseline mean; no additive p95 claim
+av2_dev,slowest_5percent_clean_mean,support_refiner_including_patches,26,4.073920346295031,3.856302999338368,5.208668497289182,separate instrumented run; group selected by clean baseline mean; no additive p95 claim
+av2_dev,slowest_5percent_clean_mean,unattributed_residual_instrumented,26,15.793900300475517,16.698693983926205,19.039286749830353,separate instrumented run; group selected by clean baseline mean; no additive p95 claim

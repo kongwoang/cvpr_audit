@@ -1,0 +1,34 @@
+engine,md5,use
+c1enc_fp16_b1.engine,6fc02be884893a90a7e982d2ef2aba63,C1 encoder (fast paths trt16 / trt32)
+c1enc_fp16_b2.engine,0fe333c07b0f6d8aa58f885d1662b591,C1 encoder (fast paths trt16 / trt32)
+c1enc_fp16_b4.engine,4bdb196ad352c088d063438693c29339,C1 encoder (fast paths trt16 / trt32)
+c1enc_fp16_b8.engine,db2a89ad9f342146951564755975ba84,C1 encoder (fast paths trt16 / trt32)
+c1enc_fp16_b16.engine,a285917ba34fa12533d426c18a0cdd6e,C1 encoder (fast paths trt16 / trt32)
+c1enc_fp16_b32.engine,8180862631809362b1c9917f7afb4ed5,C1 encoder (fast paths trt16 / trt32)
+c1enc_fp32_b1.engine,f05cffd961c55dd7f43a5abe96b4f9e8,C1 encoder (fast paths trt16 / trt32)
+c1enc_fp32_b2.engine,05129cd27ab7c1a1345ecfd47a0f5517,C1 encoder (fast paths trt16 / trt32)
+c1enc_fp32_b4.engine,6050740c147602a1d29066c594fd7638,C1 encoder (fast paths trt16 / trt32)
+c1enc_fp32_b8.engine,b196d2dabde1f974345dfbe1fbe71850,C1 encoder (fast paths trt16 / trt32)
+c1enc_fp32_b16.engine,303181c3d87465a487537e0db6cb9a64,C1 encoder (fast paths trt16 / trt32)
+c1enc_fp32_b32.engine,a56bcf1cc36bb52777d554ee3e541f45,C1 encoder (fast paths trt16 / trt32)
+refiner_v3a_vuw_dyn.engine,94a412fd721ff039cfe23fd257f8c63d,range refiner (dynamic batch 1-16)
+refiner_own_yolov8m_vuw_dyn.engine,2d3a99771534d1a16af5cb65a808e09b,range refiner (dynamic batch 1-16)
+refiner_own_yolo11m_vuw_dyn.engine,c1a5ec91801abd5d3a7df1e715fc5130,range refiner (dynamic batch 1-16)
+yolov8s_dyn.engine,a3ef5aa7527a8ba568496e85ee4e70c4,crop verifier (dynamic)
+yolov8m_dyn.engine,6d2e5c1df0359516eab93faa37ab0d31,crop verifier (dynamic)
+yolo11m_dyn.engine,333ebcb33c4738100515e9b267948dc0,crop verifier (dynamic)
+yolov8s_crop_192x320.engine,eb0e1c295fcca5e2eff7d0ed9058eb94,nuScenes cheap / whole frame
+yolov8s_crop_256x448.engine,6435b2302c179a2b49f633eaf2b76450,nuScenes cheap / whole frame
+yolov8s_crop_288x512.engine,9391ca8cc274ea88f7d14abe0b446bf5,nuScenes cheap / whole frame
+yolov8s_crop_384x640.engine,2987564f8a792d058615d2dc51e67588,nuScenes cheap / whole frame
+yolov8s_crop_576x960.engine,86350e5656a11374f7e1e48a639477c0,nuScenes cheap / whole frame
+yolov8s_crop_736x1280.engine,80fa434a162396efccc71cc1a9b604c1,nuScenes cheap / whole frame
+yolov8s_crop_928x1600.engine,51b4b7835cd1899b1aba4f2d2f0198b6,nuScenes cheap / whole frame
+yolov8s_crop_320x256.engine,b413eaff66932ab9abad5662aa4b902b,AV2 cheap / whole frame
+yolov8s_crop_448x352.engine,b64fa5b9eb7c65f6689c3c85864c5553,AV2 cheap / whole frame
+yolov8s_crop_512x416.engine,49a47b21ff6b1cfb43378cbbb21a9730,AV2 cheap / whole frame
+yolov8s_crop_640x512.engine,40cd19ba0a07b343892c5b8affdac6a8,AV2 cheap / whole frame
+yolov8s_crop_960x768.engine,0a9a9313adb0d149dd1e103b02a674ac,AV2 cheap / whole frame
+yolov8s_crop_1280x992.engine,c9d0053f7b4aa0ff9d90f822f773a186,AV2 cheap / whole frame
+yolov8s_crop_2048x1568.engine,d98aa2c03bf083ebe89b471a10fdeebf,AV2 cheap / whole frame
+k28_temporal_head.pt,1b1e25d17508cecaf48e9de1815e6c7f,C1 weights (TempHead)

@@ -1,0 +1,103 @@
+dataset,pipeline,event,winning_object_has_fallback,observations,used_upper,frames,units,mean_rate
+av2,v6S_b2A_missing_corroborated_retro,new benchmark false-braking frame,False,-1,False,2,2,
+av2,v6S_b2A_missing_corroborated_retro,new benchmark false-braking frame,True,1,False,23,20,0.3408538096624872
+av2,v6S_b2A_missing_corroborated_retro,new benchmark false-braking frame,True,2,False,5,5,0.3015579491853714
+av2,v6S_b2A_missing_corroborated_retro,new benchmark false-braking frame,True,2,True,13,11,0.4834196063188406
+av2,v6S_b2A_missing_corroborated_retro,new benchmark false-braking frame,True,3,False,5,5,0.437198281288147
+av2,v6S_b2A_missing_corroborated_retro,new benchmark false-braking frame,True,3,True,21,15,0.47005911526225863
+av2,v6S_b2A_missing_corroborated_retro,new required braking frame,False,-1,False,1,1,
+av2,v6S_b2A_missing_corroborated_retro,new required braking frame,True,1,False,18,12,0.364004318912824
+av2,v6S_b2A_missing_corroborated_retro,new required braking frame,True,2,False,1,1,0.17289948463439941
+av2,v6S_b2A_missing_corroborated_retro,new required braking frame,True,2,True,7,7,0.7121936082839966
+av2,v6S_b2A_missing_corroborated_retro,new required braking frame,True,3,False,3,3,0.5723157525062561
+av2,v6S_b2A_missing_corroborated_retro,new required braking frame,True,3,True,18,11,0.46594160629643333
+av2,v6S_b2A_missing_corroborated_retro,other action change,True,1,False,10,9,0.6898954182863235
+av2,v6S_b2A_missing_corroborated_retro,other action change,True,2,True,7,6,0.9583325173173632
+av2,v6S_b2A_missing_corroborated_retro,other action change,True,3,True,9,9,0.8963881267441643
+av2,v6S_b2A_missing_extent_retro,new benchmark false-braking frame,False,-1,False,69,30,
+av2,v6S_b2A_missing_extent_retro,new benchmark false-braking frame,True,1,False,30,24,0.3747123713294665
+av2,v6S_b2A_missing_extent_retro,new benchmark false-braking frame,True,2,False,10,10,0.3852293074131012
+av2,v6S_b2A_missing_extent_retro,new benchmark false-braking frame,True,3,False,25,20,0.4429482589289546
+av2,v6S_b2A_missing_extent_retro,new required braking frame,False,-1,False,23,12,
+av2,v6S_b2A_missing_extent_retro,new required braking frame,True,1,False,18,13,0.364158329864343
+av2,v6S_b2A_missing_extent_retro,new required braking frame,True,2,False,6,6,0.6602376898129781
+av2,v6S_b2A_missing_extent_retro,new required braking frame,True,3,False,20,17,0.5082652330398559
+av2,v6S_b2A_missing_extent_retro,other action change,False,-1,False,27,20,
+av2,v6S_b2A_missing_extent_retro,other action change,True,1,False,10,9,0.6875174552202225
+av2,v6S_b2A_missing_extent_retro,other action change,True,2,False,4,3,1.035028100013733
+av2,v6S_b2A_missing_extent_retro,other action change,True,3,False,4,4,1.3054538369178772
+av2,v6S_b2A_missing_observed_retro,new benchmark false-braking frame,False,-1,False,2,2,
+av2,v6S_b2A_missing_observed_retro,new benchmark false-braking frame,True,2,False,11,11,0.390372403643348
+av2,v6S_b2A_missing_observed_retro,new benchmark false-braking frame,True,3,False,22,16,0.4385845491831953
+av2,v6S_b2A_missing_observed_retro,new required braking frame,False,-1,False,1,1,
+av2,v6S_b2A_missing_observed_retro,new required braking frame,True,2,False,6,6,0.6602376898129781
+av2,v6S_b2A_missing_observed_retro,new required braking frame,True,3,False,18,12,0.4648294018374549
+av2,v6S_b2A_missing_observed_retro,other action change,True,2,False,4,3,1.035028100013733
+av2,v6S_b2A_missing_observed_retro,other action change,True,3,False,3,3,1.2859878937403362
+av2,v6S_b2A_missing_retro,new benchmark false-braking frame,False,-1,False,2,2,
+av2,v6S_b2A_missing_retro,new benchmark false-braking frame,True,1,False,24,21,0.34507292446990806
+av2,v6S_b2A_missing_retro,new benchmark false-braking frame,True,2,False,11,11,0.390372403643348
+av2,v6S_b2A_missing_retro,new benchmark false-braking frame,True,3,False,22,16,0.4385845491831953
+av2,v6S_b2A_missing_retro,new required braking frame,False,-1,False,1,1,
+av2,v6S_b2A_missing_retro,new required braking frame,True,1,False,18,12,0.364004318912824
+av2,v6S_b2A_missing_retro,new required braking frame,True,2,False,6,6,0.6602376898129781
+av2,v6S_b2A_missing_retro,new required braking frame,True,3,False,17,12,0.4590971504940706
+av2,v6S_b2A_missing_retro,other action change,True,1,False,10,9,0.6898954182863235
+av2,v6S_b2A_missing_retro,other action change,True,2,False,4,3,1.035028100013733
+av2,v6S_b2A_missing_retro,other action change,True,3,False,3,3,1.2859878937403362
+av2,v6S_b2A_upper_retro,new benchmark false-braking frame,False,-1,False,4,3,
+av2,v6S_b2A_upper_retro,new benchmark false-braking frame,True,1,True,127,65,0.3493575092375748
+av2,v6S_b2A_upper_retro,new benchmark false-braking frame,True,2,True,20,18,0.4041049271821976
+av2,v6S_b2A_upper_retro,new benchmark false-braking frame,True,3,True,36,23,0.41701554424232906
+av2,v6S_b2A_upper_retro,new required braking frame,False,-1,False,1,1,
+av2,v6S_b2A_upper_retro,new required braking frame,True,1,True,40,24,0.366395153850317
+av2,v6S_b2A_upper_retro,new required braking frame,True,2,True,9,9,0.6183983087539673
+av2,v6S_b2A_upper_retro,new required braking frame,True,3,True,21,13,0.4943327662490663
+av2,v6S_b2A_upper_retro,other action change,True,1,True,36,25,0.7622459414932463
+av2,v6S_b2A_upper_retro,other action change,True,2,True,7,6,0.9123294183186123
+av2,v6S_b2A_upper_retro,other action change,True,3,True,9,9,0.8963881267441643
+nusc,v6S_b2A_missing_corroborated_retro,new benchmark false-braking frame,True,1,False,15,10,0.352130592862765
+nusc,v6S_b2A_missing_corroborated_retro,new benchmark false-braking frame,True,2,False,5,4,0.29838836193084717
+nusc,v6S_b2A_missing_corroborated_retro,new benchmark false-braking frame,True,2,True,2,2,0.5763144046068192
+nusc,v6S_b2A_missing_corroborated_retro,new benchmark false-braking frame,True,3,False,2,2,0.3664243221282959
+nusc,v6S_b2A_missing_corroborated_retro,new benchmark false-braking frame,True,3,True,1,1,0.34442105889320374
+nusc,v6S_b2A_missing_corroborated_retro,new required braking frame,True,1,False,15,8,0.38339418470859526
+nusc,v6S_b2A_missing_corroborated_retro,new required braking frame,True,2,False,1,1,0.22537687420845032
+nusc,v6S_b2A_missing_corroborated_retro,new required braking frame,True,2,True,2,2,0.31440430134534836
+nusc,v6S_b2A_missing_corroborated_retro,new required braking frame,True,3,True,2,2,0.3947379142045975
+nusc,v6S_b2A_missing_corroborated_retro,other action change,True,1,False,8,5,0.8685321360826492
+nusc,v6S_b2A_missing_corroborated_retro,other action change,True,2,True,6,4,0.9106426934401194
+nusc,v6S_b2A_missing_corroborated_retro,other action change,True,3,True,1,1,0.913344144821167
+nusc,v6S_b2A_missing_extent_retro,new benchmark false-braking frame,False,-1,False,9,4,
+nusc,v6S_b2A_missing_extent_retro,new benchmark false-braking frame,True,1,False,18,12,0.40315259413586724
+nusc,v6S_b2A_missing_extent_retro,new benchmark false-braking frame,True,2,False,7,5,0.36612348897116526
+nusc,v6S_b2A_missing_extent_retro,new benchmark false-braking frame,True,3,False,7,5,0.3754515903336661
+nusc,v6S_b2A_missing_extent_retro,new required braking frame,False,-1,False,2,2,
+nusc,v6S_b2A_missing_extent_retro,new required braking frame,True,1,False,20,10,0.3890082336962223
+nusc,v6S_b2A_missing_extent_retro,new required braking frame,True,2,False,2,2,0.2684977054595947
+nusc,v6S_b2A_missing_extent_retro,new required braking frame,True,3,False,1,1,0.38299858570098877
+nusc,v6S_b2A_missing_extent_retro,other action change,False,-1,False,2,2,
+nusc,v6S_b2A_missing_extent_retro,other action change,True,1,False,8,5,0.8620340377092361
+nusc,v6S_b2A_missing_extent_retro,other action change,True,2,False,3,2,0.8810124397277832
+nusc,v6S_b2A_missing_observed_retro,new benchmark false-braking frame,True,2,False,6,4,0.3628988166650136
+nusc,v6S_b2A_missing_observed_retro,new benchmark false-braking frame,True,3,False,4,4,0.3489253520965576
+nusc,v6S_b2A_missing_observed_retro,new required braking frame,True,2,False,2,2,0.2649475783109665
+nusc,v6S_b2A_missing_observed_retro,new required braking frame,True,3,False,1,1,0.37562280893325806
+nusc,v6S_b2A_missing_observed_retro,other action change,True,2,False,2,1,0.9188672006130219
+nusc,v6S_b2A_missing_retro,new benchmark false-braking frame,True,1,False,15,10,0.352130592862765
+nusc,v6S_b2A_missing_retro,new benchmark false-braking frame,True,2,False,6,4,0.3628988166650136
+nusc,v6S_b2A_missing_retro,new benchmark false-braking frame,True,3,False,4,4,0.3489253520965576
+nusc,v6S_b2A_missing_retro,new required braking frame,True,1,False,15,8,0.38339418470859526
+nusc,v6S_b2A_missing_retro,new required braking frame,True,2,False,2,2,0.2649475783109665
+nusc,v6S_b2A_missing_retro,new required braking frame,True,3,False,1,1,0.37562280893325806
+nusc,v6S_b2A_missing_retro,other action change,True,1,False,8,5,0.8685321360826492
+nusc,v6S_b2A_missing_retro,other action change,True,2,False,2,1,0.9188672006130219
+nusc,v6S_b2A_upper_retro,new benchmark false-braking frame,True,1,True,87,42,0.3201111488301179
+nusc,v6S_b2A_upper_retro,new benchmark false-braking frame,True,2,True,7,5,0.4206037606511797
+nusc,v6S_b2A_upper_retro,new benchmark false-braking frame,True,3,True,5,5,0.40191028714179994
+nusc,v6S_b2A_upper_retro,new required braking frame,True,1,True,27,15,0.45910388065709007
+nusc,v6S_b2A_upper_retro,new required braking frame,True,2,True,4,4,0.31231793388724327
+nusc,v6S_b2A_upper_retro,new required braking frame,True,3,True,2,2,0.3947379142045975
+nusc,v6S_b2A_upper_retro,other action change,True,1,True,14,8,1.0797364626611983
+nusc,v6S_b2A_upper_retro,other action change,True,2,True,6,4,0.9106426934401194
+nusc,v6S_b2A_upper_retro,other action change,True,3,True,1,1,0.913344144821167

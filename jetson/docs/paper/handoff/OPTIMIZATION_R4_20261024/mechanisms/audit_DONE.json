@@ -1,0 +1,7 @@
+{
+  "status": "complete",
+  "frames": 29782,
+  "abstention_action_differences": 0,
+  "main_sources_unchanged": true,
+  "note": "Stored-scene action parity only; altered inference batch sizes still require actual backend parity. Cross-group links are semantic compatibility diagnostics, not identity ground truth."
+}

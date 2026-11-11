@@ -1,0 +1,97 @@
+dataset,pipeline,comparator,rescued,newly_missed,hard_rescued,hard_newly_missed
+av2,cheap,v6-S,36,7,5,0
+av2,looming + recovery,v6-S,12,0,3,0
+av2,looming + recovery / half,v6-S,17,0,3,0
+av2,looming + recovery / none,v6-S,26,0,3,0
+av2,proactive,v6-S,5,0,0,0
+av2,proactive + recovery,v6-S,11,0,3,0
+av2,proactive + recovery / half,v6-S,17,0,3,0
+av2,proactive + recovery / none,v6-S,26,0,3,0
+av2,proactive / half,v6-S,11,0,0,0
+av2,proactive / none,v6-S,20,0,0,0
+av2,round1 combined,v6-S,10,0,3,0
+av2,round1 combined / half,v6-S,16,0,3,0
+av2,round1 combined / none,v6-S,25,0,3,0
+av2,v6-S,v6-S,0,0,0,0
+av2,v6-S / half,v6-S,7,0,0,0
+av2,v6-S / none,v6-S,15,0,0,0
+av2,cheap,round1 combined,26,7,2,0
+av2,looming + recovery,round1 combined,2,0,0,0
+av2,looming + recovery / half,round1 combined,7,0,0,0
+av2,looming + recovery / none,round1 combined,16,0,0,0
+av2,proactive,round1 combined,1,6,0,3
+av2,proactive + recovery,round1 combined,1,0,0,0
+av2,proactive + recovery / half,round1 combined,7,0,0,0
+av2,proactive + recovery / none,round1 combined,16,0,0,0
+av2,proactive / half,round1 combined,7,6,0,3
+av2,proactive / none,round1 combined,16,6,0,3
+av2,round1 combined,round1 combined,0,0,0,0
+av2,round1 combined / half,round1 combined,6,0,0,0
+av2,round1 combined / none,round1 combined,15,0,0,0
+av2,v6-S,round1 combined,0,10,0,3
+av2,v6-S / half,round1 combined,7,10,0,3
+av2,v6-S / none,round1 combined,15,10,0,3
+av2,cheap,cheap,0,0,0,0
+av2,looming + recovery,cheap,7,24,0,2
+av2,looming + recovery / half,cheap,8,20,0,2
+av2,looming + recovery / none,cheap,9,12,0,2
+av2,proactive,cheap,8,32,0,5
+av2,proactive + recovery,cheap,8,26,0,2
+av2,proactive + recovery / half,cheap,9,21,0,2
+av2,proactive + recovery / none,cheap,10,13,0,2
+av2,proactive / half,cheap,9,27,0,5
+av2,proactive / none,cheap,10,19,0,5
+av2,round1 combined,cheap,7,26,0,2
+av2,round1 combined / half,cheap,8,21,0,2
+av2,round1 combined / none,cheap,9,13,0,2
+av2,v6-S,cheap,7,36,0,5
+av2,v6-S / half,cheap,8,30,0,5
+av2,v6-S / none,cheap,9,23,0,5
+nusc,cheap,v6-S,12,6,2,0
+nusc,looming + recovery,v6-S,2,0,1,0
+nusc,looming + recovery / half,v6-S,3,0,1,0
+nusc,looming + recovery / none,v6-S,3,0,1,0
+nusc,proactive,v6-S,1,0,0,0
+nusc,proactive + recovery,v6-S,3,0,1,0
+nusc,proactive + recovery / half,v6-S,4,0,1,0
+nusc,proactive + recovery / none,v6-S,4,0,1,0
+nusc,proactive / half,v6-S,2,0,0,0
+nusc,proactive / none,v6-S,2,0,0,0
+nusc,round1 combined,v6-S,2,0,1,0
+nusc,round1 combined / half,v6-S,3,0,1,0
+nusc,round1 combined / none,v6-S,3,0,1,0
+nusc,v6-S,v6-S,0,0,0,0
+nusc,v6-S / half,v6-S,1,0,0,0
+nusc,v6-S / none,v6-S,1,0,0,0
+nusc,cheap,round1 combined,10,6,1,0
+nusc,looming + recovery,round1 combined,0,0,0,0
+nusc,looming + recovery / half,round1 combined,1,0,0,0
+nusc,looming + recovery / none,round1 combined,1,0,0,0
+nusc,proactive,round1 combined,1,2,0,1
+nusc,proactive + recovery,round1 combined,1,0,0,0
+nusc,proactive + recovery / half,round1 combined,2,0,0,0
+nusc,proactive + recovery / none,round1 combined,2,0,0,0
+nusc,proactive / half,round1 combined,2,2,0,1
+nusc,proactive / none,round1 combined,2,2,0,1
+nusc,round1 combined,round1 combined,0,0,0,0
+nusc,round1 combined / half,round1 combined,1,0,0,0
+nusc,round1 combined / none,round1 combined,1,0,0,0
+nusc,v6-S,round1 combined,0,2,0,1
+nusc,v6-S / half,round1 combined,1,2,0,1
+nusc,v6-S / none,round1 combined,1,2,0,1
+nusc,cheap,cheap,0,0,0,0
+nusc,looming + recovery,cheap,6,10,0,1
+nusc,looming + recovery / half,cheap,7,10,0,1
+nusc,looming + recovery / none,cheap,7,10,0,1
+nusc,proactive,cheap,6,11,0,2
+nusc,proactive + recovery,cheap,6,9,0,1
+nusc,proactive + recovery / half,cheap,7,9,0,1
+nusc,proactive + recovery / none,cheap,7,9,0,1
+nusc,proactive / half,cheap,7,11,0,2
+nusc,proactive / none,cheap,7,11,0,2
+nusc,round1 combined,cheap,6,10,0,1
+nusc,round1 combined / half,cheap,7,10,0,1
+nusc,round1 combined / none,cheap,7,10,0,1
+nusc,v6-S,cheap,6,12,0,2
+nusc,v6-S / half,cheap,7,12,0,2
+nusc,v6-S / none,cheap,7,12,0,2

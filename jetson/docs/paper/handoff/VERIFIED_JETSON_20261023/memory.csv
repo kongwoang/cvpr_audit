@@ -1,0 +1,4 @@
+dataset,rep,retained_history_bytes,peak_gpu_allocated_bytes,peak_gpu_reserved_bytes
+av2_dev,1,152371200,598027776,637534208
+av2_dev,2,152371200,598027776,637534208
+av2_dev,3,152371200,598027776,637534208

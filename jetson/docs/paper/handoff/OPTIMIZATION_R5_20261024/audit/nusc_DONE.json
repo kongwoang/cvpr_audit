@@ -1,0 +1,11 @@
+{
+  "status": "complete",
+  "units": 152,
+  "frames": 6117,
+  "required": 686,
+  "missed_braking_frames": 218,
+  "refiner_harm_frames": 45,
+  "refiner_help_frames": 26,
+  "refiner_risk_delta": -24.67272021137901,
+  "refiner_overbraking_delta": -13.692792717088583
+}

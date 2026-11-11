@@ -1,0 +1,3 @@
+dataset,units,frames,full_objects,corridor_range_full_objects,nonconsecutive_frame_transitions,ambiguous_current_links,ambiguous_relevant_current_links,multiple_compatible_relevant_options,current_links,class_switch_current_links,class_switch_relevant_current_links,chains,class_switch_chains,relevant_chains,class_switch_relevant_chains
+nusc,152,6117,10952,2025,0,807,43,45,6533,15,1,4783,9,1207,0
+av2,116,9166,36810,9235,0,1997,318,306,27345,47,9,22861,52,6494,14

@@ -1,0 +1,16 @@
+dataset,scope,flag,frames,of_frames,loss,of_loss
+nusc,required,possible_contained_fragment,637,686,1398.3984817014443,1799.6206544456722
+nusc,required,image_edge,16,686,98.14576585963364,1799.6206544456722
+nusc,required,mask_overlap_positive,0,686,0.0,1799.6206544456722
+nusc,required,mask_overlap_ge_half,0,686,0.0,1799.6206544456722
+nusc,required,box_area_ge_10pct,41,686,214.20075614181985,1799.6206544456722
+nusc,unbraked_required,possible_contained_fragment,169,218,733.8640550334999,1135.0862277777276
+nusc,unbraked_required,image_edge,5,218,28.078773424317333,1135.0862277777276
+nusc,unbraked_required,mask_overlap_positive,0,218,0.0,1135.0862277777276
+nusc,unbraked_required,mask_overlap_ge_half,0,218,0.0,1135.0862277777276
+nusc,unbraked_required,box_area_ge_10pct,14,218,134.67496304339278,1135.0862277777276
+nusc,unbraked_unmatched,possible_contained_fragment,4,53,159.71486421524804,560.9370369594758
+nusc,unbraked_unmatched,image_edge,2,53,7.291229844294535,560.9370369594758
+nusc,unbraked_unmatched,mask_overlap_positive,0,53,0.0,560.9370369594758
+nusc,unbraked_unmatched,mask_overlap_ge_half,0,53,0.0,560.9370369594758
+nusc,unbraked_unmatched,box_area_ge_10pct,6,53,95.2937297312626,560.9370369594758

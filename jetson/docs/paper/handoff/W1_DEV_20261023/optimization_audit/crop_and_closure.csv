@@ -1,0 +1,3 @@
+dataset,units,frames,frames_with_duplicate_requests,action_drop_frames,post_refine_unmet_frames,action_drop_and_unmet_frames,required_frames,required_but_keep_frames,required_but_keep_and_drop_and_unmet_frames,crop_requests,crop_tensor_pixels,duplicate_requests,duplicate_tensor_pixels,duplicate_request_share,duplicate_crop_pixel_share
+nusc,152,6117,10,64,7,7,686,226,0,10615,332107776,10,267264,0.0009420631182289214,0.0008047508047508048
+av2,116,9166,6,1154,491,490,2345,234,25,21044,827224064,7,233472,0.00033263638091617564,0.00028223550324570827

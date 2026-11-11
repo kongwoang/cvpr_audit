@@ -1,0 +1,41 @@
+{
+  "cases": [
+    {
+      "stage": "compact",
+      "dataset": "nusc",
+      "pipeline": "compact point fallback",
+      "unit": "scene-0451",
+      "start": 0,
+      "end": 1,
+      "rule": "unsupported"
+    },
+    {
+      "stage": "low",
+      "dataset": "nusc",
+      "pipeline": "corroborated upper fallback",
+      "unit": "scene-1017",
+      "start": 0,
+      "end": 9,
+      "rule": "severe"
+    },
+    {
+      "stage": "learned",
+      "dataset": "av2",
+      "pipeline": "learned missing history",
+      "unit": "ac3e33eb-5a53-369d-9e5a-7950392bfe99",
+      "start": 65,
+      "end": 66,
+      "rule": "unsupported"
+    },
+    {
+      "stage": "learned",
+      "dataset": "av2",
+      "pipeline": "uncertainty query",
+      "unit": "ce5033ee-e74e-354a-9299-8aaefbd03f59",
+      "start": 29,
+      "end": 30,
+      "rule": "highest peak among rescued episodes"
+    }
+  ],
+  "rule": "Exploratory illustrative cases; severe and unsupported rescues, not representative sampling."
+}

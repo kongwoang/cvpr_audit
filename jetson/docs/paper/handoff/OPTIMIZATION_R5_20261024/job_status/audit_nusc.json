@@ -1,0 +1,21 @@
+{
+  "task": "audit",
+  "dataset": "nusc",
+  "status": "complete",
+  "pid": 1670411,
+  "host": "cuda12.ecs.vuw.ac.nz",
+  "started": 1792853270.616462,
+  "scripts": {
+    "launch_cpu.py": "8d8f549427bf0795fc16c07651a50dfd74e154933b7706342ecc7b1474db945c",
+    "fit.py": "fed94ea64c86cb6e1ec18e899e55eb19c4542a59dd7c3fb503de685345225746",
+    "analyze.py": "fdf3accb6329ebf1abda584c1c3d35299c87dadd9ada9cdb374157fd6f193966",
+    "job.py": "634938c25f7c280f268281328929ce321efbc91e1697719dc58247a2559be06b",
+    "features.py": "748decb56fd2b91c36b50effbfb05be9f710aab3830c59b3b83bf0425936fd56",
+    "readout.py": "f19154ee7616c96bd23991fd0e6af4181c95632cd250455554e6dc88dbcfefb7",
+    "audit.py": "5182a66cda14fcd616e727199963fd4515e49bb67cfd2a7cf7ccac25f21bae32",
+    "common.py": "1563277aee1ade5234926eef1d9f2f6a47cbc59a52575f3c690dadbc4001e103"
+  },
+  "exit_code": 0,
+  "finished": 1792853283.2686188,
+  "changed_main_sources": []
+}

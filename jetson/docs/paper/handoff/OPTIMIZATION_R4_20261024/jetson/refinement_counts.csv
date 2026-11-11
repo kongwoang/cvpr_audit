@@ -1,0 +1,11 @@
+dataset,pipeline,refined
+av2_dev,critical extent retention,0.59375
+av2_dev,objectwise median full,0.599609375
+av2_dev,objectwise median skip,0.29296875
+av2_dev,round1 combined,0.599609375
+av2_dev,v6-S,0.580078125
+nusc_val,critical extent retention,0.06640625
+nusc_val,objectwise median full,0.052734375
+nusc_val,objectwise median skip,0.021484375
+nusc_val,round1 combined,0.052734375
+nusc_val,v6-S,0.04296875

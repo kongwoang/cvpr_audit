@@ -1,0 +1,7 @@
+task,consumer,metric,value,lo,hi,valid_draws,tokens,logs,numerator,denominator
+K41-2,PDM-Closed,pairs_moving,0.0006349878293999365,0.00020794485121592614,0.0011459198758078924,2000,1000,125,6.0,9449.0
+K41-2,PDM-Closed,pairs_moving_tokens,0.006,0.002005967803209227,0.010638813293748967,2000,1000,125,6.0,1000.0
+K41-2,PDM-Closed,probe_drop_moving,7.87542509396814e-05,2.7974859536560044e-05,0.0001419390989936819,2000,1000,125,11.0,139675.0
+K41-2,PDM-Closed,probe_drop_moving_tokens,0.01,0.003632054691706505,0.017368284559405072,2000,1000,125,10.0,1000.0
+K41-2,bottleneck selector,joint_probe_changes / pairs,0.0,0.0,0.0,2000,1000,125,0.0,995490.0
+K41-2,bottleneck selector,joint_probe_changes / pairs_neither_single,0.0,0.0,0.0,2000,1000,125,0.0,769561.0

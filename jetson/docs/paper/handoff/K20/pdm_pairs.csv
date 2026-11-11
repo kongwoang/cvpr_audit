@@ -1,0 +1,10 @@
+quantity,value
+tokens,1000.0
+object pairs tested (both singles do not move the plan),9449.0
+pairs whose joint removal moves the plan > 0.5 m,6.0
+share of tested pairs that move the plan,0.0006349878293999365
+tokens with at least one such pair,6.0
+probe + removal combinations tested (neither moves alone),139675.0
+probe + removal combinations that move the plan,11.0
+share of probe + removal combinations that move the plan,7.87542509396814e-05
+tokens with at least one probe + removal interaction,10.0

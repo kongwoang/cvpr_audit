@@ -1,0 +1,3 @@
+dataset,selected_chain_slots,encoded_unique_crop_features,encoder_invocations,scope
+nusc_val,2973,1344,709,"all712 frames including warmup and all rows; combined dedup/reuse, not a published cache-hit counter"
+av2_dev,16650,5651,2458,"all712 frames including warmup and all rows; combined dedup/reuse, not a published cache-hit counter"

@@ -1,0 +1,7 @@
+dataset,measure,frames,value,G_v6S,G_hybrid,v6S_minus,ci_lo,ci_hi,decisive_recall_v6S,decisive_recall_hybrid
+nusc,share of v6-S field footprint (area) outside the hybrid's tube,4783,0.0464670873265806,,,,,,,
+nusc,frames whose decisive object lies outside the hybrid's tube,1583,,0.03254701838514899,0.026224024269988416,0.006322994115160576,-0.007932959690725874,0.028126357673994445,0.7567909033480733,0.7466835123183828
+av2,share of v6-S field footprint (area) outside the hybrid's tube,5311,0.10312076242764297,,,,,,,
+av2,frames whose decisive object lies outside the hybrid's tube,3397,,0.18501510596901244,0.17562397751214487,0.009391128456867558,-0.005638548287134914,0.0277910046649945,0.8748896084780688,0.8719458345599058
+ahd,share of v6-S field footprint (area) outside the hybrid's tube,6901,0.20839477027017117,,,,,,,
+ahd,frames whose decisive object lies outside the hybrid's tube,3470,,0.4548697774724911,0.42786795588520626,0.027001821587284883,0.007523401831993123,0.052251637432335137,0.8593659942363112,0.8423631123919308

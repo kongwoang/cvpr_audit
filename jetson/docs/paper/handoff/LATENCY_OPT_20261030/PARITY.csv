@@ -1,0 +1,16 @@
+check,cases,mismatches,scope,status
+columns_and_postprocess,80,0,CPU synthetic tensors; device parity pending,passed
+existing_crop_bank_history,8,0,CPU crop cache; no encoder or TTC reuse tested,passed
+existing_NMS_stable_ties,2,0,CPU synthetic; frozen implementation unchanged,passed
+existing_ROI_first_crop,285,0,"CPU pixels; existing K29 optimization, not new",passed
+release_CPU_regression,102,0,3 CUDA tests skipped; copied release tests,passed
+device_detections_actions_crops_pixels_TTC_history,,,all dev and timed frames; RUNPLAN J01,not_run
+JP01_debug_nusc_val,712,0,47 endpoints/frame on fixed dev prefix; detector/NMS/crops/geometry/TTC/refinement/history,passed
+JP01_debug_av2_dev,712,0,47 endpoints/frame on fixed dev prefix; detector/NMS/crops/geometry/TTC/refinement/history,passed
+JP01_clean_scalar_endpoints,101376,0,66 dataset/endpoint pairs each with1536 frame/repetition values,passed
+JP02_C1_fixed_graph_synthetic,120,0,20 changing inputs in each of6 buckets; isolated encoder only,passed
+JP03_debug_nusc_val,712,0,47 endpoints/frame; fixed dev prefix only,passed
+JP03_debug_av2_dev,712,0,47 endpoints/frame; fixed dev prefix only,passed
+JP03_real_C1_graph_direct,3167,0,actual encoder calls during two712-frame audit runs,passed
+JP03_clean_scalar_counter_endpoints,172032,0,112 dataset/endpoint pairs each1536 values; no full-dev/test claim,passed
+scene_bootstrap_quantiles,800,0,literal scene resampling comparison; max floating difference2.22e-16,passed

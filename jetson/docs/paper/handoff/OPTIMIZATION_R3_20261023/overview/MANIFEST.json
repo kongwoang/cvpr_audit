@@ -1,0 +1,97 @@
+{
+  "status": "complete",
+  "sources": [
+    {
+      "suite": "dev",
+      "dataset": "nusc",
+      "report": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/optimization_r3_20261023/reports/dev",
+      "rows": 18
+    },
+    {
+      "suite": "dev",
+      "dataset": "av2",
+      "report": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/optimization_r3_20261023/reports/dev",
+      "rows": 18
+    },
+    {
+      "suite": "learned",
+      "dataset": "nusc",
+      "report": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/optimization_r3_20261023/reports/learned",
+      "rows": 21
+    },
+    {
+      "suite": "learned",
+      "dataset": "av2",
+      "report": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/optimization_r3_20261023/reports/learned",
+      "rows": 21
+    },
+    {
+      "suite": "calibrated",
+      "dataset": "nusc",
+      "report": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/optimization_r3_20261023/reports/calibrated",
+      "rows": 13
+    },
+    {
+      "suite": "calibrated",
+      "dataset": "av2",
+      "report": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/optimization_r3_20261023/reports/calibrated",
+      "rows": 13
+    },
+    {
+      "suite": "lift",
+      "dataset": "nusc",
+      "report": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/optimization_r3_20261023/reports/lift",
+      "rows": 12
+    },
+    {
+      "suite": "lift",
+      "dataset": "av2",
+      "report": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/optimization_r3_20261023/reports/lift",
+      "rows": 12
+    },
+    {
+      "suite": "persist",
+      "dataset": "nusc",
+      "report": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/optimization_r3_20261023/reports/persist",
+      "rows": 12
+    },
+    {
+      "suite": "persist",
+      "dataset": "av2",
+      "report": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/optimization_r3_20261023/reports/persist",
+      "rows": 12
+    },
+    {
+      "suite": "iddev",
+      "dataset": "nusc",
+      "report": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/optimization_r3_20261023/reports/iddev",
+      "rows": 12
+    },
+    {
+      "suite": "low",
+      "dataset": "nusc",
+      "report": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/optimization_r3_20261023/reports/low",
+      "rows": 18
+    },
+    {
+      "suite": "low",
+      "dataset": "av2",
+      "report": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/optimization_r3_20261023/reports/low",
+      "rows": 18
+    },
+    {
+      "suite": "compact",
+      "dataset": "nusc",
+      "report": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/optimization_r3_20261023/reports/compact",
+      "rows": 14
+    },
+    {
+      "suite": "compact",
+      "dataset": "av2",
+      "report": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/optimization_r3_20261023/reports/compact",
+      "rows": 14
+    }
+  ],
+  "complete_dataset_rows": 228,
+  "updated": 1792780933.5883594
+}

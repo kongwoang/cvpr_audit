@@ -1,0 +1,24 @@
+{
+  "task": "evaluate",
+  "dataset": "av2",
+  "status": "complete",
+  "pid": 1033673,
+  "host": "cuda13.ecs.vuw.ac.nz",
+  "started": 1792854550.440552,
+  "scripts": {
+    "launch_cpu.py": "8d8f549427bf0795fc16c07651a50dfd74e154933b7706342ecc7b1474db945c",
+    "fit.py": "fed94ea64c86cb6e1ec18e899e55eb19c4542a59dd7c3fb503de685345225746",
+    "analyze.py": "a09ab8ee8ad129bff25e7fcf9beadc8e40ed50ff3119035c5777dbbbaca3cd52",
+    "job.py": "c77c577ca973dcf1275b44a18d1e5c483e7f97b5d16d24ba842c542c336006c4",
+    "residual.py": "298d4b695374a37f3ae7c32835eb00b277151ad0c00c5e9a8c54ccc7e305801b",
+    "features.py": "748decb56fd2b91c36b50effbfb05be9f710aab3830c59b3b83bf0425936fd56",
+    "readout.py": "f19154ee7616c96bd23991fd0e6af4181c95632cd250455554e6dc88dbcfefb7",
+    "audit.py": "5182a66cda14fcd616e727199963fd4515e49bb67cfd2a7cf7ccac25f21bae32",
+    "common.py": "1563277aee1ade5234926eef1d9f2f6a47cbc59a52575f3c690dadbc4001e103",
+    "attribution.py": "f909716fd97f7b96a2c16e7b7f9c9db7f85e36326ec5e75cd2762b2ce60c459b",
+    "evaluate.py": "3fabc6d85464bd79f45f223a7c277d42b35baec3c6075ff496d7efdaf43bd9f5"
+  },
+  "exit_code": 0,
+  "finished": 1792854576.7943475,
+  "changed_main_sources": []
+}

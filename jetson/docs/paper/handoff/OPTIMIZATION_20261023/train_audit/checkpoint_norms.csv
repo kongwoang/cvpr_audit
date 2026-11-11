@@ -1,0 +1,3 @@
+component,fmu_max_abs,fsd_max_abs,norms_match
+C1,0.0,0.0,True
+refiner,0.0,0.0,True

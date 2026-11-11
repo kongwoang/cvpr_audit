@@ -1,0 +1,20 @@
+quantity,value
+"tokens (1,000 drawn with default_rng(0) from the frozen field's navtest tokens)",1000
+CPU,"Intel(R) Xeon(R) Gold 6244 CPU @ 3.60GHz, 1 thread per process (OMP/MKL = 1), 12 processes on a shared 32-thread host"
+"planner calls per frame, mean",50.17
+"planner calls per frame, p95",56.0
+"probe calls per frame, mean / p95",45.1 / 46
+"support calls per frame, mean / p95",4.0 / 10
+"wall clock per frame, mean / p95 (s)",14.91 / 19.21
+"parity with the stored frozen field (sensitive cells / support), share of tokens",1.0000 / 1.0000
+"wall clock per base call, mean / p95 (ms)",416.0 / 550.9
+"wall clock per probe call, mean / p95 (ms)",294.7 / 369.2
+"wall clock per support call, mean / p95 (ms)",293.2 / 358.7
+share of a probe/support call: setup,0.4277
+share of a probe/support call: observation,0.0244
+share of a probe/support call: proposal_manager,0.0844
+share of a probe/support call: generation,0.1898
+share of a probe/support call: simulation,0.1131
+share of a probe/support call: scoring,0.1187
+share of a probe/support call: extract,0.0035
+share of a probe/support call: other_planner,0.0381

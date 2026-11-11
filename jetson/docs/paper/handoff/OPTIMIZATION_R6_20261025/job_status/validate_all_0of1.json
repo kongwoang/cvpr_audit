@@ -1,0 +1,35 @@
+{
+  "name": "validate_all_0of1",
+  "host": "cuda12.ecs.vuw.ac.nz",
+  "pid": 1756493,
+  "gpu": null,
+  "status": "complete",
+  "started": 1792867346.8152673,
+  "command": [
+    "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/venv/bin/python",
+    "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/optimization_r6_20261025/validate.py",
+    "--dataset",
+    "all",
+    "--shard",
+    "0/1"
+  ],
+  "scripts": {
+    "finish.py": "a5c9d3e1ffff95ffcbfb40d131f62ccce0a7dbb66c7757ac44038ff94d79bfde",
+    "collect.py": "e33cc9e094f8814c48c175cdde5dd8c9bc597029403892d67a5716008878d087",
+    "validate.py": "3e3ea1868aa94089a1a2a4dd346ee9395467956ce5f7ecb88e4814b322098151",
+    "launch_cpu.py": "6bce5857ff04d1c65e9727350db0bdf8fad1cbf4b2d822ac8759d8a4b3af51da",
+    "analyze.py": "0a534ce32883e62cc3600060a2c9f39364d0e61f7a3da5e8edf3c6bcef5724a2",
+    "job.py": "f835be5c2d452ed90a40eaa1ff75709e206255215fc9abd7bc5854fa52197c72",
+    "launch_gpu.py": "d38c99bdf23893a4d8415186487b91f871a86db7a05e3e6ae66cf86ad77a84f0",
+    "audit.py": "85673035a27cc5284a741f5e3641ee85da1e6f91bc83af0d161a8d6b7f1cc9f8",
+    "availability.py": "863dccb1be4d77aeaf8a9d0d3b5c018278fe2113eb3c3d994018cbf7711e6c96",
+    "common.py": "1563277aee1ade5234926eef1d9f2f6a47cbc59a52575f3c690dadbc4001e103",
+    "policies.py": "ca75d6525b1d0e2aaea6eb1bccb548f90b86b496ce0f92b675b2005da7ace082",
+    "group.py": "32e83f523a1dbcdb38424d1034cfb4de11e0d015e85ade316890116c02d57f41",
+    "evaluate.py": "0606019e70a0f71e20b9a054fb38ef8540b70fbb39b98277ceebcb030e7dbe7c"
+  },
+  "protocol_sha256": "e926378567abaf7591439902533e5c16045961d0ae9e3b102be6d8e42d9fa649",
+  "exit_code": 0,
+  "finished": 1792867347.5834057,
+  "changed_main_sources": []
+}

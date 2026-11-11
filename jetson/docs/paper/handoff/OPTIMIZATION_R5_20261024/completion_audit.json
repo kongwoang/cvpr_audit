@@ -1,0 +1,239 @@
+{
+  "status": "complete",
+  "date": "2026-10-25",
+  "started": "2026-10-24",
+  "supervised_jobs": 23,
+  "completed_jobs": [
+    {
+      "task": "audit",
+      "dataset": "av2",
+      "host": "cuda13.ecs.vuw.ac.nz",
+      "seconds": 27.96040654182434,
+      "exit_code": 0,
+      "frozen_files": 169
+    },
+    {
+      "task": "audit",
+      "dataset": "nusc",
+      "host": "cuda12.ecs.vuw.ac.nz",
+      "seconds": 12.652156829833984,
+      "exit_code": 0,
+      "frozen_files": 169
+    },
+    {
+      "task": "augment",
+      "dataset": "av2",
+      "host": "cuda13.ecs.vuw.ac.nz",
+      "seconds": 91.16684412956238,
+      "exit_code": 0,
+      "frozen_files": 169
+    },
+    {
+      "task": "augment",
+      "dataset": "nusc",
+      "host": "cuda12.ecs.vuw.ac.nz",
+      "seconds": 39.659719705581665,
+      "exit_code": 0,
+      "frozen_files": 169
+    },
+    {
+      "task": "cases",
+      "dataset": "av2",
+      "host": "cuda13.ecs.vuw.ac.nz",
+      "seconds": 23.135316848754883,
+      "exit_code": 0,
+      "frozen_files": 169
+    },
+    {
+      "task": "cases",
+      "dataset": "nusc",
+      "host": "cuda12.ecs.vuw.ac.nz",
+      "seconds": 116.33211946487427,
+      "exit_code": 0,
+      "frozen_files": 169
+    },
+    {
+      "task": "compose",
+      "dataset": "av2",
+      "host": "cuda13.ecs.vuw.ac.nz",
+      "seconds": 52.64311122894287,
+      "exit_code": 0,
+      "frozen_files": 169
+    },
+    {
+      "task": "compose",
+      "dataset": "nusc",
+      "host": "cuda12.ecs.vuw.ac.nz",
+      "seconds": 27.69058346748352,
+      "exit_code": 0,
+      "frozen_files": 169
+    },
+    {
+      "task": "conditional_readout",
+      "dataset": "av2",
+      "host": "cuda13.ecs.vuw.ac.nz",
+      "seconds": 112.04942059516907,
+      "exit_code": 0,
+      "frozen_files": 169
+    },
+    {
+      "task": "conditional_readout",
+      "dataset": "nusc",
+      "host": "cuda12.ecs.vuw.ac.nz",
+      "seconds": 44.23108386993408,
+      "exit_code": 0,
+      "frozen_files": 169
+    },
+    {
+      "task": "cost_audit",
+      "dataset": "all",
+      "host": "cuda13.ecs.vuw.ac.nz",
+      "seconds": 2.903412342071533,
+      "exit_code": 0,
+      "frozen_files": 169
+    },
+    {
+      "task": "evaluate",
+      "dataset": "av2",
+      "host": "cuda13.ecs.vuw.ac.nz",
+      "seconds": 26.353795528411865,
+      "exit_code": 0,
+      "frozen_files": 169
+    },
+    {
+      "task": "evaluate",
+      "dataset": "nusc",
+      "host": "cuda12.ecs.vuw.ac.nz",
+      "seconds": 11.326849699020386,
+      "exit_code": 0,
+      "frozen_files": 169
+    },
+    {
+      "task": "fit",
+      "dataset": "av2",
+      "host": "cuda13.ecs.vuw.ac.nz",
+      "seconds": 36.517279624938965,
+      "exit_code": 0,
+      "frozen_files": 169
+    },
+    {
+      "task": "fit",
+      "dataset": "nusc",
+      "host": "cuda12.ecs.vuw.ac.nz",
+      "seconds": 16.163186073303223,
+      "exit_code": 0,
+      "frozen_files": 169
+    },
+    {
+      "task": "readout",
+      "dataset": "av2",
+      "host": "cuda13.ecs.vuw.ac.nz",
+      "seconds": 355.25148034095764,
+      "exit_code": 0,
+      "frozen_files": 169
+    },
+    {
+      "task": "readout",
+      "dataset": "nusc",
+      "host": "cuda12.ecs.vuw.ac.nz",
+      "seconds": 168.02990889549255,
+      "exit_code": 0,
+      "frozen_files": 169
+    },
+    {
+      "task": "refine_train",
+      "dataset": "av2",
+      "host": "cuda12.ecs.vuw.ac.nz",
+      "seconds": 366.5243136882782,
+      "exit_code": 0,
+      "frozen_files": 169
+    },
+    {
+      "task": "refine_train",
+      "dataset": "nusc",
+      "host": "cuda12.ecs.vuw.ac.nz",
+      "seconds": 98.63295555114746,
+      "exit_code": 0,
+      "frozen_files": 169
+    },
+    {
+      "task": "residual",
+      "dataset": "av2",
+      "host": "cuda13.ecs.vuw.ac.nz",
+      "seconds": 80.8063235282898,
+      "exit_code": 0,
+      "frozen_files": 169
+    },
+    {
+      "task": "residual",
+      "dataset": "nusc",
+      "host": "cuda12.ecs.vuw.ac.nz",
+      "seconds": 25.81688928604126,
+      "exit_code": 0,
+      "frozen_files": 169
+    },
+    {
+      "task": "survey",
+      "dataset": "av2",
+      "host": "cuda13.ecs.vuw.ac.nz",
+      "seconds": 28.08008885383606,
+      "exit_code": 0,
+      "frozen_files": 169
+    },
+    {
+      "task": "survey",
+      "dataset": "nusc",
+      "host": "cuda12.ecs.vuw.ac.nz",
+      "seconds": 14.888478517532349,
+      "exit_code": 0,
+      "frozen_files": 169
+    }
+  ],
+  "retained_failed_attempts": [
+    {
+      "file": "evaluate_av2_1792854112.json",
+      "task": "evaluate",
+      "dataset": "av2",
+      "status": "failed",
+      "exit_code": 1
+    },
+    {
+      "file": "evaluate_nusc_1792853794.json",
+      "task": "evaluate",
+      "dataset": "nusc",
+      "status": "failed",
+      "exit_code": 1
+    }
+  ],
+  "development_rows": 104,
+  "new_readout_configurations": 44,
+  "controls_per_dataset": 8,
+  "datasets": {
+    "nusc": {
+      "units": 152,
+      "frames": 6117,
+      "episodes": 99
+    },
+    "av2": {
+      "units": 300,
+      "frames": 23665,
+      "episodes": 366
+    }
+  },
+  "all_rows_retained": true,
+  "baseline_action_cost_parity_differences": 0,
+  "stored_prior_v3a_trace_action_differences": 0,
+  "paired_bootstrap": 2000,
+  "seed": 0,
+  "interval_scope": "pointwise exploratory; adaptive development",
+  "local_source_files": 203,
+  "local_sources_unchanged": true,
+  "remote_frozen_source_weights_unchanged": true,
+  "original_training_nonempty_units": 783,
+  "trained_small_classifiers": 8,
+  "quality_test_data_used": false,
+  "core_promoted": false,
+  "new_jetson_window": false,
+  "new_latency_measurement": false,
+  "scope": "Final-readout experiments on stored acquisitions; original geometry/refinement still drives any subsequent state. No new detector acquisition or closed-loop evidence."
+}

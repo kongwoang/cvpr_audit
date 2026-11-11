@@ -1,0 +1,7 @@
+dataset,pipeline,object_attribution_available,rescued,newly_missed,rescued_with_decisive_evidence,rescued_without_decisive_evidence,hard_peak_rescued,hard_peak_rescued_with_hard_evidence
+av2,objectwise median,True,12,0,9.0,3.0,0,0.0
+av2,hard-brake corroboration,True,0,0,0.0,0.0,0,0.0
+av2,framewise median,False,13,0,,,0,
+nusc,objectwise median,True,0,0,0.0,0.0,0,0.0
+nusc,hard-brake corroboration,True,0,0,0.0,0.0,0,0.0
+nusc,framewise median,False,0,0,,,0,

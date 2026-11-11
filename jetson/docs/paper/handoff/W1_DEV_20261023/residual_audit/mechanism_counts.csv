@@ -1,0 +1,61 @@
+dataset,population,mechanism_any_frame,episodes,episodes_with_flag
+av2,all baseline misses,decisive_not_found,59,12
+av2,all baseline misses,decisive_geometrically_uncovered,59,25
+av2,all baseline misses,decisive_verified_missing_chain,59,34
+av2,all baseline misses,decisive_verified_has_chain,59,17
+av2,all baseline misses,decisive_verified_chain_but_infinite_ttc,59,2
+av2,all baseline misses,refiner_turns_braking_to_keep,59,15
+av2,all baseline misses,raw_loop_not_converged,59,0
+av2,all baseline misses,post_refiner_unmet,59,7
+av2,all baseline misses,recovery_attempted,59,16
+av2,all baseline misses,recovery_succeeded,59,13
+av2,baseline misses where cheap detects,decisive_not_found,36,5
+av2,baseline misses where cheap detects,decisive_geometrically_uncovered,36,15
+av2,baseline misses where cheap detects,decisive_verified_missing_chain,36,24
+av2,baseline misses where cheap detects,decisive_verified_has_chain,36,14
+av2,baseline misses where cheap detects,decisive_verified_chain_but_infinite_ttc,36,1
+av2,baseline misses where cheap detects,refiner_turns_braking_to_keep,36,13
+av2,baseline misses where cheap detects,raw_loop_not_converged,36,0
+av2,baseline misses where cheap detects,post_refiner_unmet,36,7
+av2,baseline misses where cheap detects,recovery_attempted,36,16
+av2,baseline misses where cheap detects,recovery_succeeded,36,13
+av2,remaining after recovery,decisive_not_found,49,11
+av2,remaining after recovery,decisive_geometrically_uncovered,49,17
+av2,remaining after recovery,decisive_verified_missing_chain,49,24
+av2,remaining after recovery,decisive_verified_has_chain,49,17
+av2,remaining after recovery,decisive_verified_chain_but_infinite_ttc,49,2
+av2,remaining after recovery,refiner_turns_braking_to_keep,49,15
+av2,remaining after recovery,raw_loop_not_converged,49,0
+av2,remaining after recovery,post_refiner_unmet,49,7
+av2,remaining after recovery,recovery_attempted,49,6
+av2,remaining after recovery,recovery_succeeded,49,3
+nusc,all baseline misses,decisive_not_found,40,19
+nusc,all baseline misses,decisive_geometrically_uncovered,40,22
+nusc,all baseline misses,decisive_verified_missing_chain,40,20
+nusc,all baseline misses,decisive_verified_has_chain,40,10
+nusc,all baseline misses,decisive_verified_chain_but_infinite_ttc,40,2
+nusc,all baseline misses,refiner_turns_braking_to_keep,40,1
+nusc,all baseline misses,raw_loop_not_converged,40,0
+nusc,all baseline misses,post_refiner_unmet,40,0
+nusc,all baseline misses,recovery_attempted,40,5
+nusc,all baseline misses,recovery_succeeded,40,4
+nusc,baseline misses where cheap detects,decisive_not_found,12,2
+nusc,baseline misses where cheap detects,decisive_geometrically_uncovered,12,3
+nusc,baseline misses where cheap detects,decisive_verified_missing_chain,12,10
+nusc,baseline misses where cheap detects,decisive_verified_has_chain,12,3
+nusc,baseline misses where cheap detects,decisive_verified_chain_but_infinite_ttc,12,1
+nusc,baseline misses where cheap detects,refiner_turns_braking_to_keep,12,0
+nusc,baseline misses where cheap detects,raw_loop_not_converged,12,0
+nusc,baseline misses where cheap detects,post_refiner_unmet,12,0
+nusc,baseline misses where cheap detects,recovery_attempted,12,5
+nusc,baseline misses where cheap detects,recovery_succeeded,12,4
+nusc,remaining after recovery,decisive_not_found,38,19
+nusc,remaining after recovery,decisive_geometrically_uncovered,38,20
+nusc,remaining after recovery,decisive_verified_missing_chain,38,18
+nusc,remaining after recovery,decisive_verified_has_chain,38,10
+nusc,remaining after recovery,decisive_verified_chain_but_infinite_ttc,38,2
+nusc,remaining after recovery,refiner_turns_braking_to_keep,38,1
+nusc,remaining after recovery,raw_loop_not_converged,38,0
+nusc,remaining after recovery,post_refiner_unmet,38,0
+nusc,remaining after recovery,recovery_attempted,38,3
+nusc,remaining after recovery,recovery_succeeded,38,2

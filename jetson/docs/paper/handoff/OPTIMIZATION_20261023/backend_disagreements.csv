@@ -1,0 +1,76 @@
+source,dataset,rep,pipeline,unit,frame,warm,jetson_action,vuw_action,gt_jetson,gt_vuw,jetson_retro_calls,vuw_retro_calls
+legacy_k29,nusc,1,v6-S,scene-0203,28,False,0,1,0,0,0,0
+legacy_k29,nusc,1,v6-S,scene-0203,29,False,0,1,0,0,0,0
+legacy_k29,nusc,1,v6-S + recovery,scene-0203,28,False,0,1,0,0,0,0
+legacy_k29,nusc,1,v6-S + recovery,scene-0203,29,False,0,1,0,0,1,0
+legacy_k29,nusc,1,B2K-A,scene-0170,26,False,1,0,1,1,0,0
+legacy_k29,nusc,1,B2K-A,scene-0203,28,False,0,1,0,0,0,0
+legacy_k29,nusc,1,B2K-A,scene-0203,30,False,0,1,1,1,0,0
+legacy_k29,nusc,1,B2K-A + recovery,scene-0170,26,False,1,0,1,1,0,0
+legacy_k29,nusc,1,B2K-A + recovery,scene-0203,28,False,0,1,0,0,0,0
+legacy_k29,av2,1,B2K-A,067b1c50-6567-3840-ab56-1ca2a0ed9c30,30,True,0,1,0,0,0,0
+legacy_k29,av2,1,B2K-A,067b1c50-6567-3840-ab56-1ca2a0ed9c30,31,True,0,1,0,0,0,0
+legacy_k29,av2,1,B2K-A + recovery,067b1c50-6567-3840-ab56-1ca2a0ed9c30,30,True,0,1,0,0,0,0
+legacy_k29,av2,1,B2K-A + recovery,067b1c50-6567-3840-ab56-1ca2a0ed9c30,31,True,0,1,0,0,0,0
+legacy_k29,nusc,2,v6-S,scene-0203,28,False,0,1,0,0,0,0
+legacy_k29,nusc,2,v6-S,scene-0203,29,False,0,1,0,0,0,0
+legacy_k29,nusc,2,v6-S + recovery,scene-0203,28,False,0,1,0,0,0,0
+legacy_k29,nusc,2,v6-S + recovery,scene-0203,29,False,0,1,0,0,1,0
+legacy_k29,nusc,2,B2K-A,scene-0170,26,False,1,0,1,1,0,0
+legacy_k29,nusc,2,B2K-A,scene-0203,28,False,0,1,0,0,0,0
+legacy_k29,nusc,2,B2K-A,scene-0203,30,False,0,1,1,1,0,0
+legacy_k29,nusc,2,B2K-A + recovery,scene-0170,26,False,1,0,1,1,0,0
+legacy_k29,nusc,2,B2K-A + recovery,scene-0203,28,False,0,1,0,0,0,0
+legacy_k29,av2,2,B2K-A,067b1c50-6567-3840-ab56-1ca2a0ed9c30,30,True,0,1,0,0,0,0
+legacy_k29,av2,2,B2K-A,067b1c50-6567-3840-ab56-1ca2a0ed9c30,31,True,0,1,0,0,0,0
+legacy_k29,av2,2,B2K-A + recovery,067b1c50-6567-3840-ab56-1ca2a0ed9c30,30,True,0,1,0,0,0,0
+legacy_k29,av2,2,B2K-A + recovery,067b1c50-6567-3840-ab56-1ca2a0ed9c30,31,True,0,1,0,0,0,0
+legacy_k29,nusc,3,v6-S,scene-0203,28,False,0,1,0,0,0,0
+legacy_k29,nusc,3,v6-S,scene-0203,29,False,0,1,0,0,0,0
+legacy_k29,nusc,3,v6-S + recovery,scene-0203,28,False,0,1,0,0,0,0
+legacy_k29,nusc,3,v6-S + recovery,scene-0203,29,False,0,1,0,0,1,0
+legacy_k29,nusc,3,B2K-A,scene-0170,26,False,1,0,1,1,0,0
+legacy_k29,nusc,3,B2K-A,scene-0203,28,False,0,1,0,0,0,0
+legacy_k29,nusc,3,B2K-A,scene-0203,30,False,0,1,1,1,0,0
+legacy_k29,nusc,3,B2K-A + recovery,scene-0170,26,False,1,0,1,1,0,0
+legacy_k29,nusc,3,B2K-A + recovery,scene-0203,28,False,0,1,0,0,0,0
+legacy_k29,av2,3,B2K-A,067b1c50-6567-3840-ab56-1ca2a0ed9c30,30,True,0,1,0,0,0,0
+legacy_k29,av2,3,B2K-A,067b1c50-6567-3840-ab56-1ca2a0ed9c30,31,True,0,1,0,0,0,0
+legacy_k29,av2,3,B2K-A + recovery,067b1c50-6567-3840-ab56-1ca2a0ed9c30,30,True,0,1,0,0,0,0
+legacy_k29,av2,3,B2K-A + recovery,067b1c50-6567-3840-ab56-1ca2a0ed9c30,31,True,0,1,0,0,0,0
+verified_cfg,av2,1,v6-S,133e2e0b-b0fe-3bb0-b1f9-c846fcfd29e8,53,False,1,0,0,0,0,0
+verified_cfg,av2,1,v6-S + recovery,133e2e0b-b0fe-3bb0-b1f9-c846fcfd29e8,53,False,1,0,0,0,0,0
+verified_cfg,av2,1,B2K-A,067b1c50-6567-3840-ab56-1ca2a0ed9c30,30,True,0,1,0,0,0,0
+verified_cfg,av2,1,B2K-A,067b1c50-6567-3840-ab56-1ca2a0ed9c30,31,True,0,1,0,0,0,0
+verified_cfg,av2,1,B2K-A,133e2e0b-b0fe-3bb0-b1f9-c846fcfd29e8,53,False,1,0,0,0,0,0
+verified_cfg,av2,1,B2K-A,134bb8e9-9080-3bc5-948d-88d8cc034550,52,False,1,0,0,0,0,0
+verified_cfg,av2,1,B2K-A,134bb8e9-9080-3bc5-948d-88d8cc034550,66,False,2,1,1,1,0,0
+verified_cfg,av2,1,B2K-A + recovery,067b1c50-6567-3840-ab56-1ca2a0ed9c30,30,True,0,1,0,0,0,0
+verified_cfg,av2,1,B2K-A + recovery,067b1c50-6567-3840-ab56-1ca2a0ed9c30,31,True,0,1,0,0,0,0
+verified_cfg,av2,1,B2K-A + recovery,133e2e0b-b0fe-3bb0-b1f9-c846fcfd29e8,53,False,1,0,0,0,0,0
+verified_cfg,av2,1,B2K-A + recovery,134bb8e9-9080-3bc5-948d-88d8cc034550,52,False,1,0,0,0,0,0
+verified_cfg,av2,1,B2K-A + recovery,134bb8e9-9080-3bc5-948d-88d8cc034550,66,False,2,1,1,1,0,0
+verified_cfg,av2,2,v6-S,133e2e0b-b0fe-3bb0-b1f9-c846fcfd29e8,53,False,1,0,0,0,0,0
+verified_cfg,av2,2,v6-S + recovery,133e2e0b-b0fe-3bb0-b1f9-c846fcfd29e8,53,False,1,0,0,0,0,0
+verified_cfg,av2,2,B2K-A,067b1c50-6567-3840-ab56-1ca2a0ed9c30,30,True,0,1,0,0,0,0
+verified_cfg,av2,2,B2K-A,067b1c50-6567-3840-ab56-1ca2a0ed9c30,31,True,0,1,0,0,0,0
+verified_cfg,av2,2,B2K-A,133e2e0b-b0fe-3bb0-b1f9-c846fcfd29e8,53,False,1,0,0,0,0,0
+verified_cfg,av2,2,B2K-A,134bb8e9-9080-3bc5-948d-88d8cc034550,52,False,1,0,0,0,0,0
+verified_cfg,av2,2,B2K-A,134bb8e9-9080-3bc5-948d-88d8cc034550,66,False,2,1,1,1,0,0
+verified_cfg,av2,2,B2K-A + recovery,067b1c50-6567-3840-ab56-1ca2a0ed9c30,30,True,0,1,0,0,0,0
+verified_cfg,av2,2,B2K-A + recovery,067b1c50-6567-3840-ab56-1ca2a0ed9c30,31,True,0,1,0,0,0,0
+verified_cfg,av2,2,B2K-A + recovery,133e2e0b-b0fe-3bb0-b1f9-c846fcfd29e8,53,False,1,0,0,0,0,0
+verified_cfg,av2,2,B2K-A + recovery,134bb8e9-9080-3bc5-948d-88d8cc034550,52,False,1,0,0,0,0,0
+verified_cfg,av2,2,B2K-A + recovery,134bb8e9-9080-3bc5-948d-88d8cc034550,66,False,2,1,1,1,0,0
+verified_cfg,av2,3,v6-S,133e2e0b-b0fe-3bb0-b1f9-c846fcfd29e8,53,False,1,0,0,0,0,0
+verified_cfg,av2,3,v6-S + recovery,133e2e0b-b0fe-3bb0-b1f9-c846fcfd29e8,53,False,1,0,0,0,0,0
+verified_cfg,av2,3,B2K-A,067b1c50-6567-3840-ab56-1ca2a0ed9c30,30,True,0,1,0,0,0,0
+verified_cfg,av2,3,B2K-A,067b1c50-6567-3840-ab56-1ca2a0ed9c30,31,True,0,1,0,0,0,0
+verified_cfg,av2,3,B2K-A,133e2e0b-b0fe-3bb0-b1f9-c846fcfd29e8,53,False,1,0,0,0,0,0
+verified_cfg,av2,3,B2K-A,134bb8e9-9080-3bc5-948d-88d8cc034550,52,False,1,0,0,0,0,0
+verified_cfg,av2,3,B2K-A,134bb8e9-9080-3bc5-948d-88d8cc034550,66,False,2,1,1,1,0,0
+verified_cfg,av2,3,B2K-A + recovery,067b1c50-6567-3840-ab56-1ca2a0ed9c30,30,True,0,1,0,0,0,0
+verified_cfg,av2,3,B2K-A + recovery,067b1c50-6567-3840-ab56-1ca2a0ed9c30,31,True,0,1,0,0,0,0
+verified_cfg,av2,3,B2K-A + recovery,133e2e0b-b0fe-3bb0-b1f9-c846fcfd29e8,53,False,1,0,0,0,0,0
+verified_cfg,av2,3,B2K-A + recovery,134bb8e9-9080-3bc5-948d-88d8cc034550,52,False,1,0,0,0,0,0
+verified_cfg,av2,3,B2K-A + recovery,134bb8e9-9080-3bc5-948d-88d8cc034550,66,False,2,1,1,1,0,0

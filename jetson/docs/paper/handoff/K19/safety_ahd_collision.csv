@@ -1,0 +1,12 @@
+dataset,pipeline,collision_frames,collision_units,median_gt_min_ttc_corridor_s,median_gt_min_range_corridor_m,median_shortfall_ms2
+ahd,cheap draft,0,0,,,
+ahd,u640,0,0,,,
+ahd,u960,0,0,,,
+ahd,u1280,0,0,,,
+ahd,native,0,0,,,
+ahd,uncertainty crops,0,0,,,
+ahd,temporal_crit crops,0,0,,,
+ahd,support only (+ refiner),0,0,,,
+ahd,field only (+ refiner),0,0,,,
+ahd,ours without refiner,0,0,,,
+ahd,ours,0,0,,,

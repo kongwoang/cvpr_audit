@@ -1,0 +1,118 @@
+{
+  "status": "complete",
+  "main_source_hashes_unchanged": true,
+  "case_units": 9,
+  "case_frames": 27,
+  "cpu_screen_rows": 20,
+  "full_inloop_rows": 32,
+  "full_inloop_units": 452,
+  "full_inloop_frames": 29782,
+  "association_pilot_rows": 20,
+  "association_pilot_units": 9,
+  "head_validation_examples": 14696,
+  "recomputed_controls_differing": 0,
+  "jobs": [
+    {
+      "experiment": "optimization_r2_20261023",
+      "job": "dev_av2_1of4",
+      "host": "cuda12.ecs.vuw.ac.nz",
+      "exit_code": 0
+    },
+    {
+      "experiment": "optimization_r2_20261023",
+      "job": "dev_av2_2of4",
+      "host": "cuda13.ecs.vuw.ac.nz",
+      "exit_code": 0
+    },
+    {
+      "experiment": "optimization_r2_20261023",
+      "job": "dev_nusc_0of2",
+      "host": "cuda13.ecs.vuw.ac.nz",
+      "exit_code": 0
+    },
+    {
+      "experiment": "optimization_r2_20261023",
+      "job": "smoke_nusc_0of1",
+      "host": "cuda13.ecs.vuw.ac.nz",
+      "exit_code": 0
+    },
+    {
+      "experiment": "optimization_r2_20261023",
+      "job": "smoke_av2_0of1",
+      "host": "cuda13.ecs.vuw.ac.nz",
+      "exit_code": 0
+    },
+    {
+      "experiment": "optimization_r2_20261023",
+      "job": "dev_av2_3of4",
+      "host": "cuda13.ecs.vuw.ac.nz",
+      "exit_code": 0
+    },
+    {
+      "experiment": "optimization_r2_20261023",
+      "job": "dev_nusc_1of2",
+      "host": "cuda13.ecs.vuw.ac.nz",
+      "exit_code": 0
+    },
+    {
+      "experiment": "optimization_r2_20261023",
+      "job": "dev_av2_0of4",
+      "host": "cuda12.ecs.vuw.ac.nz",
+      "exit_code": 0
+    },
+    {
+      "experiment": "optimization_r2_assoc_20261023",
+      "job": "smoke_nusc_0of1",
+      "host": "cuda13.ecs.vuw.ac.nz",
+      "exit_code": 0
+    },
+    {
+      "experiment": "optimization_r2_assoc_20261023",
+      "job": "smoke_av2_0of1",
+      "host": "cuda13.ecs.vuw.ac.nz",
+      "exit_code": 0
+    }
+  ],
+  "jetson_new_window": false,
+  "method_promoted": false,
+  "intentional_repartition": {
+    "reason": "scheduling only: nuScenes complete; four disjoint AV2 shards across both hosts",
+    "time": 1792751535.895693,
+    "stopped": [
+      {
+        "pid": 862104,
+        "shard": "1/2",
+        "command": [
+          "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/venv/bin/python",
+          "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/scripts/A_method/k10_masked_run.py",
+          "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/optimization_r2_20261023/runner.py",
+          "--dataset",
+          "av2",
+          "--tag",
+          "dev",
+          "--shard",
+          "1/2"
+        ]
+      },
+      {
+        "pid": 862105,
+        "shard": "0/2",
+        "command": [
+          "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/venv/bin/python",
+          "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/scripts/A_method/k10_masked_run.py",
+          "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/experiments/optimization_r2_20261023/runner.py",
+          "--dataset",
+          "av2",
+          "--tag",
+          "dev",
+          "--shard",
+          "0/2"
+        ]
+      }
+    ],
+    "retained_units": 80,
+    "sigterm_after_ignored_sigint": 1792751714.6300747,
+    "retired_old_jobs": true,
+    "retained_units_after_stop": 96
+  }
+}

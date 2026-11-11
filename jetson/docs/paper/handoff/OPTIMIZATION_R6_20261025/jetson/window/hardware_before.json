@@ -1,0 +1,184 @@
+{
+  "hostname": "ubuntu",
+  "online": true,
+  "timestamp": "2026-10-25T01:52:37+0700",
+  "uptimeSeconds": 370986,
+  "model": "Jetson AGX Xavier",
+  "l4t": "35.6.5",
+  "jetpack": "5.1.6",
+  "powerMode": "MAXN",
+  "powerModeId": 0,
+  "powerModes": [
+    {
+      "id": 0,
+      "name": "MAXN"
+    },
+    {
+      "id": 1,
+      "name": "MODE_10W"
+    },
+    {
+      "id": 2,
+      "name": "MODE_15W"
+    },
+    {
+      "id": 3,
+      "name": "MODE_30W_ALL"
+    },
+    {
+      "id": 4,
+      "name": "MODE_30W_6CORE"
+    },
+    {
+      "id": 5,
+      "name": "MODE_30W_4CORE"
+    },
+    {
+      "id": 6,
+      "name": "MODE_30W_2CORE"
+    },
+    {
+      "id": 7,
+      "name": "MODE_15W_DESKTOP"
+    }
+  ],
+  "cpuPercent": 14.6,
+  "cpuCores": [
+    {
+      "online": true,
+      "percent": 3.0,
+      "mhz": 1190
+    },
+    {
+      "online": true,
+      "percent": 4.0,
+      "mhz": 1190
+    },
+    {
+      "online": true,
+      "percent": 3.0,
+      "mhz": 1190
+    },
+    {
+      "online": true,
+      "percent": 9.0,
+      "mhz": 1190
+    },
+    {
+      "online": true,
+      "percent": 1.0,
+      "mhz": 1190
+    },
+    {
+      "online": true,
+      "percent": 6.0,
+      "mhz": 1190
+    },
+    {
+      "online": true,
+      "percent": 1.0,
+      "mhz": 1190
+    },
+    {
+      "online": true,
+      "percent": 0.0,
+      "mhz": 1190
+    }
+  ],
+  "cpuTopology": {
+    "online": 8,
+    "present": 8
+  },
+  "loadAverage": [
+    1.0,
+    1.04,
+    0.93
+  ],
+  "gpuPercent": 0.0,
+  "gpuFrequency": {
+    "mhz": 115,
+    "maxMhz": 1377
+  },
+  "emcPercent": 0.0,
+  "memoryUsedMb": 4715,
+  "memoryTotalMb": 14887,
+  "memoryAvailableMb": 10171,
+  "swapUsedMb": 3,
+  "swapTotalMb": 7443,
+  "diskUsedGb": 189.7,
+  "diskTotalGb": 233.3,
+  "temperatures": {
+    "CPU": 49.5,
+    "GPU": 49.5,
+    "AUX": 48.0,
+    "AO": 47.5,
+    "PMIC-Die": 50.0,
+    "Tboard": 46.0,
+    "Tdiode": 50.0,
+    "thermal_fan_est": 48.6
+  },
+  "throttle": {
+    "cpuSteps": 0,
+    "gpuSteps": 0,
+    "cpuAlert": false,
+    "gpuAlert": false
+  },
+  "fan": {
+    "pwm": 0,
+    "percent": 0,
+    "rpm": 0,
+    "mode": "auto",
+    "profile": "cool",
+    "profiles": [
+      "quiet",
+      "cool"
+    ],
+    "controllable": true,
+    "manualSince": null,
+    "safetyTrips": [],
+    "safetyCelsius": 80.0
+  },
+  "power": {
+    "GPU": {
+      "mw": 0,
+      "mv": 18720,
+      "ma": 0
+    },
+    "CPU": {
+      "mw": 2247,
+      "mv": 18728,
+      "ma": 120
+    },
+    "SOC": {
+      "mw": 2246,
+      "mv": 18720,
+      "ma": 120
+    },
+    "CV": {
+      "mw": 0,
+      "mv": 18728,
+      "ma": 0
+    },
+    "VDDRQ": {
+      "mw": 300,
+      "mv": 18720,
+      "ma": 16
+    },
+    "SYS5V": {
+      "mw": 2778,
+      "mv": 5032,
+      "ma": 552
+    },
+    "TOTAL": {
+      "mw": 7571,
+      "mv": 0,
+      "ma": 0
+    }
+  },
+  "powerAvailable": true,
+  "network": {
+    "rxKbps": 1778.0,
+    "txKbps": 153.8
+  },
+  "tegraFresh": true
+}

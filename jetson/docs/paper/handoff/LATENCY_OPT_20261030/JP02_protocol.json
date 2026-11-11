@@ -1,0 +1,17 @@
+{
+  "seed": 0,
+  "buckets": [
+    1,
+    2,
+    4,
+    8,
+    16,
+    32
+  ],
+  "parity_inputs_per_bucket": 20,
+  "warmup_per_timing": 10,
+  "samples_per_rep": 100,
+  "repetitions": 3,
+  "end_to_end": false,
+  "contexts": "one independent fixed context per bucket; no dynamic crop graph"
+}

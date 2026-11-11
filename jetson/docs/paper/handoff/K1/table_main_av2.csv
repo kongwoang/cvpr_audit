@@ -1,0 +1,22 @@
+dataset,method,G,network_px_mean,network_px_p95,harmed_share,affected_frames,ci_lo,ci_hi,source_file,note
+"AV2 val (150 logs, 11,818 frames)",u640,0.144,0.1032,0.1032,0.327,3333,0.367,0.472,av2/eval__val_v4_final.pkl,
+"AV2 val (150 logs, 11,818 frames)",u960,0.446,0.2323,0.2323,0.155,5260,0.087,0.147,av2/eval__val_v4_final.pkl,
+"AV2 val (150 logs, 11,818 frames)",u1280,0.484,0.4,0.4,0.138,5427,0.05,0.109,native/av2.pkl,
+"AV2 val (150 logs, 11,818 frames)",u1536,0.54,0.5729,0.5729,0.116,5942,-0.015,0.064,native/av2.pkl,
+"AV2 val (150 logs, 11,818 frames)",native u2048,0.558,1.0116,1.0116,0.121,6235,-0.042,0.05,native/av2.pkl,
+"AV2 val (150 logs, 11,818 frames)","AdaScale (re-impl., fit on AV2 train)",0.317,0.1697,0.2323,0.197,4433,0.209,0.281,av2_sota/ada_eval_test.pkl,
+"AV2 val (150 logs, 11,818 frames)","Budget-Adaptive Routing official: adaptive(skip_offbin), seed 42",0.072,0.0644,0.2323,0.163,882,0.443,0.536,av2_sota/scores__skip_offbin.pkl,rho_cond 0.1798 / rho_skip 0.2023; one seed on AV2
+"AV2 val (150 logs, 11,818 frames)","Budget-Adaptive Routing decision-value target: cond_V, seed 42",0.23,0.0679,0.2581,0.009,1601,0.288,0.371,av2_sota/scores__cond_V.pkl,rho_cond 0.1798 / rho_skip 0.2023; one seed on AV2
+"AV2 val (150 logs, 11,818 frames)","Budget-Adaptive Routing official: cond_moric, seed 42",0.077,0.06,0.2581,0.136,841,0.439,0.531,av2_sota/scores__cond_moric.pkl,rho_cond 0.1798 / rho_skip 0.2023; one seed on AV2
+"AV2 val (150 logs, 11,818 frames)","Budget-Adaptive Routing decision-value target: skip_V, seed 42",0.146,0.0668,0.2323,0.082,1404,0.375,0.459,av2_sota/scores__skip_V.pkl,rho_cond 0.1798 / rho_skip 0.2023; one seed on AV2
+"AV2 val (150 logs, 11,818 frames)","Budget-Adaptive Routing official: skip_offbin, seed 42",0.072,0.0644,0.2323,0.163,882,0.443,0.536,av2_sota/scores__skip_offbin.pkl,rho_cond 0.1798 / rho_skip 0.2023; one seed on AV2
+"AV2 val (150 logs, 11,818 frames)","oracle frame router (true V = J_cheap − J_u960, top-k)",0.371,0.0676,0.2581,0.0,2125,0.149,0.232,av2_sota/frames__test.pkl,cheap on every frame + u960 on the top 2125 frames by V
+"AV2 val (150 logs, 11,818 frames)",FOVEA KDE_I (960x768 canvas),0.328,0.2581,0.2581,0.201,4417,0.193,0.276,av2/baselines__val.pkl,KDE_S not run on AV2
+"AV2 val (150 logs, 11,818 frames)",SAHI (12 slices of 640x640 at 320 px + full pass),-0.14,0.4129,0.4129,0.82,1708,0.64,0.762,av2/baselines__val.pkl,
+"AV2 val (150 logs, 11,818 frames)",SAHI (12 slices of 640x640 at 640 px + full pass),0.088,1.6516,1.6516,0.399,3395,0.418,0.531,av2/baselines__val.pkl,
+"AV2 val (150 logs, 11,818 frames)",uncertainty crops (strict budget = frozen v3's per-frame crop area),0.494,0.0685,0.1387,0.085,4988,0.037,0.098,av2/baselines__val.pkl,"budget from frozen v3 (confirmatory 2), not v4-lite; guard re-detections not counted; traj_support, LZU, UFP not run on AV2"
+"AV2 val (150 logs, 11,818 frames)",temporal_crit crops (strict budget = frozen v3's per-frame crop area),0.174,0.0734,0.1718,0.202,2595,0.349,0.426,av2/baselines__val.pkl,"budget from frozen v3 (confirmatory 2), not v4-lite; guard re-detections not counted; traj_support, LZU, UFP not run on AV2"
+"AV2 val (150 logs, 11,818 frames)",random crops (strict budget = frozen v3's per-frame crop area),0.102,0.0811,0.1833,0.154,1368,0.418,0.501,av2/baselines__val.pkl,"budget from frozen v3 (confirmatory 2), not v4-lite; guard re-detections not counted; traj_support, LZU, UFP not run on AV2"
+"AV2 val (150 logs, 11,818 frames)",ours without refiner (v4-lite),0.537,0.0676,0.1437,0.09,5428,0.002,0.05,av2/eval__val_v4_final.pkl,
+"AV2 val (150 logs, 11,818 frames)",ours final (v4-lite + refiner v2),0.561,0.0676,0.1437,0.087,5472,,,av2/eval__val_v4_final.pkl,px = draft + crop area × 0.469² (guard crops included)
+"AV2 val (150 logs, 11,818 frames)",nuScenes configuration v3 + refiner v1,0.545,0.0859,0.1894,0.114,5625,0.005,0.027,av2/eval__val_v4_final.pkl,

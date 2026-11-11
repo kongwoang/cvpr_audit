@@ -1,0 +1,848 @@
+{
+  "status": "complete",
+  "unit": "087fec73-1a0c-399a-9292-cc2cf99dc97f",
+  "checks": [
+    {
+      "objective": "geometry",
+      "kind": "crop",
+      "frame": 2,
+      "index": 6,
+      "max_abs_delta": 0.0001577138900756836
+    },
+    {
+      "objective": "decision",
+      "kind": "crop",
+      "frame": 2,
+      "index": 6,
+      "max_abs_delta": 8.976459503173828e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "crop",
+      "frame": 2,
+      "index": 7,
+      "max_abs_delta": 8.797645568847656e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "crop",
+      "frame": 2,
+      "index": 7,
+      "max_abs_delta": 0.00015246868133544922
+    },
+    {
+      "objective": "geometry",
+      "kind": "bridge",
+      "frame": 2,
+      "index": 9,
+      "max_abs_delta": 8.14199447631836e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "bridge",
+      "frame": 2,
+      "index": 9,
+      "max_abs_delta": 7.748603820800781e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "bridge",
+      "frame": 2,
+      "index": 10,
+      "max_abs_delta": 4.073977470397949e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "bridge",
+      "frame": 2,
+      "index": 10,
+      "max_abs_delta": 9.512901306152344e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "bridge",
+      "frame": 2,
+      "index": 11,
+      "max_abs_delta": 2.6464462280273438e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "bridge",
+      "frame": 2,
+      "index": 11,
+      "max_abs_delta": 2.765655517578125e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "crop",
+      "frame": 4,
+      "index": 14,
+      "max_abs_delta": 9.763240814208984e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "crop",
+      "frame": 4,
+      "index": 14,
+      "max_abs_delta": 8.463859558105469e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "crop",
+      "frame": 4,
+      "index": 15,
+      "max_abs_delta": 3.314018249511719e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "crop",
+      "frame": 4,
+      "index": 15,
+      "max_abs_delta": 1.2159347534179688e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "crop",
+      "frame": 4,
+      "index": 16,
+      "max_abs_delta": 5.5789947509765625e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "crop",
+      "frame": 4,
+      "index": 16,
+      "max_abs_delta": 4.661083221435547e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "bridge",
+      "frame": 4,
+      "index": 18,
+      "max_abs_delta": 5.7697296142578125e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "bridge",
+      "frame": 4,
+      "index": 18,
+      "max_abs_delta": 7.581710815429688e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "bridge",
+      "frame": 4,
+      "index": 19,
+      "max_abs_delta": 1.6614794731140137e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "bridge",
+      "frame": 4,
+      "index": 19,
+      "max_abs_delta": 4.458427429199219e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "bridge",
+      "frame": 4,
+      "index": 20,
+      "max_abs_delta": 9.566545486450195e-06
+    },
+    {
+      "objective": "decision",
+      "kind": "bridge",
+      "frame": 4,
+      "index": 20,
+      "max_abs_delta": 8.463859558105469e-06
+    },
+    {
+      "objective": "geometry",
+      "kind": "bridge",
+      "frame": 4,
+      "index": 21,
+      "max_abs_delta": 6.413459777832031e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "bridge",
+      "frame": 4,
+      "index": 21,
+      "max_abs_delta": 3.159046173095703e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "cheap",
+      "frame": 4,
+      "index": 28,
+      "max_abs_delta": 3.463029861450195e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "cheap",
+      "frame": 4,
+      "index": 28,
+      "max_abs_delta": 5.793571472167969e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "cheap",
+      "frame": 4,
+      "index": 29,
+      "max_abs_delta": 7.241964340209961e-06
+    },
+    {
+      "objective": "decision",
+      "kind": "cheap",
+      "frame": 4,
+      "index": 29,
+      "max_abs_delta": 3.230571746826172e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "crop",
+      "frame": 6,
+      "index": 30,
+      "max_abs_delta": 6.020069122314453e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "crop",
+      "frame": 6,
+      "index": 30,
+      "max_abs_delta": 9.548664093017578e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "crop",
+      "frame": 6,
+      "index": 31,
+      "max_abs_delta": 1.6450881958007812e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "crop",
+      "frame": 6,
+      "index": 31,
+      "max_abs_delta": 7.733702659606934e-06
+    },
+    {
+      "objective": "geometry",
+      "kind": "crop",
+      "frame": 6,
+      "index": 32,
+      "max_abs_delta": 1.52587890625e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "crop",
+      "frame": 6,
+      "index": 32,
+      "max_abs_delta": 1.519918441772461e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "bridge",
+      "frame": 6,
+      "index": 34,
+      "max_abs_delta": 4.354119300842285e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "bridge",
+      "frame": 6,
+      "index": 34,
+      "max_abs_delta": 6.139278411865234e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "bridge",
+      "frame": 6,
+      "index": 35,
+      "max_abs_delta": 3.504753112792969e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "bridge",
+      "frame": 6,
+      "index": 35,
+      "max_abs_delta": 3.886222839355469e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "bridge",
+      "frame": 6,
+      "index": 36,
+      "max_abs_delta": 1.4185905456542969e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "bridge",
+      "frame": 6,
+      "index": 36,
+      "max_abs_delta": 9.298324584960938e-06
+    },
+    {
+      "objective": "geometry",
+      "kind": "bridge",
+      "frame": 6,
+      "index": 37,
+      "max_abs_delta": 5.4836273193359375e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "bridge",
+      "frame": 6,
+      "index": 37,
+      "max_abs_delta": 7.641315460205078e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "cheap",
+      "frame": 6,
+      "index": 44,
+      "max_abs_delta": 2.1696090698242188e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "cheap",
+      "frame": 6,
+      "index": 44,
+      "max_abs_delta": 2.205371856689453e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "cheap",
+      "frame": 6,
+      "index": 45,
+      "max_abs_delta": 6.663799285888672e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "cheap",
+      "frame": 6,
+      "index": 45,
+      "max_abs_delta": 0.00011205673217773438
+    },
+    {
+      "objective": "geometry",
+      "kind": "crop",
+      "frame": 8,
+      "index": 46,
+      "max_abs_delta": 1.9431114196777344e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "crop",
+      "frame": 8,
+      "index": 46,
+      "max_abs_delta": 1.5974044799804688e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "crop",
+      "frame": 8,
+      "index": 47,
+      "max_abs_delta": 7.987022399902344e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "crop",
+      "frame": 8,
+      "index": 47,
+      "max_abs_delta": 5.793571472167969e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "crop",
+      "frame": 8,
+      "index": 48,
+      "max_abs_delta": 1.0013580322265625e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "crop",
+      "frame": 8,
+      "index": 48,
+      "max_abs_delta": 2.1338462829589844e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "bridge",
+      "frame": 8,
+      "index": 50,
+      "max_abs_delta": 6.222724914550781e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "bridge",
+      "frame": 8,
+      "index": 50,
+      "max_abs_delta": 5.194544792175293e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "bridge",
+      "frame": 8,
+      "index": 51,
+      "max_abs_delta": 3.993511199951172e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "bridge",
+      "frame": 8,
+      "index": 51,
+      "max_abs_delta": 5.0902366638183594e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "bridge",
+      "frame": 8,
+      "index": 52,
+      "max_abs_delta": 1.4662742614746094e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "bridge",
+      "frame": 8,
+      "index": 52,
+      "max_abs_delta": 1.5437602996826172e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "bridge",
+      "frame": 8,
+      "index": 53,
+      "max_abs_delta": 6.508827209472656e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "bridge",
+      "frame": 8,
+      "index": 53,
+      "max_abs_delta": 7.140636444091797e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "cheap",
+      "frame": 8,
+      "index": 58,
+      "max_abs_delta": 0.00015616416931152344
+    },
+    {
+      "objective": "decision",
+      "kind": "cheap",
+      "frame": 8,
+      "index": 58,
+      "max_abs_delta": 0.00011241436004638672
+    },
+    {
+      "objective": "geometry",
+      "kind": "crop",
+      "frame": 10,
+      "index": 59,
+      "max_abs_delta": 3.8504600524902344e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "crop",
+      "frame": 10,
+      "index": 59,
+      "max_abs_delta": 1.5735626220703125e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "crop",
+      "frame": 10,
+      "index": 60,
+      "max_abs_delta": 2.9802322387695312e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "crop",
+      "frame": 10,
+      "index": 60,
+      "max_abs_delta": 2.2411346435546875e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "crop",
+      "frame": 10,
+      "index": 61,
+      "max_abs_delta": 4.601478576660156e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "crop",
+      "frame": 10,
+      "index": 61,
+      "max_abs_delta": 3.6716461181640625e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "bridge",
+      "frame": 10,
+      "index": 62,
+      "max_abs_delta": 2.300739288330078e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "bridge",
+      "frame": 10,
+      "index": 62,
+      "max_abs_delta": 3.6835670471191406e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "bridge",
+      "frame": 10,
+      "index": 63,
+      "max_abs_delta": 1.2695789337158203e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "bridge",
+      "frame": 10,
+      "index": 63,
+      "max_abs_delta": 1.1444091796875e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "bridge",
+      "frame": 10,
+      "index": 64,
+      "max_abs_delta": 9.310245513916016e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "bridge",
+      "frame": 10,
+      "index": 64,
+      "max_abs_delta": 6.794929504394531e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "cheap",
+      "frame": 10,
+      "index": 68,
+      "max_abs_delta": 0.0001418590545654297
+    },
+    {
+      "objective": "decision",
+      "kind": "cheap",
+      "frame": 10,
+      "index": 68,
+      "max_abs_delta": 0.00010061264038085938
+    },
+    {
+      "objective": "geometry",
+      "kind": "cheap",
+      "frame": 10,
+      "index": 69,
+      "max_abs_delta": 8.249282836914062e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "cheap",
+      "frame": 10,
+      "index": 69,
+      "max_abs_delta": 5.459785461425781e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "crop",
+      "frame": 12,
+      "index": 70,
+      "max_abs_delta": 4.1365623474121094e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "crop",
+      "frame": 12,
+      "index": 70,
+      "max_abs_delta": 1.4543533325195312e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "crop",
+      "frame": 12,
+      "index": 71,
+      "max_abs_delta": 8.428096771240234e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "crop",
+      "frame": 12,
+      "index": 71,
+      "max_abs_delta": 9.393692016601562e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "crop",
+      "frame": 12,
+      "index": 72,
+      "max_abs_delta": 1.5020370483398438e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "crop",
+      "frame": 12,
+      "index": 72,
+      "max_abs_delta": 3.2782554626464844e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "bridge",
+      "frame": 12,
+      "index": 73,
+      "max_abs_delta": 5.447864532470703e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "bridge",
+      "frame": 12,
+      "index": 73,
+      "max_abs_delta": 3.8743019104003906e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "bridge",
+      "frame": 12,
+      "index": 74,
+      "max_abs_delta": 6.127357482910156e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "bridge",
+      "frame": 12,
+      "index": 74,
+      "max_abs_delta": 8.893013000488281e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "bridge",
+      "frame": 12,
+      "index": 75,
+      "max_abs_delta": 4.678964614868164e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "bridge",
+      "frame": 12,
+      "index": 75,
+      "max_abs_delta": 5.4001808166503906e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "cheap",
+      "frame": 12,
+      "index": 79,
+      "max_abs_delta": 2.8848648071289062e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "cheap",
+      "frame": 12,
+      "index": 79,
+      "max_abs_delta": 2.3126602172851562e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "cheap",
+      "frame": 12,
+      "index": 80,
+      "max_abs_delta": 4.839897155761719e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "cheap",
+      "frame": 12,
+      "index": 80,
+      "max_abs_delta": 9.989738464355469e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "crop",
+      "frame": 14,
+      "index": 81,
+      "max_abs_delta": 4.0531158447265625e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "crop",
+      "frame": 14,
+      "index": 81,
+      "max_abs_delta": 3.731250762939453e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "crop",
+      "frame": 14,
+      "index": 82,
+      "max_abs_delta": 2.086162567138672e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "crop",
+      "frame": 14,
+      "index": 82,
+      "max_abs_delta": 2.002716064453125e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "crop",
+      "frame": 14,
+      "index": 83,
+      "max_abs_delta": 7.05718994140625e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "crop",
+      "frame": 14,
+      "index": 83,
+      "max_abs_delta": 3.62396240234375e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "bridge",
+      "frame": 14,
+      "index": 84,
+      "max_abs_delta": 4.267692565917969e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "bridge",
+      "frame": 14,
+      "index": 84,
+      "max_abs_delta": 4.839897155761719e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "bridge",
+      "frame": 14,
+      "index": 85,
+      "max_abs_delta": 1.9371509552001953e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "bridge",
+      "frame": 14,
+      "index": 85,
+      "max_abs_delta": 3.147125244140625e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "bridge",
+      "frame": 14,
+      "index": 86,
+      "max_abs_delta": 5.21540641784668e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "bridge",
+      "frame": 14,
+      "index": 86,
+      "max_abs_delta": 6.416440010070801e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "cheap",
+      "frame": 14,
+      "index": 91,
+      "max_abs_delta": 0.00012683868408203125
+    },
+    {
+      "objective": "decision",
+      "kind": "cheap",
+      "frame": 14,
+      "index": 91,
+      "max_abs_delta": 5.1975250244140625e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "cheap",
+      "frame": 14,
+      "index": 92,
+      "max_abs_delta": 0.000102996826171875
+    },
+    {
+      "objective": "decision",
+      "kind": "cheap",
+      "frame": 14,
+      "index": 92,
+      "max_abs_delta": 8.285045623779297e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "crop",
+      "frame": 16,
+      "index": 93,
+      "max_abs_delta": 3.9458274841308594e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "crop",
+      "frame": 16,
+      "index": 93,
+      "max_abs_delta": 2.765655517578125e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "crop",
+      "frame": 16,
+      "index": 94,
+      "max_abs_delta": 2.2292137145996094e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "crop",
+      "frame": 16,
+      "index": 94,
+      "max_abs_delta": 3.4332275390625e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "crop",
+      "frame": 16,
+      "index": 95,
+      "max_abs_delta": 9.655952453613281e-06
+    },
+    {
+      "objective": "decision",
+      "kind": "crop",
+      "frame": 16,
+      "index": 95,
+      "max_abs_delta": 8.404254913330078e-06
+    },
+    {
+      "objective": "geometry",
+      "kind": "bridge",
+      "frame": 16,
+      "index": 96,
+      "max_abs_delta": 4.166364669799805e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "bridge",
+      "frame": 16,
+      "index": 96,
+      "max_abs_delta": 5.0067901611328125e-05
+    },
+    {
+      "objective": "geometry",
+      "kind": "bridge",
+      "frame": 16,
+      "index": 97,
+      "max_abs_delta": 2.6106834411621094e-05
+    },
+    {
+      "objective": "decision",
+      "kind": "bridge",
+      "frame": 16,
+      "index": 97,
+      "max_abs_delta": 4.38690185546875e-05
+    }
+  ],
+  "max_abs_delta": 0.0001577138900756836,
+  "note": "Training embeddings fp16 vs runtime fp32; feature/mask consistency checked on actual images."
+}

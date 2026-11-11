@@ -1,0 +1,21 @@
+dataset,stage,frames,units,mean_ms,p95_ms,p99_ms,scope
+nusc_val,bd_draft_ours@trt32,512,13,6.694141074248705,7.367834350952762,7.579318247153423,instrumented legacy crop-call breakdown; not true guard-depth attribution
+nusc_val,bd_refiner_ours@trt32,512,13,0.3358433650362258,0.4137341980822383,3.7492071138694874,instrumented legacy crop-call breakdown; not true guard-depth attribution
+nusc_val,bd_crops_r1_ours@trt32,512,13,4.304203361286341,7.203296647639945,15.06690265458019,instrumented legacy crop-call breakdown; not true guard-depth attribution
+nusc_val,bd_crops_r2_ours@trt32,512,13,6.2016668300088895,25.923952799712424,33.716596831509364,instrumented legacy crop-call breakdown; not true guard-depth attribution
+nusc_val,bd_crops_r3_ours@trt32,512,13,1.3361395683517685,6.949159247233183,13.989154033770317,instrumented legacy crop-call breakdown; not true guard-depth attribution
+nusc_val,bd_c1_ours@trt32,512,13,1.2720015019738184,8.368882698050582,14.087702553006233,instrumented legacy crop-call breakdown; not true guard-depth attribution
+nusc_val,bd_crops_r4_ours@trt32,512,13,0.2720951777064329,0.0,7.01647469017189,instrumented legacy crop-call breakdown; not true guard-depth attribution
+nusc_val,bd_crops_r5_ours@trt32,512,13,0.2094059101551693,0.0,6.727114710083694,instrumented legacy crop-call breakdown; not true guard-depth attribution
+nusc_val,bd_crops_r6_ours@trt32,512,13,0.02624618748825469,0.0,0.0,instrumented legacy crop-call breakdown; not true guard-depth attribution
+av2_dev,bd_draft_ours@trt32,512,8,9.199156422084798,9.641365447168937,9.96039834280964,instrumented legacy crop-call breakdown; not true guard-depth attribution
+av2_dev,bd_refiner_ours@trt32,512,8,1.5068058671090512,4.121975699308678,6.282387113678847,instrumented legacy crop-call breakdown; not true guard-depth attribution
+av2_dev,bd_crops_r1_ours@trt32,512,8,5.377930839998157,14.391437348967884,22.941463564202415,instrumented legacy crop-call breakdown; not true guard-depth attribution
+av2_dev,bd_crops_r2_ours@trt32,512,8,7.109824716849289,30.88102884976251,47.97324870974987,instrumented legacy crop-call breakdown; not true guard-depth attribution
+av2_dev,bd_crops_r3_ours@trt32,512,8,2.1249275097687814,12.657310701251843,19.92631870911282,instrumented legacy crop-call breakdown; not true guard-depth attribution
+av2_dev,bd_crops_r4_ours@trt32,512,8,1.2864707558577493,11.303102950841968,26.500755479210035,instrumented legacy crop-call breakdown; not true guard-depth attribution
+av2_dev,bd_c1_ours@trt32,512,8,3.7055377441674864,14.369292497576673,22.129738335788712,instrumented legacy crop-call breakdown; not true guard-depth attribution
+av2_dev,bd_crops_r5_ours@trt32,512,8,1.114677408196485,6.341937499746563,37.793077940732466,instrumented legacy crop-call breakdown; not true guard-depth attribution
+av2_dev,bd_crops_r6_ours@trt32,512,8,0.21494300582958203,0.0,6.540172295717638,instrumented legacy crop-call breakdown; not true guard-depth attribution
+av2_dev,bd_crops_r7_ours@trt32,512,8,0.06181074220990013,0.0,0.0,instrumented legacy crop-call breakdown; not true guard-depth attribution
+av2_dev,bd_crops_r8_ours@trt32,512,8,0.012839082032201077,0.0,0.0,instrumented legacy crop-call breakdown; not true guard-depth attribution

@@ -1,0 +1,37 @@
+{
+  "status": "complete",
+  "dataset": "nusc",
+  "models": [
+    {
+      "model": "pooled",
+      "train_examples": 28286,
+      "class_counts": [
+        25981,
+        1813,
+        492
+      ],
+      "train_units": 330,
+      "val_disagreements": 54,
+      "val_disagreement_logloss": 0.2451568896752129,
+      "sha256": "d2f02540cad6e177e348bcb8c438d54010107cc45aac5401941fa955348f2c07"
+    },
+    {
+      "model": "conditional",
+      "train_examples": 458,
+      "class_counts": [
+        412,
+        44,
+        2
+      ],
+      "train_units": 96,
+      "val_disagreements": 54,
+      "val_disagreement_logloss": 0.18804507762402467,
+      "sha256": "ef0a406d58de09780392b8966862524a5afa00eedad7671d9818e81d5fab72f4"
+    }
+  ],
+  "units": 383,
+  "seconds": 91.5982391834259,
+  "protocol_sha256": "48913f7f5275c5520e52f099fddd2821a8f70a8631e1dfe568e7b60963fe2892",
+  "test_or_dev_training": false,
+  "source_refiner_sha256": "46bb704a6a83068116bc7443724931d56d6d4d098cea247ef55bb3ebc64fbaa9"
+}

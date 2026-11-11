@@ -1,0 +1,73 @@
+dataset,pipeline,comparator,metric,candidate_minus_baseline,ci_lo,ci_hi
+av2_dev,round1 combined,v6-S,mean_ms,-2.9967418594196715,-7.1148577064684515,0.5549292262202518
+av2_dev,round1 combined,v6-S,p95_ms,-28.86548546666745,-35.88778694393113,2.435761797969458
+av2_dev,round1 combined,v6-S,p99_ms,-33.59998100204393,-42.84659796394408,-6.846592054411306
+av2_dev,round1 combined,v6-S,above50_pct,2.34375,0.11240254501051831,4.713030667653952
+av2_dev,round1 combined,v6-S,above66_7_pct,-4.1015625,-8.852548397603842,-0.45556790824114235
+av2_dev,round1 combined,v6-S,above100_pct,-5.859375,-14.13744232036915,-0.15922303103831772
+av2_dev,round1 combined,v6-S,mean_detector_executions,-1.38671875,-2.9403274371811827,-0.21671357810570893
+av2_dev,round1 combined,v6-S,mean_network_px,0.01292401713709651,0.0007917830192203396,0.0327288267256695
+av2_dev,round1 combined,v6-S,mean_extra_encoded_crops,0.0,0.0,0.0
+av2_dev,round1 combined,v6-S,mean_head_items,0.0,0.0,0.0
+av2_dev,round1 combined,v6-S,G_prefix,0.04274571208440481,-0.012396498789646812,0.21842618960749582
+av2_dev,round1 combined,v6-S,insufficient_loss_per_frame,-0.02989474525175484,-0.09568734992384054,0.001400408078337398
+av2_dev,learned missing history,round1 combined,mean_ms,8.216058036130867,3.633204038144735,13.80803965472176
+av2_dev,learned missing history,round1 combined,p95_ms,25.604442256735638,16.217391498357735,40.851621015463024
+av2_dev,learned missing history,round1 combined,p99_ms,38.21693593636152,22.82610216585453,42.951787007041276
+av2_dev,learned missing history,round1 combined,above50_pct,7.682291666666668,3.683241252302027,11.994174291057973
+av2_dev,learned missing history,round1 combined,above66_7_pct,10.677083333333332,4.873294346978559,16.422440823176114
+av2_dev,learned missing history,round1 combined,above100_pct,6.315104166666666,0.059882625631913,17.092302674494448
+av2_dev,learned missing history,round1 combined,mean_detector_executions,0.0,0.0,0.0
+av2_dev,learned missing history,round1 combined,mean_network_px,3.402217741936553e-05,0.0,0.00010206653225806207
+av2_dev,learned missing history,round1 combined,mean_extra_encoded_crops,1.39453125,0.584377754206891,2.5939654692286256
+av2_dev,learned missing history,round1 combined,mean_head_items,1.8125,0.7122681894546394,3.3411143286143257
+av2_dev,learned missing history,round1 combined,G_prefix,-0.00035056264172883544,-0.002034964255219718,0.0
+av2_dev,learned missing history,round1 combined,insufficient_loss_per_frame,-0.0005785740696807318,-0.0017357222090421676,0.0
+av2_dev,learned missing history,v6-S,mean_ms,5.219316176711196,3.3908472209911587,7.002416513395134
+av2_dev,learned missing history,v6-S,p95_ms,-3.261043209931813,-5.552626971621066,20.081896085684996
+av2_dev,learned missing history,v6-S,p99_ms,4.61695493431759,-17.547321301826063,23.23118352425806
+av2_dev,learned missing history,v6-S,above50_pct,10.026041666666668,4.856835328519039,14.87279843444227
+av2_dev,learned missing history,v6-S,above66_7_pct,6.575520833333332,3.6060751640266835,9.268652876402184
+av2_dev,learned missing history,v6-S,above100_pct,0.4557291666666661,-2.1862945998071357,3.658240074606976
+av2_dev,learned missing history,v6-S,mean_detector_executions,-1.38671875,-2.9403274371811827,-0.21671357810570893
+av2_dev,learned missing history,v6-S,mean_network_px,0.012958039314515876,0.0008345015362092959,0.03276101620788838
+av2_dev,learned missing history,v6-S,mean_extra_encoded_crops,1.39453125,0.584377754206891,2.5939654692286256
+av2_dev,learned missing history,v6-S,mean_head_items,1.8125,0.7122681894546394,3.3411143286143257
+av2_dev,learned missing history,v6-S,G_prefix,0.04239514944267597,-0.012975000317264581,0.21807869225161114
+av2_dev,learned missing history,v6-S,insufficient_loss_per_frame,-0.03047331932143557,-0.09626638544719095,0.0009017204126197797
+nusc_val,round1 combined,v6-S,mean_ms,-1.7635494111421686,-4.332303202835696,0.01432329482992755
+nusc_val,round1 combined,v6-S,p95_ms,-11.906390034710057,-20.690694516887792,-0.6753708905307648
+nusc_val,round1 combined,v6-S,p99_ms,-20.02362383063881,-28.39428506558761,-7.389733005184109
+nusc_val,round1 combined,v6-S,above50_pct,-5.208333333333333,-12.787275734368821,-0.3898635477582846
+nusc_val,round1 combined,v6-S,above66_7_pct,-2.669270833333333,-6.001437032157228,-0.3898635477582846
+nusc_val,round1 combined,v6-S,above100_pct,-0.1953125,-0.594059405940594,0.0
+nusc_val,round1 combined,v6-S,mean_detector_executions,-0.703125,-1.2942942334414078,-0.2693704950360398
+nusc_val,round1 combined,v6-S,mean_network_px,0.004266666666666391,-0.00015395078258822887,0.010633234316298765
+nusc_val,round1 combined,v6-S,mean_extra_encoded_crops,0.0,0.0,0.0
+nusc_val,round1 combined,v6-S,mean_head_items,0.0,0.0,0.0
+nusc_val,round1 combined,v6-S,G_prefix,0.009776252608853842,0.0,0.017174590002261285
+nusc_val,round1 combined,v6-S,insufficient_loss_per_frame,-0.00467271124846963,-0.011385749347671977,0.0
+nusc_val,learned missing history,round1 combined,mean_ms,3.8014850417766866,2.2039190135025977,5.600265727788327
+nusc_val,learned missing history,round1 combined,p95_ms,12.460128287784755,5.448301696160301,19.22760774512426
+nusc_val,learned missing history,round1 combined,p99_ms,17.664228330249898,6.522538518765941,23.771994098438892
+nusc_val,learned missing history,round1 combined,above50_pct,9.375,3.236089159830411,16.570446893939096
+nusc_val,learned missing history,round1 combined,above66_7_pct,3.059895833333333,0.5813953488372093,6.204733708664983
+nusc_val,learned missing history,round1 combined,above100_pct,0.0,0.0,0.0
+nusc_val,learned missing history,round1 combined,mean_detector_executions,0.0,0.0,0.0
+nusc_val,learned missing history,round1 combined,mean_network_px,-0.0002027777777778017,-0.0006095238095237959,0.0
+nusc_val,learned missing history,round1 combined,mean_extra_encoded_crops,0.52734375,0.2523850293542074,0.8409212604491695
+nusc_val,learned missing history,round1 combined,mean_head_items,0.650390625,0.2771317829457364,1.0761830987536836
+nusc_val,learned missing history,round1 combined,G_prefix,0.10085713024828624,-0.0072498272989734045,0.3217453515446911
+nusc_val,learned missing history,round1 combined,insufficient_loss_per_frame,-0.04396586024701632,-0.13164642223484202,0.0
+nusc_val,learned missing history,v6-S,mean_ms,2.037935630634518,-0.2001453452463026,4.30443071758854
+nusc_val,learned missing history,v6-S,p95_ms,0.5537382530746982,-8.218530895974324,13.425527129948005
+nusc_val,learned missing history,v6-S,p99_ms,-2.3593955003889135,-16.359695237886626,12.580487743965888
+nusc_val,learned missing history,v6-S,above50_pct,4.166666666666666,-2.1484375,11.197436435424493
+nusc_val,learned missing history,v6-S,above66_7_pct,0.390625,-2.0956123117223315,3.3077094992274727
+nusc_val,learned missing history,v6-S,above100_pct,-0.1953125,-0.594059405940594,0.0
+nusc_val,learned missing history,v6-S,mean_detector_executions,-0.703125,-1.2942942334414078,-0.2693704950360398
+nusc_val,learned missing history,v6-S,mean_network_px,0.004063888888888589,-0.0003562486463071383,0.010409128474324991
+nusc_val,learned missing history,v6-S,mean_extra_encoded_crops,0.52734375,0.2523850293542074,0.8409212604491695
+nusc_val,learned missing history,v6-S,mean_head_items,0.650390625,0.2771317829457364,1.0761830987536836
+nusc_val,learned missing history,v6-S,G_prefix,0.11063338285714008,0.0,0.32271053095353486
+nusc_val,learned missing history,v6-S,insufficient_loss_per_frame,-0.04863857149548595,-0.13713650984024653,0.0

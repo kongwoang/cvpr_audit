@@ -1,0 +1,11 @@
+dataset,split,bin,objects,share_in_R,F_deciding_objects,F_deciding_and_F_brakes_more
+av2,range_bin,<12.5 m,96.0,0.3125,88.0,88.0
+av2,range_bin,12.5-70 m,877.0,0.5860889395667047,775.0,775.0
+av2,range_bin,70-80 m,103.0,0.7669902912621359,96.0,96.0
+av2,lat_bin,|y| <= 6 m,1074.0,0.5782122905027933,957.0,957.0
+av2,lat_bin,|y| > 6 m,2.0,1.0,2.0,2.0
+av2,cls,cyclist,35.0,0.3142857142857143,32.0,32.0
+av2,cls,person,86.0,0.29069767441860467,72.0,72.0
+av2,cls,vehicle,955.0,0.6146596858638743,855.0,855.0
+av2,all,all,1076.0,0.578996282527881,959.0,959.0
+av2,note,classes are the detector's coarse classes (vehicle / person / cyclist); car vs truck / bus is not separable,,,,

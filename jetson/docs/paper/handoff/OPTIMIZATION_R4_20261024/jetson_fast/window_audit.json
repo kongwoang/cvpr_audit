@@ -1,0 +1,97 @@
+{
+  "status": "complete",
+  "pid": 472057,
+  "runs": [
+    {
+      "dataset": "nusc_val",
+      "encoder": "trt32",
+      "rep": 1,
+      "smoke": true,
+      "old": true,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261024_145433_r4_simple_trt32_timing_nusc_val_v6S_smoke_old"
+    },
+    {
+      "dataset": "nusc_val",
+      "encoder": "trt32",
+      "rep": 1,
+      "smoke": true,
+      "old": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261024_145506_r4_fast_simple_trt32_timing_nusc_val_v6S_smoke_trt32"
+    },
+    {
+      "dataset": "av2_dev",
+      "encoder": "trt32",
+      "rep": 1,
+      "smoke": true,
+      "old": true,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261024_145537_r4_simple_trt32_timing_av2_dev_v6S_smoke_old"
+    },
+    {
+      "dataset": "av2_dev",
+      "encoder": "trt32",
+      "rep": 1,
+      "smoke": true,
+      "old": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261024_145626_r4_fast_simple_trt32_timing_av2_dev_v6S_smoke_trt32"
+    },
+    {
+      "dataset": "nusc_val",
+      "encoder": "trt32",
+      "rep": 1,
+      "smoke": false,
+      "old": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261024_145710_r4_fast_simple_trt32_timing_nusc_val_v6S_r1_trt32"
+    },
+    {
+      "dataset": "av2_dev",
+      "encoder": "trt32",
+      "rep": 1,
+      "smoke": false,
+      "old": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261024_145834_r4_fast_simple_trt32_timing_av2_dev_v6S_r1_trt32"
+    },
+    {
+      "dataset": "nusc_val",
+      "encoder": "trt32",
+      "rep": 2,
+      "smoke": false,
+      "old": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261024_150106_r4_fast_simple_trt32_timing_nusc_val_v6S_r2_trt32"
+    },
+    {
+      "dataset": "av2_dev",
+      "encoder": "trt32",
+      "rep": 2,
+      "smoke": false,
+      "old": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261024_150230_r4_fast_simple_trt32_timing_av2_dev_v6S_r2_trt32"
+    },
+    {
+      "dataset": "nusc_val",
+      "encoder": "trt32",
+      "rep": 3,
+      "smoke": false,
+      "old": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261024_150503_r4_fast_simple_trt32_timing_nusc_val_v6S_r3_trt32"
+    },
+    {
+      "dataset": "av2_dev",
+      "encoder": "trt32",
+      "rep": 3,
+      "smoke": false,
+      "old": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261024_150628_r4_fast_simple_trt32_timing_av2_dev_v6S_r3_trt32"
+    }
+  ],
+  "started": "2026-10-24T14:42:19.625388+07:00",
+  "owner": "CVPR R4 simple timing pid 471052 2026-10-24T14:34:25.941786+07:00\n",
+  "updated": "2026-10-24T15:08:55.843533+07:00",
+  "dataset": "av2_dev",
+  "encoder": "trt32",
+  "rep": 3,
+  "child_pid": 474993,
+  "current_log": "r3_trt32_av2_dev.log",
+  "source_engine_hashes_unchanged": true,
+  "window_released": true,
+  "restore_errors": []
+}

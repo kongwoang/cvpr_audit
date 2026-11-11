@@ -1,0 +1,774 @@
+% CVPR 2027 Paper Template; see https://github.com/cvpr-org/author-kit
+
+\documentclass[10pt,twocolumn,letterpaper]{article}
+
+%%%%%%%%% PAPER TYPE
+% \usepackage{cvpr}              % To produce the CAMERA-READY version
+\usepackage[review]{cvpr}      % To produce the REVIEW version
+% \usepackage[pagenumbers]{cvpr} % To force page numbers, e.g. for an arXiv version
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% PREAMBLE (packages and macros; must stay before hyperref)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Packages and macros for the paper (loaded before hyperref).
+
+\usepackage{amsthm}
+\usepackage{multirow}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,positioning,calc,fit,backgrounds}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usepgfplotslibrary{groupplots}
+
+%% Inline annotations
+\newcommand{\red}[1]{{\color{red}#1}}
+\newcommand{\todo}[1]{{\color{red}#1}}
+\newcommand{\TODO}[1]{\textbf{\color{red}[TODO: #1]}}
+%% disable for submission by uncommenting these lines
+% \renewcommand{\TODO}[1]{}
+% \renewcommand{\todo}[1]{#1}
+
+%% Method name: change here only.
+\newcommand{\method}{DGSP\xspace}
+
+%% Math
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argmax}{arg\,max}
+\newcommand{\draft}{C}            % draft scene (cheap detector, whole frame)
+\newcommand{\full}{F}             % reference scene (reference detector, whole frame)
+\newcommand{\merged}{M}           % merged scene
+\newcommand{\Sup}{\mathrm{Sup}}   % support of the current action
+\newcommand{\field}{Z}            % decision-sensitivity field (a set of object states)
+\newcommand{\foot}{R_{\field}}    % field footprint (one image crop)
+\newcommand{\policy}{\pi}         % planner (any downstream decision rule)
+\newcommand{\dem}{d}              % per-object demand
+\newcommand{\G}{G}                % decision value
+\newcommand{\vclose}{v_{\mathrm{close}}}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{corollary}{Corollary}
+\newtheorem{lemma}{Lemma}
+\newtheorem{proposition}{Proposition}
+\newtheorem{assumption}{Assumption}
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}
+\theoremstyle{remark}
+\newtheorem{remark}{Remark}
+
+%% Table helpers
+\usepackage{colortbl}
+\definecolor{oursbg}{RGB}{226,236,251}   % row of the proposed method
+\definecolor{gaingreen}{RGB}{0,128,64}   % significant improvement of the proposed method
+\newcommand{\ci}[2]{[#1,\,#2]}
+\newcommand{\best}[1]{\textbf{#1}}
+\newcommand{\second}[1]{\underline{#1}}
+\newcommand{\gain}[1]{\textcolor{gaingreen}{#1}}
+\newcommand{\oursrow}{\rowcolor{oursbg}}
+\newcolumntype{g}{>{\columncolor{gray!10}}c}   % main metric column
+\newcommand{\na}{--}
+
+%% Plot colours
+\definecolor{oursc}{RGB}{200,40,40}
+\definecolor{unic}{RGB}{60,60,60}
+\definecolor{adac}{RGB}{31,119,180}
+\definecolor{cropc}{RGB}{44,160,44}
+\definecolor{fieldc}{RGB}{240,150,60}
+
+\definecolor{cvprblue}{rgb}{0.21,0.49,0.74}
+%% References to the supplementary material (supplementary.tex, compiled separately) are read from
+%% supplementary.aux with xr-hyper; the starred \Cref* prints the number without a link to the other PDF.
+\usepackage{xr-hyper}
+\usepackage[pagebackref,breaklinks,colorlinks,allcolors=cvprblue]{hyperref}
+%% Overleaf: upload latexmkrc at the project root alongside both .tex files.
+%% latexmk builds the external document and copies its .aux beside its source.
+\makeatletter
+\newcommand*{\addFileDependency}[1]{\typeout{(#1)}\@addtofilelist{#1}\IfFileExists{#1}{}{\typeout{No file #1.}}}
+\makeatother
+\externaldocument[S-]{supplementary}
+\addFileDependency{supplementary.tex}\addFileDependency{supplementary.aux}
+\makeatletter
+\DeclareRobustCommand{\supp}[1]{\def\supp@list{}\@for\supp@i:=#1\do{\ifx\supp@list\@empty\edef\supp@list{S-\supp@i}\else\edef\supp@list{\supp@list,S-\supp@i}\fi}%
+\edef\supp@cmd{\noexpand\Cref*{\supp@list}}Supp.~\supp@cmd}
+\makeatother
+% cleveref is loaded by cvpr.sty at the end of the preamble; register the extra names after it
+\AtEndPreamble{%
+\Crefname{assumption}{Assumption}{Assumptions}%
+\Crefname{proposition}{Proposition}{Propositions}%
+\Crefname{theorem}{Theorem}{Theorems}%
+\Crefname{corollary}{Corollary}{Corollaries}%
+\Crefname{lemma}{Lemma}{Lemmas}%
+\Crefname{definition}{Definition}{Definitions}%
+\Crefname{algorithm}{Algorithm}{Algorithms}%
+}
+
+%%%%%%%%% CONFERENCE (the CVPR 2027 kit no longer prints a Paper ID)
+\def\confName{CVPR}
+\def\confYear{2027}
+
+%%%%%%%%% TITLE
+\title{Check Your Blind Spots: Decision-Guided Perception\\by Probing the Planner with Unseen Objects}
+
+%%%%%%%%% AUTHORS - PLEASE UPDATE FOR THE CAMERA-READY VERSION
+%% The review version prints "Anonymous CVPR submission" and ignores this block.
+\author{First Author\\
+Institution1\\
+{\tt\small firstauthor@i1.org}
+}
+
+\begin{document}
+\makeatletter\@clubpenalty=10000\makeatother\clubpenalty=10000 \widowpenalty=10000 % no single first or last line of a paragraph at a column break
+\setcounter{dbltopnumber}{1} % at most one two-column float per page (Table 1 and Fig. 4 on separate pages)
+\maketitle
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% ABSTRACT
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{abstract}
+Not every perception error changes the planner's action. Yet adaptive-resolution perception typically allocates high-resolution computation using visual cues or coarse detections.
+We introduce decision-guided speculative perception (\method), which probes the planner by inserting hypothetical objects into a low-resolution draft scene to identify where an unseen object would change the action. These locations define a decision-sensitivity field.
+\method also identifies a support set: detections sufficient to preserve the current action. It verifies the regions selected by the field and support at high resolution, repeating until the regions and the action stabilize.
+We prove that \method produces exactly the same action as whole-frame high-resolution perception under well-defined conditions.
+On nuScenes, Argoverse 2, and Argoverse-HD, \method matches the action of whole-frame inference at the verification resolution on 94–98\% of frames, against 73–93\% for low-resolution inference, with 20–28\% of its detector-input pixels (5–8\% of the native frame). \method achieves lower braking decision loss than most compared adaptive methods under the same nominal per-frame pixel cap. In controlled closed-loop braking simulations with measured perception delays and a geometric state estimate, \method misses significantly fewer required braking episodes than low-resolution inference.
+\end{abstract}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% 1. INTRODUCTION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Introduction}
+\label{sec:intro}
+
+% --- Fig. 1: problem and idea (source: figures/fig_problem.drawio) ---
+\begin{figure}[t]
+\centering
+\includegraphics[width=\linewidth]{figs/fig_problem.pdf}
+\caption{\textbf{Where should high-resolution perception be spent?}
+A low-resolution draft detects a lead vehicle (\textsc{decelerate}) but misses a cut-in vehicle requiring \textsc{hard-brake}.
+(a)~Detection-guided refinement leaves the cut-in vehicle unseen.
+(b)~Whole-frame inference detects it at full-image cost.
+(c)~\method probes the planner with hypothetical objects and verifies regions selected by the sensitivity field (orange) and support (blue), recovering \textsc{hard-brake}.
+The missed vehicle is marked for illustration only; its location is not given to \method or to the other methods.}
+\label{fig:teaser}
+\end{figure}
+
+High-resolution perception helps autonomous vehicles detect small or distant objects in megapixel driving images~\cite{nuscenes,av2}.
+Processing every frame at native resolution, however, strains the compute and latency budgets of onboard embedded hardware.
+Adaptive-resolution methods reduce this cost by selecting regions with object priors~\cite{fovea,lzu}, learned saliency~\cite{esod,zoomdet}, or coarse detections~\cite{dzn,ufpmp}, or by adapting the input scale~\cite{adascale}, detector configuration~\cite{chanakya}, or detector~\cite{bgtada}.
+Yet visual cues and coarse detections alone cannot tell where an unseen object would change the planner's action, leaving a critical ``blind spot'' in high-resolution region selection.
+In \cref{fig:teaser}(a), detection-guided refinement focuses on a detected lead vehicle but misses a nearer cut-in vehicle, retaining \textsc{decelerate} instead of \textsc{hard-brake}.
+
+To check such blind spots without resorting to whole-frame inference as in \cref{fig:teaser}(b), we propose \textbf{D}ecision-\textbf{G}uided \textbf{S}peculative \textbf{P}erception (\method).
+As illustrated in \cref{fig:teaser}(c), \method speculates: it starts from a low-resolution draft scene and action and verifies only what could change that action.
+It inserts hypothetical objects into the draft scene at candidate ground-plane locations and tests whether each changes the planner's action.
+The resulting \emph{decision-sensitivity field} depends on the draft scene and action, guiding high-resolution verification even where the draft detects nothing.
+Yet the current action may also depend on spurious or mislocalized detections that the field alone may leave unverified.
+\method therefore identifies a \emph{support set}: detections sufficient to preserve the current action.
+It verifies the image regions selected by the field and support at high resolution.
+As verified detections update the scene, \method recomputes the regions to check, repeating until no new region is needed.
+
+Rather than optimizing detection accuracy alone, \method selectively verifies regions to preserve the action of whole-frame high-resolution inference.
+We prove that, under explicit conditions, \method produces exactly the same action as whole-frame high-resolution perception for certain braking controllers and fixed-trajectory planners.
+
+We evaluate \method on nuScenes~\cite{nuscenes}, Argoverse~2~\cite{av2}, and Argoverse-HD~\cite{streaming}, with additional tests of planning, closed-loop driving, and embedded deployment.
+\method matches the action of whole-frame inference at the verification resolution on 94--98\% of frames with 20--28\% of its detector-input pixels (5--8\% of the native frame).
+It achieves lower braking decision loss than most compared adaptive methods under the same nominal per-frame pixel cap.
+Relative to this reference, the saving is one of pixels and energy, not of latency: on embedded hardware, its mean latency is close to that of the reference and its tail is longer.
+In controlled closed-loop braking simulations with measured perception delays and a geometric state estimate, it misses significantly fewer required braking episodes than low-resolution inference.
+
+Our contributions are:
+\begin{itemize}[leftmargin=*,itemsep=1pt,topsep=2pt]
+  \item We introduce a decision-sensitivity field constructed by probing the planner with hypothetical objects, identifying where unseen objects could change the action even without initial detections in those regions.
+  \item We develop an iterative high-resolution verification algorithm that combines this field with a support set of detections sufficient to preserve the current action.
+  \item We prove that, under explicit conditions, the algorithm produces exactly the same action as whole-frame high-resolution inference for certain braking controllers and fixed-trajectory planners.
+  \item We demonstrate high decision fidelity at a fraction of the pixel cost, with further evaluations of braking quality, closed-loop driving, and embedded efficiency.
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% 2. RELATED WORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Related Work}
+\label{sec:related}
+
+\noindent\textbf{Spatially selective detection.}
+These methods concentrate high-resolution computation on selected image locations.
+They refine regions chosen by predicted detection gains~\cite{dzn,patchdrop} or coarse detections~\cite{clusdet,ufpmp}, process high-resolution features sparsely at predicted object locations~\cite{querydet,esod}, or magnify salient areas using object priors, previous detections, or learned offsets~\cite{fovea,lzu,zoomdet}.
+SAHI~\cite{sahi} instead slices the image into overlapping tiles.
+Their selection signals are visual or detection-related.
+
+\noindent\textbf{Frame-level adaptive inference.}
+These methods apply one setting to the whole frame at run time: its input resolution~\cite{adascale}, the detector configuration~\cite{chanakya}, or the detector itself~\cite{bgtada}.
+Recent work also adapts computation to available runtime slack~\cite{slackdrive} or LiDAR scene complexity~\cite{thinkasneeded}.
+
+\noindent\textbf{Decision relevance in driving.}
+Planning-oriented models such as UniAD~\cite{uniad} and PlanT~\cite{plant} organize scene representations around downstream planning.
+Planner-centric metrics~\cite{pkl,tip} and decision-value analysis~\cite{deep} assess perception errors through their effects on driving decisions.
+Object-importance studies~\cite{goaloie,droid,cfrelevance} identify agents that influence driving behavior; counterfactual importance~\cite{cfimportance} does so by removing or perturbing objects already in the scene, which cannot point to an object that was not detected.
+Perception zones~\cite{perceptionzones,maneuverzones} derive regions where obstacles affect safety from reachability, for evaluating detectors; our field is instead computed at run time from the planner and its current action.
+Situation-aware perception~\cite{henning} prioritizes regions with attention maps built from the driving context, and the value of information~\cite{howard} prices an observation by the decisions it can change, the principle that our field applies to unseen objects.
+PKL~\cite{pkl} also studies the effect of inserting hypothetical false positives at different locations on a planner-centric metric.
+
+\noindent\textbf{Planner-guided computation.}
+Several systems use planning objectives to direct perception.
+AnA~\cite{ana} directs perception to agents of interest that the system already tracks, while QuAD~\cite{quad} queries occupancy at locations relevant to candidate plans.
+VeteranAD~\cite{veteranad} gathers scene information along anchored trajectories, PAD~\cite{pad} learns spatial attention for planning, and DriveAgent-R1~\cite{driveagentr1} actively requests additional visual evidence.
+While these methods use planning information to guide selective perception, we specifically target decision fidelity to a whole-frame high-resolution reference, seeking to reproduce its action with less computation.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% 3. METHOD
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Method}
+\label{sec:method}
+
+% --- Fig. 2: method overview ---
+\begin{figure*}[t]
+\centering
+\includegraphics[width=\textwidth]{figs/fig_method.pdf}
+\caption{\textbf{Overview of \method} on a nuScenes night frame.
+(1)~The low-resolution draft detects no objects, yielding \textsc{keep} with an empty support.
+(2)~Hypothetical object probes identify where an unseen object would change the action (field, orange; dashed: an illustrative probe).
+(3)~The field footprint is processed at the verification resolution, with additional crops from the truncation guard (grey), recovering the missed vehicle (red; green: annotation).
+(4)~The action changes to \textsc{hard-brake}; verification repeats until no new crop is requested.}
+\label{fig:method}
+\end{figure*}
+
+\subsection{Problem formulation}
+\label{sec:setting}
+
+Scenes differing in many detections can share an action, whereas one missed object can change it.
+We therefore aim for \emph{decision fidelity}: reproducing the action of whole-frame high-resolution perception with less detector computation.
+
+\noindent\textbf{Objects and planner.}
+We treat one frame $I$ at a time, with all boxes and crops in its native pixel coordinates.
+A detected object $o$ has an image box and a state $x(o)$, its range, lateral extent, and time-to-collision in the ego frame, which a \emph{lift} estimates from the box, the calibration, and earlier frames.
+A \emph{scene} $S$ is a finite set of objects.
+A \emph{planner} $\policy$ is any deterministic downstream decision rule that maps the object states of a scene to an action for the fixed ego state, from a braking controller to a selector over fixed trajectories; our guarantees cover specific classes only.
+
+\noindent\textbf{Draft and reference.}
+Let $I^L$ and $I^H$ be copies of $I$ at a low resolution and at the higher \emph{verification resolution}, which may lie below native.
+A \emph{cheap} detector on $I^L$ yields the \emph{draft} scene $\draft$.
+The \emph{reference} detector on $I^H$ would yield the \emph{reference} scene $\full$ and \emph{reference action} $\policy(\full)$: what the system would compute if detection were free. They define the goal, whatever the quality of $\full$, and are not computed at run time.
+
+\noindent\textbf{Verification.}
+A \emph{crop} is an axis-aligned image rectangle, a \emph{verified region} $R$ is a finite set of crops, and $S|_R$ denotes the objects of $S$ with box centers in $R$.
+Thus $\full|_R$ is the part of the hypothetical reference scene in $R$, whereas verification actually yields $V(R)$: the outputs of the reference detector on the crops of $R$ at the verification resolution, mapped back to image coordinates, with duplicates from overlapping crops merged.
+In general $V(R)\neq\full|_R$, since detectors behave differently on crops.
+The detections $V(R)$ replace the draft inside $R$, giving the \emph{merged} scene
+\begin{equation}
+\merged(R)=(\draft\setminus\draft|_R)\cup V(R).
+\label{eq:merged}
+\end{equation}
+
+\noindent\textbf{Goal.}
+We seek a region $R$ with $\policy(\merged(R))=\policy(\full)$ that uses fewer detector-input pixels than the reference, counting the draft and every crop; neither $\merged(R)=\full$ nor a minimum-pixel $R$ is required.
+The difficulty is that $R$ must be chosen without knowing $\full$: it must reach the action-changing objects that the draft misses and the detections that the current action rests on, some possibly spurious or mislocalized.
+
+\subsection{Decision-sensitivity field and support}
+\label{sec:field}
+
+\noindent\textbf{Sensitivity field.}
+Rather than predicting where an unseen object may be, \method asks where one would change the action.
+A \emph{probe} $o_x$ is a hypothetical object with state $x$, and the \emph{decision-sensitivity field} of a scene $S$ holds the states whose insertion changes the action:
+\begin{equation}
+\field(S) \;=\; \{\,x \,:\, \policy(S\cup\{o_x\})\neq\policy(S)\,\}.
+\label{eq:field}
+\end{equation}
+The field measures action sensitivity, not object likelihood, and needs no image evidence, so it exists even where the draft detects nothing.
+In practice, it is evaluated on a finite ground-plane grid of ranges and lateral offsets with a fixed-size static probe, which can miss sensitive states.
+Some planners need no explicit calls: for a braking controller that acts on the largest per-object demand, a probe is sensitive when its required deceleration reaches the threshold of the next stronger action.
+The calibration projects each sensitive probe to an image box, and the \emph{field footprint} $\foot(S)$ is the single crop bounding these boxes.
+
+\noindent\textbf{Support.}
+The field cannot correct a spurious or mislocalized detection that sustains the current action: \eg, one that triggers \textsc{hard-brake} leaves the field empty, since no stronger action exists.
+\method therefore also verifies a \emph{support} $\Sup(S)\subseteq S$, detections sufficient to preserve the current action (not necessarily minimal): removing the others leaves it unchanged, whereas verifying the support may change it.
+Its crops $\mathrm{crops}(\Sup(S))$ are the object boxes, enlarged around their centers for context.
+For this braking controller, the support holds every object whose own demand reaches the threshold of the current action, and it is empty at \textsc{keep}.
+It can thus hold objects that are not individually necessary: if two objects each justify \textsc{hard-brake}, removing either leaves the action unchanged, so neither is a \emph{pivot}~\cite{cfimportance}, although removing both may change it.
+
+\subsection{Iterative verification and decision exactness}
+\label{sec:loop}
+
+Verifying a region can change the action, the field, and the support, so regions selected from the draft alone may not suffice.
+\Cref{alg:loop} therefore iterates from the draft (\Cref{fig:method}): it requests the field footprint and the support crops of the current merged scene and runs the reference detector only on those not yet inside $R$, reusing earlier detections.
+It stops when every requested crop lies inside $R$.
+Every non-final round adds pixels to $R$, so the loop stops after finitely many rounds; the experiments also cap it at three rounds, and a frame stopped by the cap lies outside the guarantee.
+
+\begin{algorithm}[t]
+\caption{Decision-guided speculative perception}
+\label{alg:loop}
+\small
+\begin{algorithmic}[1]
+\Require frame $I$, planner $\policy$, cheap and reference detectors
+\State $\merged \gets \draft \gets$ cheap detection on $I^L$, lifted;\; $R \gets \emptyset$
+\Loop
+  \State $N \gets$ crops of $\{\foot(\merged)\}\cup\mathrm{crops}(\Sup(\merged))$ not inside $R$
+  \State \textbf{if} $N=\emptyset$ \textbf{then return} $\policy(\merged)$
+  \State $R \gets R\cup N$ \Comment{detect on $N$ only}
+  \State $\merged \gets (\draft\setminus\draft|_R)\cup V(R)$ \Comment{reuse earlier crops}
+\EndLoop
+\end{algorithmic}
+\end{algorithm}
+
+\noindent\textbf{Conditions on the planner.}
+Two properties make the outcome of the loop exact.
+First, the support must be \emph{certifying}: the action survives removing any subset $D$ of the other detections, with or without one inserted object $Y$ outside the field,
+\begin{equation}
+\policy\big((S\setminus D)\cup Y\big)=\policy(S)
+\quad
+\forall\, D\subseteq S\setminus\Sup(S),\ Y\in\mathcal{Y}(S),
+\label{eq:support}
+\end{equation}
+where $\mathcal{Y}(S)$ contains $\emptyset$ and each singleton of an object whose state lies outside $\field(S)$.
+The insertion is needed because a removal can make an unseen object relevant: once a spurious obstacle near an alternative trajectory is removed, an unseen obstacle on the current trajectory can make the alternative the better choice.
+Second, the field probes unseen objects one at a time, which suffices only if individually irrelevant objects cannot change the action together; additive demands violate this (\supp{sec:constructions}).
+A planner is \emph{insertion-stable} if
+$\policy(S\cup X)=\policy(S)$
+for every finite object set $X$ with states outside $\field(S)$.
+Certification handles removals, and insertion stability handles joint insertions; neither holds for every planner.
+
+\begin{theorem}[Decision exactness]
+Let \Cref{alg:loop} stop with region $R$ and merged scene $\merged$.
+It returns $\policy(\full)$ if (i)~$\policy$ is insertion-stable; (ii)~$\Sup$ is certifying; (iii)~\emph{locality}: $V(R)=\full|_R$, with identical boxes and states; and (iv)~\emph{coverage}: every object of $\full$ with state in $\field(\merged)$ has its box center in $R$.\label{thm:exact}
+\end{theorem}
+
+\noindent\emph{Proof sketch.}
+We transform $\merged$ into $\full$, keeping the action.
+By locality, $\merged=(\draft\setminus\draft|_R)\cup\full|_R$, and the support lies in $\full|_R$ since $R$ contains its crops.
+The unverified draft objects $D=\draft\setminus\draft|_R$ lie outside the support, and, by coverage, the states of the unverified reference objects $\bar\full=\full\setminus\full|_R$ lie outside $\field(\merged)$.
+Certification removes $D$, alone or with any single $o\in\bar\full$ inserted: $\policy(\full|_R)=\policy(\merged)=\policy(\full|_R\cup\{o\})$.
+Each object of $\bar\full$ is thus individually irrelevant at $\full|_R$, and insertion stability, applied there, adds them all: $\policy(\full)=\policy(\full|_R)$ (\supp{sec:proof_thm}).
+\hfill$\square$
+
+Conditions (i)--(ii) concern the planner; (iii)--(iv) concern verification, hold only approximately on real images, and are not checked at run time: the footprint is the means of reaching coverage, not a proof of it.
+Each mechanism is needed: dropping the field, the support, its certification (pivots only), or the iteration admits counterexamples (\supp{sec:constructions}), and \Cref{tab:ablation} ablates these variants.
+Two planner classes are insertion-stable and admit certifying supports.
+In the first, as in emergency braking, each object imposes a demand and the largest determines the action.
+
+\begin{definition}[Max-composable planner]
+Let actions $a\in\{0,\dots,K\}$ be intensity-ordered, with thresholds $0=\tau_0<\tau_1<\dots<\tau_K<\tau_{K+1}=\infty$.
+$\policy$ is \emph{max-composable} if
+\begin{equation}
+\policy(S) \;=\; q\Big(\max_{o\in S}\, \dem\big(x(o)\big)\Big),\qquad q(u)=\max\{a:\,u\ge\tau_a\},
+\label{eq:maxcomp}
+\end{equation}
+for a per-object demand $\dem\ge 0$, where $\max\emptyset=0$.\label{def:maxcomp}
+\end{definition}
+
+\begin{corollary}[Max-composable planners]
+Such a planner is insertion-stable with $\field(S)=\{x:\dem(x)\ge\tau_{a+1}\}$, where $a=\policy(S)$, and $\Sup(S)=\{o\in S:\dem(x(o))\ge\tau_a\}$ for $a\ge1$ and $\emptyset$ for $a=0$ is certifying.\label{cor:maxcomp}
+\end{corollary}
+
+Insertions can only raise the largest demand, and removals keep the action while the largest remaining demand stays at least $\tau_a$.
+For braking with a static probe, the field is a stopping corridor: the part of the ego corridor within the stopping distance at the next threshold.
+It is empty at \textsc{hard-brake}, and the support is empty at \textsc{keep}.
+Such a corridor could be written by hand; the construction adds that it follows from the planner, and so changes with the action, ego speed, path, and planner, and that it comes with a certifying support and the iteration.
+Probing is the general definition; the closed form implements it where the planner permits.
+
+The second class selects among fixed candidates $c$ (trajectories), each scored by its preference capped by its worst object, \eg, its smallest clearance.
+
+\begin{corollary}[Bottleneck selection]
+Let $\policy(S)$ select, from a fixed ordered set of candidates $c$, the first maximizer of
+\begin{equation*}
+s(c,S)=\min\Big(\beta(c),\,\min_{o\in S}h\big(c,x(o)\big)\Big),\qquad \min\emptyset=+\infty,
+\end{equation*}
+with a preference $\beta$ and a per-object score $h$.
+Then $\policy$ is insertion-stable, and $\Sup(S)=\{o\in S:h(c,x(o))\le s(\policy(S),S)\text{ for some }c\neq\policy(S)\}$ is certifying.\label{cor:bottleneck}
+\end{corollary}
+
+The support holds the objects that keep some competing candidate at or below the selected score, such as an obstacle that blocks only an alternative trajectory.
+Scores compose by the minimum, which gives insertion stability, and the field and the support need the per-candidate scores but no re-planning.
+
+\subsection{Practical considerations}
+\label{sec:practice}
+
+\noindent\textbf{Approximating the reference.}
+Crop detections can differ from whole-frame reference detections in extent and state, so locality holds only approximately; two mechanisms narrow the gap.
+A detection touching an interior crop boundary may cover only part of an object and corrupt its range, so the \emph{truncation guard} re-detects it in an enlarged guard crop and keeps only the matching detection, whose center can lie outside $R$; guard crops count as pixels, not as verified region.
+Comparing detections across resolutions can mimic an approaching object, so \emph{same-scale history} tracks objects through merged scenes and, given enough same-scale observations, estimates their closing rate with a learned \emph{looming estimate}.
+Coverage is also approximate: besides the finite grid, a requested crop counts as verified once $95\%$ of it lies in one earlier crop.
+
+\noindent\textbf{Lift.}
+The lift estimates states by monocular geometry and the looming estimate and, once the loop has stopped, corrects the estimated distances of the verified support objects with a learned \emph{range refiner} (\supp{sec:supp_config}).
+The reference uses the same lift on the whole frame.
+\Cref{thm:exact} covers the loop; the final refinement acts on the support of each scene and is covered only empirically.
+
+\noindent\textbf{General planners.}
+Without closed-form fields or per-candidate scores, probe queries to the planner can approximate the field and removal queries a candidate support.
+Such a support consists of pivots, which need not be certifying, so \Cref{thm:exact} does not directly apply; the method stays applicable at the cost of planner calls.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% 4. EXPERIMENTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Experiments}
+\label{sec:exp}
+
+\subsection{Experimental setup}
+\label{sec:setup}
+
+\noindent\textbf{Planner and metrics.}
+The planner is the braking controller of~\cite{deep}, which is max-composable: the largest deceleration demanded by an object in the ego corridor selects \textsc{keep}, \textsc{decelerate} ($\ge1.0$\,m/s$^2$), or \textsc{hard-brake} ($\ge3.5$\,m/s$^2$).
+\emph{Decision fidelity} is the agreement of the action with $\policy(\full)$, and the \emph{repair rate} is this agreement on the frames where low-resolution inference differs from $\policy(\full)$.
+Since $\policy(\full)$ can differ from the action that the annotated scene requires, \emph{decision quality} instead scores actions by the decision value of~\cite{deep}: with $L(a;s)$ the loss of action $a$ in the annotated scene $s$ (penalizing insufficient and excessive braking, command changes, and collisions; \supp{sec:supp_metric}) and $a_i^X$ the action on the scene of pipeline $X$ in frame $i$,
+\begin{equation}
+\G(X) \;=\; \frac{\sum_i \big[\,L(a_i^{\mathrm{u320}};s_i) - L(a_i^{X};s_i)\,\big]}{\sum_i L(a_i^{\mathrm{u320}};s_i)} ,
+\label{eq:G}
+\end{equation}
+\ie, the fraction of the decision loss of low-resolution inference (u320) that $X$ removes ($\G<0$: degradation).
+As $\G$ fixes the relative cost of the two braking errors, we also count \emph{missed} episodes, maximal runs of frames that require braking in which a pipeline never brakes, and \emph{false} braking episodes per $1{,}000$ frames.
+Cost is measured in \emph{detector-input pixels} (``pixels''), a proxy for detector computation: all pixels fed to a detector in a frame, draft and truncation guard included, in \% of the native frame; latency and energy are measured separately.
+
+\noindent\textbf{Datasets and protocol.}
+We use the front cameras of nuScenes~\cite{nuscenes} ($228$ held-out scenes of its trainval set, not the official test split), Argoverse~2~\cite{av2} (val, $150$ logs; the ego hood is masked for every pipeline, \supp{sec:supp_hood}), and Argoverse-HD~\cite{streaming} (val, $24$ sequences).
+One configuration is selected on development data of nuScenes and Argoverse~2, frozen, and applied to Argoverse-HD without tuning (\supp{sec:supp_config}).
+We report $95\%$ paired bootstrap intervals ($2{,}000$ resamples over scenes, logs, or sequences), not adjusted for multiple comparisons unless stated; non-significance does not establish equivalence.
+
+\noindent\textbf{Implementation.}
+The cheap and reference detectors are the same COCO-pretrained~\cite{coco} YOLOv8s~\cite{yolov8}, applied to the frame at a long side of $320$ pixels and to crops at the scale of the frame resized to a long side of $960$ pixels, the verification resolution.
+The lift of \Cref{sec:practice} (the monocular geometry of~\cite{deep}, the learned looming estimate, and the range refiner) is shared: every pipeline that runs the reference detector applies it to its own scene, and only \method uses the field.
+The reference $\full$ is thus whole-frame inference at the verification resolution (u960) with this lift; native-resolution inference is a separate baseline.
+The field uses a static probe on a ground grid, and the loop is capped at three rounds; more than $99.9\%$ of the frames converge within the cap (\supp{sec:termination}).
+
+\noindent\textbf{Baselines.}
+We compare whole-frame inference at a long side of $N$ pixels (u$N$), frame-level, region-level, and object-level methods, and an ablation that pairs the support of \method with a fixed ego-corridor tube (\emph{support + fixed tube}).
+All use the same detector and lift and are tuned on development data; crop heuristics and per-frame pixel caps are in \supp{sec:supp_baselines,sec:supp_heuristics}.
+
+% --- Table: fidelity with the full lift in every row and in F (review/cvpr_final_2026-11-10/fid_v3a/k39_6_fidelity.csv, k39_6_diffs.csv:
+%     k39_6_fidelity.py with |none -> |v3a on the stored actions; last row: handoff/K28 phase3/attribution_v6.csv, without refiner) ---
+\begin{table}[t]
+\centering
+\caption{\textbf{Decision fidelity.} Agr.: frames with the action $\policy(\full)$ (\%); Rep.: the same on the frames where u320 differs from $\policy(\full)$; px: pixels (\% of the native frame). All rows and $\full$ use the same lift. $^{\dagger}$ / $^{\ast}$: \method significantly higher / lower. $^{\ddagger}$: uses the support of \method. $^{\S}$: reference detections in the crops and finer probes, without the range refiner (\method then: $97.6$, $96.8$, $94.0$).}
+\label{tab:fid}
+\scriptsize
+\setlength{\tabcolsep}{1.3pt}
+\begin{tabular}{@{}lccccccccc@{}}
+\toprule
+ & \multicolumn{3}{c}{nuScenes} & \multicolumn{3}{c}{Argoverse 2} & \multicolumn{3}{c}{Argoverse-HD} \\
+\cmidrule(lr){2-4}\cmidrule(lr){5-7}\cmidrule(l){8-10}
+Pipeline & Agr. & Rep. & px & Agr. & Rep. & px & Agr. & Rep. & px \\
+\midrule
+u320 & 92.7$^{\dagger}$ & 0$^{\dagger}$ & 4.3 & 81.0$^{\dagger}$ & 0$^{\dagger}$ & 2.6 & 73.3$^{\dagger}$ & 0$^{\dagger}$ & 3.1 \\
+u512 & 97.8 & 80.0 & 10.2 & 96.3$^{\dagger}$ & 87.5 & 6.7 & 95.0 & 86.8 & 7.1 \\
+u1280 & 98.4$^{\ast}$ & 88.7$^{\ast}$ & 65.4 & 97.6$^{\ast}$ & 93.1$^{\ast}$ & 40.0 & 96.5 & 93.0$^{\ast}$ & 44.4 \\
+\midrule
+Support only & 97.2$^{\dagger}$ & 68.1$^{\dagger}$ & 5.0 & 95.8$^{\dagger}$ & 82.8$^{\dagger}$ & 4.1 & 90.5$^{\dagger}$ & 69.1$^{\dagger}$ & 5.6 \\
+Field only & 94.3$^{\dagger}$ & 24.4$^{\dagger}$ & 6.8 & 83.9$^{\dagger}$ & 17.3$^{\dagger}$ & 3.7 & 78.0$^{\dagger}$ & 19.2$^{\dagger}$ & 4.3 \\
+Sup.\ + fixed tube$^{\ddagger}$ & 97.8 & 77.3 & 10.8 & 96.9 & 89.1 & 7.1 & 94.2 & 83.8 & 10.8 \\
+\ \ strict pixel cap & 97.3$^{\dagger}$ & 73.6$^{\dagger}$ & 7.5 & 96.3$^{\dagger}$ & 87.2$^{\dagger}$ & 5.1 & 91.8$^{\dagger}$ & 77.4$^{\dagger}$ & 6.8 \\
+\oursrow \textbf{\method} & 98.0 & 78.8 & 7.8 & 96.9 & 89.2 & 5.4 & 94.2 & 83.5 & 7.0 \\
+\midrule
+Oracle diagnostic$^{\S}$ & 99.5 & \na & \na & 99.6 & \na & \na & 97.1 & \na & \na \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% --- Table 1 (G, px: handoff/K33/table1_v7.csv, K28 phase2 table_main_*_v6.csv; u512: supp tab:uniform; support + fixed tube: supp tab:heuristics;
+%     Miss., False: handoff/K31/ep_summary.csv; significance of u512 and of the row without refiner: review/cvpr_final_2026-11-10/CHANGELOG.md) ---
+\begin{table*}[t]
+\centering
+\caption{\textbf{Decision quality and pixel cost} with an identical detector and lift. px: detector-input pixels in \% of the native frame (padded inputs: native $>100\%$); $\G$: decision value; Miss.: share of required braking episodes that are missed; False: false braking episodes per $1{,}000$ frames; u960 is the reference $\full$; further rows in \supp{sec:supp_allcomp}.
+$^{\dagger}$ / $^{\ast}$: $\G$ of \method significantly higher / lower ($95\%$ paired interval); $^{\ddagger}$: selects regions with the support of \method.}
+\label{tab:main}
+\footnotesize
+\setlength{\tabcolsep}{3.3pt}
+\begin{tabular}{@{}lcgcccgcccgcc@{}}
+\toprule
+ & \multicolumn{4}{c}{nuScenes held-out} & \multicolumn{4}{c}{Argoverse~2 val} & \multicolumn{4}{c}{Argoverse-HD val} \\
+\cmidrule(lr){2-5}\cmidrule(lr){6-9}\cmidrule(l){10-13}
+Method & px & $\G\uparrow$ & Miss. & False & px & $\G\uparrow$ & Miss. & False & px & $\G\uparrow$ & Miss. & False \\
+\midrule
+Whole frame, u320 & 4.3 & 0 & 0.35 & 22.9 & 2.6 & 0 & 0.11 & 34.8 & 3.1 & 0 & 0.17 & 25.1 \\
+Whole frame, u512 & 10.2 & 0.124 & 0.36 & 7.0 & 6.7 & 0.285 & 0.15 & 9.0 & 7.1 & 0.263$^{\dagger}$ & 0.41 & 5.6 \\
+Whole frame, u960 ($\full$) & 38.4 & 0.112 & 0.35 & 6.4 & 23.2 & 0.338 & 0.16 & 7.9 & 25.3 & 0.297$^{\dagger}$ & 0.37 & 5.5 \\
+Whole frame, u1280 & 65.4 & 0.292 & 0.33 & 6.4 & 40.0 & 0.348$^{\ast}$ & 0.15 & 7.8 & 44.4 & 0.315$^{\dagger}$ & 0.34 & 6.3 \\
+Whole frame, native & 103.1 & 0.222 & 0.36 & 4.9 & 101.2 & 0.294 & 0.15 & 8.6 & 101.3 & 0.430 & 0.38 & 7.0 \\
+\midrule
+AdaScale~\cite{adascale} & 30.6 & 0.144 & 0.35 & 6.4 & 26.8 & 0.341 & 0.17 & 8.1 & 29.9 & 0.298$^{\dagger}$ & 0.34 & 6.2 \\
+Budget-Adaptive Routing~\cite{bgtada} & 36.6 & 0.169 & 0.36 & 13.7 & 21.4 & 0.155$^{\dagger}$ & 0.12 & 26.1 & 23.1 & 0.207$^{\dagger}$ & 0.30 & 15.3 \\
+Router, decision-value targets & 36.4 & 0.214 & 0.31 & 14.1 & 21.5 & 0.189$^{\dagger}$ & 0.14 & 26.8 & 4.9 & 0.011$^{\dagger}$ & 0.17 & 25.2 \\
+Chanakya-style policy~\cite{chanakya} & 7.9 & 0.127 & 0.40 & 13.4 & 5.3 & 0.286 & 0.14 & 27.5 & 7.5 & 0.297$^{\dagger}$ & 0.35 & 17.9 \\
+SAHI~\cite{sahi} & 187.7 & 0.303 & 0.33 & 11.9 & 165.2 & 0.256 & 0.13 & 16.2 & 153.8 & 0.229$^{\dagger}$ & 0.30 & 11.2 \\
+FOVEA~\cite{fovea} & 69.7 & 0.150 & 0.34 & 6.6 & 42.6 & 0.319 & 0.14 & 9.8 & 47.6 & 0.313$^{\dagger}$ & 0.34 & 6.9 \\
+UFP foreground packing~\cite{ufpmp} & 18.1 & $-$0.058 & 0.40 & 5.8 & 9.0 & 0.322 & 0.15 & 8.9 & 12.8 & 0.282$^{\dagger}$ & 0.32 & 6.3 \\
+Counterfactual importance~\cite{cfimportance} & 5.5 & $-$0.093$^{\dagger}$ & 0.49 & 4.0 & 4.6 & 0.256 & 0.21 & 6.2 & 6.4 & 0.285$^{\dagger}$ & 0.46 & 6.1 \\
+\midrule
+\multicolumn{13}{@{}l}{\emph{Ablations that select regions with the support of \method}} \\
+AnA-style refinement~\cite{ana}$^{\ddagger}$ & 10.5 & 0.158 & 0.39 & 4.9 & 7.9 & 0.349$^{\ast}$ & 0.16 & 7.0 & 20.6 & 0.315$^{\dagger}$ & 0.35 & 5.9 \\
+Support + fixed tube$^{\ddagger}$ & 10.8 & 0.174 & 0.39 & 4.2 & 7.1 & 0.296 & 0.18 & 6.1 & 10.8 & 0.408 & 0.38 & 6.7 \\
+\midrule
+\method w/o range refiner & 7.8 & 0.181 & 0.39 & 6.8 & 5.4 & 0.241$^{\dagger}$ & 0.14 & 11.5 & 7.0 & 0.422 & 0.21 & 6.7 \\
+\oursrow \textbf{\method (ours)} & 7.8 & 0.211 & 0.41 & 4.0 & 5.4 & 0.294 & 0.19 & 6.5 & 7.0 & 0.418 & 0.38 & 6.3 \\
+\bottomrule
+\end{tabular}
+\end{table*}
+
+\subsection{Decision fidelity}
+\label{sec:exp_exact}
+
+\method agrees with $\policy(\full)$ on $94$--$98\%$ of the frames, against $73$--$93\%$ for u320, with $20$--$28\%$ of the pixels of the reference (\Cref{tab:fid}).
+\method repairs $79$--$89\%$ of the disagreements of u320, significantly more than the compared methods under a per-frame cap at its pixels in $27$ of $36$ comparisons and less in none (\supp{sec:theory_practice}).
+A lower whole-frame resolution, however, is as faithful at similar pixels: u512 repairs $80$--$88\%$, and \method agrees significantly more often only on Argoverse~2; the two differ in decision value (\Cref{sec:exp_main}).
+
+Two conditions of \Cref{thm:exact}, locality and coverage, hold only approximately on real images.
+In a diagnostic without the range refiner, substituting the reference's detections and looming estimates in the crops and refining the probe grid raise the agreement to $99.5\%$, $99.6\%$, and $97.1\%$, and the verified and guard crops contain the box center of the decisive object, the annotated object with the largest demand, on $92$--$96\%$ of the frames that require braking, and on $90$--$92\%$ without the guard crops (\supp{sec:supp_coverage}).
+Of the $60$ costliest frames in which \method brakes less than required, $46$ have a detected decisive object with a misestimated state, $11$ a missed object inside a crop, and $3$ an object outside every crop: the residual errors stem from the lift rather than from the selection of regions.
+
+Where \method departs from $\policy(\full)$, the annotated scene requires its action in $55$--$81\%$ of the frames and that of $\policy(\full)$ in $15$--$38\%$, so its $\G$ can exceed that of $\full$; the theory does not predict this gain, which comes from fewer excessive braking actions where crops yield another scene.
+
+\subsection{Decision quality versus pixel cost}
+\label{sec:exp_main}
+\label{sec:exp_adaptive}
+
+% --- Fig.: operating curves (top row of supp fig:operating; handoff/K34 operating_points.csv) ---
+\begin{figure}[t]
+\centering
+\begin{tikzpicture}
+\begin{groupplot}[group style={group size=3 by 1, horizontal sep=4pt, yticklabels at=edge left},
+  width=0.45\linewidth, height=0.42\linewidth, scale only axis=false,
+  xmode=log, xmin=3, xmax=42, xtick={5,10,20,40}, xticklabels={5,10,20,40}, ymin=0, ymax=0.66,
+  ytick={0,0.2,0.4,0.6}, yticklabel style={/pgf/number format/fixed, /pgf/number format/precision=1},
+  tick label style={font=\scriptsize}, label style={font=\footnotesize}, title style={font=\footnotesize, yshift=-5pt},
+  grid=major, grid style={gray!20}]
+\nextgroupplot[title={nuScenes}, ylabel={missed episodes}]
+\addplot[black!55, thick, mark=x, mark size=2pt] coordinates {(25.92,0.238) (26.14,0.279) (22.87,0.347) (21.13,0.429) (19.71,0.476)};
+\label{oc:cheap}
+\addplot[adac, thick, mark=*, mark size=1.2pt] coordinates {(16.12,0.197) (10.02,0.245) (6.43,0.347) (5.99,0.469) (5.34,0.565)};
+\label{oc:wf}
+\addplot[violet!80!black, thick, mark=pentagon*, mark size=1.4pt] coordinates {(11.65,0.245) (7.30,0.306) (4.25,0.395) (4.57,0.531) (4.03,0.605)};
+\label{oc:hyb}
+\addplot[oursc, very thick, mark=star, mark size=2.4pt] coordinates {(11.98,0.245) (6.97,0.320) (4.03,0.408) (4.25,0.558) (3.81,0.633)};
+\label{oc:ours}
+\addplot[black, only marks, mark=o, mark size=2.6pt, thick] coordinates {(22.87,0.347) (6.43,0.347) (4.25,0.395) (4.03,0.408)};
+\label{oc:dep}
+\addplot[black, only marks, mark=square, mark size=2.6pt, thick] coordinates {(10.02,0.245) (7.30,0.306) (6.97,0.320)};
+\label{oc:dev}
+\nextgroupplot[title={Argoverse~2}]
+\addplot[black!55, thick, mark=x, mark size=2pt] coordinates {(32.41,0.084) (33.25,0.100) (34.78,0.111) (33.85,0.142) (33.42,0.179)};
+\addplot[adac, thick, mark=*, mark size=1.2pt] coordinates {(12.69,0.068) (9.65,0.105) (7.87,0.163) (6.94,0.242) (6.26,0.337)};
+\addplot[violet!80!black, thick, mark=pentagon*, mark size=1.4pt] coordinates {(10.49,0.095) (8.38,0.137) (6.09,0.184) (5.75,0.279) (5.50,0.368)};
+\addplot[oursc, very thick, mark=star, mark size=2.4pt] coordinates {(10.58,0.100) (8.55,0.142) (6.52,0.189) (6.01,0.263) (5.84,0.389)};
+\addplot[black, only marks, mark=o, mark size=2.6pt, thick] coordinates {(34.78,0.111) (7.87,0.163) (6.09,0.184) (6.52,0.189)};
+\addplot[black, only marks, mark=square, mark size=2.6pt, thick] coordinates {(12.69,0.068) (10.49,0.095) (10.58,0.100)};
+\nextgroupplot[title={Argoverse-HD}]
+\addplot[black!55, thick, mark=x, mark size=2pt] coordinates {(18.79,0.155) (21.99,0.155) (25.12,0.169) (27.79,0.183) (29.85,0.211)};
+\addplot[adac, thick, mark=*, mark size=1.2pt] coordinates {(6.73,0.127) (5.53,0.155) (5.46,0.366) (5.53,0.479) (5.20,0.549)};
+\addplot[violet!80!black, thick, mark=pentagon*, mark size=1.4pt] coordinates {(7.26,0.127) (7.00,0.197) (6.40,0.394) (6.33,0.465) (5.66,0.521)};
+\addplot[oursc, very thick, mark=star, mark size=2.4pt] coordinates {(7.06,0.127) (6.20,0.197) (6.26,0.380) (5.66,0.451) (5.13,0.535)};
+\addplot[black, only marks, mark=o, mark size=2.6pt, thick] coordinates {(25.12,0.169) (5.46,0.366) (6.40,0.394) (6.26,0.380)};
+\addplot[black, only marks, mark=square, mark size=2.6pt, thick] coordinates {(6.73,0.127) (7.26,0.127) (7.06,0.127)};
+\end{groupplot}
+\node[font=\footnotesize, anchor=north] at ($(group c2r1.south)+(0,-0.42)$) {false braking episodes per $1{,}000$ frames};
+\end{tikzpicture}\\[1pt]
+{\footnotesize\setlength{\tabcolsep}{4pt}\begin{tabular}{@{}lll@{}}\ref{oc:ours}~\method & \ref{oc:wf}~u960 ($\full$) & \ref{oc:hyb}~support + fixed tube \\ \ref{oc:cheap}~u320 & \ref{oc:dep}~deployed ($1.0$) & \ref{oc:dev}~chosen on dev.\end{tabular}}
+\caption{\textbf{Operating points.} Missed required braking episodes \vs false braking episodes as the \textsc{decelerate} threshold of the planner varies over $\{0.6,0.8,1.0,1.2,1.5\}$\,m/s$^2$ (lower left is better; values in \supp{sec:supp_operating}).}
+\label{fig:oc}
+\end{figure}
+
+\noindent\textbf{Decision value.}
+With $5$--$8\%$ of the native pixels, no compared method attains a significantly higher $\G$ than \method on nuScenes or Argoverse-HD, and on Argoverse~2 only u1280 and iterated AnA-style refinement do, with $7.4\times$ and $1.5\times$ its pixels (\Cref{tab:main}).
+At similar pixels, u512 attains $0.124$, $0.285$, and $0.263$ against $0.211$, $0.294$, and $0.418$, a significant difference only on Argoverse-HD; among the tested resolutions, whole-frame inference needs $1.9$--$14.5\times$ the pixels of \method to exceed its point estimate.
+Under a per-frame cap at the pixels of \method, it is significantly better than the published, learned, and object-level methods in $29$ of $36$ comparisons and worse in none (\supp{sec:supp_allcomp,sec:supp_heuristics}).
+On $65$ previously unused Argoverse-HD training sequences, under protocols fixed in advance, no baseline is significantly better, although they use $1.6$--$13\times$ its pixels (\supp{sec:supp_holdout}).
+
+\noindent\textbf{Operating points.}
+At the deployed threshold, \method brakes falsely $4.0$--$6.5$ times per $1{,}000$ frames, against $22.9$--$34.8$ for u320, but misses $0.41$, $0.19$, and $0.38$ of the required episodes, against $0.35$, $0.11$, and $0.17$ (\Cref{tab:main}).
+Most compared methods miss fewer episodes than \method on nuScenes and Argoverse~2 (significantly so for u1280, native, SAHI, and FOVEA on both) and brake falsely more often; on Argoverse-HD, the reference misses as many ($0.37$).
+Much of the increase over u320 comes from the range refiner of the shared lift, without which \method misses $0.39$, $0.14$, and $0.21$, not significantly more than u320 (\supp{sec:supp_episodes}).
+\Cref{fig:oc} therefore sweeps the threshold: at the one that a rule fixed in advance selects on development data, \method misses $47$ \vs $51$ of $147$, $19$ \vs $21$ of $190$, and $9$ \vs $12$ of $71$ episodes relative to u320 ($20$ \vs $18$ of $154$ on the held-out sequences), with $7.0$--$10.6$ instead of $22.9$--$34.8$ false episodes.
+At its own selected threshold, the reference misses fewer episodes on nuScenes and Argoverse~2 ($36$ and $13$) with $4$--$5\times$ the pixels.
+The gain of \method is thus mostly fewer false braking episodes, and its $\G$ shrinks when insufficient braking weighs more: at ten times its weight, $\G$ is $0.12$, $-0.04$, and $0.18$ (\supp{sec:supp_safety}).
+
+With YOLO11s~\cite{yolo11} as both detectors, \method is significantly better than whole-frame inference up to u1280 only on Argoverse-HD; u1280 on nuScenes and u640 and u960 on Argoverse~2 are significantly better than \method (\supp{sec:supp_detectors}).
+
+% --- Fig.: field and support on real frames (handoff/K35/K35-6: frames chosen by its fixed rule; panels = k28_render.py
+%     vector overlays re-drawn with print line widths by figures/qual/render_panels.py; actions from K28 p3 examples.csv) ---
+\begin{figure*}[t]
+\centering
+\newcommand{\qimg}[3]{\begin{tikzpicture}\node[inner sep=0pt] (q) {\includegraphics[width=0.24\textwidth]{#1}};%
+\if\relax\detokenize{#2}\relax\else\node[anchor=north west, fill=white, fill opacity=0.85, text opacity=1, inner sep=1.4pt, font=\scriptsize, text=#3] at (q.north west) {#2};\fi\end{tikzpicture}}
+\newcommand{\qbev}[1]{\includegraphics[height=0.12\textwidth]{#1}}
+\setlength{\tabcolsep}{1.2pt}
+\renewcommand{\arraystretch}{0.6}
+\begin{tabular}{@{}ccccc@{}}
+& {\footnotesize draft} & {\footnotesize field, support} & {\footnotesize verified crops} & {\footnotesize result} \\
+\rotatebox{90}{\parbox{0.12\textwidth}{\centering\footnotesize (a) unseen-object\\recovery}} &
+\qimg{figs/q_n0273_a.jpg}{cheap: \textsc{keep}}{red!70!black} &
+\qbev{figs/q_n0273_bev.pdf} &
+\qimg{figs/q_n0273_c.jpg}{}{black} &
+\qimg{figs/q_n0273_d.jpg}{\method: \textsc{decelerate} (required)}{green!40!black} \\[2pt]
+\rotatebox{90}{\parbox{0.12\textwidth}{\centering\footnotesize (b) support\\verification}} &
+\qimg{figs/q_n0122_a.jpg}{cheap: \textsc{decelerate}}{red!70!black} &
+\qbev{figs/q_n0122_bev.pdf} &
+\qimg{figs/q_n0122_c.jpg}{}{black} &
+\qimg{figs/q_n0122_d.jpg}{\method: \textsc{keep} (required)}{green!40!black} \\
+\end{tabular}
+\caption{\textbf{Complementary roles of the field and the support} on two held-out nuScenes frames chosen by a fixed rule (\supp{sec:supp_qualitative}). Blue: draft detections (dashed if replaced) and support crop; orange: field and its image footprint; grey: guard crops; red: verified detections; green: annotation; dashed red: decision-relevant object missed by the draft, shown for evaluation only. (a)~The field footprint covers the missed vehicle: \textsc{keep} becomes the required \textsc{decelerate}. (b)~Verifying the support restores the required \textsc{keep}.}
+\label{fig:qual}
+\end{figure*}
+
+\subsection{What the field contributes}
+\label{sec:exp_ablation}
+
+% --- Table: component ablation (handoff/K28 phase3/ablation_v6.csv, with refiner) ---
+\begin{table}[t]
+\centering
+\caption{\textbf{Ablation} (decision value $\G$). $^{\dagger}$: significantly worse than the full procedure; further ablations in \supp{tab:ablation_impl}.}
+\label{tab:ablation}
+\footnotesize
+\setlength{\tabcolsep}{3.6pt}
+\begin{tabular}{@{}lccc@{}}
+\toprule
+Variant & nuScenes & Argoverse 2 & Argoverse-HD \\
+\midrule
+\oursrow \textbf{\method (full)} & \textbf{0.211} & \textbf{0.294} & \textbf{0.418} \\
+\midrule
+Support only (w/o field) & $-$0.095$^{\dagger}$ & 0.218$^{\dagger}$ & 0.313$^{\dagger}$ \\
+Field only (w/o support) & 0.174 & 0.021$^{\dagger}$ & 0.080$^{\dagger}$ \\
+Pivots instead of support & 0.202 & 0.228$^{\dagger}$ & 0.384$^{\dagger}$ \\
+W/o range refiner & 0.181 & 0.241$^{\dagger}$ & 0.422 \\
+Single round & 0.095 & 0.289 & 0.421 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% --- Table: recovery of missed objects (handoff/K28 phase3/missed_controlled_v6.csv, K33/missed_deletion.csv) ---
+\begin{table}[t]
+\centering
+\caption{\textbf{Recovery of decision-relevant objects} missed by the draft (natural) or deleted from it. $^{\ast}$: best of one pass and iterated.}
+\label{tab:field}
+\footnotesize
+\setlength{\tabcolsep}{3.4pt}
+\begin{tabular}{@{}lccc@{}}
+\toprule
+Natural / after deletion\,$\uparrow$ & nuScenes & Argoverse 2 & Argov.-HD \\
+\midrule
+Support only & 0.20\,/\,0.15 & 0.38\,/\,0.19 & 0.20\,/\,0.24 \\
+Counterfactual importance$^{\ast}$ & 0.21\,/\,0.20 & 0.43\,/\,0.25 & 0.21\,/\,0.27 \\
+AnA-style refinement$^{\ast}$ & \best{0.72}\,/\,0.45 & 0.81\,/\,0.56 & 0.87\,/\,0.57 \\
+Uncertainty crops & 0.26\,/\,0.40 & 0.51\,/\,0.57 & 0.47\,/\,0.64 \\
+\oursrow \textbf{\method} & 0.61\,/\,\best{0.85} & \best{0.85}\,/\,\best{0.88} & \best{0.87}\,/\,\best{0.85} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% --- Table: one procedure, several planners (supp tab:heuristics, tab:strictcap, tab:speedtube, tab:speed, tab:curved, tab:consumer2, tab:navsim_k41, tab:navsim) ---
+\begin{table}[t]
+\centering
+\caption{\textbf{One procedure, several planners.} \method minus a hand-written region (its support + a tube): $\Delta\G$ on nuScenes\,/\,Argoverse~2\,/\,Argoverse-HD. CF: closed-form field; G: planner within the guarantee. $^{\dagger}$ / $^{\ast}$: interval above / below zero (\supp{sec:supp_tube,sec:supp_navsim_k41}).}
+\label{tab:planners}
+\footnotesize
+\setlength{\tabcolsep}{2.2pt}
+\begin{tabular}{@{}lccl@{}}
+\toprule
+Planner; comparison & CF & G & \method minus comparison \\
+\midrule
+Braking; tube, nominal cap & \checkmark & \checkmark & $+$0.037\,/\,$-$0.002\,/\,$+$0.009 \\
+Braking; tube, strict cap & \checkmark & \checkmark & $+$0.032$^{\dagger}$\,/\,$+$0.019$^{\dagger}$\,/\,$+$0.026$^{\dagger}$ \\
+Braking; action-indep.\ tube & \checkmark & \checkmark & $+$0.057$^{\dagger}$\,/\,$+$0.009\,/\,$+$0.007$^{\dagger}$ \\
+\ \ same, strict cap & \checkmark & \checkmark & $+$0.063$^{\dagger}$\,/\,$+$0.046$^{\dagger}$\,/\,$-$0.011 \\
+Braking at $1.5\times$ ego speed & \checkmark & \checkmark & $+$0.043$^{\dagger}$ (nuScenes) \\
+Curved corridor; straight tube & \checkmark & \checkmark & $+$0.053\,/\,$+$0.015\,/\,$+$0.042$^{\dagger}$ \\
+Time-to-collision warning & \checkmark & \checkmark & $+$0.034$^{\dagger}$\,/\,$+$0.024$^{\dagger}$\,/\,$+$0.026$^{\dagger}$ \\
+\midrule
+Bottleneck selector (NAVSIM) & \checkmark & \checkmark & agr.\ $96.8$ \vs $97.3\%^{\ast}$ \\
+PDM-Closed (NAVSIM) & probed & \na & PDMS $0.865$ \vs $0.865$ \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\noindent\textbf{Field and support are both needed.}
+Removing the field lowers $\G$ significantly on all three datasets, and removing the support or replacing it with removal pivots does so on Argoverse~2 and Argoverse-HD (\Cref{tab:ablation}).
+In fidelity, the repair rate falls from $79$--$89\%$ to $68$--$83\%$ without the field and to $17$--$24\%$ without the support (\Cref{tab:fid}).
+No other tested probe size, closing speed, or grid spacing improves on the deployed field on all three datasets (\supp{sec:supp_grid}).
+
+\noindent\textbf{Verifying the field's footprint recovers unseen objects} (\Cref{fig:qual}).
+When braking is required but no draft object supports it ($3.0$--$5.7\%$ of the frames), \method attains $\G=0.29$--$0.68$, whereas the support alone attains $0$ and uncertainty crops at most $0.17$.
+After the draft detections of all decision-relevant objects (annotated objects that alone require braking) are deleted, \method recovers $85$--$88\%$ of them, far more than AnA-style refinement and uncertainty crops (\Cref{tab:field}).
+Of natural misses, AnA-style refinement recovers more on nuScenes (\supp{sec:supp_missed}).
+
+\noindent\textbf{The field follows the planner.}
+For the deployed braking controller it is a stopping corridor, and a hand-written tube comes close: support + fixed tube ties \method with $1.3$--$1.5\times$ its pixels and is significantly worse only under a strict cap (\Cref{tab:planners}).
+The field differs where the planner does: it stays ahead of a tube that ignores the action on nuScenes, at $1.5\times$ the ego speed, on the curved paths of Argoverse-HD, and with a time-to-collision warning as the planner, without any change of the procedure.
+The guarantee also covers a bottleneck selector over $15$ fixed trajectories on NAVSIM navtest~\cite{navsim} (\Cref{cor:bottleneck}): \method agrees with $\policy(\full)$ on $96.8\%$ of the $12{,}146$ scenes and on $99.7\%$ with locality enforced, but support + route tube agrees significantly more often ($97.3\%$), and the PDMS does not differ between pipelines.
+For PDM-Closed~\cite{pdm}, outside both classes, the probed field and support need $50$ planner calls per frame and do not change the PDMS (\supp{sec:consumers_outside,sec:supp_planning}).
+
+\subsection{Closed loop}
+\label{sec:exp_planning}
+
+Bench2Drive~\cite{bench2drive} passes annotated states of matched objects to its planner, so we run a controlled closed loop in CARLA~\cite{carla} on its $155$ braking routes: a route follower steers, and the braking controller acts on the estimated scene of each pipeline, without (L0) and with (L1) delays drawn from the Jetson latency of \Cref{tab:eff}.
+The learned parts of the lift are not used in simulation (\supp{tab:aeb}).
+Per route, \method misses $0.29$ and $0.48$ required braking episodes in L0 and L1, significantly fewer than u320 ($0.44$ and $0.64$) and not significantly more than whole-frame inference.
+Per avoidable braking event, however, its miss rate in L1 is significantly higher than that of u960 ($6.8\%$ \vs $4.8\%$), and its braking onset is significantly later, by less than $30$\,ms.
+Avoidable collisions differ significantly only from u320 in L1.
+
+\subsection{Efficiency}
+\label{sec:exp_latency}
+
+% --- Table: latency and energy (supp tab:latency = handoff/K29/latency_fast.csv, one run; energy: K30/J/j2_energy_marginal.csv) ---
+\begin{table}[t]
+\centering
+\caption{\textbf{Latency and incremental energy on a Jetson AGX Xavier} (ms; J per frame above the draft pass); one run, same frames, shared lift.}
+\label{tab:eff}
+\footnotesize
+\setlength{\tabcolsep}{3pt}
+\begin{tabular}{@{}lcccccc@{}}
+\toprule
+& \multicolumn{3}{c}{nuScenes} & \multicolumn{3}{c}{Argoverse 2} \\
+\cmidrule(lr){2-4}\cmidrule(l){5-7}
+Pipeline & Mean & p95 & J & Mean & p95 & J \\
+\midrule
+u320 & 7.5 & 8.2 & \na & 10.4 & 10.9 & \na \\
+u512 & 13.9 & 22.1 & 0.26 & 24.3 & 39.7 & 0.42 \\
+u960 ($\full$) & 22.7 & 30.9 & 0.54 & 34.3 & 49.2 & 0.76 \\
+Native & 37.9 & 45.5 & 1.12 & 75.7 & 88.7 & 2.39 \\
+\midrule
+\oursrow \textbf{\method} & 21.9 & 59.2 & 0.29 & 41.7 & 93.8 & 0.54 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Fewer pixels do not mean less time (\Cref{tab:eff}).
+\method uses $54\%$ and $71\%$ of the incremental energy of the reference and $22$--$26\%$ of that of native-resolution inference, but its mean latency only matches that of the reference on nuScenes and is higher on Argoverse~2, and its $95$th percentile, set by the sequential crop rounds, is about twice as high.
+u512, which has similar pixels and fidelity, is faster and uses less energy on both datasets.
+The saving of \method is thus relative to the reference, in pixels and energy, not in latency.
+A loop bounded to two crop batches and per-frame deadlines are studied in \supp{sec:supp_latency,sec:supp_deadline}.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% 5. DISCUSSION AND CONCLUSION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Conclusion}
+\label{sec:conclusion}
+
+\method allocates high-resolution perception by asking where an unseen object would change the planner's action; it provably preserves the whole-frame action under explicit conditions and reproduces it on $94$--$98\%$ of the frames with $20$--$28\%$ of the detector-input pixels of the reference.
+
+\noindent\textbf{Limitations.}
+Crop detection, temporal estimation, and the finite, static probe grid leave residual disagreements and miss some fast-closing objects; where the reference action changes, the agreement is only $64$--$79\%$, since intermittently verified objects lack looming history, and the COCO detector misses classes such as traffic cones.
+At the deployed threshold, the range refiner raises the share of missed braking episodes by $0.02$--$0.17$, for \method as for whole-frame inference, so that \method misses more required episodes than low-resolution inference; its gain shrinks when insufficient braking weighs more.
+At similar pixels, a lower whole-frame resolution is as faithful, faster, and cheaper in energy, and the sequential crop rounds make \method fragile under tight deadlines.
+General planners need costly queries; our results, with one camera, a 2D detector, and a monocular lift, characterize decision quality and controlled braking, not driving safety.
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% LLM USAGE STATEMENT (mandatory for CVPR 2027: after the main text, before the
+%% references; not counted toward the page limit; must not reveal the authors)
+%% Text provided by the authors on 2026-10-27.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\clearpage
+\section*{LLM Usage Statement}
+This paper was prepared with the assistance of generative AI tools (Claude, Anthropic, through Claude Code; ChatGPT, OpenAI), and we disclose that use here.
+The authors formulated the research questions, the problem formulation, and the mathematical statements and their proofs.
+No data set used in this paper was generated by a generative AI tool.
+
+Generative AI tools assisted the authors in implementing, running and debugging experiment code, including the benchmark pipelines, the evaluation and statistics scripts and the scripts that render the figures, and in specifying experiment protocols under the authors' direction.
+They assisted in drafting and editing the manuscript and in searching for related work; every citation was checked against its original source.
+The authors also used a large language model (ChatGPT) to obtain critical feedback on drafts of this manuscript and decided which of that feedback to act on.
+
+The authors retained responsibility for the research questions, the experimental methodology and the interpretation of the reported results, and are responsible for the final text, claims and artifacts.
+Reported results were checked against the saved experiment outputs.
+Qualitative or thematic data analysis was not applicable to this work.
+
+{
+  \small
+  \bibliographystyle{ieeenat_fullname}
+  \bibliography{main}
+}
+
+\end{document}

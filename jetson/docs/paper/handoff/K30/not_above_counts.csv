@@ -1,0 +1,17 @@
+item,n.s.,row above,v6-S above,comparisons
+V1a,71,3,118,192
+V1b,20,4,0,24
+V1c,10,0,2,12
+V2 strata,85,0,41,126
+V2 tube,2,0,1,3
+V2b,17,0,10,27
+V4 Bench2Drive,77,11,4,92
+V5a,271,9,449,729
+V5a (prior work),18,0,36,54
+V5b,43,1,76,120
+V5b (prior work),5,0,5,10
+V5c,9,1,5,15
+V8c KITTI AP,11,16,0,27
+V8c KITTI cells,16,6,6,28
+V8d,9,0,3,12
+V8e,5,1,0,6

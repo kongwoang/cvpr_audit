@@ -1,0 +1,128 @@
+{
+  "status": "timing_complete",
+  "pid": 345802,
+  "runs": [
+    {
+      "dataset": "nusc_val",
+      "runtime": "original",
+      "rep": 1,
+      "smoke": true,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_144210_temporal_helper_original_timing_nusc_val_v6S_smoke_original"
+    },
+    {
+      "dataset": "nusc_val",
+      "runtime": "fast",
+      "rep": 1,
+      "smoke": true,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_144241_temporal_helper_fast_timing_nusc_val_v6S_smoke_fast"
+    },
+    {
+      "dataset": "av2_dev",
+      "runtime": "original",
+      "rep": 1,
+      "smoke": true,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_144313_temporal_helper_original_timing_av2_dev_v6S_smoke_original"
+    },
+    {
+      "dataset": "av2_dev",
+      "runtime": "fast",
+      "rep": 1,
+      "smoke": true,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_144400_temporal_helper_fast_timing_av2_dev_v6S_smoke_fast"
+    },
+    {
+      "dataset": "nusc_val",
+      "runtime": "original",
+      "rep": 1,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_144448_temporal_helper_original_timing_nusc_val_v6S_r1_original"
+    },
+    {
+      "dataset": "nusc_val",
+      "runtime": "fast",
+      "rep": 1,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_144604_temporal_helper_fast_timing_nusc_val_v6S_r1_fast"
+    },
+    {
+      "dataset": "av2_dev",
+      "runtime": "original",
+      "rep": 1,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_144722_temporal_helper_original_timing_av2_dev_v6S_r1_original"
+    },
+    {
+      "dataset": "av2_dev",
+      "runtime": "fast",
+      "rep": 1,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_144937_temporal_helper_fast_timing_av2_dev_v6S_r1_fast"
+    },
+    {
+      "dataset": "nusc_val",
+      "runtime": "fast",
+      "rep": 2,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_145153_temporal_helper_fast_timing_nusc_val_v6S_r2_fast"
+    },
+    {
+      "dataset": "nusc_val",
+      "runtime": "original",
+      "rep": 2,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_145310_temporal_helper_original_timing_nusc_val_v6S_r2_original"
+    },
+    {
+      "dataset": "av2_dev",
+      "runtime": "fast",
+      "rep": 2,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_145429_temporal_helper_fast_timing_av2_dev_v6S_r2_fast"
+    },
+    {
+      "dataset": "av2_dev",
+      "runtime": "original",
+      "rep": 2,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_145644_temporal_helper_original_timing_av2_dev_v6S_r2_original"
+    },
+    {
+      "dataset": "nusc_val",
+      "runtime": "original",
+      "rep": 3,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_145903_temporal_helper_original_timing_nusc_val_v6S_r3_original"
+    },
+    {
+      "dataset": "nusc_val",
+      "runtime": "fast",
+      "rep": 3,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_150020_temporal_helper_fast_timing_nusc_val_v6S_r3_fast"
+    },
+    {
+      "dataset": "av2_dev",
+      "runtime": "original",
+      "rep": 3,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_150138_temporal_helper_original_timing_av2_dev_v6S_r3_original"
+    },
+    {
+      "dataset": "av2_dev",
+      "runtime": "fast",
+      "rep": 3,
+      "smoke": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261023_150355_temporal_helper_fast_timing_av2_dev_v6S_r3_fast"
+    }
+  ],
+  "started": "2026-10-23T14:41:48.222343+07:00",
+  "updated": "2026-10-23T15:06:08.856424+07:00",
+  "child_pid": 349661,
+  "current_log": "av2_dev_r3_compare.log",
+  "dataset": "av2_dev",
+  "runtime": "fast",
+  "rep": 3,
+  "source_engine_hashes_unchanged": true,
+  "window_released": true,
+  "restore_errors": []
+}

@@ -1,0 +1,1280 @@
+dataset,pipeline,comparator,unit,start_frame,end_frame,peak_demand,missed,baseline_missed
+av2,cheap,v6-S,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,75,77,1.0941956914903224,False,True
+av2,cheap,v6-S,14bf638b-8f0d-35b2-a369-6d846b5b3892,43,45,1.0509656676307555,False,True
+av2,cheap,v6-S,14bf638b-8f0d-35b2-a369-6d846b5b3892,49,51,1.3766532122517596,False,True
+av2,cheap,v6-S,14c8d182-9586-3f21-ad20-c4e19ec03e2c,51,53,2.1658958509528343,False,True
+av2,cheap,v6-S,21f6ebe1-09c9-3a71-bdd9-58f45fbe9000,0,2,1.0817089880010449,False,True
+av2,cheap,v6-S,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,46,49,2.2721818374042377,False,True
+av2,cheap,v6-S,28617035-7557-3cb9-99c2-754f72fd34b4,35,35,1.700617914415978,False,True
+av2,cheap,v6-S,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,7,7,1.0120526848087676,False,True
+av2,cheap,v6-S,3844f8a9-b7d4-4919-8e9b-a0370ad29ec0,19,24,1.4063869895486685,False,True
+av2,cheap,v6-S,3c51357e-f6e9-3cda-9036-fe6e6cd442fe,15,20,2.167991419213259,False,True
+av2,cheap,v6-S,3dd173a6-8b21-3189-bd53-132919b96a48,71,78,1.3704818156300396,True,False
+av2,cheap,v6-S,3fa8c20e-a4b4-3af6-b9c4-6cb96f83916d,39,43,1.4462562591565196,False,True
+av2,cheap,v6-S,40bfcbec-ec59-3731-8e75-67f0bddc3b01,40,40,2.9137158544916004,False,True
+av2,cheap,v6-S,422dd53b-6010-4eb9-8902-de3d134c5a70,78,79,1.3150368729252715,False,True
+av2,cheap,v6-S,444cce44-cc82-4620-b630-1b5849284ac7,32,34,1.707001334656288,False,True
+av2,cheap,v6-S,4d9e3bdf-7216-3161-8281-72863f3c2bf6,27,28,9.0,False,True
+av2,cheap,v6-S,4e1ac476-80a2-3612-bfd7-1abd24d2b644,37,41,1.2583924835664888,False,True
+av2,cheap,v6-S,53a8391f-b2d7-341f-95ce-b9174d48e040,78,78,4.941670410263528,False,True
+av2,cheap,v6-S,61e56102-4d85-3a40-bbba-1a007c816f68,64,65,1.6068692764307595,False,True
+av2,cheap,v6-S,65d3f43d-1969-35d4-bf86-bd5e4b1ac803,75,75,1.1108447510326005,False,True
+av2,cheap,v6-S,6f2f7d1e-8ded-35c5-ba83-3ca906b05127,22,31,1.2333054109889523,False,True
+av2,cheap,v6-S,6fdd8d39-7b04-365a-9941-e9e805b05ecf,9,13,1.85864150578067,False,True
+av2,cheap,v6-S,718a2f8d-954a-3cd8-89e6-43898cf21fee,9,16,1.40327328725463,True,False
+av2,cheap,v6-S,828ddef2-7609-3683-8e32-c21e7c07d6a6,36,52,1.2747915931003435,True,False
+av2,cheap,v6-S,8606d399-57d4-3ae9-938b-db7b8fb7ef8c,25,27,1.435139894328762,False,True
+av2,cheap,v6-S,8f317f00-f8b4-325e-a5c7-e4045427a610,70,70,1.3854907077348175,False,True
+av2,cheap,v6-S,953087a4-f704-37fe-a60f-82877e84a413,10,13,1.2860826212358267,False,True
+av2,cheap,v6-S,a3876690-9d49-3c98-9421-02cfe0ccb551,48,50,1.01688882447941,False,True
+av2,cheap,v6-S,a8a3297d-62f3-31ac-8db7-95ef53ce0d31,40,41,9.0,False,True
+av2,cheap,v6-S,aedbd525-e6df-4c0c-8be6-61c27fe58fd6,78,79,1.1820268543035823,False,True
+av2,cheap,v6-S,af170aac-8465-3d7b-82c5-64147e94af7d,29,36,1.404708249151985,True,False
+av2,cheap,v6-S,b1527e96-5a5d-3adc-a893-314ab3a6012e,15,20,1.737805048462522,False,True
+av2,cheap,v6-S,b56e3f47-72a6-34e8-9ada-b4169e28e5b9,0,6,9.0,False,True
+av2,cheap,v6-S,bb110668-5037-3c04-bd34-34cf1ace8d0f,18,23,1.0679494991363538,True,False
+av2,cheap,v6-S,c85ebc24-0934-3423-9c14-f0fdbee64b68,9,12,1.0543440020079098,False,True
+av2,cheap,v6-S,cd822baf-4aa1-33fa-bfe5-d91386598edb,47,50,1.0393307684605448,True,False
+av2,cheap,v6-S,d2c6775c-e0a0-3460-b1b8-8d0ce2e0ae4e,76,77,2.4310542619300373,False,True
+av2,cheap,v6-S,e331aa95-3660-3c71-be9e-030bab0b8ee2,45,46,2.2775871719965166,False,True
+av2,cheap,v6-S,e66d1403-755b-3f63-938b-a2a69446a48a,23,27,3.696987659257311,False,True
+av2,cheap,v6-S,e7e178aa-931a-4674-9bff-9278a54e6aae,24,27,1.7387840520812174,False,True
+av2,cheap,v6-S,e7e178aa-931a-4674-9bff-9278a54e6aae,35,48,1.8982014347103144,True,False
+av2,cheap,v6-S,e94f58d9-177b-31be-aa05-e6dd10d04124,0,2,3.16855921405317,False,True
+av2,cheap,v6-S,f84b4941-8e99-3957-b6f6-db1590338cf6,15,15,1.1971032145051694,False,True
+av2,looming + recovery,v6-S,3844f8a9-b7d4-4919-8e9b-a0370ad29ec0,19,24,1.4063869895486685,False,True
+av2,looming + recovery,v6-S,3fa8c20e-a4b4-3af6-b9c4-6cb96f83916d,39,43,1.4462562591565196,False,True
+av2,looming + recovery,v6-S,40bfcbec-ec59-3731-8e75-67f0bddc3b01,40,40,2.9137158544916004,False,True
+av2,looming + recovery,v6-S,4d9e3bdf-7216-3161-8281-72863f3c2bf6,27,28,9.0,False,True
+av2,looming + recovery,v6-S,4e1ac476-80a2-3612-bfd7-1abd24d2b644,37,41,1.2583924835664888,False,True
+av2,looming + recovery,v6-S,53a8391f-b2d7-341f-95ce-b9174d48e040,78,78,4.941670410263528,False,True
+av2,looming + recovery,v6-S,61e56102-4d85-3a40-bbba-1a007c816f68,64,65,1.6068692764307595,False,True
+av2,looming + recovery,v6-S,6fdd8d39-7b04-365a-9941-e9e805b05ecf,9,13,1.85864150578067,False,True
+av2,looming + recovery,v6-S,a3876690-9d49-3c98-9421-02cfe0ccb551,48,50,1.01688882447941,False,True
+av2,looming + recovery,v6-S,a8a3297d-62f3-31ac-8db7-95ef53ce0d31,40,41,9.0,False,True
+av2,looming + recovery,v6-S,e331aa95-3660-3c71-be9e-030bab0b8ee2,45,46,2.2775871719965166,False,True
+av2,looming + recovery,v6-S,e94f58d9-177b-31be-aa05-e6dd10d04124,0,2,3.16855921405317,False,True
+av2,looming + recovery / half,v6-S,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,0,4,1.0172004590965913,False,True
+av2,looming + recovery / half,v6-S,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,75,77,1.0941956914903224,False,True
+av2,looming + recovery / half,v6-S,14bf638b-8f0d-35b2-a369-6d846b5b3892,49,51,1.3766532122517596,False,True
+av2,looming + recovery / half,v6-S,28617035-7557-3cb9-99c2-754f72fd34b4,35,35,1.700617914415978,False,True
+av2,looming + recovery / half,v6-S,3844f8a9-b7d4-4919-8e9b-a0370ad29ec0,19,24,1.4063869895486685,False,True
+av2,looming + recovery / half,v6-S,3fa8c20e-a4b4-3af6-b9c4-6cb96f83916d,39,43,1.4462562591565196,False,True
+av2,looming + recovery / half,v6-S,40bfcbec-ec59-3731-8e75-67f0bddc3b01,40,40,2.9137158544916004,False,True
+av2,looming + recovery / half,v6-S,4d9e3bdf-7216-3161-8281-72863f3c2bf6,27,28,9.0,False,True
+av2,looming + recovery / half,v6-S,4e1ac476-80a2-3612-bfd7-1abd24d2b644,37,41,1.2583924835664888,False,True
+av2,looming + recovery / half,v6-S,53a8391f-b2d7-341f-95ce-b9174d48e040,78,78,4.941670410263528,False,True
+av2,looming + recovery / half,v6-S,61e56102-4d85-3a40-bbba-1a007c816f68,64,65,1.6068692764307595,False,True
+av2,looming + recovery / half,v6-S,6fdd8d39-7b04-365a-9941-e9e805b05ecf,9,13,1.85864150578067,False,True
+av2,looming + recovery / half,v6-S,a3876690-9d49-3c98-9421-02cfe0ccb551,48,50,1.01688882447941,False,True
+av2,looming + recovery / half,v6-S,a8a3297d-62f3-31ac-8db7-95ef53ce0d31,40,41,9.0,False,True
+av2,looming + recovery / half,v6-S,b1527e96-5a5d-3adc-a893-314ab3a6012e,15,20,1.737805048462522,False,True
+av2,looming + recovery / half,v6-S,e331aa95-3660-3c71-be9e-030bab0b8ee2,45,46,2.2775871719965166,False,True
+av2,looming + recovery / half,v6-S,e94f58d9-177b-31be-aa05-e6dd10d04124,0,2,3.16855921405317,False,True
+av2,looming + recovery / none,v6-S,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,0,4,1.0172004590965913,False,True
+av2,looming + recovery / none,v6-S,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,75,77,1.0941956914903224,False,True
+av2,looming + recovery / none,v6-S,14bf638b-8f0d-35b2-a369-6d846b5b3892,49,51,1.3766532122517596,False,True
+av2,looming + recovery / none,v6-S,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,46,49,2.2721818374042377,False,True
+av2,looming + recovery / none,v6-S,28617035-7557-3cb9-99c2-754f72fd34b4,35,35,1.700617914415978,False,True
+av2,looming + recovery / none,v6-S,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,7,7,1.0120526848087676,False,True
+av2,looming + recovery / none,v6-S,3844f8a9-b7d4-4919-8e9b-a0370ad29ec0,19,24,1.4063869895486685,False,True
+av2,looming + recovery / none,v6-S,3c51357e-f6e9-3cda-9036-fe6e6cd442fe,15,20,2.167991419213259,False,True
+av2,looming + recovery / none,v6-S,3fa8c20e-a4b4-3af6-b9c4-6cb96f83916d,39,43,1.4462562591565196,False,True
+av2,looming + recovery / none,v6-S,40bfcbec-ec59-3731-8e75-67f0bddc3b01,40,40,2.9137158544916004,False,True
+av2,looming + recovery / none,v6-S,4d9e3bdf-7216-3161-8281-72863f3c2bf6,27,28,9.0,False,True
+av2,looming + recovery / none,v6-S,4e1ac476-80a2-3612-bfd7-1abd24d2b644,37,41,1.2583924835664888,False,True
+av2,looming + recovery / none,v6-S,53a8391f-b2d7-341f-95ce-b9174d48e040,78,78,4.941670410263528,False,True
+av2,looming + recovery / none,v6-S,61e56102-4d85-3a40-bbba-1a007c816f68,64,65,1.6068692764307595,False,True
+av2,looming + recovery / none,v6-S,6f2f7d1e-8ded-35c5-ba83-3ca906b05127,22,31,1.2333054109889523,False,True
+av2,looming + recovery / none,v6-S,6fdd8d39-7b04-365a-9941-e9e805b05ecf,9,13,1.85864150578067,False,True
+av2,looming + recovery / none,v6-S,8f317f00-f8b4-325e-a5c7-e4045427a610,70,70,1.3854907077348175,False,True
+av2,looming + recovery / none,v6-S,a3876690-9d49-3c98-9421-02cfe0ccb551,48,50,1.01688882447941,False,True
+av2,looming + recovery / none,v6-S,a8a3297d-62f3-31ac-8db7-95ef53ce0d31,40,41,9.0,False,True
+av2,looming + recovery / none,v6-S,b1527e96-5a5d-3adc-a893-314ab3a6012e,15,20,1.737805048462522,False,True
+av2,looming + recovery / none,v6-S,c85ebc24-0934-3423-9c14-f0fdbee64b68,9,12,1.0543440020079098,False,True
+av2,looming + recovery / none,v6-S,d2c6775c-e0a0-3460-b1b8-8d0ce2e0ae4e,76,77,2.4310542619300373,False,True
+av2,looming + recovery / none,v6-S,e1e9d341-716f-3613-9ec2-2201c72361af,12,12,3.379811687806423,False,True
+av2,looming + recovery / none,v6-S,e331aa95-3660-3c71-be9e-030bab0b8ee2,45,46,2.2775871719965166,False,True
+av2,looming + recovery / none,v6-S,e7e178aa-931a-4674-9bff-9278a54e6aae,24,27,1.7387840520812174,False,True
+av2,looming + recovery / none,v6-S,e94f58d9-177b-31be-aa05-e6dd10d04124,0,2,3.16855921405317,False,True
+av2,proactive,v6-S,2b044433-ddc1-3580-b560-d46474934089,37,39,1.55629941510302,False,True
+av2,proactive,v6-S,3844f8a9-b7d4-4919-8e9b-a0370ad29ec0,19,24,1.4063869895486685,False,True
+av2,proactive,v6-S,3fa8c20e-a4b4-3af6-b9c4-6cb96f83916d,39,43,1.4462562591565196,False,True
+av2,proactive,v6-S,61e56102-4d85-3a40-bbba-1a007c816f68,64,65,1.6068692764307595,False,True
+av2,proactive,v6-S,a3876690-9d49-3c98-9421-02cfe0ccb551,48,50,1.01688882447941,False,True
+av2,proactive + recovery,v6-S,2b044433-ddc1-3580-b560-d46474934089,37,39,1.55629941510302,False,True
+av2,proactive + recovery,v6-S,3844f8a9-b7d4-4919-8e9b-a0370ad29ec0,19,24,1.4063869895486685,False,True
+av2,proactive + recovery,v6-S,3fa8c20e-a4b4-3af6-b9c4-6cb96f83916d,39,43,1.4462562591565196,False,True
+av2,proactive + recovery,v6-S,40bfcbec-ec59-3731-8e75-67f0bddc3b01,40,40,2.9137158544916004,False,True
+av2,proactive + recovery,v6-S,4d9e3bdf-7216-3161-8281-72863f3c2bf6,27,28,9.0,False,True
+av2,proactive + recovery,v6-S,53a8391f-b2d7-341f-95ce-b9174d48e040,78,78,4.941670410263528,False,True
+av2,proactive + recovery,v6-S,61e56102-4d85-3a40-bbba-1a007c816f68,64,65,1.6068692764307595,False,True
+av2,proactive + recovery,v6-S,6fdd8d39-7b04-365a-9941-e9e805b05ecf,9,13,1.85864150578067,False,True
+av2,proactive + recovery,v6-S,a3876690-9d49-3c98-9421-02cfe0ccb551,48,50,1.01688882447941,False,True
+av2,proactive + recovery,v6-S,a8a3297d-62f3-31ac-8db7-95ef53ce0d31,40,41,9.0,False,True
+av2,proactive + recovery,v6-S,e94f58d9-177b-31be-aa05-e6dd10d04124,0,2,3.16855921405317,False,True
+av2,proactive + recovery / half,v6-S,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,0,4,1.0172004590965913,False,True
+av2,proactive + recovery / half,v6-S,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,75,77,1.0941956914903224,False,True
+av2,proactive + recovery / half,v6-S,14bf638b-8f0d-35b2-a369-6d846b5b3892,49,51,1.3766532122517596,False,True
+av2,proactive + recovery / half,v6-S,28617035-7557-3cb9-99c2-754f72fd34b4,35,35,1.700617914415978,False,True
+av2,proactive + recovery / half,v6-S,2b044433-ddc1-3580-b560-d46474934089,37,39,1.55629941510302,False,True
+av2,proactive + recovery / half,v6-S,3844f8a9-b7d4-4919-8e9b-a0370ad29ec0,19,24,1.4063869895486685,False,True
+av2,proactive + recovery / half,v6-S,3fa8c20e-a4b4-3af6-b9c4-6cb96f83916d,39,43,1.4462562591565196,False,True
+av2,proactive + recovery / half,v6-S,40bfcbec-ec59-3731-8e75-67f0bddc3b01,40,40,2.9137158544916004,False,True
+av2,proactive + recovery / half,v6-S,4d9e3bdf-7216-3161-8281-72863f3c2bf6,27,28,9.0,False,True
+av2,proactive + recovery / half,v6-S,4e1ac476-80a2-3612-bfd7-1abd24d2b644,37,41,1.2583924835664888,False,True
+av2,proactive + recovery / half,v6-S,53a8391f-b2d7-341f-95ce-b9174d48e040,78,78,4.941670410263528,False,True
+av2,proactive + recovery / half,v6-S,61e56102-4d85-3a40-bbba-1a007c816f68,64,65,1.6068692764307595,False,True
+av2,proactive + recovery / half,v6-S,6fdd8d39-7b04-365a-9941-e9e805b05ecf,9,13,1.85864150578067,False,True
+av2,proactive + recovery / half,v6-S,a3876690-9d49-3c98-9421-02cfe0ccb551,48,50,1.01688882447941,False,True
+av2,proactive + recovery / half,v6-S,a8a3297d-62f3-31ac-8db7-95ef53ce0d31,40,41,9.0,False,True
+av2,proactive + recovery / half,v6-S,b1527e96-5a5d-3adc-a893-314ab3a6012e,15,20,1.737805048462522,False,True
+av2,proactive + recovery / half,v6-S,e94f58d9-177b-31be-aa05-e6dd10d04124,0,2,3.16855921405317,False,True
+av2,proactive + recovery / none,v6-S,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,0,4,1.0172004590965913,False,True
+av2,proactive + recovery / none,v6-S,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,75,77,1.0941956914903224,False,True
+av2,proactive + recovery / none,v6-S,14bf638b-8f0d-35b2-a369-6d846b5b3892,49,51,1.3766532122517596,False,True
+av2,proactive + recovery / none,v6-S,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,46,49,2.2721818374042377,False,True
+av2,proactive + recovery / none,v6-S,28617035-7557-3cb9-99c2-754f72fd34b4,35,35,1.700617914415978,False,True
+av2,proactive + recovery / none,v6-S,2b044433-ddc1-3580-b560-d46474934089,37,39,1.55629941510302,False,True
+av2,proactive + recovery / none,v6-S,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,7,7,1.0120526848087676,False,True
+av2,proactive + recovery / none,v6-S,3844f8a9-b7d4-4919-8e9b-a0370ad29ec0,19,24,1.4063869895486685,False,True
+av2,proactive + recovery / none,v6-S,3c51357e-f6e9-3cda-9036-fe6e6cd442fe,15,20,2.167991419213259,False,True
+av2,proactive + recovery / none,v6-S,3fa8c20e-a4b4-3af6-b9c4-6cb96f83916d,39,43,1.4462562591565196,False,True
+av2,proactive + recovery / none,v6-S,40bfcbec-ec59-3731-8e75-67f0bddc3b01,40,40,2.9137158544916004,False,True
+av2,proactive + recovery / none,v6-S,4d9e3bdf-7216-3161-8281-72863f3c2bf6,27,28,9.0,False,True
+av2,proactive + recovery / none,v6-S,4e1ac476-80a2-3612-bfd7-1abd24d2b644,37,41,1.2583924835664888,False,True
+av2,proactive + recovery / none,v6-S,53a8391f-b2d7-341f-95ce-b9174d48e040,78,78,4.941670410263528,False,True
+av2,proactive + recovery / none,v6-S,61e56102-4d85-3a40-bbba-1a007c816f68,64,65,1.6068692764307595,False,True
+av2,proactive + recovery / none,v6-S,6f2f7d1e-8ded-35c5-ba83-3ca906b05127,22,31,1.2333054109889523,False,True
+av2,proactive + recovery / none,v6-S,6fdd8d39-7b04-365a-9941-e9e805b05ecf,9,13,1.85864150578067,False,True
+av2,proactive + recovery / none,v6-S,8f317f00-f8b4-325e-a5c7-e4045427a610,70,70,1.3854907077348175,False,True
+av2,proactive + recovery / none,v6-S,a3876690-9d49-3c98-9421-02cfe0ccb551,48,50,1.01688882447941,False,True
+av2,proactive + recovery / none,v6-S,a8a3297d-62f3-31ac-8db7-95ef53ce0d31,40,41,9.0,False,True
+av2,proactive + recovery / none,v6-S,b1527e96-5a5d-3adc-a893-314ab3a6012e,15,20,1.737805048462522,False,True
+av2,proactive + recovery / none,v6-S,c85ebc24-0934-3423-9c14-f0fdbee64b68,9,12,1.0543440020079098,False,True
+av2,proactive + recovery / none,v6-S,d2c6775c-e0a0-3460-b1b8-8d0ce2e0ae4e,76,77,2.4310542619300373,False,True
+av2,proactive + recovery / none,v6-S,e1e9d341-716f-3613-9ec2-2201c72361af,12,12,3.379811687806423,False,True
+av2,proactive + recovery / none,v6-S,e7e178aa-931a-4674-9bff-9278a54e6aae,24,27,1.7387840520812174,False,True
+av2,proactive + recovery / none,v6-S,e94f58d9-177b-31be-aa05-e6dd10d04124,0,2,3.16855921405317,False,True
+av2,proactive / half,v6-S,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,0,4,1.0172004590965913,False,True
+av2,proactive / half,v6-S,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,75,77,1.0941956914903224,False,True
+av2,proactive / half,v6-S,14bf638b-8f0d-35b2-a369-6d846b5b3892,49,51,1.3766532122517596,False,True
+av2,proactive / half,v6-S,28617035-7557-3cb9-99c2-754f72fd34b4,35,35,1.700617914415978,False,True
+av2,proactive / half,v6-S,2b044433-ddc1-3580-b560-d46474934089,37,39,1.55629941510302,False,True
+av2,proactive / half,v6-S,3844f8a9-b7d4-4919-8e9b-a0370ad29ec0,19,24,1.4063869895486685,False,True
+av2,proactive / half,v6-S,3fa8c20e-a4b4-3af6-b9c4-6cb96f83916d,39,43,1.4462562591565196,False,True
+av2,proactive / half,v6-S,4e1ac476-80a2-3612-bfd7-1abd24d2b644,37,41,1.2583924835664888,False,True
+av2,proactive / half,v6-S,61e56102-4d85-3a40-bbba-1a007c816f68,64,65,1.6068692764307595,False,True
+av2,proactive / half,v6-S,a3876690-9d49-3c98-9421-02cfe0ccb551,48,50,1.01688882447941,False,True
+av2,proactive / half,v6-S,b1527e96-5a5d-3adc-a893-314ab3a6012e,15,20,1.737805048462522,False,True
+av2,proactive / none,v6-S,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,0,4,1.0172004590965913,False,True
+av2,proactive / none,v6-S,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,75,77,1.0941956914903224,False,True
+av2,proactive / none,v6-S,14bf638b-8f0d-35b2-a369-6d846b5b3892,49,51,1.3766532122517596,False,True
+av2,proactive / none,v6-S,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,46,49,2.2721818374042377,False,True
+av2,proactive / none,v6-S,28617035-7557-3cb9-99c2-754f72fd34b4,35,35,1.700617914415978,False,True
+av2,proactive / none,v6-S,2b044433-ddc1-3580-b560-d46474934089,37,39,1.55629941510302,False,True
+av2,proactive / none,v6-S,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,7,7,1.0120526848087676,False,True
+av2,proactive / none,v6-S,3844f8a9-b7d4-4919-8e9b-a0370ad29ec0,19,24,1.4063869895486685,False,True
+av2,proactive / none,v6-S,3c51357e-f6e9-3cda-9036-fe6e6cd442fe,15,20,2.167991419213259,False,True
+av2,proactive / none,v6-S,3fa8c20e-a4b4-3af6-b9c4-6cb96f83916d,39,43,1.4462562591565196,False,True
+av2,proactive / none,v6-S,4e1ac476-80a2-3612-bfd7-1abd24d2b644,37,41,1.2583924835664888,False,True
+av2,proactive / none,v6-S,61e56102-4d85-3a40-bbba-1a007c816f68,64,65,1.6068692764307595,False,True
+av2,proactive / none,v6-S,6f2f7d1e-8ded-35c5-ba83-3ca906b05127,22,31,1.2333054109889523,False,True
+av2,proactive / none,v6-S,8f317f00-f8b4-325e-a5c7-e4045427a610,70,70,1.3854907077348175,False,True
+av2,proactive / none,v6-S,a3876690-9d49-3c98-9421-02cfe0ccb551,48,50,1.01688882447941,False,True
+av2,proactive / none,v6-S,b1527e96-5a5d-3adc-a893-314ab3a6012e,15,20,1.737805048462522,False,True
+av2,proactive / none,v6-S,c85ebc24-0934-3423-9c14-f0fdbee64b68,9,12,1.0543440020079098,False,True
+av2,proactive / none,v6-S,d2c6775c-e0a0-3460-b1b8-8d0ce2e0ae4e,76,77,2.4310542619300373,False,True
+av2,proactive / none,v6-S,e1e9d341-716f-3613-9ec2-2201c72361af,12,12,3.379811687806423,False,True
+av2,proactive / none,v6-S,e7e178aa-931a-4674-9bff-9278a54e6aae,24,27,1.7387840520812174,False,True
+av2,round1 combined,v6-S,3844f8a9-b7d4-4919-8e9b-a0370ad29ec0,19,24,1.4063869895486685,False,True
+av2,round1 combined,v6-S,3fa8c20e-a4b4-3af6-b9c4-6cb96f83916d,39,43,1.4462562591565196,False,True
+av2,round1 combined,v6-S,40bfcbec-ec59-3731-8e75-67f0bddc3b01,40,40,2.9137158544916004,False,True
+av2,round1 combined,v6-S,4d9e3bdf-7216-3161-8281-72863f3c2bf6,27,28,9.0,False,True
+av2,round1 combined,v6-S,53a8391f-b2d7-341f-95ce-b9174d48e040,78,78,4.941670410263528,False,True
+av2,round1 combined,v6-S,61e56102-4d85-3a40-bbba-1a007c816f68,64,65,1.6068692764307595,False,True
+av2,round1 combined,v6-S,6fdd8d39-7b04-365a-9941-e9e805b05ecf,9,13,1.85864150578067,False,True
+av2,round1 combined,v6-S,a3876690-9d49-3c98-9421-02cfe0ccb551,48,50,1.01688882447941,False,True
+av2,round1 combined,v6-S,a8a3297d-62f3-31ac-8db7-95ef53ce0d31,40,41,9.0,False,True
+av2,round1 combined,v6-S,e94f58d9-177b-31be-aa05-e6dd10d04124,0,2,3.16855921405317,False,True
+av2,round1 combined / half,v6-S,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,0,4,1.0172004590965913,False,True
+av2,round1 combined / half,v6-S,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,75,77,1.0941956914903224,False,True
+av2,round1 combined / half,v6-S,14bf638b-8f0d-35b2-a369-6d846b5b3892,49,51,1.3766532122517596,False,True
+av2,round1 combined / half,v6-S,28617035-7557-3cb9-99c2-754f72fd34b4,35,35,1.700617914415978,False,True
+av2,round1 combined / half,v6-S,3844f8a9-b7d4-4919-8e9b-a0370ad29ec0,19,24,1.4063869895486685,False,True
+av2,round1 combined / half,v6-S,3fa8c20e-a4b4-3af6-b9c4-6cb96f83916d,39,43,1.4462562591565196,False,True
+av2,round1 combined / half,v6-S,40bfcbec-ec59-3731-8e75-67f0bddc3b01,40,40,2.9137158544916004,False,True
+av2,round1 combined / half,v6-S,4d9e3bdf-7216-3161-8281-72863f3c2bf6,27,28,9.0,False,True
+av2,round1 combined / half,v6-S,4e1ac476-80a2-3612-bfd7-1abd24d2b644,37,41,1.2583924835664888,False,True
+av2,round1 combined / half,v6-S,53a8391f-b2d7-341f-95ce-b9174d48e040,78,78,4.941670410263528,False,True
+av2,round1 combined / half,v6-S,61e56102-4d85-3a40-bbba-1a007c816f68,64,65,1.6068692764307595,False,True
+av2,round1 combined / half,v6-S,6fdd8d39-7b04-365a-9941-e9e805b05ecf,9,13,1.85864150578067,False,True
+av2,round1 combined / half,v6-S,a3876690-9d49-3c98-9421-02cfe0ccb551,48,50,1.01688882447941,False,True
+av2,round1 combined / half,v6-S,a8a3297d-62f3-31ac-8db7-95ef53ce0d31,40,41,9.0,False,True
+av2,round1 combined / half,v6-S,b1527e96-5a5d-3adc-a893-314ab3a6012e,15,20,1.737805048462522,False,True
+av2,round1 combined / half,v6-S,e94f58d9-177b-31be-aa05-e6dd10d04124,0,2,3.16855921405317,False,True
+av2,round1 combined / none,v6-S,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,0,4,1.0172004590965913,False,True
+av2,round1 combined / none,v6-S,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,75,77,1.0941956914903224,False,True
+av2,round1 combined / none,v6-S,14bf638b-8f0d-35b2-a369-6d846b5b3892,49,51,1.3766532122517596,False,True
+av2,round1 combined / none,v6-S,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,46,49,2.2721818374042377,False,True
+av2,round1 combined / none,v6-S,28617035-7557-3cb9-99c2-754f72fd34b4,35,35,1.700617914415978,False,True
+av2,round1 combined / none,v6-S,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,7,7,1.0120526848087676,False,True
+av2,round1 combined / none,v6-S,3844f8a9-b7d4-4919-8e9b-a0370ad29ec0,19,24,1.4063869895486685,False,True
+av2,round1 combined / none,v6-S,3c51357e-f6e9-3cda-9036-fe6e6cd442fe,15,20,2.167991419213259,False,True
+av2,round1 combined / none,v6-S,3fa8c20e-a4b4-3af6-b9c4-6cb96f83916d,39,43,1.4462562591565196,False,True
+av2,round1 combined / none,v6-S,40bfcbec-ec59-3731-8e75-67f0bddc3b01,40,40,2.9137158544916004,False,True
+av2,round1 combined / none,v6-S,4d9e3bdf-7216-3161-8281-72863f3c2bf6,27,28,9.0,False,True
+av2,round1 combined / none,v6-S,4e1ac476-80a2-3612-bfd7-1abd24d2b644,37,41,1.2583924835664888,False,True
+av2,round1 combined / none,v6-S,53a8391f-b2d7-341f-95ce-b9174d48e040,78,78,4.941670410263528,False,True
+av2,round1 combined / none,v6-S,61e56102-4d85-3a40-bbba-1a007c816f68,64,65,1.6068692764307595,False,True
+av2,round1 combined / none,v6-S,6f2f7d1e-8ded-35c5-ba83-3ca906b05127,22,31,1.2333054109889523,False,True
+av2,round1 combined / none,v6-S,6fdd8d39-7b04-365a-9941-e9e805b05ecf,9,13,1.85864150578067,False,True
+av2,round1 combined / none,v6-S,8f317f00-f8b4-325e-a5c7-e4045427a610,70,70,1.3854907077348175,False,True
+av2,round1 combined / none,v6-S,a3876690-9d49-3c98-9421-02cfe0ccb551,48,50,1.01688882447941,False,True
+av2,round1 combined / none,v6-S,a8a3297d-62f3-31ac-8db7-95ef53ce0d31,40,41,9.0,False,True
+av2,round1 combined / none,v6-S,b1527e96-5a5d-3adc-a893-314ab3a6012e,15,20,1.737805048462522,False,True
+av2,round1 combined / none,v6-S,c85ebc24-0934-3423-9c14-f0fdbee64b68,9,12,1.0543440020079098,False,True
+av2,round1 combined / none,v6-S,d2c6775c-e0a0-3460-b1b8-8d0ce2e0ae4e,76,77,2.4310542619300373,False,True
+av2,round1 combined / none,v6-S,e1e9d341-716f-3613-9ec2-2201c72361af,12,12,3.379811687806423,False,True
+av2,round1 combined / none,v6-S,e7e178aa-931a-4674-9bff-9278a54e6aae,24,27,1.7387840520812174,False,True
+av2,round1 combined / none,v6-S,e94f58d9-177b-31be-aa05-e6dd10d04124,0,2,3.16855921405317,False,True
+av2,v6-S / half,v6-S,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,0,4,1.0172004590965913,False,True
+av2,v6-S / half,v6-S,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,75,77,1.0941956914903224,False,True
+av2,v6-S / half,v6-S,14bf638b-8f0d-35b2-a369-6d846b5b3892,49,51,1.3766532122517596,False,True
+av2,v6-S / half,v6-S,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,46,49,2.2721818374042377,False,True
+av2,v6-S / half,v6-S,28617035-7557-3cb9-99c2-754f72fd34b4,35,35,1.700617914415978,False,True
+av2,v6-S / half,v6-S,4e1ac476-80a2-3612-bfd7-1abd24d2b644,37,41,1.2583924835664888,False,True
+av2,v6-S / half,v6-S,b1527e96-5a5d-3adc-a893-314ab3a6012e,15,20,1.737805048462522,False,True
+av2,v6-S / none,v6-S,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,0,4,1.0172004590965913,False,True
+av2,v6-S / none,v6-S,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,75,77,1.0941956914903224,False,True
+av2,v6-S / none,v6-S,14bf638b-8f0d-35b2-a369-6d846b5b3892,49,51,1.3766532122517596,False,True
+av2,v6-S / none,v6-S,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,46,49,2.2721818374042377,False,True
+av2,v6-S / none,v6-S,28617035-7557-3cb9-99c2-754f72fd34b4,35,35,1.700617914415978,False,True
+av2,v6-S / none,v6-S,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,7,7,1.0120526848087676,False,True
+av2,v6-S / none,v6-S,3c51357e-f6e9-3cda-9036-fe6e6cd442fe,15,20,2.167991419213259,False,True
+av2,v6-S / none,v6-S,4e1ac476-80a2-3612-bfd7-1abd24d2b644,37,41,1.2583924835664888,False,True
+av2,v6-S / none,v6-S,6f2f7d1e-8ded-35c5-ba83-3ca906b05127,22,31,1.2333054109889523,False,True
+av2,v6-S / none,v6-S,8f317f00-f8b4-325e-a5c7-e4045427a610,70,70,1.3854907077348175,False,True
+av2,v6-S / none,v6-S,b1527e96-5a5d-3adc-a893-314ab3a6012e,15,20,1.737805048462522,False,True
+av2,v6-S / none,v6-S,c85ebc24-0934-3423-9c14-f0fdbee64b68,9,12,1.0543440020079098,False,True
+av2,v6-S / none,v6-S,d2c6775c-e0a0-3460-b1b8-8d0ce2e0ae4e,76,77,2.4310542619300373,False,True
+av2,v6-S / none,v6-S,e1e9d341-716f-3613-9ec2-2201c72361af,12,12,3.379811687806423,False,True
+av2,v6-S / none,v6-S,e7e178aa-931a-4674-9bff-9278a54e6aae,24,27,1.7387840520812174,False,True
+av2,cheap,round1 combined,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,75,77,1.0941956914903224,False,True
+av2,cheap,round1 combined,14bf638b-8f0d-35b2-a369-6d846b5b3892,43,45,1.0509656676307555,False,True
+av2,cheap,round1 combined,14bf638b-8f0d-35b2-a369-6d846b5b3892,49,51,1.3766532122517596,False,True
+av2,cheap,round1 combined,14c8d182-9586-3f21-ad20-c4e19ec03e2c,51,53,2.1658958509528343,False,True
+av2,cheap,round1 combined,21f6ebe1-09c9-3a71-bdd9-58f45fbe9000,0,2,1.0817089880010449,False,True
+av2,cheap,round1 combined,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,46,49,2.2721818374042377,False,True
+av2,cheap,round1 combined,28617035-7557-3cb9-99c2-754f72fd34b4,35,35,1.700617914415978,False,True
+av2,cheap,round1 combined,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,7,7,1.0120526848087676,False,True
+av2,cheap,round1 combined,3c51357e-f6e9-3cda-9036-fe6e6cd442fe,15,20,2.167991419213259,False,True
+av2,cheap,round1 combined,3dd173a6-8b21-3189-bd53-132919b96a48,71,78,1.3704818156300396,True,False
+av2,cheap,round1 combined,422dd53b-6010-4eb9-8902-de3d134c5a70,78,79,1.3150368729252715,False,True
+av2,cheap,round1 combined,444cce44-cc82-4620-b630-1b5849284ac7,32,34,1.707001334656288,False,True
+av2,cheap,round1 combined,4e1ac476-80a2-3612-bfd7-1abd24d2b644,37,41,1.2583924835664888,False,True
+av2,cheap,round1 combined,65d3f43d-1969-35d4-bf86-bd5e4b1ac803,75,75,1.1108447510326005,False,True
+av2,cheap,round1 combined,6f2f7d1e-8ded-35c5-ba83-3ca906b05127,22,31,1.2333054109889523,False,True
+av2,cheap,round1 combined,718a2f8d-954a-3cd8-89e6-43898cf21fee,9,16,1.40327328725463,True,False
+av2,cheap,round1 combined,828ddef2-7609-3683-8e32-c21e7c07d6a6,36,52,1.2747915931003435,True,False
+av2,cheap,round1 combined,8606d399-57d4-3ae9-938b-db7b8fb7ef8c,25,27,1.435139894328762,False,True
+av2,cheap,round1 combined,8f317f00-f8b4-325e-a5c7-e4045427a610,70,70,1.3854907077348175,False,True
+av2,cheap,round1 combined,953087a4-f704-37fe-a60f-82877e84a413,10,13,1.2860826212358267,False,True
+av2,cheap,round1 combined,aedbd525-e6df-4c0c-8be6-61c27fe58fd6,78,79,1.1820268543035823,False,True
+av2,cheap,round1 combined,af170aac-8465-3d7b-82c5-64147e94af7d,29,36,1.404708249151985,True,False
+av2,cheap,round1 combined,b1527e96-5a5d-3adc-a893-314ab3a6012e,15,20,1.737805048462522,False,True
+av2,cheap,round1 combined,b56e3f47-72a6-34e8-9ada-b4169e28e5b9,0,6,9.0,False,True
+av2,cheap,round1 combined,bb110668-5037-3c04-bd34-34cf1ace8d0f,18,23,1.0679494991363538,True,False
+av2,cheap,round1 combined,c85ebc24-0934-3423-9c14-f0fdbee64b68,9,12,1.0543440020079098,False,True
+av2,cheap,round1 combined,cd822baf-4aa1-33fa-bfe5-d91386598edb,47,50,1.0393307684605448,True,False
+av2,cheap,round1 combined,d2c6775c-e0a0-3460-b1b8-8d0ce2e0ae4e,76,77,2.4310542619300373,False,True
+av2,cheap,round1 combined,e331aa95-3660-3c71-be9e-030bab0b8ee2,45,46,2.2775871719965166,False,True
+av2,cheap,round1 combined,e66d1403-755b-3f63-938b-a2a69446a48a,23,27,3.696987659257311,False,True
+av2,cheap,round1 combined,e7e178aa-931a-4674-9bff-9278a54e6aae,24,27,1.7387840520812174,False,True
+av2,cheap,round1 combined,e7e178aa-931a-4674-9bff-9278a54e6aae,35,48,1.8982014347103144,True,False
+av2,cheap,round1 combined,f84b4941-8e99-3957-b6f6-db1590338cf6,15,15,1.1971032145051694,False,True
+av2,looming + recovery,round1 combined,4e1ac476-80a2-3612-bfd7-1abd24d2b644,37,41,1.2583924835664888,False,True
+av2,looming + recovery,round1 combined,e331aa95-3660-3c71-be9e-030bab0b8ee2,45,46,2.2775871719965166,False,True
+av2,looming + recovery / half,round1 combined,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,0,4,1.0172004590965913,False,True
+av2,looming + recovery / half,round1 combined,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,75,77,1.0941956914903224,False,True
+av2,looming + recovery / half,round1 combined,14bf638b-8f0d-35b2-a369-6d846b5b3892,49,51,1.3766532122517596,False,True
+av2,looming + recovery / half,round1 combined,28617035-7557-3cb9-99c2-754f72fd34b4,35,35,1.700617914415978,False,True
+av2,looming + recovery / half,round1 combined,4e1ac476-80a2-3612-bfd7-1abd24d2b644,37,41,1.2583924835664888,False,True
+av2,looming + recovery / half,round1 combined,b1527e96-5a5d-3adc-a893-314ab3a6012e,15,20,1.737805048462522,False,True
+av2,looming + recovery / half,round1 combined,e331aa95-3660-3c71-be9e-030bab0b8ee2,45,46,2.2775871719965166,False,True
+av2,looming + recovery / none,round1 combined,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,0,4,1.0172004590965913,False,True
+av2,looming + recovery / none,round1 combined,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,75,77,1.0941956914903224,False,True
+av2,looming + recovery / none,round1 combined,14bf638b-8f0d-35b2-a369-6d846b5b3892,49,51,1.3766532122517596,False,True
+av2,looming + recovery / none,round1 combined,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,46,49,2.2721818374042377,False,True
+av2,looming + recovery / none,round1 combined,28617035-7557-3cb9-99c2-754f72fd34b4,35,35,1.700617914415978,False,True
+av2,looming + recovery / none,round1 combined,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,7,7,1.0120526848087676,False,True
+av2,looming + recovery / none,round1 combined,3c51357e-f6e9-3cda-9036-fe6e6cd442fe,15,20,2.167991419213259,False,True
+av2,looming + recovery / none,round1 combined,4e1ac476-80a2-3612-bfd7-1abd24d2b644,37,41,1.2583924835664888,False,True
+av2,looming + recovery / none,round1 combined,6f2f7d1e-8ded-35c5-ba83-3ca906b05127,22,31,1.2333054109889523,False,True
+av2,looming + recovery / none,round1 combined,8f317f00-f8b4-325e-a5c7-e4045427a610,70,70,1.3854907077348175,False,True
+av2,looming + recovery / none,round1 combined,b1527e96-5a5d-3adc-a893-314ab3a6012e,15,20,1.737805048462522,False,True
+av2,looming + recovery / none,round1 combined,c85ebc24-0934-3423-9c14-f0fdbee64b68,9,12,1.0543440020079098,False,True
+av2,looming + recovery / none,round1 combined,d2c6775c-e0a0-3460-b1b8-8d0ce2e0ae4e,76,77,2.4310542619300373,False,True
+av2,looming + recovery / none,round1 combined,e1e9d341-716f-3613-9ec2-2201c72361af,12,12,3.379811687806423,False,True
+av2,looming + recovery / none,round1 combined,e331aa95-3660-3c71-be9e-030bab0b8ee2,45,46,2.2775871719965166,False,True
+av2,looming + recovery / none,round1 combined,e7e178aa-931a-4674-9bff-9278a54e6aae,24,27,1.7387840520812174,False,True
+av2,proactive,round1 combined,2b044433-ddc1-3580-b560-d46474934089,37,39,1.55629941510302,False,True
+av2,proactive,round1 combined,40bfcbec-ec59-3731-8e75-67f0bddc3b01,40,40,2.9137158544916004,True,False
+av2,proactive,round1 combined,4d9e3bdf-7216-3161-8281-72863f3c2bf6,27,28,9.0,True,False
+av2,proactive,round1 combined,53a8391f-b2d7-341f-95ce-b9174d48e040,78,78,4.941670410263528,True,False
+av2,proactive,round1 combined,6fdd8d39-7b04-365a-9941-e9e805b05ecf,9,13,1.85864150578067,True,False
+av2,proactive,round1 combined,a8a3297d-62f3-31ac-8db7-95ef53ce0d31,40,41,9.0,True,False
+av2,proactive,round1 combined,e94f58d9-177b-31be-aa05-e6dd10d04124,0,2,3.16855921405317,True,False
+av2,proactive + recovery,round1 combined,2b044433-ddc1-3580-b560-d46474934089,37,39,1.55629941510302,False,True
+av2,proactive + recovery / half,round1 combined,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,0,4,1.0172004590965913,False,True
+av2,proactive + recovery / half,round1 combined,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,75,77,1.0941956914903224,False,True
+av2,proactive + recovery / half,round1 combined,14bf638b-8f0d-35b2-a369-6d846b5b3892,49,51,1.3766532122517596,False,True
+av2,proactive + recovery / half,round1 combined,28617035-7557-3cb9-99c2-754f72fd34b4,35,35,1.700617914415978,False,True
+av2,proactive + recovery / half,round1 combined,2b044433-ddc1-3580-b560-d46474934089,37,39,1.55629941510302,False,True
+av2,proactive + recovery / half,round1 combined,4e1ac476-80a2-3612-bfd7-1abd24d2b644,37,41,1.2583924835664888,False,True
+av2,proactive + recovery / half,round1 combined,b1527e96-5a5d-3adc-a893-314ab3a6012e,15,20,1.737805048462522,False,True
+av2,proactive + recovery / none,round1 combined,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,0,4,1.0172004590965913,False,True
+av2,proactive + recovery / none,round1 combined,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,75,77,1.0941956914903224,False,True
+av2,proactive + recovery / none,round1 combined,14bf638b-8f0d-35b2-a369-6d846b5b3892,49,51,1.3766532122517596,False,True
+av2,proactive + recovery / none,round1 combined,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,46,49,2.2721818374042377,False,True
+av2,proactive + recovery / none,round1 combined,28617035-7557-3cb9-99c2-754f72fd34b4,35,35,1.700617914415978,False,True
+av2,proactive + recovery / none,round1 combined,2b044433-ddc1-3580-b560-d46474934089,37,39,1.55629941510302,False,True
+av2,proactive + recovery / none,round1 combined,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,7,7,1.0120526848087676,False,True
+av2,proactive + recovery / none,round1 combined,3c51357e-f6e9-3cda-9036-fe6e6cd442fe,15,20,2.167991419213259,False,True
+av2,proactive + recovery / none,round1 combined,4e1ac476-80a2-3612-bfd7-1abd24d2b644,37,41,1.2583924835664888,False,True
+av2,proactive + recovery / none,round1 combined,6f2f7d1e-8ded-35c5-ba83-3ca906b05127,22,31,1.2333054109889523,False,True
+av2,proactive + recovery / none,round1 combined,8f317f00-f8b4-325e-a5c7-e4045427a610,70,70,1.3854907077348175,False,True
+av2,proactive + recovery / none,round1 combined,b1527e96-5a5d-3adc-a893-314ab3a6012e,15,20,1.737805048462522,False,True
+av2,proactive + recovery / none,round1 combined,c85ebc24-0934-3423-9c14-f0fdbee64b68,9,12,1.0543440020079098,False,True
+av2,proactive + recovery / none,round1 combined,d2c6775c-e0a0-3460-b1b8-8d0ce2e0ae4e,76,77,2.4310542619300373,False,True
+av2,proactive + recovery / none,round1 combined,e1e9d341-716f-3613-9ec2-2201c72361af,12,12,3.379811687806423,False,True
+av2,proactive + recovery / none,round1 combined,e7e178aa-931a-4674-9bff-9278a54e6aae,24,27,1.7387840520812174,False,True
+av2,proactive / half,round1 combined,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,0,4,1.0172004590965913,False,True
+av2,proactive / half,round1 combined,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,75,77,1.0941956914903224,False,True
+av2,proactive / half,round1 combined,14bf638b-8f0d-35b2-a369-6d846b5b3892,49,51,1.3766532122517596,False,True
+av2,proactive / half,round1 combined,28617035-7557-3cb9-99c2-754f72fd34b4,35,35,1.700617914415978,False,True
+av2,proactive / half,round1 combined,2b044433-ddc1-3580-b560-d46474934089,37,39,1.55629941510302,False,True
+av2,proactive / half,round1 combined,40bfcbec-ec59-3731-8e75-67f0bddc3b01,40,40,2.9137158544916004,True,False
+av2,proactive / half,round1 combined,4d9e3bdf-7216-3161-8281-72863f3c2bf6,27,28,9.0,True,False
+av2,proactive / half,round1 combined,4e1ac476-80a2-3612-bfd7-1abd24d2b644,37,41,1.2583924835664888,False,True
+av2,proactive / half,round1 combined,53a8391f-b2d7-341f-95ce-b9174d48e040,78,78,4.941670410263528,True,False
+av2,proactive / half,round1 combined,6fdd8d39-7b04-365a-9941-e9e805b05ecf,9,13,1.85864150578067,True,False
+av2,proactive / half,round1 combined,a8a3297d-62f3-31ac-8db7-95ef53ce0d31,40,41,9.0,True,False
+av2,proactive / half,round1 combined,b1527e96-5a5d-3adc-a893-314ab3a6012e,15,20,1.737805048462522,False,True
+av2,proactive / half,round1 combined,e94f58d9-177b-31be-aa05-e6dd10d04124,0,2,3.16855921405317,True,False
+av2,proactive / none,round1 combined,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,0,4,1.0172004590965913,False,True
+av2,proactive / none,round1 combined,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,75,77,1.0941956914903224,False,True
+av2,proactive / none,round1 combined,14bf638b-8f0d-35b2-a369-6d846b5b3892,49,51,1.3766532122517596,False,True
+av2,proactive / none,round1 combined,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,46,49,2.2721818374042377,False,True
+av2,proactive / none,round1 combined,28617035-7557-3cb9-99c2-754f72fd34b4,35,35,1.700617914415978,False,True
+av2,proactive / none,round1 combined,2b044433-ddc1-3580-b560-d46474934089,37,39,1.55629941510302,False,True
+av2,proactive / none,round1 combined,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,7,7,1.0120526848087676,False,True
+av2,proactive / none,round1 combined,3c51357e-f6e9-3cda-9036-fe6e6cd442fe,15,20,2.167991419213259,False,True
+av2,proactive / none,round1 combined,40bfcbec-ec59-3731-8e75-67f0bddc3b01,40,40,2.9137158544916004,True,False
+av2,proactive / none,round1 combined,4d9e3bdf-7216-3161-8281-72863f3c2bf6,27,28,9.0,True,False
+av2,proactive / none,round1 combined,4e1ac476-80a2-3612-bfd7-1abd24d2b644,37,41,1.2583924835664888,False,True
+av2,proactive / none,round1 combined,53a8391f-b2d7-341f-95ce-b9174d48e040,78,78,4.941670410263528,True,False
+av2,proactive / none,round1 combined,6f2f7d1e-8ded-35c5-ba83-3ca906b05127,22,31,1.2333054109889523,False,True
+av2,proactive / none,round1 combined,6fdd8d39-7b04-365a-9941-e9e805b05ecf,9,13,1.85864150578067,True,False
+av2,proactive / none,round1 combined,8f317f00-f8b4-325e-a5c7-e4045427a610,70,70,1.3854907077348175,False,True
+av2,proactive / none,round1 combined,a8a3297d-62f3-31ac-8db7-95ef53ce0d31,40,41,9.0,True,False
+av2,proactive / none,round1 combined,b1527e96-5a5d-3adc-a893-314ab3a6012e,15,20,1.737805048462522,False,True
+av2,proactive / none,round1 combined,c85ebc24-0934-3423-9c14-f0fdbee64b68,9,12,1.0543440020079098,False,True
+av2,proactive / none,round1 combined,d2c6775c-e0a0-3460-b1b8-8d0ce2e0ae4e,76,77,2.4310542619300373,False,True
+av2,proactive / none,round1 combined,e1e9d341-716f-3613-9ec2-2201c72361af,12,12,3.379811687806423,False,True
+av2,proactive / none,round1 combined,e7e178aa-931a-4674-9bff-9278a54e6aae,24,27,1.7387840520812174,False,True
+av2,proactive / none,round1 combined,e94f58d9-177b-31be-aa05-e6dd10d04124,0,2,3.16855921405317,True,False
+av2,round1 combined / half,round1 combined,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,0,4,1.0172004590965913,False,True
+av2,round1 combined / half,round1 combined,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,75,77,1.0941956914903224,False,True
+av2,round1 combined / half,round1 combined,14bf638b-8f0d-35b2-a369-6d846b5b3892,49,51,1.3766532122517596,False,True
+av2,round1 combined / half,round1 combined,28617035-7557-3cb9-99c2-754f72fd34b4,35,35,1.700617914415978,False,True
+av2,round1 combined / half,round1 combined,4e1ac476-80a2-3612-bfd7-1abd24d2b644,37,41,1.2583924835664888,False,True
+av2,round1 combined / half,round1 combined,b1527e96-5a5d-3adc-a893-314ab3a6012e,15,20,1.737805048462522,False,True
+av2,round1 combined / none,round1 combined,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,0,4,1.0172004590965913,False,True
+av2,round1 combined / none,round1 combined,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,75,77,1.0941956914903224,False,True
+av2,round1 combined / none,round1 combined,14bf638b-8f0d-35b2-a369-6d846b5b3892,49,51,1.3766532122517596,False,True
+av2,round1 combined / none,round1 combined,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,46,49,2.2721818374042377,False,True
+av2,round1 combined / none,round1 combined,28617035-7557-3cb9-99c2-754f72fd34b4,35,35,1.700617914415978,False,True
+av2,round1 combined / none,round1 combined,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,7,7,1.0120526848087676,False,True
+av2,round1 combined / none,round1 combined,3c51357e-f6e9-3cda-9036-fe6e6cd442fe,15,20,2.167991419213259,False,True
+av2,round1 combined / none,round1 combined,4e1ac476-80a2-3612-bfd7-1abd24d2b644,37,41,1.2583924835664888,False,True
+av2,round1 combined / none,round1 combined,6f2f7d1e-8ded-35c5-ba83-3ca906b05127,22,31,1.2333054109889523,False,True
+av2,round1 combined / none,round1 combined,8f317f00-f8b4-325e-a5c7-e4045427a610,70,70,1.3854907077348175,False,True
+av2,round1 combined / none,round1 combined,b1527e96-5a5d-3adc-a893-314ab3a6012e,15,20,1.737805048462522,False,True
+av2,round1 combined / none,round1 combined,c85ebc24-0934-3423-9c14-f0fdbee64b68,9,12,1.0543440020079098,False,True
+av2,round1 combined / none,round1 combined,d2c6775c-e0a0-3460-b1b8-8d0ce2e0ae4e,76,77,2.4310542619300373,False,True
+av2,round1 combined / none,round1 combined,e1e9d341-716f-3613-9ec2-2201c72361af,12,12,3.379811687806423,False,True
+av2,round1 combined / none,round1 combined,e7e178aa-931a-4674-9bff-9278a54e6aae,24,27,1.7387840520812174,False,True
+av2,v6-S,round1 combined,3844f8a9-b7d4-4919-8e9b-a0370ad29ec0,19,24,1.4063869895486685,True,False
+av2,v6-S,round1 combined,3fa8c20e-a4b4-3af6-b9c4-6cb96f83916d,39,43,1.4462562591565196,True,False
+av2,v6-S,round1 combined,40bfcbec-ec59-3731-8e75-67f0bddc3b01,40,40,2.9137158544916004,True,False
+av2,v6-S,round1 combined,4d9e3bdf-7216-3161-8281-72863f3c2bf6,27,28,9.0,True,False
+av2,v6-S,round1 combined,53a8391f-b2d7-341f-95ce-b9174d48e040,78,78,4.941670410263528,True,False
+av2,v6-S,round1 combined,61e56102-4d85-3a40-bbba-1a007c816f68,64,65,1.6068692764307595,True,False
+av2,v6-S,round1 combined,6fdd8d39-7b04-365a-9941-e9e805b05ecf,9,13,1.85864150578067,True,False
+av2,v6-S,round1 combined,a3876690-9d49-3c98-9421-02cfe0ccb551,48,50,1.01688882447941,True,False
+av2,v6-S,round1 combined,a8a3297d-62f3-31ac-8db7-95ef53ce0d31,40,41,9.0,True,False
+av2,v6-S,round1 combined,e94f58d9-177b-31be-aa05-e6dd10d04124,0,2,3.16855921405317,True,False
+av2,v6-S / half,round1 combined,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,0,4,1.0172004590965913,False,True
+av2,v6-S / half,round1 combined,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,75,77,1.0941956914903224,False,True
+av2,v6-S / half,round1 combined,14bf638b-8f0d-35b2-a369-6d846b5b3892,49,51,1.3766532122517596,False,True
+av2,v6-S / half,round1 combined,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,46,49,2.2721818374042377,False,True
+av2,v6-S / half,round1 combined,28617035-7557-3cb9-99c2-754f72fd34b4,35,35,1.700617914415978,False,True
+av2,v6-S / half,round1 combined,3844f8a9-b7d4-4919-8e9b-a0370ad29ec0,19,24,1.4063869895486685,True,False
+av2,v6-S / half,round1 combined,3fa8c20e-a4b4-3af6-b9c4-6cb96f83916d,39,43,1.4462562591565196,True,False
+av2,v6-S / half,round1 combined,40bfcbec-ec59-3731-8e75-67f0bddc3b01,40,40,2.9137158544916004,True,False
+av2,v6-S / half,round1 combined,4d9e3bdf-7216-3161-8281-72863f3c2bf6,27,28,9.0,True,False
+av2,v6-S / half,round1 combined,4e1ac476-80a2-3612-bfd7-1abd24d2b644,37,41,1.2583924835664888,False,True
+av2,v6-S / half,round1 combined,53a8391f-b2d7-341f-95ce-b9174d48e040,78,78,4.941670410263528,True,False
+av2,v6-S / half,round1 combined,61e56102-4d85-3a40-bbba-1a007c816f68,64,65,1.6068692764307595,True,False
+av2,v6-S / half,round1 combined,6fdd8d39-7b04-365a-9941-e9e805b05ecf,9,13,1.85864150578067,True,False
+av2,v6-S / half,round1 combined,a3876690-9d49-3c98-9421-02cfe0ccb551,48,50,1.01688882447941,True,False
+av2,v6-S / half,round1 combined,a8a3297d-62f3-31ac-8db7-95ef53ce0d31,40,41,9.0,True,False
+av2,v6-S / half,round1 combined,b1527e96-5a5d-3adc-a893-314ab3a6012e,15,20,1.737805048462522,False,True
+av2,v6-S / half,round1 combined,e94f58d9-177b-31be-aa05-e6dd10d04124,0,2,3.16855921405317,True,False
+av2,v6-S / none,round1 combined,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,0,4,1.0172004590965913,False,True
+av2,v6-S / none,round1 combined,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,75,77,1.0941956914903224,False,True
+av2,v6-S / none,round1 combined,14bf638b-8f0d-35b2-a369-6d846b5b3892,49,51,1.3766532122517596,False,True
+av2,v6-S / none,round1 combined,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,46,49,2.2721818374042377,False,True
+av2,v6-S / none,round1 combined,28617035-7557-3cb9-99c2-754f72fd34b4,35,35,1.700617914415978,False,True
+av2,v6-S / none,round1 combined,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,7,7,1.0120526848087676,False,True
+av2,v6-S / none,round1 combined,3844f8a9-b7d4-4919-8e9b-a0370ad29ec0,19,24,1.4063869895486685,True,False
+av2,v6-S / none,round1 combined,3c51357e-f6e9-3cda-9036-fe6e6cd442fe,15,20,2.167991419213259,False,True
+av2,v6-S / none,round1 combined,3fa8c20e-a4b4-3af6-b9c4-6cb96f83916d,39,43,1.4462562591565196,True,False
+av2,v6-S / none,round1 combined,40bfcbec-ec59-3731-8e75-67f0bddc3b01,40,40,2.9137158544916004,True,False
+av2,v6-S / none,round1 combined,4d9e3bdf-7216-3161-8281-72863f3c2bf6,27,28,9.0,True,False
+av2,v6-S / none,round1 combined,4e1ac476-80a2-3612-bfd7-1abd24d2b644,37,41,1.2583924835664888,False,True
+av2,v6-S / none,round1 combined,53a8391f-b2d7-341f-95ce-b9174d48e040,78,78,4.941670410263528,True,False
+av2,v6-S / none,round1 combined,61e56102-4d85-3a40-bbba-1a007c816f68,64,65,1.6068692764307595,True,False
+av2,v6-S / none,round1 combined,6f2f7d1e-8ded-35c5-ba83-3ca906b05127,22,31,1.2333054109889523,False,True
+av2,v6-S / none,round1 combined,6fdd8d39-7b04-365a-9941-e9e805b05ecf,9,13,1.85864150578067,True,False
+av2,v6-S / none,round1 combined,8f317f00-f8b4-325e-a5c7-e4045427a610,70,70,1.3854907077348175,False,True
+av2,v6-S / none,round1 combined,a3876690-9d49-3c98-9421-02cfe0ccb551,48,50,1.01688882447941,True,False
+av2,v6-S / none,round1 combined,a8a3297d-62f3-31ac-8db7-95ef53ce0d31,40,41,9.0,True,False
+av2,v6-S / none,round1 combined,b1527e96-5a5d-3adc-a893-314ab3a6012e,15,20,1.737805048462522,False,True
+av2,v6-S / none,round1 combined,c85ebc24-0934-3423-9c14-f0fdbee64b68,9,12,1.0543440020079098,False,True
+av2,v6-S / none,round1 combined,d2c6775c-e0a0-3460-b1b8-8d0ce2e0ae4e,76,77,2.4310542619300373,False,True
+av2,v6-S / none,round1 combined,e1e9d341-716f-3613-9ec2-2201c72361af,12,12,3.379811687806423,False,True
+av2,v6-S / none,round1 combined,e7e178aa-931a-4674-9bff-9278a54e6aae,24,27,1.7387840520812174,False,True
+av2,v6-S / none,round1 combined,e94f58d9-177b-31be-aa05-e6dd10d04124,0,2,3.16855921405317,True,False
+av2,looming + recovery,cheap,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,75,77,1.0941956914903224,True,False
+av2,looming + recovery,cheap,14bf638b-8f0d-35b2-a369-6d846b5b3892,43,45,1.0509656676307555,True,False
+av2,looming + recovery,cheap,14bf638b-8f0d-35b2-a369-6d846b5b3892,49,51,1.3766532122517596,True,False
+av2,looming + recovery,cheap,14c8d182-9586-3f21-ad20-c4e19ec03e2c,51,53,2.1658958509528343,True,False
+av2,looming + recovery,cheap,21f6ebe1-09c9-3a71-bdd9-58f45fbe9000,0,2,1.0817089880010449,True,False
+av2,looming + recovery,cheap,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,46,49,2.2721818374042377,True,False
+av2,looming + recovery,cheap,28617035-7557-3cb9-99c2-754f72fd34b4,35,35,1.700617914415978,True,False
+av2,looming + recovery,cheap,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,7,7,1.0120526848087676,True,False
+av2,looming + recovery,cheap,3c51357e-f6e9-3cda-9036-fe6e6cd442fe,15,20,2.167991419213259,True,False
+av2,looming + recovery,cheap,3dd173a6-8b21-3189-bd53-132919b96a48,71,78,1.3704818156300396,False,True
+av2,looming + recovery,cheap,422dd53b-6010-4eb9-8902-de3d134c5a70,78,79,1.3150368729252715,True,False
+av2,looming + recovery,cheap,444cce44-cc82-4620-b630-1b5849284ac7,32,34,1.707001334656288,True,False
+av2,looming + recovery,cheap,65d3f43d-1969-35d4-bf86-bd5e4b1ac803,75,75,1.1108447510326005,True,False
+av2,looming + recovery,cheap,6f2f7d1e-8ded-35c5-ba83-3ca906b05127,22,31,1.2333054109889523,True,False
+av2,looming + recovery,cheap,718a2f8d-954a-3cd8-89e6-43898cf21fee,9,16,1.40327328725463,False,True
+av2,looming + recovery,cheap,828ddef2-7609-3683-8e32-c21e7c07d6a6,36,52,1.2747915931003435,False,True
+av2,looming + recovery,cheap,8606d399-57d4-3ae9-938b-db7b8fb7ef8c,25,27,1.435139894328762,True,False
+av2,looming + recovery,cheap,8f317f00-f8b4-325e-a5c7-e4045427a610,70,70,1.3854907077348175,True,False
+av2,looming + recovery,cheap,953087a4-f704-37fe-a60f-82877e84a413,10,13,1.2860826212358267,True,False
+av2,looming + recovery,cheap,aedbd525-e6df-4c0c-8be6-61c27fe58fd6,78,79,1.1820268543035823,True,False
+av2,looming + recovery,cheap,af170aac-8465-3d7b-82c5-64147e94af7d,29,36,1.404708249151985,False,True
+av2,looming + recovery,cheap,b1527e96-5a5d-3adc-a893-314ab3a6012e,15,20,1.737805048462522,True,False
+av2,looming + recovery,cheap,b56e3f47-72a6-34e8-9ada-b4169e28e5b9,0,6,9.0,True,False
+av2,looming + recovery,cheap,bb110668-5037-3c04-bd34-34cf1ace8d0f,18,23,1.0679494991363538,False,True
+av2,looming + recovery,cheap,c85ebc24-0934-3423-9c14-f0fdbee64b68,9,12,1.0543440020079098,True,False
+av2,looming + recovery,cheap,cd822baf-4aa1-33fa-bfe5-d91386598edb,47,50,1.0393307684605448,False,True
+av2,looming + recovery,cheap,d2c6775c-e0a0-3460-b1b8-8d0ce2e0ae4e,76,77,2.4310542619300373,True,False
+av2,looming + recovery,cheap,e66d1403-755b-3f63-938b-a2a69446a48a,23,27,3.696987659257311,True,False
+av2,looming + recovery,cheap,e7e178aa-931a-4674-9bff-9278a54e6aae,24,27,1.7387840520812174,True,False
+av2,looming + recovery,cheap,e7e178aa-931a-4674-9bff-9278a54e6aae,35,48,1.8982014347103144,False,True
+av2,looming + recovery,cheap,f84b4941-8e99-3957-b6f6-db1590338cf6,15,15,1.1971032145051694,True,False
+av2,looming + recovery / half,cheap,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,0,4,1.0172004590965913,False,True
+av2,looming + recovery / half,cheap,14bf638b-8f0d-35b2-a369-6d846b5b3892,43,45,1.0509656676307555,True,False
+av2,looming + recovery / half,cheap,14c8d182-9586-3f21-ad20-c4e19ec03e2c,51,53,2.1658958509528343,True,False
+av2,looming + recovery / half,cheap,21f6ebe1-09c9-3a71-bdd9-58f45fbe9000,0,2,1.0817089880010449,True,False
+av2,looming + recovery / half,cheap,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,46,49,2.2721818374042377,True,False
+av2,looming + recovery / half,cheap,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,7,7,1.0120526848087676,True,False
+av2,looming + recovery / half,cheap,3c51357e-f6e9-3cda-9036-fe6e6cd442fe,15,20,2.167991419213259,True,False
+av2,looming + recovery / half,cheap,3dd173a6-8b21-3189-bd53-132919b96a48,71,78,1.3704818156300396,False,True
+av2,looming + recovery / half,cheap,422dd53b-6010-4eb9-8902-de3d134c5a70,78,79,1.3150368729252715,True,False
+av2,looming + recovery / half,cheap,444cce44-cc82-4620-b630-1b5849284ac7,32,34,1.707001334656288,True,False
+av2,looming + recovery / half,cheap,65d3f43d-1969-35d4-bf86-bd5e4b1ac803,75,75,1.1108447510326005,True,False
+av2,looming + recovery / half,cheap,6f2f7d1e-8ded-35c5-ba83-3ca906b05127,22,31,1.2333054109889523,True,False
+av2,looming + recovery / half,cheap,718a2f8d-954a-3cd8-89e6-43898cf21fee,9,16,1.40327328725463,False,True
+av2,looming + recovery / half,cheap,828ddef2-7609-3683-8e32-c21e7c07d6a6,36,52,1.2747915931003435,False,True
+av2,looming + recovery / half,cheap,8606d399-57d4-3ae9-938b-db7b8fb7ef8c,25,27,1.435139894328762,True,False
+av2,looming + recovery / half,cheap,8f317f00-f8b4-325e-a5c7-e4045427a610,70,70,1.3854907077348175,True,False
+av2,looming + recovery / half,cheap,953087a4-f704-37fe-a60f-82877e84a413,10,13,1.2860826212358267,True,False
+av2,looming + recovery / half,cheap,aedbd525-e6df-4c0c-8be6-61c27fe58fd6,78,79,1.1820268543035823,True,False
+av2,looming + recovery / half,cheap,af170aac-8465-3d7b-82c5-64147e94af7d,29,36,1.404708249151985,False,True
+av2,looming + recovery / half,cheap,b56e3f47-72a6-34e8-9ada-b4169e28e5b9,0,6,9.0,True,False
+av2,looming + recovery / half,cheap,bb110668-5037-3c04-bd34-34cf1ace8d0f,18,23,1.0679494991363538,False,True
+av2,looming + recovery / half,cheap,c85ebc24-0934-3423-9c14-f0fdbee64b68,9,12,1.0543440020079098,True,False
+av2,looming + recovery / half,cheap,cd822baf-4aa1-33fa-bfe5-d91386598edb,47,50,1.0393307684605448,False,True
+av2,looming + recovery / half,cheap,d2c6775c-e0a0-3460-b1b8-8d0ce2e0ae4e,76,77,2.4310542619300373,True,False
+av2,looming + recovery / half,cheap,e66d1403-755b-3f63-938b-a2a69446a48a,23,27,3.696987659257311,True,False
+av2,looming + recovery / half,cheap,e7e178aa-931a-4674-9bff-9278a54e6aae,24,27,1.7387840520812174,True,False
+av2,looming + recovery / half,cheap,e7e178aa-931a-4674-9bff-9278a54e6aae,35,48,1.8982014347103144,False,True
+av2,looming + recovery / half,cheap,f84b4941-8e99-3957-b6f6-db1590338cf6,15,15,1.1971032145051694,True,False
+av2,looming + recovery / none,cheap,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,0,4,1.0172004590965913,False,True
+av2,looming + recovery / none,cheap,14bf638b-8f0d-35b2-a369-6d846b5b3892,43,45,1.0509656676307555,True,False
+av2,looming + recovery / none,cheap,14c8d182-9586-3f21-ad20-c4e19ec03e2c,51,53,2.1658958509528343,True,False
+av2,looming + recovery / none,cheap,21f6ebe1-09c9-3a71-bdd9-58f45fbe9000,0,2,1.0817089880010449,True,False
+av2,looming + recovery / none,cheap,3dd173a6-8b21-3189-bd53-132919b96a48,71,78,1.3704818156300396,False,True
+av2,looming + recovery / none,cheap,422dd53b-6010-4eb9-8902-de3d134c5a70,78,79,1.3150368729252715,True,False
+av2,looming + recovery / none,cheap,444cce44-cc82-4620-b630-1b5849284ac7,32,34,1.707001334656288,True,False
+av2,looming + recovery / none,cheap,65d3f43d-1969-35d4-bf86-bd5e4b1ac803,75,75,1.1108447510326005,True,False
+av2,looming + recovery / none,cheap,718a2f8d-954a-3cd8-89e6-43898cf21fee,9,16,1.40327328725463,False,True
+av2,looming + recovery / none,cheap,828ddef2-7609-3683-8e32-c21e7c07d6a6,36,52,1.2747915931003435,False,True
+av2,looming + recovery / none,cheap,8606d399-57d4-3ae9-938b-db7b8fb7ef8c,25,27,1.435139894328762,True,False
+av2,looming + recovery / none,cheap,953087a4-f704-37fe-a60f-82877e84a413,10,13,1.2860826212358267,True,False
+av2,looming + recovery / none,cheap,aedbd525-e6df-4c0c-8be6-61c27fe58fd6,78,79,1.1820268543035823,True,False
+av2,looming + recovery / none,cheap,af170aac-8465-3d7b-82c5-64147e94af7d,29,36,1.404708249151985,False,True
+av2,looming + recovery / none,cheap,b56e3f47-72a6-34e8-9ada-b4169e28e5b9,0,6,9.0,True,False
+av2,looming + recovery / none,cheap,bb110668-5037-3c04-bd34-34cf1ace8d0f,18,23,1.0679494991363538,False,True
+av2,looming + recovery / none,cheap,cd822baf-4aa1-33fa-bfe5-d91386598edb,47,50,1.0393307684605448,False,True
+av2,looming + recovery / none,cheap,e1e9d341-716f-3613-9ec2-2201c72361af,12,12,3.379811687806423,False,True
+av2,looming + recovery / none,cheap,e66d1403-755b-3f63-938b-a2a69446a48a,23,27,3.696987659257311,True,False
+av2,looming + recovery / none,cheap,e7e178aa-931a-4674-9bff-9278a54e6aae,35,48,1.8982014347103144,False,True
+av2,looming + recovery / none,cheap,f84b4941-8e99-3957-b6f6-db1590338cf6,15,15,1.1971032145051694,True,False
+av2,proactive,cheap,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,75,77,1.0941956914903224,True,False
+av2,proactive,cheap,14bf638b-8f0d-35b2-a369-6d846b5b3892,43,45,1.0509656676307555,True,False
+av2,proactive,cheap,14bf638b-8f0d-35b2-a369-6d846b5b3892,49,51,1.3766532122517596,True,False
+av2,proactive,cheap,14c8d182-9586-3f21-ad20-c4e19ec03e2c,51,53,2.1658958509528343,True,False
+av2,proactive,cheap,21f6ebe1-09c9-3a71-bdd9-58f45fbe9000,0,2,1.0817089880010449,True,False
+av2,proactive,cheap,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,46,49,2.2721818374042377,True,False
+av2,proactive,cheap,28617035-7557-3cb9-99c2-754f72fd34b4,35,35,1.700617914415978,True,False
+av2,proactive,cheap,2b044433-ddc1-3580-b560-d46474934089,37,39,1.55629941510302,False,True
+av2,proactive,cheap,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,7,7,1.0120526848087676,True,False
+av2,proactive,cheap,3c51357e-f6e9-3cda-9036-fe6e6cd442fe,15,20,2.167991419213259,True,False
+av2,proactive,cheap,3dd173a6-8b21-3189-bd53-132919b96a48,71,78,1.3704818156300396,False,True
+av2,proactive,cheap,40bfcbec-ec59-3731-8e75-67f0bddc3b01,40,40,2.9137158544916004,True,False
+av2,proactive,cheap,422dd53b-6010-4eb9-8902-de3d134c5a70,78,79,1.3150368729252715,True,False
+av2,proactive,cheap,444cce44-cc82-4620-b630-1b5849284ac7,32,34,1.707001334656288,True,False
+av2,proactive,cheap,4d9e3bdf-7216-3161-8281-72863f3c2bf6,27,28,9.0,True,False
+av2,proactive,cheap,4e1ac476-80a2-3612-bfd7-1abd24d2b644,37,41,1.2583924835664888,True,False
+av2,proactive,cheap,53a8391f-b2d7-341f-95ce-b9174d48e040,78,78,4.941670410263528,True,False
+av2,proactive,cheap,65d3f43d-1969-35d4-bf86-bd5e4b1ac803,75,75,1.1108447510326005,True,False
+av2,proactive,cheap,6f2f7d1e-8ded-35c5-ba83-3ca906b05127,22,31,1.2333054109889523,True,False
+av2,proactive,cheap,6fdd8d39-7b04-365a-9941-e9e805b05ecf,9,13,1.85864150578067,True,False
+av2,proactive,cheap,718a2f8d-954a-3cd8-89e6-43898cf21fee,9,16,1.40327328725463,False,True
+av2,proactive,cheap,828ddef2-7609-3683-8e32-c21e7c07d6a6,36,52,1.2747915931003435,False,True
+av2,proactive,cheap,8606d399-57d4-3ae9-938b-db7b8fb7ef8c,25,27,1.435139894328762,True,False
+av2,proactive,cheap,8f317f00-f8b4-325e-a5c7-e4045427a610,70,70,1.3854907077348175,True,False
+av2,proactive,cheap,953087a4-f704-37fe-a60f-82877e84a413,10,13,1.2860826212358267,True,False
+av2,proactive,cheap,a8a3297d-62f3-31ac-8db7-95ef53ce0d31,40,41,9.0,True,False
+av2,proactive,cheap,aedbd525-e6df-4c0c-8be6-61c27fe58fd6,78,79,1.1820268543035823,True,False
+av2,proactive,cheap,af170aac-8465-3d7b-82c5-64147e94af7d,29,36,1.404708249151985,False,True
+av2,proactive,cheap,b1527e96-5a5d-3adc-a893-314ab3a6012e,15,20,1.737805048462522,True,False
+av2,proactive,cheap,b56e3f47-72a6-34e8-9ada-b4169e28e5b9,0,6,9.0,True,False
+av2,proactive,cheap,bb110668-5037-3c04-bd34-34cf1ace8d0f,18,23,1.0679494991363538,False,True
+av2,proactive,cheap,c85ebc24-0934-3423-9c14-f0fdbee64b68,9,12,1.0543440020079098,True,False
+av2,proactive,cheap,cd822baf-4aa1-33fa-bfe5-d91386598edb,47,50,1.0393307684605448,False,True
+av2,proactive,cheap,d2c6775c-e0a0-3460-b1b8-8d0ce2e0ae4e,76,77,2.4310542619300373,True,False
+av2,proactive,cheap,e331aa95-3660-3c71-be9e-030bab0b8ee2,45,46,2.2775871719965166,True,False
+av2,proactive,cheap,e66d1403-755b-3f63-938b-a2a69446a48a,23,27,3.696987659257311,True,False
+av2,proactive,cheap,e7e178aa-931a-4674-9bff-9278a54e6aae,24,27,1.7387840520812174,True,False
+av2,proactive,cheap,e7e178aa-931a-4674-9bff-9278a54e6aae,35,48,1.8982014347103144,False,True
+av2,proactive,cheap,e94f58d9-177b-31be-aa05-e6dd10d04124,0,2,3.16855921405317,True,False
+av2,proactive,cheap,f84b4941-8e99-3957-b6f6-db1590338cf6,15,15,1.1971032145051694,True,False
+av2,proactive + recovery,cheap,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,75,77,1.0941956914903224,True,False
+av2,proactive + recovery,cheap,14bf638b-8f0d-35b2-a369-6d846b5b3892,43,45,1.0509656676307555,True,False
+av2,proactive + recovery,cheap,14bf638b-8f0d-35b2-a369-6d846b5b3892,49,51,1.3766532122517596,True,False
+av2,proactive + recovery,cheap,14c8d182-9586-3f21-ad20-c4e19ec03e2c,51,53,2.1658958509528343,True,False
+av2,proactive + recovery,cheap,21f6ebe1-09c9-3a71-bdd9-58f45fbe9000,0,2,1.0817089880010449,True,False
+av2,proactive + recovery,cheap,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,46,49,2.2721818374042377,True,False
+av2,proactive + recovery,cheap,28617035-7557-3cb9-99c2-754f72fd34b4,35,35,1.700617914415978,True,False
+av2,proactive + recovery,cheap,2b044433-ddc1-3580-b560-d46474934089,37,39,1.55629941510302,False,True
+av2,proactive + recovery,cheap,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,7,7,1.0120526848087676,True,False
+av2,proactive + recovery,cheap,3c51357e-f6e9-3cda-9036-fe6e6cd442fe,15,20,2.167991419213259,True,False
+av2,proactive + recovery,cheap,3dd173a6-8b21-3189-bd53-132919b96a48,71,78,1.3704818156300396,False,True
+av2,proactive + recovery,cheap,422dd53b-6010-4eb9-8902-de3d134c5a70,78,79,1.3150368729252715,True,False
+av2,proactive + recovery,cheap,444cce44-cc82-4620-b630-1b5849284ac7,32,34,1.707001334656288,True,False
+av2,proactive + recovery,cheap,4e1ac476-80a2-3612-bfd7-1abd24d2b644,37,41,1.2583924835664888,True,False
+av2,proactive + recovery,cheap,65d3f43d-1969-35d4-bf86-bd5e4b1ac803,75,75,1.1108447510326005,True,False
+av2,proactive + recovery,cheap,6f2f7d1e-8ded-35c5-ba83-3ca906b05127,22,31,1.2333054109889523,True,False
+av2,proactive + recovery,cheap,718a2f8d-954a-3cd8-89e6-43898cf21fee,9,16,1.40327328725463,False,True
+av2,proactive + recovery,cheap,828ddef2-7609-3683-8e32-c21e7c07d6a6,36,52,1.2747915931003435,False,True
+av2,proactive + recovery,cheap,8606d399-57d4-3ae9-938b-db7b8fb7ef8c,25,27,1.435139894328762,True,False
+av2,proactive + recovery,cheap,8f317f00-f8b4-325e-a5c7-e4045427a610,70,70,1.3854907077348175,True,False
+av2,proactive + recovery,cheap,953087a4-f704-37fe-a60f-82877e84a413,10,13,1.2860826212358267,True,False
+av2,proactive + recovery,cheap,aedbd525-e6df-4c0c-8be6-61c27fe58fd6,78,79,1.1820268543035823,True,False
+av2,proactive + recovery,cheap,af170aac-8465-3d7b-82c5-64147e94af7d,29,36,1.404708249151985,False,True
+av2,proactive + recovery,cheap,b1527e96-5a5d-3adc-a893-314ab3a6012e,15,20,1.737805048462522,True,False
+av2,proactive + recovery,cheap,b56e3f47-72a6-34e8-9ada-b4169e28e5b9,0,6,9.0,True,False
+av2,proactive + recovery,cheap,bb110668-5037-3c04-bd34-34cf1ace8d0f,18,23,1.0679494991363538,False,True
+av2,proactive + recovery,cheap,c85ebc24-0934-3423-9c14-f0fdbee64b68,9,12,1.0543440020079098,True,False
+av2,proactive + recovery,cheap,cd822baf-4aa1-33fa-bfe5-d91386598edb,47,50,1.0393307684605448,False,True
+av2,proactive + recovery,cheap,d2c6775c-e0a0-3460-b1b8-8d0ce2e0ae4e,76,77,2.4310542619300373,True,False
+av2,proactive + recovery,cheap,e331aa95-3660-3c71-be9e-030bab0b8ee2,45,46,2.2775871719965166,True,False
+av2,proactive + recovery,cheap,e66d1403-755b-3f63-938b-a2a69446a48a,23,27,3.696987659257311,True,False
+av2,proactive + recovery,cheap,e7e178aa-931a-4674-9bff-9278a54e6aae,24,27,1.7387840520812174,True,False
+av2,proactive + recovery,cheap,e7e178aa-931a-4674-9bff-9278a54e6aae,35,48,1.8982014347103144,False,True
+av2,proactive + recovery,cheap,f84b4941-8e99-3957-b6f6-db1590338cf6,15,15,1.1971032145051694,True,False
+av2,proactive + recovery / half,cheap,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,0,4,1.0172004590965913,False,True
+av2,proactive + recovery / half,cheap,14bf638b-8f0d-35b2-a369-6d846b5b3892,43,45,1.0509656676307555,True,False
+av2,proactive + recovery / half,cheap,14c8d182-9586-3f21-ad20-c4e19ec03e2c,51,53,2.1658958509528343,True,False
+av2,proactive + recovery / half,cheap,21f6ebe1-09c9-3a71-bdd9-58f45fbe9000,0,2,1.0817089880010449,True,False
+av2,proactive + recovery / half,cheap,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,46,49,2.2721818374042377,True,False
+av2,proactive + recovery / half,cheap,2b044433-ddc1-3580-b560-d46474934089,37,39,1.55629941510302,False,True
+av2,proactive + recovery / half,cheap,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,7,7,1.0120526848087676,True,False
+av2,proactive + recovery / half,cheap,3c51357e-f6e9-3cda-9036-fe6e6cd442fe,15,20,2.167991419213259,True,False
+av2,proactive + recovery / half,cheap,3dd173a6-8b21-3189-bd53-132919b96a48,71,78,1.3704818156300396,False,True
+av2,proactive + recovery / half,cheap,422dd53b-6010-4eb9-8902-de3d134c5a70,78,79,1.3150368729252715,True,False
+av2,proactive + recovery / half,cheap,444cce44-cc82-4620-b630-1b5849284ac7,32,34,1.707001334656288,True,False
+av2,proactive + recovery / half,cheap,65d3f43d-1969-35d4-bf86-bd5e4b1ac803,75,75,1.1108447510326005,True,False
+av2,proactive + recovery / half,cheap,6f2f7d1e-8ded-35c5-ba83-3ca906b05127,22,31,1.2333054109889523,True,False
+av2,proactive + recovery / half,cheap,718a2f8d-954a-3cd8-89e6-43898cf21fee,9,16,1.40327328725463,False,True
+av2,proactive + recovery / half,cheap,828ddef2-7609-3683-8e32-c21e7c07d6a6,36,52,1.2747915931003435,False,True
+av2,proactive + recovery / half,cheap,8606d399-57d4-3ae9-938b-db7b8fb7ef8c,25,27,1.435139894328762,True,False
+av2,proactive + recovery / half,cheap,8f317f00-f8b4-325e-a5c7-e4045427a610,70,70,1.3854907077348175,True,False
+av2,proactive + recovery / half,cheap,953087a4-f704-37fe-a60f-82877e84a413,10,13,1.2860826212358267,True,False
+av2,proactive + recovery / half,cheap,aedbd525-e6df-4c0c-8be6-61c27fe58fd6,78,79,1.1820268543035823,True,False
+av2,proactive + recovery / half,cheap,af170aac-8465-3d7b-82c5-64147e94af7d,29,36,1.404708249151985,False,True
+av2,proactive + recovery / half,cheap,b56e3f47-72a6-34e8-9ada-b4169e28e5b9,0,6,9.0,True,False
+av2,proactive + recovery / half,cheap,bb110668-5037-3c04-bd34-34cf1ace8d0f,18,23,1.0679494991363538,False,True
+av2,proactive + recovery / half,cheap,c85ebc24-0934-3423-9c14-f0fdbee64b68,9,12,1.0543440020079098,True,False
+av2,proactive + recovery / half,cheap,cd822baf-4aa1-33fa-bfe5-d91386598edb,47,50,1.0393307684605448,False,True
+av2,proactive + recovery / half,cheap,d2c6775c-e0a0-3460-b1b8-8d0ce2e0ae4e,76,77,2.4310542619300373,True,False
+av2,proactive + recovery / half,cheap,e331aa95-3660-3c71-be9e-030bab0b8ee2,45,46,2.2775871719965166,True,False
+av2,proactive + recovery / half,cheap,e66d1403-755b-3f63-938b-a2a69446a48a,23,27,3.696987659257311,True,False
+av2,proactive + recovery / half,cheap,e7e178aa-931a-4674-9bff-9278a54e6aae,24,27,1.7387840520812174,True,False
+av2,proactive + recovery / half,cheap,e7e178aa-931a-4674-9bff-9278a54e6aae,35,48,1.8982014347103144,False,True
+av2,proactive + recovery / half,cheap,f84b4941-8e99-3957-b6f6-db1590338cf6,15,15,1.1971032145051694,True,False
+av2,proactive + recovery / none,cheap,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,0,4,1.0172004590965913,False,True
+av2,proactive + recovery / none,cheap,14bf638b-8f0d-35b2-a369-6d846b5b3892,43,45,1.0509656676307555,True,False
+av2,proactive + recovery / none,cheap,14c8d182-9586-3f21-ad20-c4e19ec03e2c,51,53,2.1658958509528343,True,False
+av2,proactive + recovery / none,cheap,21f6ebe1-09c9-3a71-bdd9-58f45fbe9000,0,2,1.0817089880010449,True,False
+av2,proactive + recovery / none,cheap,2b044433-ddc1-3580-b560-d46474934089,37,39,1.55629941510302,False,True
+av2,proactive + recovery / none,cheap,3dd173a6-8b21-3189-bd53-132919b96a48,71,78,1.3704818156300396,False,True
+av2,proactive + recovery / none,cheap,422dd53b-6010-4eb9-8902-de3d134c5a70,78,79,1.3150368729252715,True,False
+av2,proactive + recovery / none,cheap,444cce44-cc82-4620-b630-1b5849284ac7,32,34,1.707001334656288,True,False
+av2,proactive + recovery / none,cheap,65d3f43d-1969-35d4-bf86-bd5e4b1ac803,75,75,1.1108447510326005,True,False
+av2,proactive + recovery / none,cheap,718a2f8d-954a-3cd8-89e6-43898cf21fee,9,16,1.40327328725463,False,True
+av2,proactive + recovery / none,cheap,828ddef2-7609-3683-8e32-c21e7c07d6a6,36,52,1.2747915931003435,False,True
+av2,proactive + recovery / none,cheap,8606d399-57d4-3ae9-938b-db7b8fb7ef8c,25,27,1.435139894328762,True,False
+av2,proactive + recovery / none,cheap,953087a4-f704-37fe-a60f-82877e84a413,10,13,1.2860826212358267,True,False
+av2,proactive + recovery / none,cheap,aedbd525-e6df-4c0c-8be6-61c27fe58fd6,78,79,1.1820268543035823,True,False
+av2,proactive + recovery / none,cheap,af170aac-8465-3d7b-82c5-64147e94af7d,29,36,1.404708249151985,False,True
+av2,proactive + recovery / none,cheap,b56e3f47-72a6-34e8-9ada-b4169e28e5b9,0,6,9.0,True,False
+av2,proactive + recovery / none,cheap,bb110668-5037-3c04-bd34-34cf1ace8d0f,18,23,1.0679494991363538,False,True
+av2,proactive + recovery / none,cheap,cd822baf-4aa1-33fa-bfe5-d91386598edb,47,50,1.0393307684605448,False,True
+av2,proactive + recovery / none,cheap,e1e9d341-716f-3613-9ec2-2201c72361af,12,12,3.379811687806423,False,True
+av2,proactive + recovery / none,cheap,e331aa95-3660-3c71-be9e-030bab0b8ee2,45,46,2.2775871719965166,True,False
+av2,proactive + recovery / none,cheap,e66d1403-755b-3f63-938b-a2a69446a48a,23,27,3.696987659257311,True,False
+av2,proactive + recovery / none,cheap,e7e178aa-931a-4674-9bff-9278a54e6aae,35,48,1.8982014347103144,False,True
+av2,proactive + recovery / none,cheap,f84b4941-8e99-3957-b6f6-db1590338cf6,15,15,1.1971032145051694,True,False
+av2,proactive / half,cheap,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,0,4,1.0172004590965913,False,True
+av2,proactive / half,cheap,14bf638b-8f0d-35b2-a369-6d846b5b3892,43,45,1.0509656676307555,True,False
+av2,proactive / half,cheap,14c8d182-9586-3f21-ad20-c4e19ec03e2c,51,53,2.1658958509528343,True,False
+av2,proactive / half,cheap,21f6ebe1-09c9-3a71-bdd9-58f45fbe9000,0,2,1.0817089880010449,True,False
+av2,proactive / half,cheap,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,46,49,2.2721818374042377,True,False
+av2,proactive / half,cheap,2b044433-ddc1-3580-b560-d46474934089,37,39,1.55629941510302,False,True
+av2,proactive / half,cheap,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,7,7,1.0120526848087676,True,False
+av2,proactive / half,cheap,3c51357e-f6e9-3cda-9036-fe6e6cd442fe,15,20,2.167991419213259,True,False
+av2,proactive / half,cheap,3dd173a6-8b21-3189-bd53-132919b96a48,71,78,1.3704818156300396,False,True
+av2,proactive / half,cheap,40bfcbec-ec59-3731-8e75-67f0bddc3b01,40,40,2.9137158544916004,True,False
+av2,proactive / half,cheap,422dd53b-6010-4eb9-8902-de3d134c5a70,78,79,1.3150368729252715,True,False
+av2,proactive / half,cheap,444cce44-cc82-4620-b630-1b5849284ac7,32,34,1.707001334656288,True,False
+av2,proactive / half,cheap,4d9e3bdf-7216-3161-8281-72863f3c2bf6,27,28,9.0,True,False
+av2,proactive / half,cheap,53a8391f-b2d7-341f-95ce-b9174d48e040,78,78,4.941670410263528,True,False
+av2,proactive / half,cheap,65d3f43d-1969-35d4-bf86-bd5e4b1ac803,75,75,1.1108447510326005,True,False
+av2,proactive / half,cheap,6f2f7d1e-8ded-35c5-ba83-3ca906b05127,22,31,1.2333054109889523,True,False
+av2,proactive / half,cheap,6fdd8d39-7b04-365a-9941-e9e805b05ecf,9,13,1.85864150578067,True,False
+av2,proactive / half,cheap,718a2f8d-954a-3cd8-89e6-43898cf21fee,9,16,1.40327328725463,False,True
+av2,proactive / half,cheap,828ddef2-7609-3683-8e32-c21e7c07d6a6,36,52,1.2747915931003435,False,True
+av2,proactive / half,cheap,8606d399-57d4-3ae9-938b-db7b8fb7ef8c,25,27,1.435139894328762,True,False
+av2,proactive / half,cheap,8f317f00-f8b4-325e-a5c7-e4045427a610,70,70,1.3854907077348175,True,False
+av2,proactive / half,cheap,953087a4-f704-37fe-a60f-82877e84a413,10,13,1.2860826212358267,True,False
+av2,proactive / half,cheap,a8a3297d-62f3-31ac-8db7-95ef53ce0d31,40,41,9.0,True,False
+av2,proactive / half,cheap,aedbd525-e6df-4c0c-8be6-61c27fe58fd6,78,79,1.1820268543035823,True,False
+av2,proactive / half,cheap,af170aac-8465-3d7b-82c5-64147e94af7d,29,36,1.404708249151985,False,True
+av2,proactive / half,cheap,b56e3f47-72a6-34e8-9ada-b4169e28e5b9,0,6,9.0,True,False
+av2,proactive / half,cheap,bb110668-5037-3c04-bd34-34cf1ace8d0f,18,23,1.0679494991363538,False,True
+av2,proactive / half,cheap,c85ebc24-0934-3423-9c14-f0fdbee64b68,9,12,1.0543440020079098,True,False
+av2,proactive / half,cheap,cd822baf-4aa1-33fa-bfe5-d91386598edb,47,50,1.0393307684605448,False,True
+av2,proactive / half,cheap,d2c6775c-e0a0-3460-b1b8-8d0ce2e0ae4e,76,77,2.4310542619300373,True,False
+av2,proactive / half,cheap,e331aa95-3660-3c71-be9e-030bab0b8ee2,45,46,2.2775871719965166,True,False
+av2,proactive / half,cheap,e66d1403-755b-3f63-938b-a2a69446a48a,23,27,3.696987659257311,True,False
+av2,proactive / half,cheap,e7e178aa-931a-4674-9bff-9278a54e6aae,24,27,1.7387840520812174,True,False
+av2,proactive / half,cheap,e7e178aa-931a-4674-9bff-9278a54e6aae,35,48,1.8982014347103144,False,True
+av2,proactive / half,cheap,e94f58d9-177b-31be-aa05-e6dd10d04124,0,2,3.16855921405317,True,False
+av2,proactive / half,cheap,f84b4941-8e99-3957-b6f6-db1590338cf6,15,15,1.1971032145051694,True,False
+av2,proactive / none,cheap,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,0,4,1.0172004590965913,False,True
+av2,proactive / none,cheap,14bf638b-8f0d-35b2-a369-6d846b5b3892,43,45,1.0509656676307555,True,False
+av2,proactive / none,cheap,14c8d182-9586-3f21-ad20-c4e19ec03e2c,51,53,2.1658958509528343,True,False
+av2,proactive / none,cheap,21f6ebe1-09c9-3a71-bdd9-58f45fbe9000,0,2,1.0817089880010449,True,False
+av2,proactive / none,cheap,2b044433-ddc1-3580-b560-d46474934089,37,39,1.55629941510302,False,True
+av2,proactive / none,cheap,3dd173a6-8b21-3189-bd53-132919b96a48,71,78,1.3704818156300396,False,True
+av2,proactive / none,cheap,40bfcbec-ec59-3731-8e75-67f0bddc3b01,40,40,2.9137158544916004,True,False
+av2,proactive / none,cheap,422dd53b-6010-4eb9-8902-de3d134c5a70,78,79,1.3150368729252715,True,False
+av2,proactive / none,cheap,444cce44-cc82-4620-b630-1b5849284ac7,32,34,1.707001334656288,True,False
+av2,proactive / none,cheap,4d9e3bdf-7216-3161-8281-72863f3c2bf6,27,28,9.0,True,False
+av2,proactive / none,cheap,53a8391f-b2d7-341f-95ce-b9174d48e040,78,78,4.941670410263528,True,False
+av2,proactive / none,cheap,65d3f43d-1969-35d4-bf86-bd5e4b1ac803,75,75,1.1108447510326005,True,False
+av2,proactive / none,cheap,6fdd8d39-7b04-365a-9941-e9e805b05ecf,9,13,1.85864150578067,True,False
+av2,proactive / none,cheap,718a2f8d-954a-3cd8-89e6-43898cf21fee,9,16,1.40327328725463,False,True
+av2,proactive / none,cheap,828ddef2-7609-3683-8e32-c21e7c07d6a6,36,52,1.2747915931003435,False,True
+av2,proactive / none,cheap,8606d399-57d4-3ae9-938b-db7b8fb7ef8c,25,27,1.435139894328762,True,False
+av2,proactive / none,cheap,953087a4-f704-37fe-a60f-82877e84a413,10,13,1.2860826212358267,True,False
+av2,proactive / none,cheap,a8a3297d-62f3-31ac-8db7-95ef53ce0d31,40,41,9.0,True,False
+av2,proactive / none,cheap,aedbd525-e6df-4c0c-8be6-61c27fe58fd6,78,79,1.1820268543035823,True,False
+av2,proactive / none,cheap,af170aac-8465-3d7b-82c5-64147e94af7d,29,36,1.404708249151985,False,True
+av2,proactive / none,cheap,b56e3f47-72a6-34e8-9ada-b4169e28e5b9,0,6,9.0,True,False
+av2,proactive / none,cheap,bb110668-5037-3c04-bd34-34cf1ace8d0f,18,23,1.0679494991363538,False,True
+av2,proactive / none,cheap,cd822baf-4aa1-33fa-bfe5-d91386598edb,47,50,1.0393307684605448,False,True
+av2,proactive / none,cheap,e1e9d341-716f-3613-9ec2-2201c72361af,12,12,3.379811687806423,False,True
+av2,proactive / none,cheap,e331aa95-3660-3c71-be9e-030bab0b8ee2,45,46,2.2775871719965166,True,False
+av2,proactive / none,cheap,e66d1403-755b-3f63-938b-a2a69446a48a,23,27,3.696987659257311,True,False
+av2,proactive / none,cheap,e7e178aa-931a-4674-9bff-9278a54e6aae,35,48,1.8982014347103144,False,True
+av2,proactive / none,cheap,e94f58d9-177b-31be-aa05-e6dd10d04124,0,2,3.16855921405317,True,False
+av2,proactive / none,cheap,f84b4941-8e99-3957-b6f6-db1590338cf6,15,15,1.1971032145051694,True,False
+av2,round1 combined,cheap,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,75,77,1.0941956914903224,True,False
+av2,round1 combined,cheap,14bf638b-8f0d-35b2-a369-6d846b5b3892,43,45,1.0509656676307555,True,False
+av2,round1 combined,cheap,14bf638b-8f0d-35b2-a369-6d846b5b3892,49,51,1.3766532122517596,True,False
+av2,round1 combined,cheap,14c8d182-9586-3f21-ad20-c4e19ec03e2c,51,53,2.1658958509528343,True,False
+av2,round1 combined,cheap,21f6ebe1-09c9-3a71-bdd9-58f45fbe9000,0,2,1.0817089880010449,True,False
+av2,round1 combined,cheap,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,46,49,2.2721818374042377,True,False
+av2,round1 combined,cheap,28617035-7557-3cb9-99c2-754f72fd34b4,35,35,1.700617914415978,True,False
+av2,round1 combined,cheap,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,7,7,1.0120526848087676,True,False
+av2,round1 combined,cheap,3c51357e-f6e9-3cda-9036-fe6e6cd442fe,15,20,2.167991419213259,True,False
+av2,round1 combined,cheap,3dd173a6-8b21-3189-bd53-132919b96a48,71,78,1.3704818156300396,False,True
+av2,round1 combined,cheap,422dd53b-6010-4eb9-8902-de3d134c5a70,78,79,1.3150368729252715,True,False
+av2,round1 combined,cheap,444cce44-cc82-4620-b630-1b5849284ac7,32,34,1.707001334656288,True,False
+av2,round1 combined,cheap,4e1ac476-80a2-3612-bfd7-1abd24d2b644,37,41,1.2583924835664888,True,False
+av2,round1 combined,cheap,65d3f43d-1969-35d4-bf86-bd5e4b1ac803,75,75,1.1108447510326005,True,False
+av2,round1 combined,cheap,6f2f7d1e-8ded-35c5-ba83-3ca906b05127,22,31,1.2333054109889523,True,False
+av2,round1 combined,cheap,718a2f8d-954a-3cd8-89e6-43898cf21fee,9,16,1.40327328725463,False,True
+av2,round1 combined,cheap,828ddef2-7609-3683-8e32-c21e7c07d6a6,36,52,1.2747915931003435,False,True
+av2,round1 combined,cheap,8606d399-57d4-3ae9-938b-db7b8fb7ef8c,25,27,1.435139894328762,True,False
+av2,round1 combined,cheap,8f317f00-f8b4-325e-a5c7-e4045427a610,70,70,1.3854907077348175,True,False
+av2,round1 combined,cheap,953087a4-f704-37fe-a60f-82877e84a413,10,13,1.2860826212358267,True,False
+av2,round1 combined,cheap,aedbd525-e6df-4c0c-8be6-61c27fe58fd6,78,79,1.1820268543035823,True,False
+av2,round1 combined,cheap,af170aac-8465-3d7b-82c5-64147e94af7d,29,36,1.404708249151985,False,True
+av2,round1 combined,cheap,b1527e96-5a5d-3adc-a893-314ab3a6012e,15,20,1.737805048462522,True,False
+av2,round1 combined,cheap,b56e3f47-72a6-34e8-9ada-b4169e28e5b9,0,6,9.0,True,False
+av2,round1 combined,cheap,bb110668-5037-3c04-bd34-34cf1ace8d0f,18,23,1.0679494991363538,False,True
+av2,round1 combined,cheap,c85ebc24-0934-3423-9c14-f0fdbee64b68,9,12,1.0543440020079098,True,False
+av2,round1 combined,cheap,cd822baf-4aa1-33fa-bfe5-d91386598edb,47,50,1.0393307684605448,False,True
+av2,round1 combined,cheap,d2c6775c-e0a0-3460-b1b8-8d0ce2e0ae4e,76,77,2.4310542619300373,True,False
+av2,round1 combined,cheap,e331aa95-3660-3c71-be9e-030bab0b8ee2,45,46,2.2775871719965166,True,False
+av2,round1 combined,cheap,e66d1403-755b-3f63-938b-a2a69446a48a,23,27,3.696987659257311,True,False
+av2,round1 combined,cheap,e7e178aa-931a-4674-9bff-9278a54e6aae,24,27,1.7387840520812174,True,False
+av2,round1 combined,cheap,e7e178aa-931a-4674-9bff-9278a54e6aae,35,48,1.8982014347103144,False,True
+av2,round1 combined,cheap,f84b4941-8e99-3957-b6f6-db1590338cf6,15,15,1.1971032145051694,True,False
+av2,round1 combined / half,cheap,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,0,4,1.0172004590965913,False,True
+av2,round1 combined / half,cheap,14bf638b-8f0d-35b2-a369-6d846b5b3892,43,45,1.0509656676307555,True,False
+av2,round1 combined / half,cheap,14c8d182-9586-3f21-ad20-c4e19ec03e2c,51,53,2.1658958509528343,True,False
+av2,round1 combined / half,cheap,21f6ebe1-09c9-3a71-bdd9-58f45fbe9000,0,2,1.0817089880010449,True,False
+av2,round1 combined / half,cheap,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,46,49,2.2721818374042377,True,False
+av2,round1 combined / half,cheap,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,7,7,1.0120526848087676,True,False
+av2,round1 combined / half,cheap,3c51357e-f6e9-3cda-9036-fe6e6cd442fe,15,20,2.167991419213259,True,False
+av2,round1 combined / half,cheap,3dd173a6-8b21-3189-bd53-132919b96a48,71,78,1.3704818156300396,False,True
+av2,round1 combined / half,cheap,422dd53b-6010-4eb9-8902-de3d134c5a70,78,79,1.3150368729252715,True,False
+av2,round1 combined / half,cheap,444cce44-cc82-4620-b630-1b5849284ac7,32,34,1.707001334656288,True,False
+av2,round1 combined / half,cheap,65d3f43d-1969-35d4-bf86-bd5e4b1ac803,75,75,1.1108447510326005,True,False
+av2,round1 combined / half,cheap,6f2f7d1e-8ded-35c5-ba83-3ca906b05127,22,31,1.2333054109889523,True,False
+av2,round1 combined / half,cheap,718a2f8d-954a-3cd8-89e6-43898cf21fee,9,16,1.40327328725463,False,True
+av2,round1 combined / half,cheap,828ddef2-7609-3683-8e32-c21e7c07d6a6,36,52,1.2747915931003435,False,True
+av2,round1 combined / half,cheap,8606d399-57d4-3ae9-938b-db7b8fb7ef8c,25,27,1.435139894328762,True,False
+av2,round1 combined / half,cheap,8f317f00-f8b4-325e-a5c7-e4045427a610,70,70,1.3854907077348175,True,False
+av2,round1 combined / half,cheap,953087a4-f704-37fe-a60f-82877e84a413,10,13,1.2860826212358267,True,False
+av2,round1 combined / half,cheap,aedbd525-e6df-4c0c-8be6-61c27fe58fd6,78,79,1.1820268543035823,True,False
+av2,round1 combined / half,cheap,af170aac-8465-3d7b-82c5-64147e94af7d,29,36,1.404708249151985,False,True
+av2,round1 combined / half,cheap,b56e3f47-72a6-34e8-9ada-b4169e28e5b9,0,6,9.0,True,False
+av2,round1 combined / half,cheap,bb110668-5037-3c04-bd34-34cf1ace8d0f,18,23,1.0679494991363538,False,True
+av2,round1 combined / half,cheap,c85ebc24-0934-3423-9c14-f0fdbee64b68,9,12,1.0543440020079098,True,False
+av2,round1 combined / half,cheap,cd822baf-4aa1-33fa-bfe5-d91386598edb,47,50,1.0393307684605448,False,True
+av2,round1 combined / half,cheap,d2c6775c-e0a0-3460-b1b8-8d0ce2e0ae4e,76,77,2.4310542619300373,True,False
+av2,round1 combined / half,cheap,e331aa95-3660-3c71-be9e-030bab0b8ee2,45,46,2.2775871719965166,True,False
+av2,round1 combined / half,cheap,e66d1403-755b-3f63-938b-a2a69446a48a,23,27,3.696987659257311,True,False
+av2,round1 combined / half,cheap,e7e178aa-931a-4674-9bff-9278a54e6aae,24,27,1.7387840520812174,True,False
+av2,round1 combined / half,cheap,e7e178aa-931a-4674-9bff-9278a54e6aae,35,48,1.8982014347103144,False,True
+av2,round1 combined / half,cheap,f84b4941-8e99-3957-b6f6-db1590338cf6,15,15,1.1971032145051694,True,False
+av2,round1 combined / none,cheap,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,0,4,1.0172004590965913,False,True
+av2,round1 combined / none,cheap,14bf638b-8f0d-35b2-a369-6d846b5b3892,43,45,1.0509656676307555,True,False
+av2,round1 combined / none,cheap,14c8d182-9586-3f21-ad20-c4e19ec03e2c,51,53,2.1658958509528343,True,False
+av2,round1 combined / none,cheap,21f6ebe1-09c9-3a71-bdd9-58f45fbe9000,0,2,1.0817089880010449,True,False
+av2,round1 combined / none,cheap,3dd173a6-8b21-3189-bd53-132919b96a48,71,78,1.3704818156300396,False,True
+av2,round1 combined / none,cheap,422dd53b-6010-4eb9-8902-de3d134c5a70,78,79,1.3150368729252715,True,False
+av2,round1 combined / none,cheap,444cce44-cc82-4620-b630-1b5849284ac7,32,34,1.707001334656288,True,False
+av2,round1 combined / none,cheap,65d3f43d-1969-35d4-bf86-bd5e4b1ac803,75,75,1.1108447510326005,True,False
+av2,round1 combined / none,cheap,718a2f8d-954a-3cd8-89e6-43898cf21fee,9,16,1.40327328725463,False,True
+av2,round1 combined / none,cheap,828ddef2-7609-3683-8e32-c21e7c07d6a6,36,52,1.2747915931003435,False,True
+av2,round1 combined / none,cheap,8606d399-57d4-3ae9-938b-db7b8fb7ef8c,25,27,1.435139894328762,True,False
+av2,round1 combined / none,cheap,953087a4-f704-37fe-a60f-82877e84a413,10,13,1.2860826212358267,True,False
+av2,round1 combined / none,cheap,aedbd525-e6df-4c0c-8be6-61c27fe58fd6,78,79,1.1820268543035823,True,False
+av2,round1 combined / none,cheap,af170aac-8465-3d7b-82c5-64147e94af7d,29,36,1.404708249151985,False,True
+av2,round1 combined / none,cheap,b56e3f47-72a6-34e8-9ada-b4169e28e5b9,0,6,9.0,True,False
+av2,round1 combined / none,cheap,bb110668-5037-3c04-bd34-34cf1ace8d0f,18,23,1.0679494991363538,False,True
+av2,round1 combined / none,cheap,cd822baf-4aa1-33fa-bfe5-d91386598edb,47,50,1.0393307684605448,False,True
+av2,round1 combined / none,cheap,e1e9d341-716f-3613-9ec2-2201c72361af,12,12,3.379811687806423,False,True
+av2,round1 combined / none,cheap,e331aa95-3660-3c71-be9e-030bab0b8ee2,45,46,2.2775871719965166,True,False
+av2,round1 combined / none,cheap,e66d1403-755b-3f63-938b-a2a69446a48a,23,27,3.696987659257311,True,False
+av2,round1 combined / none,cheap,e7e178aa-931a-4674-9bff-9278a54e6aae,35,48,1.8982014347103144,False,True
+av2,round1 combined / none,cheap,f84b4941-8e99-3957-b6f6-db1590338cf6,15,15,1.1971032145051694,True,False
+av2,v6-S,cheap,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,75,77,1.0941956914903224,True,False
+av2,v6-S,cheap,14bf638b-8f0d-35b2-a369-6d846b5b3892,43,45,1.0509656676307555,True,False
+av2,v6-S,cheap,14bf638b-8f0d-35b2-a369-6d846b5b3892,49,51,1.3766532122517596,True,False
+av2,v6-S,cheap,14c8d182-9586-3f21-ad20-c4e19ec03e2c,51,53,2.1658958509528343,True,False
+av2,v6-S,cheap,21f6ebe1-09c9-3a71-bdd9-58f45fbe9000,0,2,1.0817089880010449,True,False
+av2,v6-S,cheap,22dcf96c-ef5e-376b-9db5-dc9f91040f5e,46,49,2.2721818374042377,True,False
+av2,v6-S,cheap,28617035-7557-3cb9-99c2-754f72fd34b4,35,35,1.700617914415978,True,False
+av2,v6-S,cheap,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,7,7,1.0120526848087676,True,False
+av2,v6-S,cheap,3844f8a9-b7d4-4919-8e9b-a0370ad29ec0,19,24,1.4063869895486685,True,False
+av2,v6-S,cheap,3c51357e-f6e9-3cda-9036-fe6e6cd442fe,15,20,2.167991419213259,True,False
+av2,v6-S,cheap,3dd173a6-8b21-3189-bd53-132919b96a48,71,78,1.3704818156300396,False,True
+av2,v6-S,cheap,3fa8c20e-a4b4-3af6-b9c4-6cb96f83916d,39,43,1.4462562591565196,True,False
+av2,v6-S,cheap,40bfcbec-ec59-3731-8e75-67f0bddc3b01,40,40,2.9137158544916004,True,False
+av2,v6-S,cheap,422dd53b-6010-4eb9-8902-de3d134c5a70,78,79,1.3150368729252715,True,False
+av2,v6-S,cheap,444cce44-cc82-4620-b630-1b5849284ac7,32,34,1.707001334656288,True,False
+av2,v6-S,cheap,4d9e3bdf-7216-3161-8281-72863f3c2bf6,27,28,9.0,True,False
+av2,v6-S,cheap,4e1ac476-80a2-3612-bfd7-1abd24d2b644,37,41,1.2583924835664888,True,False
+av2,v6-S,cheap,53a8391f-b2d7-341f-95ce-b9174d48e040,78,78,4.941670410263528,True,False
+av2,v6-S,cheap,61e56102-4d85-3a40-bbba-1a007c816f68,64,65,1.6068692764307595,True,False
+av2,v6-S,cheap,65d3f43d-1969-35d4-bf86-bd5e4b1ac803,75,75,1.1108447510326005,True,False
+av2,v6-S,cheap,6f2f7d1e-8ded-35c5-ba83-3ca906b05127,22,31,1.2333054109889523,True,False
+av2,v6-S,cheap,6fdd8d39-7b04-365a-9941-e9e805b05ecf,9,13,1.85864150578067,True,False
+av2,v6-S,cheap,718a2f8d-954a-3cd8-89e6-43898cf21fee,9,16,1.40327328725463,False,True
+av2,v6-S,cheap,828ddef2-7609-3683-8e32-c21e7c07d6a6,36,52,1.2747915931003435,False,True
+av2,v6-S,cheap,8606d399-57d4-3ae9-938b-db7b8fb7ef8c,25,27,1.435139894328762,True,False
+av2,v6-S,cheap,8f317f00-f8b4-325e-a5c7-e4045427a610,70,70,1.3854907077348175,True,False
+av2,v6-S,cheap,953087a4-f704-37fe-a60f-82877e84a413,10,13,1.2860826212358267,True,False
+av2,v6-S,cheap,a3876690-9d49-3c98-9421-02cfe0ccb551,48,50,1.01688882447941,True,False
+av2,v6-S,cheap,a8a3297d-62f3-31ac-8db7-95ef53ce0d31,40,41,9.0,True,False
+av2,v6-S,cheap,aedbd525-e6df-4c0c-8be6-61c27fe58fd6,78,79,1.1820268543035823,True,False
+av2,v6-S,cheap,af170aac-8465-3d7b-82c5-64147e94af7d,29,36,1.404708249151985,False,True
+av2,v6-S,cheap,b1527e96-5a5d-3adc-a893-314ab3a6012e,15,20,1.737805048462522,True,False
+av2,v6-S,cheap,b56e3f47-72a6-34e8-9ada-b4169e28e5b9,0,6,9.0,True,False
+av2,v6-S,cheap,bb110668-5037-3c04-bd34-34cf1ace8d0f,18,23,1.0679494991363538,False,True
+av2,v6-S,cheap,c85ebc24-0934-3423-9c14-f0fdbee64b68,9,12,1.0543440020079098,True,False
+av2,v6-S,cheap,cd822baf-4aa1-33fa-bfe5-d91386598edb,47,50,1.0393307684605448,False,True
+av2,v6-S,cheap,d2c6775c-e0a0-3460-b1b8-8d0ce2e0ae4e,76,77,2.4310542619300373,True,False
+av2,v6-S,cheap,e331aa95-3660-3c71-be9e-030bab0b8ee2,45,46,2.2775871719965166,True,False
+av2,v6-S,cheap,e66d1403-755b-3f63-938b-a2a69446a48a,23,27,3.696987659257311,True,False
+av2,v6-S,cheap,e7e178aa-931a-4674-9bff-9278a54e6aae,24,27,1.7387840520812174,True,False
+av2,v6-S,cheap,e7e178aa-931a-4674-9bff-9278a54e6aae,35,48,1.8982014347103144,False,True
+av2,v6-S,cheap,e94f58d9-177b-31be-aa05-e6dd10d04124,0,2,3.16855921405317,True,False
+av2,v6-S,cheap,f84b4941-8e99-3957-b6f6-db1590338cf6,15,15,1.1971032145051694,True,False
+av2,v6-S / half,cheap,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,0,4,1.0172004590965913,False,True
+av2,v6-S / half,cheap,14bf638b-8f0d-35b2-a369-6d846b5b3892,43,45,1.0509656676307555,True,False
+av2,v6-S / half,cheap,14c8d182-9586-3f21-ad20-c4e19ec03e2c,51,53,2.1658958509528343,True,False
+av2,v6-S / half,cheap,21f6ebe1-09c9-3a71-bdd9-58f45fbe9000,0,2,1.0817089880010449,True,False
+av2,v6-S / half,cheap,382cf8af-6c8d-3ed9-907b-12214d2c7cb0,7,7,1.0120526848087676,True,False
+av2,v6-S / half,cheap,3844f8a9-b7d4-4919-8e9b-a0370ad29ec0,19,24,1.4063869895486685,True,False
+av2,v6-S / half,cheap,3c51357e-f6e9-3cda-9036-fe6e6cd442fe,15,20,2.167991419213259,True,False
+av2,v6-S / half,cheap,3dd173a6-8b21-3189-bd53-132919b96a48,71,78,1.3704818156300396,False,True
+av2,v6-S / half,cheap,3fa8c20e-a4b4-3af6-b9c4-6cb96f83916d,39,43,1.4462562591565196,True,False
+av2,v6-S / half,cheap,40bfcbec-ec59-3731-8e75-67f0bddc3b01,40,40,2.9137158544916004,True,False
+av2,v6-S / half,cheap,422dd53b-6010-4eb9-8902-de3d134c5a70,78,79,1.3150368729252715,True,False
+av2,v6-S / half,cheap,444cce44-cc82-4620-b630-1b5849284ac7,32,34,1.707001334656288,True,False
+av2,v6-S / half,cheap,4d9e3bdf-7216-3161-8281-72863f3c2bf6,27,28,9.0,True,False
+av2,v6-S / half,cheap,53a8391f-b2d7-341f-95ce-b9174d48e040,78,78,4.941670410263528,True,False
+av2,v6-S / half,cheap,61e56102-4d85-3a40-bbba-1a007c816f68,64,65,1.6068692764307595,True,False
+av2,v6-S / half,cheap,65d3f43d-1969-35d4-bf86-bd5e4b1ac803,75,75,1.1108447510326005,True,False
+av2,v6-S / half,cheap,6f2f7d1e-8ded-35c5-ba83-3ca906b05127,22,31,1.2333054109889523,True,False
+av2,v6-S / half,cheap,6fdd8d39-7b04-365a-9941-e9e805b05ecf,9,13,1.85864150578067,True,False
+av2,v6-S / half,cheap,718a2f8d-954a-3cd8-89e6-43898cf21fee,9,16,1.40327328725463,False,True
+av2,v6-S / half,cheap,828ddef2-7609-3683-8e32-c21e7c07d6a6,36,52,1.2747915931003435,False,True
+av2,v6-S / half,cheap,8606d399-57d4-3ae9-938b-db7b8fb7ef8c,25,27,1.435139894328762,True,False
+av2,v6-S / half,cheap,8f317f00-f8b4-325e-a5c7-e4045427a610,70,70,1.3854907077348175,True,False
+av2,v6-S / half,cheap,953087a4-f704-37fe-a60f-82877e84a413,10,13,1.2860826212358267,True,False
+av2,v6-S / half,cheap,a3876690-9d49-3c98-9421-02cfe0ccb551,48,50,1.01688882447941,True,False
+av2,v6-S / half,cheap,a8a3297d-62f3-31ac-8db7-95ef53ce0d31,40,41,9.0,True,False
+av2,v6-S / half,cheap,aedbd525-e6df-4c0c-8be6-61c27fe58fd6,78,79,1.1820268543035823,True,False
+av2,v6-S / half,cheap,af170aac-8465-3d7b-82c5-64147e94af7d,29,36,1.404708249151985,False,True
+av2,v6-S / half,cheap,b56e3f47-72a6-34e8-9ada-b4169e28e5b9,0,6,9.0,True,False
+av2,v6-S / half,cheap,bb110668-5037-3c04-bd34-34cf1ace8d0f,18,23,1.0679494991363538,False,True
+av2,v6-S / half,cheap,c85ebc24-0934-3423-9c14-f0fdbee64b68,9,12,1.0543440020079098,True,False
+av2,v6-S / half,cheap,cd822baf-4aa1-33fa-bfe5-d91386598edb,47,50,1.0393307684605448,False,True
+av2,v6-S / half,cheap,d2c6775c-e0a0-3460-b1b8-8d0ce2e0ae4e,76,77,2.4310542619300373,True,False
+av2,v6-S / half,cheap,e331aa95-3660-3c71-be9e-030bab0b8ee2,45,46,2.2775871719965166,True,False
+av2,v6-S / half,cheap,e66d1403-755b-3f63-938b-a2a69446a48a,23,27,3.696987659257311,True,False
+av2,v6-S / half,cheap,e7e178aa-931a-4674-9bff-9278a54e6aae,24,27,1.7387840520812174,True,False
+av2,v6-S / half,cheap,e7e178aa-931a-4674-9bff-9278a54e6aae,35,48,1.8982014347103144,False,True
+av2,v6-S / half,cheap,e94f58d9-177b-31be-aa05-e6dd10d04124,0,2,3.16855921405317,True,False
+av2,v6-S / half,cheap,f84b4941-8e99-3957-b6f6-db1590338cf6,15,15,1.1971032145051694,True,False
+av2,v6-S / none,cheap,0b97f5dd-c396-3c02-b07d-b7fdbcb6c3d0,0,4,1.0172004590965913,False,True
+av2,v6-S / none,cheap,14bf638b-8f0d-35b2-a369-6d846b5b3892,43,45,1.0509656676307555,True,False
+av2,v6-S / none,cheap,14c8d182-9586-3f21-ad20-c4e19ec03e2c,51,53,2.1658958509528343,True,False
+av2,v6-S / none,cheap,21f6ebe1-09c9-3a71-bdd9-58f45fbe9000,0,2,1.0817089880010449,True,False
+av2,v6-S / none,cheap,3844f8a9-b7d4-4919-8e9b-a0370ad29ec0,19,24,1.4063869895486685,True,False
+av2,v6-S / none,cheap,3dd173a6-8b21-3189-bd53-132919b96a48,71,78,1.3704818156300396,False,True
+av2,v6-S / none,cheap,3fa8c20e-a4b4-3af6-b9c4-6cb96f83916d,39,43,1.4462562591565196,True,False
+av2,v6-S / none,cheap,40bfcbec-ec59-3731-8e75-67f0bddc3b01,40,40,2.9137158544916004,True,False
+av2,v6-S / none,cheap,422dd53b-6010-4eb9-8902-de3d134c5a70,78,79,1.3150368729252715,True,False
+av2,v6-S / none,cheap,444cce44-cc82-4620-b630-1b5849284ac7,32,34,1.707001334656288,True,False
+av2,v6-S / none,cheap,4d9e3bdf-7216-3161-8281-72863f3c2bf6,27,28,9.0,True,False
+av2,v6-S / none,cheap,53a8391f-b2d7-341f-95ce-b9174d48e040,78,78,4.941670410263528,True,False
+av2,v6-S / none,cheap,61e56102-4d85-3a40-bbba-1a007c816f68,64,65,1.6068692764307595,True,False
+av2,v6-S / none,cheap,65d3f43d-1969-35d4-bf86-bd5e4b1ac803,75,75,1.1108447510326005,True,False
+av2,v6-S / none,cheap,6fdd8d39-7b04-365a-9941-e9e805b05ecf,9,13,1.85864150578067,True,False
+av2,v6-S / none,cheap,718a2f8d-954a-3cd8-89e6-43898cf21fee,9,16,1.40327328725463,False,True
+av2,v6-S / none,cheap,828ddef2-7609-3683-8e32-c21e7c07d6a6,36,52,1.2747915931003435,False,True
+av2,v6-S / none,cheap,8606d399-57d4-3ae9-938b-db7b8fb7ef8c,25,27,1.435139894328762,True,False
+av2,v6-S / none,cheap,953087a4-f704-37fe-a60f-82877e84a413,10,13,1.2860826212358267,True,False
+av2,v6-S / none,cheap,a3876690-9d49-3c98-9421-02cfe0ccb551,48,50,1.01688882447941,True,False
+av2,v6-S / none,cheap,a8a3297d-62f3-31ac-8db7-95ef53ce0d31,40,41,9.0,True,False
+av2,v6-S / none,cheap,aedbd525-e6df-4c0c-8be6-61c27fe58fd6,78,79,1.1820268543035823,True,False
+av2,v6-S / none,cheap,af170aac-8465-3d7b-82c5-64147e94af7d,29,36,1.404708249151985,False,True
+av2,v6-S / none,cheap,b56e3f47-72a6-34e8-9ada-b4169e28e5b9,0,6,9.0,True,False
+av2,v6-S / none,cheap,bb110668-5037-3c04-bd34-34cf1ace8d0f,18,23,1.0679494991363538,False,True
+av2,v6-S / none,cheap,cd822baf-4aa1-33fa-bfe5-d91386598edb,47,50,1.0393307684605448,False,True
+av2,v6-S / none,cheap,e1e9d341-716f-3613-9ec2-2201c72361af,12,12,3.379811687806423,False,True
+av2,v6-S / none,cheap,e331aa95-3660-3c71-be9e-030bab0b8ee2,45,46,2.2775871719965166,True,False
+av2,v6-S / none,cheap,e66d1403-755b-3f63-938b-a2a69446a48a,23,27,3.696987659257311,True,False
+av2,v6-S / none,cheap,e7e178aa-931a-4674-9bff-9278a54e6aae,35,48,1.8982014347103144,False,True
+av2,v6-S / none,cheap,e94f58d9-177b-31be-aa05-e6dd10d04124,0,2,3.16855921405317,True,False
+av2,v6-S / none,cheap,f84b4941-8e99-3957-b6f6-db1590338cf6,15,15,1.1971032145051694,True,False
+nusc,cheap,v6-S,scene-0150,28,30,1.7391240411495077,False,True
+nusc,cheap,v6-S,scene-0271,4,4,1.359586463352131,False,True
+nusc,cheap,v6-S,scene-0297,36,38,1.4065023200091953,False,True
+nusc,cheap,v6-S,scene-0366,10,10,1.4345231283303812,False,True
+nusc,cheap,v6-S,scene-0366,19,21,1.9371726828468576,False,True
+nusc,cheap,v6-S,scene-0389,0,5,1.1886979734077248,False,True
+nusc,cheap,v6-S,scene-0403,28,30,1.5724771570872371,True,False
+nusc,cheap,v6-S,scene-0403,33,40,1.3459260794522332,True,False
+nusc,cheap,v6-S,scene-0420,12,13,1.1799322636580754,False,True
+nusc,cheap,v6-S,scene-0451,0,1,3.015966808632501,False,True
+nusc,cheap,v6-S,scene-0524,19,20,1.0963657088763,True,False
+nusc,cheap,v6-S,scene-0534,7,7,1.0612348878327302,True,False
+nusc,cheap,v6-S,scene-0594,3,3,1.6059731573284008,False,True
+nusc,cheap,v6-S,scene-0660,1,1,1.0402003350301752,False,True
+nusc,cheap,v6-S,scene-0810,0,0,1.122567759828148,True,False
+nusc,cheap,v6-S,scene-0880,23,27,1.8340535017953767,True,False
+nusc,cheap,v6-S,scene-1007,2,5,3.9391839448408104,False,True
+nusc,cheap,v6-S,scene-1017,14,18,6.248583872374119,False,True
+nusc,looming + recovery,v6-S,scene-0366,19,21,1.9371726828468576,False,True
+nusc,looming + recovery,v6-S,scene-1007,2,5,3.9391839448408104,False,True
+nusc,looming + recovery / half,v6-S,scene-0366,19,21,1.9371726828468576,False,True
+nusc,looming + recovery / half,v6-S,scene-0640,22,22,1.0046401297395375,False,True
+nusc,looming + recovery / half,v6-S,scene-1007,2,5,3.9391839448408104,False,True
+nusc,looming + recovery / none,v6-S,scene-0366,19,21,1.9371726828468576,False,True
+nusc,looming + recovery / none,v6-S,scene-0640,22,22,1.0046401297395375,False,True
+nusc,looming + recovery / none,v6-S,scene-1007,2,5,3.9391839448408104,False,True
+nusc,proactive,v6-S,scene-0366,10,10,1.4345231283303812,False,True
+nusc,proactive + recovery,v6-S,scene-0366,10,10,1.4345231283303812,False,True
+nusc,proactive + recovery,v6-S,scene-0366,19,21,1.9371726828468576,False,True
+nusc,proactive + recovery,v6-S,scene-1007,2,5,3.9391839448408104,False,True
+nusc,proactive + recovery / half,v6-S,scene-0366,10,10,1.4345231283303812,False,True
+nusc,proactive + recovery / half,v6-S,scene-0366,19,21,1.9371726828468576,False,True
+nusc,proactive + recovery / half,v6-S,scene-0640,22,22,1.0046401297395375,False,True
+nusc,proactive + recovery / half,v6-S,scene-1007,2,5,3.9391839448408104,False,True
+nusc,proactive + recovery / none,v6-S,scene-0366,10,10,1.4345231283303812,False,True
+nusc,proactive + recovery / none,v6-S,scene-0366,19,21,1.9371726828468576,False,True
+nusc,proactive + recovery / none,v6-S,scene-0640,22,22,1.0046401297395375,False,True
+nusc,proactive + recovery / none,v6-S,scene-1007,2,5,3.9391839448408104,False,True
+nusc,proactive / half,v6-S,scene-0366,10,10,1.4345231283303812,False,True
+nusc,proactive / half,v6-S,scene-0640,22,22,1.0046401297395375,False,True
+nusc,proactive / none,v6-S,scene-0366,10,10,1.4345231283303812,False,True
+nusc,proactive / none,v6-S,scene-0640,22,22,1.0046401297395375,False,True
+nusc,round1 combined,v6-S,scene-0366,19,21,1.9371726828468576,False,True
+nusc,round1 combined,v6-S,scene-1007,2,5,3.9391839448408104,False,True
+nusc,round1 combined / half,v6-S,scene-0366,19,21,1.9371726828468576,False,True
+nusc,round1 combined / half,v6-S,scene-0640,22,22,1.0046401297395375,False,True
+nusc,round1 combined / half,v6-S,scene-1007,2,5,3.9391839448408104,False,True
+nusc,round1 combined / none,v6-S,scene-0366,19,21,1.9371726828468576,False,True
+nusc,round1 combined / none,v6-S,scene-0640,22,22,1.0046401297395375,False,True
+nusc,round1 combined / none,v6-S,scene-1007,2,5,3.9391839448408104,False,True
+nusc,v6-S / half,v6-S,scene-0640,22,22,1.0046401297395375,False,True
+nusc,v6-S / none,v6-S,scene-0640,22,22,1.0046401297395375,False,True
+nusc,cheap,round1 combined,scene-0150,28,30,1.7391240411495077,False,True
+nusc,cheap,round1 combined,scene-0271,4,4,1.359586463352131,False,True
+nusc,cheap,round1 combined,scene-0297,36,38,1.4065023200091953,False,True
+nusc,cheap,round1 combined,scene-0366,10,10,1.4345231283303812,False,True
+nusc,cheap,round1 combined,scene-0389,0,5,1.1886979734077248,False,True
+nusc,cheap,round1 combined,scene-0403,28,30,1.5724771570872371,True,False
+nusc,cheap,round1 combined,scene-0403,33,40,1.3459260794522332,True,False
+nusc,cheap,round1 combined,scene-0420,12,13,1.1799322636580754,False,True
+nusc,cheap,round1 combined,scene-0451,0,1,3.015966808632501,False,True
+nusc,cheap,round1 combined,scene-0524,19,20,1.0963657088763,True,False
+nusc,cheap,round1 combined,scene-0534,7,7,1.0612348878327302,True,False
+nusc,cheap,round1 combined,scene-0594,3,3,1.6059731573284008,False,True
+nusc,cheap,round1 combined,scene-0660,1,1,1.0402003350301752,False,True
+nusc,cheap,round1 combined,scene-0810,0,0,1.122567759828148,True,False
+nusc,cheap,round1 combined,scene-0880,23,27,1.8340535017953767,True,False
+nusc,cheap,round1 combined,scene-1017,14,18,6.248583872374119,False,True
+nusc,looming + recovery / half,round1 combined,scene-0640,22,22,1.0046401297395375,False,True
+nusc,looming + recovery / none,round1 combined,scene-0640,22,22,1.0046401297395375,False,True
+nusc,proactive,round1 combined,scene-0366,10,10,1.4345231283303812,False,True
+nusc,proactive,round1 combined,scene-0366,19,21,1.9371726828468576,True,False
+nusc,proactive,round1 combined,scene-1007,2,5,3.9391839448408104,True,False
+nusc,proactive + recovery,round1 combined,scene-0366,10,10,1.4345231283303812,False,True
+nusc,proactive + recovery / half,round1 combined,scene-0366,10,10,1.4345231283303812,False,True
+nusc,proactive + recovery / half,round1 combined,scene-0640,22,22,1.0046401297395375,False,True
+nusc,proactive + recovery / none,round1 combined,scene-0366,10,10,1.4345231283303812,False,True
+nusc,proactive + recovery / none,round1 combined,scene-0640,22,22,1.0046401297395375,False,True
+nusc,proactive / half,round1 combined,scene-0366,10,10,1.4345231283303812,False,True
+nusc,proactive / half,round1 combined,scene-0366,19,21,1.9371726828468576,True,False
+nusc,proactive / half,round1 combined,scene-0640,22,22,1.0046401297395375,False,True
+nusc,proactive / half,round1 combined,scene-1007,2,5,3.9391839448408104,True,False
+nusc,proactive / none,round1 combined,scene-0366,10,10,1.4345231283303812,False,True
+nusc,proactive / none,round1 combined,scene-0366,19,21,1.9371726828468576,True,False
+nusc,proactive / none,round1 combined,scene-0640,22,22,1.0046401297395375,False,True
+nusc,proactive / none,round1 combined,scene-1007,2,5,3.9391839448408104,True,False
+nusc,round1 combined / half,round1 combined,scene-0640,22,22,1.0046401297395375,False,True
+nusc,round1 combined / none,round1 combined,scene-0640,22,22,1.0046401297395375,False,True
+nusc,v6-S,round1 combined,scene-0366,19,21,1.9371726828468576,True,False
+nusc,v6-S,round1 combined,scene-1007,2,5,3.9391839448408104,True,False
+nusc,v6-S / half,round1 combined,scene-0366,19,21,1.9371726828468576,True,False
+nusc,v6-S / half,round1 combined,scene-0640,22,22,1.0046401297395375,False,True
+nusc,v6-S / half,round1 combined,scene-1007,2,5,3.9391839448408104,True,False
+nusc,v6-S / none,round1 combined,scene-0366,19,21,1.9371726828468576,True,False
+nusc,v6-S / none,round1 combined,scene-0640,22,22,1.0046401297395375,False,True
+nusc,v6-S / none,round1 combined,scene-1007,2,5,3.9391839448408104,True,False
+nusc,looming + recovery,cheap,scene-0150,28,30,1.7391240411495077,True,False
+nusc,looming + recovery,cheap,scene-0271,4,4,1.359586463352131,True,False
+nusc,looming + recovery,cheap,scene-0297,36,38,1.4065023200091953,True,False
+nusc,looming + recovery,cheap,scene-0366,10,10,1.4345231283303812,True,False
+nusc,looming + recovery,cheap,scene-0389,0,5,1.1886979734077248,True,False
+nusc,looming + recovery,cheap,scene-0403,28,30,1.5724771570872371,False,True
+nusc,looming + recovery,cheap,scene-0403,33,40,1.3459260794522332,False,True
+nusc,looming + recovery,cheap,scene-0420,12,13,1.1799322636580754,True,False
+nusc,looming + recovery,cheap,scene-0451,0,1,3.015966808632501,True,False
+nusc,looming + recovery,cheap,scene-0524,19,20,1.0963657088763,False,True
+nusc,looming + recovery,cheap,scene-0534,7,7,1.0612348878327302,False,True
+nusc,looming + recovery,cheap,scene-0594,3,3,1.6059731573284008,True,False
+nusc,looming + recovery,cheap,scene-0660,1,1,1.0402003350301752,True,False
+nusc,looming + recovery,cheap,scene-0810,0,0,1.122567759828148,False,True
+nusc,looming + recovery,cheap,scene-0880,23,27,1.8340535017953767,False,True
+nusc,looming + recovery,cheap,scene-1017,14,18,6.248583872374119,True,False
+nusc,looming + recovery / half,cheap,scene-0150,28,30,1.7391240411495077,True,False
+nusc,looming + recovery / half,cheap,scene-0271,4,4,1.359586463352131,True,False
+nusc,looming + recovery / half,cheap,scene-0297,36,38,1.4065023200091953,True,False
+nusc,looming + recovery / half,cheap,scene-0366,10,10,1.4345231283303812,True,False
+nusc,looming + recovery / half,cheap,scene-0389,0,5,1.1886979734077248,True,False
+nusc,looming + recovery / half,cheap,scene-0403,28,30,1.5724771570872371,False,True
+nusc,looming + recovery / half,cheap,scene-0403,33,40,1.3459260794522332,False,True
+nusc,looming + recovery / half,cheap,scene-0420,12,13,1.1799322636580754,True,False
+nusc,looming + recovery / half,cheap,scene-0451,0,1,3.015966808632501,True,False
+nusc,looming + recovery / half,cheap,scene-0524,19,20,1.0963657088763,False,True
+nusc,looming + recovery / half,cheap,scene-0534,7,7,1.0612348878327302,False,True
+nusc,looming + recovery / half,cheap,scene-0594,3,3,1.6059731573284008,True,False
+nusc,looming + recovery / half,cheap,scene-0640,22,22,1.0046401297395375,False,True
+nusc,looming + recovery / half,cheap,scene-0660,1,1,1.0402003350301752,True,False
+nusc,looming + recovery / half,cheap,scene-0810,0,0,1.122567759828148,False,True
+nusc,looming + recovery / half,cheap,scene-0880,23,27,1.8340535017953767,False,True
+nusc,looming + recovery / half,cheap,scene-1017,14,18,6.248583872374119,True,False
+nusc,looming + recovery / none,cheap,scene-0150,28,30,1.7391240411495077,True,False
+nusc,looming + recovery / none,cheap,scene-0271,4,4,1.359586463352131,True,False
+nusc,looming + recovery / none,cheap,scene-0297,36,38,1.4065023200091953,True,False
+nusc,looming + recovery / none,cheap,scene-0366,10,10,1.4345231283303812,True,False
+nusc,looming + recovery / none,cheap,scene-0389,0,5,1.1886979734077248,True,False
+nusc,looming + recovery / none,cheap,scene-0403,28,30,1.5724771570872371,False,True
+nusc,looming + recovery / none,cheap,scene-0403,33,40,1.3459260794522332,False,True
+nusc,looming + recovery / none,cheap,scene-0420,12,13,1.1799322636580754,True,False
+nusc,looming + recovery / none,cheap,scene-0451,0,1,3.015966808632501,True,False
+nusc,looming + recovery / none,cheap,scene-0524,19,20,1.0963657088763,False,True
+nusc,looming + recovery / none,cheap,scene-0534,7,7,1.0612348878327302,False,True
+nusc,looming + recovery / none,cheap,scene-0594,3,3,1.6059731573284008,True,False
+nusc,looming + recovery / none,cheap,scene-0640,22,22,1.0046401297395375,False,True
+nusc,looming + recovery / none,cheap,scene-0660,1,1,1.0402003350301752,True,False
+nusc,looming + recovery / none,cheap,scene-0810,0,0,1.122567759828148,False,True
+nusc,looming + recovery / none,cheap,scene-0880,23,27,1.8340535017953767,False,True
+nusc,looming + recovery / none,cheap,scene-1017,14,18,6.248583872374119,True,False
+nusc,proactive,cheap,scene-0150,28,30,1.7391240411495077,True,False
+nusc,proactive,cheap,scene-0271,4,4,1.359586463352131,True,False
+nusc,proactive,cheap,scene-0297,36,38,1.4065023200091953,True,False
+nusc,proactive,cheap,scene-0366,19,21,1.9371726828468576,True,False
+nusc,proactive,cheap,scene-0389,0,5,1.1886979734077248,True,False
+nusc,proactive,cheap,scene-0403,28,30,1.5724771570872371,False,True
+nusc,proactive,cheap,scene-0403,33,40,1.3459260794522332,False,True
+nusc,proactive,cheap,scene-0420,12,13,1.1799322636580754,True,False
+nusc,proactive,cheap,scene-0451,0,1,3.015966808632501,True,False
+nusc,proactive,cheap,scene-0524,19,20,1.0963657088763,False,True
+nusc,proactive,cheap,scene-0534,7,7,1.0612348878327302,False,True
+nusc,proactive,cheap,scene-0594,3,3,1.6059731573284008,True,False
+nusc,proactive,cheap,scene-0660,1,1,1.0402003350301752,True,False
+nusc,proactive,cheap,scene-0810,0,0,1.122567759828148,False,True
+nusc,proactive,cheap,scene-0880,23,27,1.8340535017953767,False,True
+nusc,proactive,cheap,scene-1007,2,5,3.9391839448408104,True,False
+nusc,proactive,cheap,scene-1017,14,18,6.248583872374119,True,False
+nusc,proactive + recovery,cheap,scene-0150,28,30,1.7391240411495077,True,False
+nusc,proactive + recovery,cheap,scene-0271,4,4,1.359586463352131,True,False
+nusc,proactive + recovery,cheap,scene-0297,36,38,1.4065023200091953,True,False
+nusc,proactive + recovery,cheap,scene-0389,0,5,1.1886979734077248,True,False
+nusc,proactive + recovery,cheap,scene-0403,28,30,1.5724771570872371,False,True
+nusc,proactive + recovery,cheap,scene-0403,33,40,1.3459260794522332,False,True
+nusc,proactive + recovery,cheap,scene-0420,12,13,1.1799322636580754,True,False
+nusc,proactive + recovery,cheap,scene-0451,0,1,3.015966808632501,True,False
+nusc,proactive + recovery,cheap,scene-0524,19,20,1.0963657088763,False,True
+nusc,proactive + recovery,cheap,scene-0534,7,7,1.0612348878327302,False,True
+nusc,proactive + recovery,cheap,scene-0594,3,3,1.6059731573284008,True,False
+nusc,proactive + recovery,cheap,scene-0660,1,1,1.0402003350301752,True,False
+nusc,proactive + recovery,cheap,scene-0810,0,0,1.122567759828148,False,True
+nusc,proactive + recovery,cheap,scene-0880,23,27,1.8340535017953767,False,True
+nusc,proactive + recovery,cheap,scene-1017,14,18,6.248583872374119,True,False
+nusc,proactive + recovery / half,cheap,scene-0150,28,30,1.7391240411495077,True,False
+nusc,proactive + recovery / half,cheap,scene-0271,4,4,1.359586463352131,True,False
+nusc,proactive + recovery / half,cheap,scene-0297,36,38,1.4065023200091953,True,False
+nusc,proactive + recovery / half,cheap,scene-0389,0,5,1.1886979734077248,True,False
+nusc,proactive + recovery / half,cheap,scene-0403,28,30,1.5724771570872371,False,True
+nusc,proactive + recovery / half,cheap,scene-0403,33,40,1.3459260794522332,False,True
+nusc,proactive + recovery / half,cheap,scene-0420,12,13,1.1799322636580754,True,False
+nusc,proactive + recovery / half,cheap,scene-0451,0,1,3.015966808632501,True,False
+nusc,proactive + recovery / half,cheap,scene-0524,19,20,1.0963657088763,False,True
+nusc,proactive + recovery / half,cheap,scene-0534,7,7,1.0612348878327302,False,True
+nusc,proactive + recovery / half,cheap,scene-0594,3,3,1.6059731573284008,True,False
+nusc,proactive + recovery / half,cheap,scene-0640,22,22,1.0046401297395375,False,True
+nusc,proactive + recovery / half,cheap,scene-0660,1,1,1.0402003350301752,True,False
+nusc,proactive + recovery / half,cheap,scene-0810,0,0,1.122567759828148,False,True
+nusc,proactive + recovery / half,cheap,scene-0880,23,27,1.8340535017953767,False,True
+nusc,proactive + recovery / half,cheap,scene-1017,14,18,6.248583872374119,True,False
+nusc,proactive + recovery / none,cheap,scene-0150,28,30,1.7391240411495077,True,False
+nusc,proactive + recovery / none,cheap,scene-0271,4,4,1.359586463352131,True,False
+nusc,proactive + recovery / none,cheap,scene-0297,36,38,1.4065023200091953,True,False
+nusc,proactive + recovery / none,cheap,scene-0389,0,5,1.1886979734077248,True,False
+nusc,proactive + recovery / none,cheap,scene-0403,28,30,1.5724771570872371,False,True
+nusc,proactive + recovery / none,cheap,scene-0403,33,40,1.3459260794522332,False,True
+nusc,proactive + recovery / none,cheap,scene-0420,12,13,1.1799322636580754,True,False
+nusc,proactive + recovery / none,cheap,scene-0451,0,1,3.015966808632501,True,False
+nusc,proactive + recovery / none,cheap,scene-0524,19,20,1.0963657088763,False,True
+nusc,proactive + recovery / none,cheap,scene-0534,7,7,1.0612348878327302,False,True
+nusc,proactive + recovery / none,cheap,scene-0594,3,3,1.6059731573284008,True,False
+nusc,proactive + recovery / none,cheap,scene-0640,22,22,1.0046401297395375,False,True
+nusc,proactive + recovery / none,cheap,scene-0660,1,1,1.0402003350301752,True,False
+nusc,proactive + recovery / none,cheap,scene-0810,0,0,1.122567759828148,False,True
+nusc,proactive + recovery / none,cheap,scene-0880,23,27,1.8340535017953767,False,True
+nusc,proactive + recovery / none,cheap,scene-1017,14,18,6.248583872374119,True,False
+nusc,proactive / half,cheap,scene-0150,28,30,1.7391240411495077,True,False
+nusc,proactive / half,cheap,scene-0271,4,4,1.359586463352131,True,False
+nusc,proactive / half,cheap,scene-0297,36,38,1.4065023200091953,True,False
+nusc,proactive / half,cheap,scene-0366,19,21,1.9371726828468576,True,False
+nusc,proactive / half,cheap,scene-0389,0,5,1.1886979734077248,True,False
+nusc,proactive / half,cheap,scene-0403,28,30,1.5724771570872371,False,True
+nusc,proactive / half,cheap,scene-0403,33,40,1.3459260794522332,False,True
+nusc,proactive / half,cheap,scene-0420,12,13,1.1799322636580754,True,False
+nusc,proactive / half,cheap,scene-0451,0,1,3.015966808632501,True,False
+nusc,proactive / half,cheap,scene-0524,19,20,1.0963657088763,False,True
+nusc,proactive / half,cheap,scene-0534,7,7,1.0612348878327302,False,True
+nusc,proactive / half,cheap,scene-0594,3,3,1.6059731573284008,True,False
+nusc,proactive / half,cheap,scene-0640,22,22,1.0046401297395375,False,True
+nusc,proactive / half,cheap,scene-0660,1,1,1.0402003350301752,True,False
+nusc,proactive / half,cheap,scene-0810,0,0,1.122567759828148,False,True
+nusc,proactive / half,cheap,scene-0880,23,27,1.8340535017953767,False,True
+nusc,proactive / half,cheap,scene-1007,2,5,3.9391839448408104,True,False
+nusc,proactive / half,cheap,scene-1017,14,18,6.248583872374119,True,False
+nusc,proactive / none,cheap,scene-0150,28,30,1.7391240411495077,True,False
+nusc,proactive / none,cheap,scene-0271,4,4,1.359586463352131,True,False
+nusc,proactive / none,cheap,scene-0297,36,38,1.4065023200091953,True,False
+nusc,proactive / none,cheap,scene-0366,19,21,1.9371726828468576,True,False
+nusc,proactive / none,cheap,scene-0389,0,5,1.1886979734077248,True,False
+nusc,proactive / none,cheap,scene-0403,28,30,1.5724771570872371,False,True
+nusc,proactive / none,cheap,scene-0403,33,40,1.3459260794522332,False,True
+nusc,proactive / none,cheap,scene-0420,12,13,1.1799322636580754,True,False
+nusc,proactive / none,cheap,scene-0451,0,1,3.015966808632501,True,False
+nusc,proactive / none,cheap,scene-0524,19,20,1.0963657088763,False,True
+nusc,proactive / none,cheap,scene-0534,7,7,1.0612348878327302,False,True
+nusc,proactive / none,cheap,scene-0594,3,3,1.6059731573284008,True,False
+nusc,proactive / none,cheap,scene-0640,22,22,1.0046401297395375,False,True
+nusc,proactive / none,cheap,scene-0660,1,1,1.0402003350301752,True,False
+nusc,proactive / none,cheap,scene-0810,0,0,1.122567759828148,False,True
+nusc,proactive / none,cheap,scene-0880,23,27,1.8340535017953767,False,True
+nusc,proactive / none,cheap,scene-1007,2,5,3.9391839448408104,True,False
+nusc,proactive / none,cheap,scene-1017,14,18,6.248583872374119,True,False
+nusc,round1 combined,cheap,scene-0150,28,30,1.7391240411495077,True,False
+nusc,round1 combined,cheap,scene-0271,4,4,1.359586463352131,True,False
+nusc,round1 combined,cheap,scene-0297,36,38,1.4065023200091953,True,False
+nusc,round1 combined,cheap,scene-0366,10,10,1.4345231283303812,True,False
+nusc,round1 combined,cheap,scene-0389,0,5,1.1886979734077248,True,False
+nusc,round1 combined,cheap,scene-0403,28,30,1.5724771570872371,False,True
+nusc,round1 combined,cheap,scene-0403,33,40,1.3459260794522332,False,True
+nusc,round1 combined,cheap,scene-0420,12,13,1.1799322636580754,True,False
+nusc,round1 combined,cheap,scene-0451,0,1,3.015966808632501,True,False
+nusc,round1 combined,cheap,scene-0524,19,20,1.0963657088763,False,True
+nusc,round1 combined,cheap,scene-0534,7,7,1.0612348878327302,False,True
+nusc,round1 combined,cheap,scene-0594,3,3,1.6059731573284008,True,False
+nusc,round1 combined,cheap,scene-0660,1,1,1.0402003350301752,True,False
+nusc,round1 combined,cheap,scene-0810,0,0,1.122567759828148,False,True
+nusc,round1 combined,cheap,scene-0880,23,27,1.8340535017953767,False,True
+nusc,round1 combined,cheap,scene-1017,14,18,6.248583872374119,True,False
+nusc,round1 combined / half,cheap,scene-0150,28,30,1.7391240411495077,True,False
+nusc,round1 combined / half,cheap,scene-0271,4,4,1.359586463352131,True,False
+nusc,round1 combined / half,cheap,scene-0297,36,38,1.4065023200091953,True,False
+nusc,round1 combined / half,cheap,scene-0366,10,10,1.4345231283303812,True,False
+nusc,round1 combined / half,cheap,scene-0389,0,5,1.1886979734077248,True,False
+nusc,round1 combined / half,cheap,scene-0403,28,30,1.5724771570872371,False,True
+nusc,round1 combined / half,cheap,scene-0403,33,40,1.3459260794522332,False,True
+nusc,round1 combined / half,cheap,scene-0420,12,13,1.1799322636580754,True,False
+nusc,round1 combined / half,cheap,scene-0451,0,1,3.015966808632501,True,False
+nusc,round1 combined / half,cheap,scene-0524,19,20,1.0963657088763,False,True
+nusc,round1 combined / half,cheap,scene-0534,7,7,1.0612348878327302,False,True
+nusc,round1 combined / half,cheap,scene-0594,3,3,1.6059731573284008,True,False
+nusc,round1 combined / half,cheap,scene-0640,22,22,1.0046401297395375,False,True
+nusc,round1 combined / half,cheap,scene-0660,1,1,1.0402003350301752,True,False
+nusc,round1 combined / half,cheap,scene-0810,0,0,1.122567759828148,False,True
+nusc,round1 combined / half,cheap,scene-0880,23,27,1.8340535017953767,False,True
+nusc,round1 combined / half,cheap,scene-1017,14,18,6.248583872374119,True,False
+nusc,round1 combined / none,cheap,scene-0150,28,30,1.7391240411495077,True,False
+nusc,round1 combined / none,cheap,scene-0271,4,4,1.359586463352131,True,False
+nusc,round1 combined / none,cheap,scene-0297,36,38,1.4065023200091953,True,False
+nusc,round1 combined / none,cheap,scene-0366,10,10,1.4345231283303812,True,False
+nusc,round1 combined / none,cheap,scene-0389,0,5,1.1886979734077248,True,False
+nusc,round1 combined / none,cheap,scene-0403,28,30,1.5724771570872371,False,True
+nusc,round1 combined / none,cheap,scene-0403,33,40,1.3459260794522332,False,True
+nusc,round1 combined / none,cheap,scene-0420,12,13,1.1799322636580754,True,False
+nusc,round1 combined / none,cheap,scene-0451,0,1,3.015966808632501,True,False
+nusc,round1 combined / none,cheap,scene-0524,19,20,1.0963657088763,False,True
+nusc,round1 combined / none,cheap,scene-0534,7,7,1.0612348878327302,False,True
+nusc,round1 combined / none,cheap,scene-0594,3,3,1.6059731573284008,True,False
+nusc,round1 combined / none,cheap,scene-0640,22,22,1.0046401297395375,False,True
+nusc,round1 combined / none,cheap,scene-0660,1,1,1.0402003350301752,True,False
+nusc,round1 combined / none,cheap,scene-0810,0,0,1.122567759828148,False,True
+nusc,round1 combined / none,cheap,scene-0880,23,27,1.8340535017953767,False,True
+nusc,round1 combined / none,cheap,scene-1017,14,18,6.248583872374119,True,False
+nusc,v6-S,cheap,scene-0150,28,30,1.7391240411495077,True,False
+nusc,v6-S,cheap,scene-0271,4,4,1.359586463352131,True,False
+nusc,v6-S,cheap,scene-0297,36,38,1.4065023200091953,True,False
+nusc,v6-S,cheap,scene-0366,10,10,1.4345231283303812,True,False
+nusc,v6-S,cheap,scene-0366,19,21,1.9371726828468576,True,False
+nusc,v6-S,cheap,scene-0389,0,5,1.1886979734077248,True,False
+nusc,v6-S,cheap,scene-0403,28,30,1.5724771570872371,False,True
+nusc,v6-S,cheap,scene-0403,33,40,1.3459260794522332,False,True
+nusc,v6-S,cheap,scene-0420,12,13,1.1799322636580754,True,False
+nusc,v6-S,cheap,scene-0451,0,1,3.015966808632501,True,False
+nusc,v6-S,cheap,scene-0524,19,20,1.0963657088763,False,True
+nusc,v6-S,cheap,scene-0534,7,7,1.0612348878327302,False,True
+nusc,v6-S,cheap,scene-0594,3,3,1.6059731573284008,True,False
+nusc,v6-S,cheap,scene-0660,1,1,1.0402003350301752,True,False
+nusc,v6-S,cheap,scene-0810,0,0,1.122567759828148,False,True
+nusc,v6-S,cheap,scene-0880,23,27,1.8340535017953767,False,True
+nusc,v6-S,cheap,scene-1007,2,5,3.9391839448408104,True,False
+nusc,v6-S,cheap,scene-1017,14,18,6.248583872374119,True,False
+nusc,v6-S / half,cheap,scene-0150,28,30,1.7391240411495077,True,False
+nusc,v6-S / half,cheap,scene-0271,4,4,1.359586463352131,True,False
+nusc,v6-S / half,cheap,scene-0297,36,38,1.4065023200091953,True,False
+nusc,v6-S / half,cheap,scene-0366,10,10,1.4345231283303812,True,False
+nusc,v6-S / half,cheap,scene-0366,19,21,1.9371726828468576,True,False
+nusc,v6-S / half,cheap,scene-0389,0,5,1.1886979734077248,True,False
+nusc,v6-S / half,cheap,scene-0403,28,30,1.5724771570872371,False,True
+nusc,v6-S / half,cheap,scene-0403,33,40,1.3459260794522332,False,True
+nusc,v6-S / half,cheap,scene-0420,12,13,1.1799322636580754,True,False
+nusc,v6-S / half,cheap,scene-0451,0,1,3.015966808632501,True,False
+nusc,v6-S / half,cheap,scene-0524,19,20,1.0963657088763,False,True
+nusc,v6-S / half,cheap,scene-0534,7,7,1.0612348878327302,False,True
+nusc,v6-S / half,cheap,scene-0594,3,3,1.6059731573284008,True,False
+nusc,v6-S / half,cheap,scene-0640,22,22,1.0046401297395375,False,True
+nusc,v6-S / half,cheap,scene-0660,1,1,1.0402003350301752,True,False
+nusc,v6-S / half,cheap,scene-0810,0,0,1.122567759828148,False,True
+nusc,v6-S / half,cheap,scene-0880,23,27,1.8340535017953767,False,True
+nusc,v6-S / half,cheap,scene-1007,2,5,3.9391839448408104,True,False
+nusc,v6-S / half,cheap,scene-1017,14,18,6.248583872374119,True,False
+nusc,v6-S / none,cheap,scene-0150,28,30,1.7391240411495077,True,False
+nusc,v6-S / none,cheap,scene-0271,4,4,1.359586463352131,True,False
+nusc,v6-S / none,cheap,scene-0297,36,38,1.4065023200091953,True,False
+nusc,v6-S / none,cheap,scene-0366,10,10,1.4345231283303812,True,False
+nusc,v6-S / none,cheap,scene-0366,19,21,1.9371726828468576,True,False
+nusc,v6-S / none,cheap,scene-0389,0,5,1.1886979734077248,True,False
+nusc,v6-S / none,cheap,scene-0403,28,30,1.5724771570872371,False,True
+nusc,v6-S / none,cheap,scene-0403,33,40,1.3459260794522332,False,True
+nusc,v6-S / none,cheap,scene-0420,12,13,1.1799322636580754,True,False
+nusc,v6-S / none,cheap,scene-0451,0,1,3.015966808632501,True,False
+nusc,v6-S / none,cheap,scene-0524,19,20,1.0963657088763,False,True
+nusc,v6-S / none,cheap,scene-0534,7,7,1.0612348878327302,False,True
+nusc,v6-S / none,cheap,scene-0594,3,3,1.6059731573284008,True,False
+nusc,v6-S / none,cheap,scene-0640,22,22,1.0046401297395375,False,True
+nusc,v6-S / none,cheap,scene-0660,1,1,1.0402003350301752,True,False
+nusc,v6-S / none,cheap,scene-0810,0,0,1.122567759828148,False,True
+nusc,v6-S / none,cheap,scene-0880,23,27,1.8340535017953767,False,True
+nusc,v6-S / none,cheap,scene-1007,2,5,3.9391839448408104,True,False
+nusc,v6-S / none,cheap,scene-1017,14,18,6.248583872374119,True,False

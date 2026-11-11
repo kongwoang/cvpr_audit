@@ -1,0 +1,4 @@
+report,unique_timed_frames,cfg_dev,other_roles,known_training_or_selection
+RUNTIME_20261023,512,270,242,242
+TEMPORAL_JETSON_20261023,512,270,242,242
+FAST_RECOVERY_20261023,256,99,157,157

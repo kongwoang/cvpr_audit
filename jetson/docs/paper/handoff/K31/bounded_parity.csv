@@ -1,0 +1,12 @@
+dataset,check,frames,agreement
+nuScenes new test,in-run v6-S vs stored K28 v6-S (VUW),9181,1.0
+nuScenes new test,"VUW vs Jetson K29 (trt32): bounded <= 2, refiner",805,0.9962732919254659
+nuScenes new test,"VUW vs Jetson K29 (trt32): unbounded v6-S, refiner",805,0.9962732919254659
+nuScenes new test,"VUW vs Jetson K29 (trt32): bounded <= 2, no refiner",805,0.9962732919254659
+nuScenes new test,"VUW vs Jetson K29 (trt32): unbounded v6-S, no refiner",805,0.9962732919254659
+AV2 val (ego mask),in-run v6-S vs stored K28 v6-S (VUW),11818,1.0
+AV2 val (ego mask),"VUW vs Jetson K29 (trt32): bounded <= 2, refiner",586,0.9982935153583617
+AV2 val (ego mask),"VUW vs Jetson K29 (trt32): unbounded v6-S, refiner",586,0.9931740614334471
+AV2 val (ego mask),"VUW vs Jetson K29 (trt32): bounded <= 2, no refiner",586,0.9931740614334471
+AV2 val (ego mask),"VUW vs Jetson K29 (trt32): unbounded v6-S, no refiner",586,0.9931740614334471
+Argoverse-HD val,in-run v6-S vs stored K28 v6-S (VUW),15006,1.0

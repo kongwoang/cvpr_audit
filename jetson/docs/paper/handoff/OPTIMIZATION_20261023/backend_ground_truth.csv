@@ -1,0 +1,10 @@
+source,dataset,rep,expected_chronological_frames,reference_frames,missing_references,gt_action_differences,cheap_action_differences,max_gt_demand_absolute_difference
+legacy_k29,nusc,1,712,712,0,0,14,2.220446049250313e-16
+legacy_k29,av2,1,712,313,399,0,6,4.440892098500626e-16
+legacy_k29,nusc,2,712,712,0,0,14,2.220446049250313e-16
+legacy_k29,av2,2,712,313,399,0,6,4.440892098500626e-16
+legacy_k29,nusc,3,712,712,0,0,14,2.220446049250313e-16
+legacy_k29,av2,3,712,313,399,0,6,4.440892098500626e-16
+verified_cfg,av2,1,712,712,0,0,17,4.440892098500626e-16
+verified_cfg,av2,2,712,712,0,0,17,4.440892098500626e-16
+verified_cfg,av2,3,712,712,0,0,17,4.440892098500626e-16

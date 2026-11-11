@@ -1,0 +1,55 @@
+dataset,method,G,network_px_mean,network_px_p95
+nuScenes new test,u640 (DEEP full mode),-0.181,0.1707,0.1707
+nuScenes new test,u960,0.01,0.384,0.384
+nuScenes new test,u1280,0.201,0.6542,0.6542
+nuScenes new test,native u1600,0.121,1.0311,1.0311
+nuScenes new test,AdaScale (re-impl.),0.083,0.1728,0.3627
+nuScenes new test,"Budget-Adaptive Routing official: adaptive(cond_moric), seed 42",-0.01,0.0765,0.4267
+nuScenes new test,"Budget-Adaptive Routing official: adaptive(cond_moric), seed 1",-0.01,0.0765,0.4267
+nuScenes new test,"Budget-Adaptive Routing official: adaptive(cond_moric), seed 2",-0.01,0.0765,0.4267
+nuScenes new test,"Budget-Adaptive Routing decision-value target: cond_V, seed 42",0.028,0.0907,0.4267
+nuScenes new test,"Budget-Adaptive Routing official: cond_moric, seed 42",-0.01,0.0765,0.4267
+nuScenes new test,"Budget-Adaptive Routing decision-value target: skip_V, seed 42",-0.016,0.1049,0.384
+nuScenes new test,"Budget-Adaptive Routing decision-value target: skip_V, seed 1",0.026,0.0973,0.384
+nuScenes new test,"Budget-Adaptive Routing decision-value target: skip_V, seed 2",0.066,0.0977,0.384
+nuScenes new test,"Budget-Adaptive Routing official: skip_offbin, seed 42",0.028,0.092,0.384
+nuScenes new test,"Budget-Adaptive Routing official: skip_offbin, seed 1",0.079,0.0856,0.384
+nuScenes new test,"Budget-Adaptive Routing official: skip_offbin, seed 2",0.007,0.0817,0.384
+nuScenes new test,"oracle frame router (true V = J_cheap − J_u960, top-k)",0.342,0.0884,0.4267
+nuScenes new test,FOVEA KDE_I (576x960 canvas),0.074,0.4267,0.4267
+nuScenes new test,FOVEA KDE_S (576x960 canvas),0.022,0.384,0.384
+nuScenes new test,SAHI (6 slices of 640x640 at 384 px + full pass),0.093,0.6741,0.6741
+nuScenes new test,SAHI (6 slices of 640x640 at 640 px + full pass),0.13,1.8773,1.8773
+nuScenes new test,LZU frozen (576x960),-0.861,0.384,0.384
+nuScenes new test,UFP frozen (mosaic 640),-0.678,0.2575,0.3271
+nuScenes new test,UFP frozen (mosaic 960),-1.126,0.5227,0.6827
+nuScenes new test,UFP frozen (mosaic 1333),-1.424,0.9681,1.2971
+nuScenes new test,uncertainty crops (strict budget = v3's per-frame crop area),-0.092,0.0678,0.1599
+nuScenes new test,temporal_crit crops (strict budget = v3's per-frame crop area),0.114,0.0729,0.1795
+nuScenes new test,random crops (strict budget = v3's per-frame crop area),-0.018,0.085,0.2118
+nuScenes new test,traj_support crops (strict budget = v3's per-frame crop area),0.055,0.078,0.1228
+nuScenes new test,ours without refiner (v3),0.135,0.0884,0.2198
+nuScenes new test,ours final (v3 + refiner v1),0.171,0.0884,0.2198
+nuScenes new test,AV2 configuration v4-lite + refiner v1,0.166,0.0694,0.1512
+nuScenes new test,AV2 configuration v4-lite + refiner v2,0.169,0.0694,0.1512
+AV2 val,u640,0.144,0.1032,0.1032
+AV2 val,u960,0.446,0.2323,0.2323
+AV2 val,u1280,0.484,0.4,0.4
+AV2 val,u1536,0.54,0.5729,0.5729
+AV2 val,native u2048,0.558,1.0116,1.0116
+AV2 val,"AdaScale (re-impl., fit on AV2 train)",0.317,0.1697,0.2323
+AV2 val,"Budget-Adaptive Routing official: adaptive(skip_offbin), seed 42",0.072,0.0644,0.2323
+AV2 val,"Budget-Adaptive Routing decision-value target: cond_V, seed 42",0.23,0.0679,0.2581
+AV2 val,"Budget-Adaptive Routing official: cond_moric, seed 42",0.077,0.06,0.2581
+AV2 val,"Budget-Adaptive Routing decision-value target: skip_V, seed 42",0.146,0.0668,0.2323
+AV2 val,"Budget-Adaptive Routing official: skip_offbin, seed 42",0.072,0.0644,0.2323
+AV2 val,"oracle frame router (true V = J_cheap − J_u960, top-k)",0.371,0.0676,0.2581
+AV2 val,FOVEA KDE_I (960x768 canvas),0.328,0.2581,0.2581
+AV2 val,SAHI (12 slices of 640x640 at 320 px + full pass),-0.14,0.4129,0.4129
+AV2 val,SAHI (12 slices of 640x640 at 640 px + full pass),0.088,1.6516,1.6516
+AV2 val,uncertainty crops (strict budget = frozen v3's per-frame crop area),0.494,0.0685,0.1387
+AV2 val,temporal_crit crops (strict budget = frozen v3's per-frame crop area),0.174,0.0734,0.1718
+AV2 val,random crops (strict budget = frozen v3's per-frame crop area),0.102,0.0811,0.1833
+AV2 val,ours without refiner (v4-lite),0.537,0.0676,0.1437
+AV2 val,ours final (v4-lite + refiner v2),0.561,0.0676,0.1437
+AV2 val,nuScenes configuration v3 + refiner v1,0.545,0.0859,0.1894

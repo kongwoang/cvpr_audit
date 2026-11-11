@@ -1,0 +1,36 @@
+{
+  "checkpoint_sha256": "b9ebd4cc18d78e2ee9f3ad5bbbd01e43951ffeb02d126d3460df4feaa098916d",
+  "code_sha256": "485193219844082a4e832a0096605e23ab69bad5fc079a38e4e2f3da2eb1adfe",
+  "data": [
+    {
+      "name": "tdata__av2_0of6.npz",
+      "samples": 1289,
+      "sha256": "f5460a76b86050c7233230b8da95fa955b8209c86e455df93d38d7f9fb89a864"
+    },
+    {
+      "name": "tdata__av2_1of6.npz",
+      "samples": 1717,
+      "sha256": "98c1ff3cd3baa6a49b81f8f41ba7a410e450da2b60638d112b6afd978fa0b9a0"
+    },
+    {
+      "name": "tdata__av2_2of6.npz",
+      "samples": 1762,
+      "sha256": "22e2f5ae43d140865638af44ba78e661ea70deaf0506ecc04f8257bb6923723d"
+    },
+    {
+      "name": "tdata__av2_3of6.npz",
+      "samples": 2683,
+      "sha256": "dbd0f4cc922a6442366ac8535b4251adf6c21c7e16d2d2b4454eca6269936f11"
+    },
+    {
+      "name": "tdata__av2_4of6.npz",
+      "samples": 2534,
+      "sha256": "efc6abd111e84268b9cd3fdbd31435393a85aaf6d8d365686a76992722bf5e66"
+    },
+    {
+      "name": "tdata__av2_5of6.npz",
+      "samples": 2379,
+      "sha256": "26c0094a74e694b38dce718e3ce1697138e00e0f91173bbab037e2d20657861c"
+    }
+  ]
+}

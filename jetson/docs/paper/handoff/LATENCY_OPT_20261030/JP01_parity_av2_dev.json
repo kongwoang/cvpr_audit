@@ -1,0 +1,9 @@
+{
+  "reference": "/home/kongwoang/research/CVPR/results/raw/20261030_210439_latency_opt_baseline_static_staged_fast_timing_av2_dev_v6S_JP01_20261030_205826_parity_baseline_r1",
+  "candidate": "/home/kongwoang/research/CVPR/results/raw/20261030_210809_latency_opt_audit_static_staged_fast_timing_av2_dev_v6S_JP01_20261030_205826_parity_audit_r1",
+  "frames": 712,
+  "endpoints": 47,
+  "mismatches": 0,
+  "history_recorded": true,
+  "raw_detection_parity": "requires separate --columns_mode audit run; not implied by this file"
+}

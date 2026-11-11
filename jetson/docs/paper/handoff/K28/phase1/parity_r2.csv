@@ -1,0 +1,15 @@
+dataset,r2,r1,frames,identical
+nusc,J_v51S|v3a@o,J_v51S|v3a,6117,1.0
+nusc,J_C1|v3a@o,J_C1|v3a,6117,1.0
+nusc,J_B11|own@o,J_ver-yolo11m|own,6117,1.0
+nusc,px_v51S@o,px_v51S,6117,1.0
+nusc,px_B11@o,px_ver-yolo11m,6117,1.0
+nusc,J_wf960+T4|v3a@w,J_wf960+T4|v3a,6117,1.0
+nusc,J_wf960+C1|v3a@w,J_u960+C1|v3a,6117,1.0
+av2,J_v51S|v3a@o,J_v51S|v3a,23665,1.0
+av2,J_C1|v3a@o,J_C1|v3a,23665,1.0
+av2,J_B11|own@o,J_ver-yolo11m|own,23665,1.0
+av2,px_v51S@o,px_v51S,23665,1.0
+av2,px_B11@o,px_ver-yolo11m,23665,1.0
+av2,J_wf960+T4|v3a@w,J_wf960+T4|v3a,23665,1.0
+av2,J_wf960+C1|v3a@w,J_u960+C1|v3a,23665,1.0

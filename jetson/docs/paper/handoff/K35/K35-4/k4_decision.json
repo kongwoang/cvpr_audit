@@ -1,0 +1,10 @@
+{
+  "dG_v7a_minus_v6S": 0.002887719736348604,
+  "dG_ci_lo": -0.001986456072954035,
+  "dG_ci_hi": 0.010758496314228752,
+  "kill_dG_lower_bound_below_minus_0.01": false,
+  "missed_rate_v7a": 0.2727272727272727,
+  "missed_rate_v6S": 0.2792207792207792,
+  "kill_missed_not_lower": false,
+  "v7a_verdict": "passes (proposed extension)"
+}

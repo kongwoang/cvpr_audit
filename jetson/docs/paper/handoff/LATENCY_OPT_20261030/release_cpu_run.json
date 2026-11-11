@@ -1,0 +1,18 @@
+{
+  "command": [
+    "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/venv/bin/python",
+    "-m",
+    "pytest",
+    "-q",
+    "-p",
+    "no:cacheprovider",
+    "tests/test_core.py",
+    "tests/test_regression.py",
+    "--junitxml",
+    "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/latency_opt/release_cpu_tests/junit.xml"
+  ],
+  "returncode": 0,
+  "CUDA_VISIBLE_DEVICES": "",
+  "source": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/tmp/desp_k40",
+  "destination": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/latency_opt/release_cpu_tests"
+}

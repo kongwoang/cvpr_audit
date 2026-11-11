@@ -1,0 +1,29 @@
+{
+ "del_all/nusc": {
+  "frames": 9181,
+  "released_frames": 9181,
+  "units": 228,
+  "unit_failures": 0,
+  "comparisons": 91810,
+  "rows": 9181,
+  "G_v6S": 0.6297268150304471
+ },
+ "del_all/av2": {
+  "frames": 11818,
+  "released_frames": 11818,
+  "units": 150,
+  "unit_failures": 0,
+  "comparisons": 118180,
+  "rows": 11818,
+  "G_v6S": 0.5990383466807299
+ },
+ "del_all/ahd": {
+  "frames": 15006,
+  "released_frames": 15006,
+  "units": 24,
+  "unit_failures": 0,
+  "comparisons": 150620,
+  "rows": 15062,
+  "G_v6S": 0.5076242385046188
+ }
+}

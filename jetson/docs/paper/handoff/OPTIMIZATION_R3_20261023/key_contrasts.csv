@@ -1,0 +1,121 @@
+suite,dataset,pipeline,comparator,metric,candidate_minus_baseline,ci_lo,ci_hi,valid_draws
+dev,nusc,cheap,round1 combined,G,-0.3505368283206523,-0.5005108088525959,-0.1667025503044176,2000
+dev,nusc,cheap,round1 combined,false_per_1000,24.03138793526238,19.12686675844885,28.758522536037464,2000
+dev,nusc,cheap,round1 combined,insufficient_loss_per_frame,0.1354012536921315,-0.0094978011362342,0.3592735410068602,2000
+dev,nusc,cheap,round1 combined,mean_network_px,-0.0323035329591484,-0.0364816699387706,-0.028319978070399,2000
+dev,nusc,cheap,round1 combined,all_missed_rate,-0.0404040404040403,-0.1264404190309908,0.0431128185907046,2000
+dev,av2,cheap,round1 combined,G,-0.31941683442399,-0.3700936808263628,-0.2707513996098905,2000
+dev,av2,cheap,round1 combined,false_per_1000,26.95964504542573,23.570498793193416,30.50539524523579,2000
+dev,av2,cheap,round1 combined,insufficient_loss_per_frame,-0.0545510166344286,-0.0843842978079556,-0.0234560830177879,2000
+dev,av2,cheap,round1 combined,mean_network_px,-0.0256082550111434,-0.0273829846192297,-0.0238622418378297,2000
+dev,av2,cheap,round1 combined,all_missed_rate,-0.0519125683060109,-0.0801184586672196,-0.0227272727272727,2000
+dev,nusc,v6-S,round1 combined,G,-0.0293628479465801,-0.0626344204636305,-0.0007791934552653,2000
+dev,nusc,v6-S,round1 combined,false_per_1000,-0.980872976949485,-1.9604639764744327,-0.1632919660352714,2000
+dev,nusc,v6-S,round1 combined,insufficient_loss_per_frame,0.0189041449098025,0.0017354019146461,0.0459672085411182,2000
+dev,nusc,v6-S,round1 combined,mean_network_px,0.0053996548780266,0.0040597698886679,0.006960474282091,2000
+dev,nusc,v6-S,round1 combined,all_missed_rate,0.0202020202020202,0.0,0.0526315789473684,2000
+dev,av2,v6-S,round1 combined,G,-0.0107086231388549,-0.0214670892412613,-0.0017803594100395,2000
+dev,av2,v6-S,round1 combined,false_per_1000,-1.1409254172829062,-1.6900599173320534,-0.5925399227911671,2000
+dev,av2,v6-S,round1 combined,insufficient_loss_per_frame,0.0113240159208397,0.0039362056566223,0.0202072503134417,2000
+dev,av2,v6-S,round1 combined,mean_network_px,0.004147488805436,0.0035778040703663,0.0047196086414564,2000
+dev,av2,v6-S,round1 combined,all_missed_rate,0.0273224043715847,0.012981215213358,0.0443864229765013,2000
+dev,nusc,critical extent retention,round1 combined,G,0.0134894258330753,-0.0020083757139491,0.0372087828687503,2000
+dev,nusc,critical extent retention,round1 combined,false_per_1000,0.0,0.0,0.0,2000
+dev,nusc,critical extent retention,round1 combined,insufficient_loss_per_frame,-0.0096920962549312,-0.0274784922446468,-0.0003648849875153,2000
+dev,nusc,critical extent retention,round1 combined,mean_network_px,0.0028652534830072,0.0015125192052014,0.0045891762539421,2000
+dev,nusc,critical extent retention,round1 combined,all_missed_rate,0.0,0.0,0.0,2000
+dev,av2,critical extent retention,round1 combined,G,0.0016124710787198,-0.0072192472680179,0.0147261689735821,2000
+dev,av2,critical extent retention,round1 combined,false_per_1000,-0.0422564969364032,-0.2533588527396653,0.2115687931891022,2000
+dev,av2,critical extent retention,round1 combined,insufficient_loss_per_frame,-0.0074425665564331,-0.0177587038267195,-0.0011412373901636,2000
+dev,av2,critical extent retention,round1 combined,mean_network_px,0.001739809027896,0.0013862636450625,0.0021422093683247,2000
+dev,av2,critical extent retention,round1 combined,all_missed_rate,0.0,0.0,0.0,2000
+learned,nusc,learned missing history,round1 combined,G,0.0143033557133565,0.000942906016894,0.0338949667618906,2000
+learned,nusc,learned missing history,round1 combined,false_per_1000,1.4713094654242278,0.4907553955621849,2.614389766365772,2000
+learned,nusc,learned missing history,round1 combined,insufficient_loss_per_frame,-0.0163215142821965,-0.0293246504783514,-0.0056385187184815,2000
+learned,nusc,learned missing history,round1 combined,mean_network_px,1.6275225691614326e-05,-1.8865422913546746e-05,5.227156797668122e-05,2000
+learned,nusc,learned missing history,round1 combined,all_missed_rate,-0.0303030303030302,-0.0666666666666666,0.0,2000
+learned,av2,learned missing history,round1 combined,G,0.0232915573238036,0.0082272182066087,0.0415412307696277,2000
+learned,av2,learned missing history,round1 combined,false_per_1000,0.9296429326008884,0.5491395466917794,1.3531914211595202,2000
+learned,av2,learned missing history,round1 combined,insufficient_loss_per_frame,-0.0225558012391363,-0.0390325007094264,-0.0100288195325288,2000
+learned,av2,learned missing history,round1 combined,mean_network_px,2.467234175962396e-06,-2.007130734993472e-05,2.2569379151736453e-05,2000
+learned,av2,learned missing history,round1 combined,all_missed_rate,-0.0136612021857923,-0.0263869693289218,-0.0028009248392094,2000
+low,nusc,point fallback + extent retention,round1 combined,G,0.0321092780116658,0.0057147421144965,0.0615475948850683,2000
+low,nusc,point fallback + extent retention,round1 combined,false_per_1000,1.307830635932647,0.3266372693124282,2.452202492925163,2000
+low,nusc,point fallback + extent retention,round1 combined,insufficient_loss_per_frame,-0.0314507343666105,-0.0545823303735106,-0.0124918791401446,2000
+low,nusc,point fallback + extent retention,round1 combined,mean_network_px,0.003380945634207,0.001783318923754,0.0053220782289046,2000
+low,nusc,point fallback + extent retention,round1 combined,all_missed_rate,-0.0303030303030302,-0.0666666666666666,0.0,2000
+low,av2,point fallback + extent retention,round1 combined,G,0.028851867890998,0.0094096130855385,0.0522179538926296,2000
+low,av2,point fallback + extent retention,round1 combined,false_per_1000,0.802873441791677,0.3805154932083984,1.2670002397292988,2000
+low,av2,point fallback + extent retention,round1 combined,insufficient_loss_per_frame,-0.0336195226180013,-0.0535719311643165,-0.0182445374295141,2000
+low,av2,point fallback + extent retention,round1 combined,mean_network_px,0.0018561507057516,0.0015041715868798,0.0022577957972026,2000
+low,av2,point fallback + extent retention,round1 combined,all_missed_rate,-0.0163934426229508,-0.0309015982928316,-0.0052212539418805,2000
+compact,nusc,compact point fallback,round1 combined,G,0.0086040679032061,-0.0001189933543418,0.0226433508815941,2000
+compact,nusc,compact point fallback,round1 combined,false_per_1000,1.307830635932647,0.4905968928863453,2.288348227180685,2000
+compact,nusc,compact point fallback,round1 combined,insufficient_loss_per_frame,-0.0092049564398313,-0.016942663844345,-0.0028752744662066,2000
+compact,nusc,compact point fallback,round1 combined,mean_network_px,8.370116069980615e-06,0.0,2.514734774067273e-05,2000
+compact,nusc,compact point fallback,round1 combined,all_missed_rate,-0.0505050505050505,-0.0989038189533238,-0.011232833957553,2000
+compact,av2,compact point fallback,round1 combined,G,0.0053542131858482,-0.0012647048094142,0.0153435846414254,2000
+compact,av2,compact point fallback,round1 combined,false_per_1000,0.6338474540460606,0.2536354413256685,1.057845085119065,2000
+compact,av2,compact point fallback,round1 combined,insufficient_loss_per_frame,-0.0068289129417318,-0.0149961121251259,-0.0018369985783013,2000
+compact,av2,compact point fallback,round1 combined,mean_network_px,-3.2578396025120804e-06,-1.8392988955797177e-05,1.063727912824167e-05,2000
+compact,av2,compact point fallback,round1 combined,all_missed_rate,-0.0027322404371584,-0.0086213107423233,0.0,2000
+low,nusc,corroborated upper fallback,round1 combined,G,0.0121978293143591,-0.0018811150326683,0.0307510515839257,2000
+low,nusc,corroborated upper fallback,round1 combined,false_per_1000,1.307830635932647,0.3273858241938123,2.291710149271428,2000
+low,nusc,corroborated upper fallback,round1 combined,insufficient_loss_per_frame,-0.0172250384731771,-0.030140391552065,-0.006565700234493,2000
+low,nusc,corroborated upper fallback,round1 combined,mean_network_px,9.300128966632792e-06,-2.443473016954869e-05,4.1358697874147725e-05,2000
+low,nusc,corroborated upper fallback,round1 combined,all_missed_rate,-0.0505050505050505,-0.099194214876033,-0.0117647058823529,2000
+low,av2,corroborated upper fallback,round1 combined,G,0.0238075446114097,0.0082019195584309,0.0428399927087554,2000
+low,av2,corroborated upper fallback,round1 combined,false_per_1000,1.0141559264736966,0.5925117121363283,1.4778158890377875,2000
+low,av2,corroborated upper fallback,round1 combined,insufficient_loss_per_frame,-0.0246716311393468,-0.0411627171017157,-0.0115705713305696,2000
+low,av2,corroborated upper fallback,round1 combined,mean_network_px,4.361960974079426e-06,-1.9584671298712545e-05,2.551611445437173e-05,2000
+low,av2,corroborated upper fallback,round1 combined,all_missed_rate,-0.0136612021857923,-0.0263869693289218,-0.0028009248392094,2000
+learned,nusc,uncertainty query,round1 combined,G,0.0236141125019341,-0.000104665238277,0.0600025494658039,2000
+learned,nusc,uncertainty query,round1 combined,false_per_1000,2.9426189308484547,1.1449133137062484,4.909983633387889,2000
+learned,nusc,uncertainty query,round1 combined,insufficient_loss_per_frame,-0.0288430108884388,-0.0502794795288204,-0.0124917887443214,2000
+learned,nusc,uncertainty query,round1 combined,mean_network_px,0.0023514213576008,0.0016406540650673,0.0031521521390307,2000
+learned,nusc,uncertainty query,round1 combined,all_missed_rate,-0.0404040404040403,-0.0816326530612245,-0.0094317580673602,2000
+learned,av2,uncertainty query,round1 combined,G,0.0306319534820446,0.0073145369369494,0.0567134754274618,2000
+learned,av2,uncertainty query,round1 combined,false_per_1000,1.817029368265372,0.928377769380612,2.790355518605163,2000
+learned,av2,uncertainty query,round1 combined,insufficient_loss_per_frame,-0.0298355641089043,-0.0532061702481091,-0.0107541144034634,2000
+learned,av2,uncertainty query,round1 combined,mean_network_px,0.0013033812013113,0.0009494228352552,0.0016942719496977,2000
+learned,av2,uncertainty query,round1 combined,all_missed_rate,-0.0327868852459016,-0.054921276381234,-0.0136602715861884,2000
+lift,nusc,joint geometric lift,round1 combined,G,0.012791856943233,-0.0053762648149637,0.0349180437629286,2000
+lift,nusc,joint geometric lift,round1 combined,false_per_1000,4.904364884747425,3.1055646896439733,7.031946313895602,2000
+lift,nusc,joint geometric lift,round1 combined,insufficient_loss_per_frame,-0.0302744201053632,-0.0456725821376484,-0.0165850310930776,2000
+lift,nusc,joint geometric lift,round1 combined,mean_network_px,-7.021597369807897e-05,-0.0001780408856901,2.770993615977994e-05,2000
+lift,nusc,joint geometric lift,round1 combined,all_missed_rate,-0.101010101010101,-0.1666666666666666,-0.0421052631578947,2000
+lift,av2,joint geometric lift,round1 combined,G,0.0104330145219955,-0.0083902393489086,0.0311811810087237,2000
+lift,av2,joint geometric lift,round1 combined,false_per_1000,0.7183604479188688,-0.3384370545603217,1.8185836047037651,2000
+lift,av2,joint geometric lift,round1 combined,insufficient_loss_per_frame,-0.0214076972948439,-0.0389787551913481,-0.0066950203390789,2000
+lift,av2,joint geometric lift,round1 combined,mean_network_px,0.0005439092712117,0.0004235865975827,0.0006796644995739,2000
+lift,av2,joint geometric lift,round1 combined,all_missed_rate,0.0,-0.0212244145307025,0.0219780219780219,2000
+lift,nusc,joint decision lift,round1 combined,G,0.021613421490618,0.0057637322266731,0.0432305517323081,2000
+lift,nusc,joint decision lift,round1 combined,false_per_1000,4.086970737289521,1.9643069078676807,6.373590455956855,2000
+lift,nusc,joint decision lift,round1 combined,insufficient_loss_per_frame,-0.024524696288888,-0.0373109848650123,-0.0136382242413459,2000
+lift,nusc,joint decision lift,round1 combined,mean_network_px,6.39383866456178e-06,-9.760559260183938e-05,0.0001248867863648,2000
+lift,nusc,joint decision lift,round1 combined,all_missed_rate,-0.101010101010101,-0.1666666666666666,-0.0421052631578947,2000
+lift,av2,joint decision lift,round1 combined,G,0.0760719166273781,0.033642881622856,0.1181720927478501,2000
+lift,av2,joint decision lift,round1 combined,false_per_1000,-2.7889287978026616,-4.425678839381466,-1.1825123450667747,2000
+lift,av2,joint decision lift,round1 combined,insufficient_loss_per_frame,0.0466767122499507,0.0210093619055441,0.0760553232648702,2000
+lift,av2,joint decision lift,round1 combined,mean_network_px,0.0009466954737839,0.0007756616307988,0.0011302769338037,2000
+lift,av2,joint decision lift,round1 combined,all_missed_rate,0.0081967213114753,-0.0135510560268646,0.0303867403314917,2000
+lift,nusc,upper quantile + extent retention,round1 combined,G,0.0505172596085482,0.0042848075051084,0.1072790980074108,2000
+lift,nusc,upper quantile + extent retention,round1 combined,false_per_1000,7.356547327121138,4.904324809858679,10.132457392445076,2000
+lift,nusc,upper quantile + extent retention,round1 combined,insufficient_loss_per_frame,-0.0593060275272379,-0.1000719739046976,-0.0272910348539653,2000
+lift,nusc,upper quantile + extent retention,round1 combined,mean_network_px,0.003971387571976,0.0023317143653144,0.0059306267679974,2000
+lift,nusc,upper quantile + extent retention,round1 combined,all_missed_rate,-0.0909090909090908,-0.1523809523809523,-0.0388349514563107,2000
+lift,av2,upper quantile + extent retention,round1 combined,G,0.0292739101246147,0.0087784469096898,0.0529914572956262,2000
+lift,av2,upper quantile + extent retention,round1 combined,false_per_1000,2.9156982886118747,2.107803649726154,3.761789936387871,2000
+lift,av2,upper quantile + extent retention,round1 combined,insufficient_loss_per_frame,-0.0428407051943003,-0.0629738663399155,-0.0263813259937606,2000
+lift,av2,upper quantile + extent retention,round1 combined,mean_network_px,0.0019957198257941,0.0016302443696931,0.0024130203059298,2000
+lift,av2,upper quantile + extent retention,round1 combined,all_missed_rate,-0.0245901639344262,-0.0415611471861471,-0.0107519674824872,2000
+persist,nusc,upper quantile + extent retention,round1 combined,G,0.0449756101543248,-0.0009480027457142,0.1000386032160034,2000
+persist,nusc,upper quantile + extent retention,round1 combined,false_per_1000,10.626123916952755,7.825898586637931,13.905134593184185,2000
+persist,nusc,upper quantile + extent retention,round1 combined,insufficient_loss_per_frame,-0.0634065029287594,-0.1059325312670197,-0.0307533595552189,2000
+persist,nusc,upper quantile + extent retention,round1 combined,mean_network_px,0.0041064719452164,0.0024458250307021,0.0060652800390258,2000
+persist,nusc,upper quantile + extent retention,round1 combined,all_missed_rate,-0.0909090909090908,-0.1523809523809523,-0.0388349514563107,2000
+persist,av2,upper quantile + extent retention,round1 combined,G,0.0245964617244634,0.0025238248721236,0.0493747218004879,2000
+persist,av2,upper quantile + extent retention,round1 combined,false_per_1000,6.465244031269808,5.193538505400428,7.82713460141959,2000
+persist,av2,upper quantile + extent retention,round1 combined,insufficient_loss_per_frame,-0.0487166070341612,-0.0692333183855871,-0.0311379282598164,2000
+persist,av2,upper quantile + extent retention,round1 combined,mean_network_px,0.0021519052909223,0.0017746069806501,0.0025710057173593,2000
+persist,av2,upper quantile + extent retention,round1 combined,all_missed_rate,-0.0382513661202185,-0.0605187319884726,-0.0198863636363636,2000

@@ -1,0 +1,9 @@
+{
+  "status": "complete",
+  "dataset": "av2",
+  "units": 300,
+  "frames": 23665,
+  "new_policies": 20,
+  "control_rows": 7,
+  "timing_scope": "all 20 rules together, server CPU, excludes proposal recovery; not deployed Jetson latency"
+}

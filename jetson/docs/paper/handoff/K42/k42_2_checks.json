@@ -1,0 +1,37 @@
+{
+ "gate_vs_K31": {
+  "ep_summary": {
+   "rows": 48,
+   "missing": 0,
+   "max_abs_diff": 7.105427357601002e-15,
+   "nan_pattern_mismatch": 0
+  },
+  "ep_intervals": {
+   "rows": 288,
+   "missing": 0,
+   "max_abs_diff": 7.105427357601002e-15,
+   "nan_pattern_mismatch": 0
+  },
+  "pass": true
+ },
+ "checks": {
+  "nusc rc bar1280_0.5: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "nusc rc bar1280_0.5@cap: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "nusc rc dvr1280_0.5: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "nusc rc dvr1280_0.5@cap: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "nusc rc ch128B_csc: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "nusc rc ch128B_csc@cap: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "av2 rc bar1280_0.5: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "av2 rc bar1280_0.5@cap: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "av2 rc dvr1280_0.5: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "av2 rc dvr1280_0.5@cap: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "av2 rc ch128B_csc: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "av2 rc ch128B_csc@cap: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "ahd rc bar1280_0.5: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "ahd rc bar1280_0.5@cap: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "ahd rc dvr1280_0.5: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "ahd rc dvr1280_0.5@cap: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "ahd rc ch128B_csc: stored refined J reproduced from routing sizes (differing frames)": 0,
+  "ahd rc ch128B_csc@cap: stored refined J reproduced from routing sizes (differing frames)": 0
+ }
+}

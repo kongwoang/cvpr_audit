@@ -1,0 +1,1541 @@
+dataset,unit,frame,rel,lowconf_draft_box,max_iou_lowconf,v6S_region,found_v6S,found_ana
+nusc,scene-0123,0,0,False,0.0,field crop,False,False
+nusc,scene-0123,1,0,True,0.7868510041957444,field crop,False,True
+nusc,scene-0133,16,0,True,0.4431014393662419,field crop,False,True
+nusc,scene-0171,32,0,True,0.6431097158630754,field crop,True,False
+nusc,scene-0171,33,0,True,0.869354538560027,field crop,True,True
+nusc,scene-0171,33,1,True,0.5961394123450865,field crop,True,True
+nusc,scene-0171,33,2,False,0.15860717621577566,field crop,False,False
+nusc,scene-0171,34,0,True,0.5820937049705636,field crop,True,True
+nusc,scene-0171,35,1,True,0.6594677281696091,field crop,False,True
+nusc,scene-0172,1,0,True,0.43852280395598037,field crop,False,True
+nusc,scene-0172,2,0,True,0.4012547055289097,field crop,True,True
+nusc,scene-0273,3,0,False,0.2875279338855519,field crop,True,True
+nusc,scene-0273,6,0,True,0.5031284148204631,field crop,True,True
+nusc,scene-0273,7,0,True,0.5082847630773508,field crop,True,True
+nusc,scene-0299,35,0,False,0.2905520505348286,field crop,True,True
+nusc,scene-0419,9,0,True,0.7436995893883418,support / guard crop,True,True
+nusc,scene-0419,18,0,True,0.6534688938532348,field crop,True,True
+nusc,scene-0423,33,0,False,0.032905276303568855,field crop,True,False
+nusc,scene-0505,28,0,True,0.8764413236319613,field crop,True,True
+nusc,scene-0505,28,1,False,0.0,field crop,True,True
+nusc,scene-0505,29,1,False,0.0,field crop,True,False
+nusc,scene-0506,26,0,True,0.7800806414913333,field crop,True,False
+nusc,scene-0518,3,0,True,0.6250328899369542,outside,False,True
+nusc,scene-0518,4,0,True,0.7743793318344929,outside,False,True
+nusc,scene-0575,23,1,True,0.44817521376447234,support / guard crop,True,True
+nusc,scene-0598,29,0,True,0.748672977161721,field crop,True,True
+nusc,scene-0634,14,2,True,0.3275991055069228,support / guard crop,False,False
+nusc,scene-0674,26,0,False,0.0,field crop,True,True
+nusc,scene-0674,27,0,False,0.02342905223320192,field crop,True,False
+nusc,scene-0712,33,0,False,0.0,field crop,True,False
+nusc,scene-0730,13,1,False,0.037020064784314036,field crop,True,True
+nusc,scene-0730,16,1,True,0.6020678485968174,field crop,True,True
+nusc,scene-0730,18,1,False,0.0,field crop,True,True
+nusc,scene-0730,24,1,True,0.8294547661015178,field crop,True,True
+nusc,scene-0730,26,1,True,0.42494903951611906,field crop,True,True
+nusc,scene-0790,37,0,False,0.07549012861541056,field crop,True,True
+nusc,scene-0790,38,0,False,0.0,field crop,True,True
+nusc,scene-0790,39,0,False,0.2717965423556492,field crop,True,True
+nusc,scene-0791,0,0,True,0.4109162651498848,field crop,True,True
+nusc,scene-0791,17,0,True,0.7141311619577967,field crop,True,True
+nusc,scene-0791,19,0,True,0.9131649433951454,field crop,False,True
+nusc,scene-0791,21,0,True,0.8245171722343314,field crop,False,True
+nusc,scene-0791,22,0,True,0.7136730509857083,field crop,False,True
+nusc,scene-0791,23,0,True,0.8386687807790905,support / guard crop,True,True
+nusc,scene-0791,24,0,True,0.8603418269174182,field crop,True,True
+nusc,scene-0791,25,0,True,0.8839744785210278,field crop,False,True
+nusc,scene-0791,26,0,True,0.5523981307116703,field crop,True,True
+nusc,scene-0791,27,0,True,0.704169865092747,field crop,True,True
+nusc,scene-0791,28,0,False,0.0,field crop,True,False
+nusc,scene-0791,29,0,True,0.7106000271535825,outside,False,True
+nusc,scene-0802,4,1,True,0.5615684963688322,support / guard crop,True,True
+nusc,scene-0869,0,1,False,0.0,field crop,True,True
+nusc,scene-0912,38,0,False,0.17994449265493676,outside,False,True
+nusc,scene-0912,39,0,False,0.12531784554438752,support / guard crop,True,False
+nusc,scene-0961,4,0,False,0.0,field crop,False,False
+nusc,scene-0961,5,0,False,0.0,field crop,False,False
+nusc,scene-0961,6,0,True,0.5586646849677178,field crop,False,True
+nusc,scene-0961,7,0,False,0.0,field crop,False,False
+nusc,scene-0961,10,0,False,0.04261400364817076,outside,False,False
+nusc,scene-1000,4,0,False,0.17640640194961313,field crop,True,False
+nusc,scene-1010,7,1,False,0.0,field crop,False,False
+nusc,scene-1010,9,0,True,0.6236789820094061,outside,False,True
+nusc,scene-1010,10,0,False,0.011146335726554005,outside,False,False
+nusc,scene-1019,24,0,False,0.0,outside,False,False
+nusc,scene-1020,35,0,True,0.7693897118204982,field crop,False,False
+nusc,scene-1020,36,0,False,0.0,field crop,True,False
+nusc,scene-1051,4,1,True,0.5883230846385431,field crop,False,True
+nusc,scene-1051,6,1,True,0.7147200206106671,field crop,False,False
+nusc,scene-1051,13,1,True,0.6263908155705805,field crop,True,True
+nusc,scene-1051,24,1,True,0.6332787001752552,field crop,True,False
+nusc,scene-1051,34,0,True,0.6787603404220631,field crop,True,True
+nusc,scene-1051,36,0,True,0.5358574441979074,field crop,False,False
+nusc,scene-1053,16,0,True,0.5517362247800658,field crop,False,True
+nusc,scene-1062,26,0,True,0.5809286130961467,field crop,True,True
+nusc,scene-1071,3,0,True,0.4215186538916118,support / guard crop,False,True
+nusc,scene-1071,30,0,True,0.8455796181384692,field crop,True,True
+nusc,scene-1072,18,1,True,0.38544173031886225,support / guard crop,False,True
+nusc,scene-1072,19,1,False,0.0,support / guard crop,False,True
+nusc,scene-1072,20,1,False,0.0,support / guard crop,True,True
+nusc,scene-1072,26,1,False,0.19114082450284703,support / guard crop,True,True
+nusc,scene-1072,27,1,True,0.633212316581812,support / guard crop,True,True
+nusc,scene-1072,29,1,True,0.5051312410394627,support / guard crop,True,True
+nusc,scene-1072,30,1,True,0.4588731260268879,support / guard crop,True,True
+nusc,scene-1072,31,1,True,0.4237389544990036,support / guard crop,False,True
+nusc,scene-1072,32,1,False,0.03638499995195509,support / guard crop,True,True
+nusc,scene-1072,33,1,True,0.6857301804030294,support / guard crop,True,True
+nusc,scene-1072,34,1,True,0.6547521632155334,support / guard crop,True,True
+nusc,scene-1072,35,1,True,0.5962641534696874,support / guard crop,True,True
+nusc,scene-1072,36,1,True,0.5832058609956218,support / guard crop,True,True
+nusc,scene-1072,39,1,True,0.42562288176869867,support / guard crop,True,True
+nusc,scene-1081,4,0,True,0.6515589880568133,field crop,True,True
+nusc,scene-1081,6,0,True,0.6066806539093547,field crop,True,True
+nusc,scene-1081,7,0,True,0.6850772124869441,field crop,True,True
+nusc,scene-1081,8,0,True,0.7994197273222907,field crop,True,True
+nusc,scene-1081,14,0,True,0.8174345996941588,field crop,True,True
+nusc,scene-1082,27,0,True,0.8162978291348364,outside,False,True
+nusc,scene-1083,26,1,True,0.503867576789858,field crop,True,True
+nusc,scene-1083,28,0,False,0.19043912316109307,support / guard crop,False,False
+nusc,scene-1083,33,0,True,0.4117870889568674,field crop,True,True
+nusc,scene-1091,4,0,True,0.6459524251396865,field crop,False,True
+nusc,scene-1091,5,0,True,0.5837684097602341,field crop,False,False
+nusc,scene-1092,10,0,False,0.13253826270380553,outside,False,False
+nusc,scene-1092,11,0,True,0.5031572005767105,outside,False,True
+nusc,scene-1092,12,0,True,0.5963080320631028,outside,False,False
+nusc,scene-1092,15,0,False,0.08604700383784054,field crop,True,False
+nusc,scene-1092,20,0,True,0.8246761709797163,support / guard crop,False,False
+nusc,scene-1092,21,0,True,0.799553484310238,field crop,False,False
+nusc,scene-1102,17,0,False,0.17400667317939056,field crop,True,True
+nusc,scene-1102,19,0,False,0.22969286008442408,field crop,True,True
+nusc,scene-1102,24,0,False,0.0,field crop,False,True
+nusc,scene-1102,25,0,True,0.7493281342905739,field crop,True,True
+nusc,scene-1102,26,0,True,0.657490463005224,field crop,True,True
+nusc,scene-1102,31,0,False,0.050698944026728025,support / guard crop,False,False
+nusc,scene-1102,34,0,True,0.33147122909357113,support / guard crop,False,False
+nusc,scene-1104,4,0,True,0.6494101359297184,support / guard crop,True,True
+nusc,scene-1104,5,0,True,0.6093826292340807,outside,False,True
+nusc,scene-1104,17,0,True,0.6848154102799358,field crop,True,True
+av2,02678d04-cc9f-3148-9f95-1ba66347dff9,24,0,True,0.5873141644993767,field crop,True,True
+av2,02678d04-cc9f-3148-9f95-1ba66347dff9,25,0,True,0.7258397471308605,field crop,True,True
+av2,02678d04-cc9f-3148-9f95-1ba66347dff9,26,0,True,0.6131401668333564,field crop,True,True
+av2,02678d04-cc9f-3148-9f95-1ba66347dff9,27,0,True,0.7258917364857983,field crop,True,True
+av2,02678d04-cc9f-3148-9f95-1ba66347dff9,28,0,True,0.7221952156406416,field crop,True,True
+av2,02678d04-cc9f-3148-9f95-1ba66347dff9,29,0,True,0.6404910849498181,field crop,True,True
+av2,02678d04-cc9f-3148-9f95-1ba66347dff9,30,0,True,0.6544100589026454,field crop,True,True
+av2,02678d04-cc9f-3148-9f95-1ba66347dff9,41,0,True,0.4996279146893241,support / guard crop,True,True
+av2,05fa5048-f355-3274-b565-c0ddc547b315,43,1,True,0.36930820527176356,support / guard crop,True,True
+av2,05fa5048-f355-3274-b565-c0ddc547b315,43,2,True,0.6141662979941688,support / guard crop,False,False
+av2,05fa5048-f355-3274-b565-c0ddc547b315,44,2,True,0.3838046281178925,support / guard crop,True,True
+av2,05fa5048-f355-3274-b565-c0ddc547b315,44,3,True,0.7493441129071065,support / guard crop,True,True
+av2,05fa5048-f355-3274-b565-c0ddc547b315,45,2,True,0.6758753487881104,support / guard crop,False,False
+av2,05fa5048-f355-3274-b565-c0ddc547b315,45,3,False,0.0,support / guard crop,True,True
+av2,05fa5048-f355-3274-b565-c0ddc547b315,46,2,True,0.7418696412787282,support / guard crop,True,True
+av2,05fa5048-f355-3274-b565-c0ddc547b315,47,2,True,0.6473185007745017,support / guard crop,True,True
+av2,0b86f508-5df9-4a46-bc59-5b9536dbde9f,0,0,True,0.3458386109310779,field crop,True,True
+av2,20bcd747-ef60-391a-9f4a-ae99f049c260,49,0,False,0.21699238083390307,support / guard crop,True,True
+av2,20bcd747-ef60-391a-9f4a-ae99f049c260,57,0,True,0.6080127729487987,support / guard crop,True,True
+av2,20d47f81-46e8-3adf-a0ca-564fbb5c599d,13,0,True,0.45806595028237906,support / guard crop,True,True
+av2,20d47f81-46e8-3adf-a0ca-564fbb5c599d,32,1,True,0.6184385044482994,field crop,True,True
+av2,20d47f81-46e8-3adf-a0ca-564fbb5c599d,33,1,True,0.5903884014843325,field crop,True,True
+av2,214e388e-cbd7-3dde-a204-d2ec42298808,3,0,True,0.6771975077418021,support / guard crop,True,True
+av2,214e388e-cbd7-3dde-a204-d2ec42298808,8,0,False,0.24073481498344687,support / guard crop,False,False
+av2,214e388e-cbd7-3dde-a204-d2ec42298808,9,0,False,0.15606481476819667,support / guard crop,False,False
+av2,214e388e-cbd7-3dde-a204-d2ec42298808,46,0,True,0.6132237213159557,field crop,True,True
+av2,214e388e-cbd7-3dde-a204-d2ec42298808,47,0,True,0.9100113712802146,field crop,True,True
+av2,214e388e-cbd7-3dde-a204-d2ec42298808,48,0,True,0.8807033525196261,field crop,True,True
+av2,214e388e-cbd7-3dde-a204-d2ec42298808,49,0,True,0.6694998021564422,field crop,True,True
+av2,214e388e-cbd7-3dde-a204-d2ec42298808,49,1,True,0.5498250693504163,field crop,True,True
+av2,214e388e-cbd7-3dde-a204-d2ec42298808,54,1,False,0.13946138721766282,field crop,True,True
+av2,214e388e-cbd7-3dde-a204-d2ec42298808,55,1,True,0.5035662377750156,field crop,True,True
+av2,214e388e-cbd7-3dde-a204-d2ec42298808,56,1,True,0.4477539399576036,field crop,True,True
+av2,214e388e-cbd7-3dde-a204-d2ec42298808,57,1,False,0.21123874996158337,field crop,True,True
+av2,214e388e-cbd7-3dde-a204-d2ec42298808,58,1,True,0.5594139241573529,field crop,True,True
+av2,214e388e-cbd7-3dde-a204-d2ec42298808,59,1,False,0.2842549400545742,field crop,True,True
+av2,22052525-4f85-3fe8-9d7d-000a9fffce36,32,0,False,0.0,outside,False,True
+av2,25e5c600-36fe-3245-9cc0-40ef91620c22,18,0,True,0.5897518580888552,outside,False,True
+av2,280269f9-6111-311d-b351-ce9f63f88c81,24,1,False,0.0,field crop,True,False
+av2,280269f9-6111-311d-b351-ce9f63f88c81,25,1,False,0.0,field crop,True,False
+av2,280269f9-6111-311d-b351-ce9f63f88c81,27,0,True,0.6421251339802433,field crop,True,True
+av2,280269f9-6111-311d-b351-ce9f63f88c81,28,1,False,0.0,field crop,True,False
+av2,280269f9-6111-311d-b351-ce9f63f88c81,29,1,False,0.0,field crop,True,False
+av2,280269f9-6111-311d-b351-ce9f63f88c81,32,1,False,0.24898621209251628,field crop,True,True
+av2,280269f9-6111-311d-b351-ce9f63f88c81,33,2,False,0.0,outside,False,False
+av2,280269f9-6111-311d-b351-ce9f63f88c81,34,0,False,0.0,field crop,False,False
+av2,280269f9-6111-311d-b351-ce9f63f88c81,35,1,False,0.0,field crop,True,True
+av2,280269f9-6111-311d-b351-ce9f63f88c81,36,1,False,0.0,support / guard crop,True,True
+av2,280269f9-6111-311d-b351-ce9f63f88c81,37,1,False,0.28056014547709507,support / guard crop,True,True
+av2,280269f9-6111-311d-b351-ce9f63f88c81,66,0,True,0.6753933540636508,outside,False,True
+av2,280269f9-6111-311d-b351-ce9f63f88c81,67,0,True,0.34197891496864496,outside,False,True
+av2,280269f9-6111-311d-b351-ce9f63f88c81,69,0,True,0.4625320147883336,outside,False,True
+av2,2ff4f798-78d9-3384-87e9-61928aa4cb6d,8,0,False,0.0,field crop,True,True
+av2,2ff4f798-78d9-3384-87e9-61928aa4cb6d,9,0,False,0.0,field crop,False,False
+av2,2ff4f798-78d9-3384-87e9-61928aa4cb6d,11,0,False,0.0,field crop,True,True
+av2,3bffdcff-c3a7-38b6-a0f2-64196d130958,43,0,True,0.6499090023368238,support / guard crop,True,True
+av2,3bffdcff-c3a7-38b6-a0f2-64196d130958,44,0,True,0.6490698217669001,support / guard crop,True,True
+av2,3bffdcff-c3a7-38b6-a0f2-64196d130958,45,0,True,0.686541296871384,support / guard crop,True,True
+av2,3bffdcff-c3a7-38b6-a0f2-64196d130958,47,1,True,0.6807010962610553,support / guard crop,True,True
+av2,3bffdcff-c3a7-38b6-a0f2-64196d130958,76,0,False,0.2747892445917215,outside,False,True
+av2,3bffdcff-c3a7-38b6-a0f2-64196d130958,77,0,False,0.10317856911529398,outside,False,True
+av2,3de5b5d6-68c4-3c95-84ed-be7c83d829f8,54,0,True,0.31213994801504374,field crop,True,False
+av2,3de5b5d6-68c4-3c95-84ed-be7c83d829f8,55,0,False,0.24499253975569837,field crop,True,False
+av2,3de5b5d6-68c4-3c95-84ed-be7c83d829f8,56,0,False,0.27957104855352355,field crop,True,False
+av2,44adf4c4-6064-362f-94d3-323ed42cfda9,38,1,True,0.7189944052936512,support / guard crop,True,True
+av2,44adf4c4-6064-362f-94d3-323ed42cfda9,39,2,True,0.347242384058775,support / guard crop,False,True
+av2,472a240a-10cd-39cd-8681-558f7c7cf868,37,2,False,0.13830663242272048,field crop,True,True
+av2,472a240a-10cd-39cd-8681-558f7c7cf868,38,2,False,0.04822422059451228,field crop,True,True
+av2,472a240a-10cd-39cd-8681-558f7c7cf868,39,3,False,0.050911612499004055,support / guard crop,True,True
+av2,4c33fc38-5e59-34f8-96ba-4e5a404d3988,24,0,True,0.4126467371287235,field crop,True,False
+av2,4c33fc38-5e59-34f8-96ba-4e5a404d3988,25,0,True,0.6969196888072295,field crop,True,True
+av2,4c33fc38-5e59-34f8-96ba-4e5a404d3988,26,0,False,0.14979271042236905,field crop,True,True
+av2,4c33fc38-5e59-34f8-96ba-4e5a404d3988,28,0,False,0.0,field crop,True,False
+av2,4e3fedbb-847c-3d5b-8a62-c9ff84550985,24,1,False,0.12433582034132633,outside,False,True
+av2,4e3fedbb-847c-3d5b-8a62-c9ff84550985,25,1,False,0.18683191201984417,support / guard crop,False,True
+av2,4e3fedbb-847c-3d5b-8a62-c9ff84550985,26,1,False,0.29987257322159744,outside,False,True
+av2,4e3fedbb-847c-3d5b-8a62-c9ff84550985,46,0,True,0.5665093083002221,support / guard crop,True,True
+av2,4e3fedbb-847c-3d5b-8a62-c9ff84550985,47,0,True,0.43636964862764865,support / guard crop,True,True
+av2,4e3fedbb-847c-3d5b-8a62-c9ff84550985,56,0,True,0.8573968353844823,outside,False,True
+av2,544a8102-0ef5-3044-921e-dc0544370376,25,0,True,0.4085585324550063,field crop,True,True
+av2,544a8102-0ef5-3044-921e-dc0544370376,26,0,True,0.5042554958316252,field crop,True,True
+av2,544a8102-0ef5-3044-921e-dc0544370376,27,0,False,0.0,field crop,True,False
+av2,544a8102-0ef5-3044-921e-dc0544370376,28,0,False,0.1391930145266238,field crop,True,True
+av2,544a8102-0ef5-3044-921e-dc0544370376,29,0,False,0.15729815930854335,field crop,True,False
+av2,544a8102-0ef5-3044-921e-dc0544370376,30,0,False,0.22204839058783316,field crop,True,True
+av2,544a8102-0ef5-3044-921e-dc0544370376,31,0,True,0.615407166421154,field crop,True,True
+av2,544a8102-0ef5-3044-921e-dc0544370376,49,0,True,0.4380872738532143,support / guard crop,True,True
+av2,544a8102-0ef5-3044-921e-dc0544370376,50,0,False,0.07162675810998646,support / guard crop,True,False
+av2,58e82365-03bc-3b2f-b55a-a4ad0e3e792d,26,0,True,0.3049643589258415,field crop,True,False
+av2,58e82365-03bc-3b2f-b55a-a4ad0e3e792d,27,0,False,0.0,field crop,True,False
+av2,58e82365-03bc-3b2f-b55a-a4ad0e3e792d,28,0,False,0.0,field crop,True,True
+av2,58e82365-03bc-3b2f-b55a-a4ad0e3e792d,29,0,False,0.0,field crop,True,False
+av2,58e82365-03bc-3b2f-b55a-a4ad0e3e792d,30,0,False,0.0,field crop,True,False
+av2,58e82365-03bc-3b2f-b55a-a4ad0e3e792d,31,0,False,0.0,field crop,True,False
+av2,58e82365-03bc-3b2f-b55a-a4ad0e3e792d,32,0,False,0.0,field crop,True,True
+av2,58e82365-03bc-3b2f-b55a-a4ad0e3e792d,33,0,False,0.018533437296722455,field crop,True,True
+av2,58e82365-03bc-3b2f-b55a-a4ad0e3e792d,34,0,False,0.0,field crop,True,True
+av2,58e82365-03bc-3b2f-b55a-a4ad0e3e792d,35,0,False,0.0,field crop,True,True
+av2,58e82365-03bc-3b2f-b55a-a4ad0e3e792d,36,0,False,0.0,field crop,True,True
+av2,58e82365-03bc-3b2f-b55a-a4ad0e3e792d,37,0,False,0.10046803505038807,field crop,True,True
+av2,58e82365-03bc-3b2f-b55a-a4ad0e3e792d,38,0,False,0.013102650762335896,support / guard crop,True,True
+av2,58e82365-03bc-3b2f-b55a-a4ad0e3e792d,39,0,False,0.11939895312889406,field crop,True,True
+av2,58e82365-03bc-3b2f-b55a-a4ad0e3e792d,40,0,False,0.1356212827155291,field crop,True,True
+av2,58e82365-03bc-3b2f-b55a-a4ad0e3e792d,41,0,False,0.0,support / guard crop,True,True
+av2,58e82365-03bc-3b2f-b55a-a4ad0e3e792d,42,0,False,0.018893630727340863,support / guard crop,True,True
+av2,58e82365-03bc-3b2f-b55a-a4ad0e3e792d,43,0,True,0.6867781057306387,field crop,True,True
+av2,58e82365-03bc-3b2f-b55a-a4ad0e3e792d,44,0,True,0.6418050014754972,support / guard crop,True,True
+av2,6c932547-4c11-31d7-b8ef-0c16a13dbfc3,40,1,True,0.6799686871132948,field crop,True,True
+av2,76916359-96f4-3274-81fe-bb145d497c11,31,0,True,0.441197088880859,field crop,True,True
+av2,76916359-96f4-3274-81fe-bb145d497c11,31,1,False,0.252259832063251,field crop,True,True
+av2,76916359-96f4-3274-81fe-bb145d497c11,32,0,True,0.3991610399828681,field crop,True,True
+av2,76916359-96f4-3274-81fe-bb145d497c11,33,1,True,0.6047315593592149,field crop,True,True
+av2,76916359-96f4-3274-81fe-bb145d497c11,42,3,False,0.06789634084900029,support / guard crop,True,True
+av2,76916359-96f4-3274-81fe-bb145d497c11,48,0,True,0.7010481224808546,field crop,True,True
+av2,76916359-96f4-3274-81fe-bb145d497c11,49,0,True,0.8384351551071674,field crop,True,True
+av2,76916359-96f4-3274-81fe-bb145d497c11,50,0,True,0.6512753223307508,support / guard crop,True,True
+av2,78683234-e6f1-3e4e-af52-6f839254e4c0,0,0,True,0.7184859453482234,support / guard crop,False,True
+av2,78683234-e6f1-3e4e-af52-6f839254e4c0,1,0,True,0.5641912170866573,field crop,True,True
+av2,78683234-e6f1-3e4e-af52-6f839254e4c0,2,0,True,0.37341038075479915,field crop,True,True
+av2,78683234-e6f1-3e4e-af52-6f839254e4c0,3,0,False,0.0,field crop,True,False
+av2,78683234-e6f1-3e4e-af52-6f839254e4c0,4,0,True,0.4738008578242983,field crop,True,True
+av2,78683234-e6f1-3e4e-af52-6f839254e4c0,5,0,True,0.5807996656991798,field crop,True,True
+av2,78683234-e6f1-3e4e-af52-6f839254e4c0,35,0,True,0.8734816251803909,field crop,True,True
+av2,78683234-e6f1-3e4e-af52-6f839254e4c0,35,1,True,0.6405735208681727,field crop,True,True
+av2,78683234-e6f1-3e4e-af52-6f839254e4c0,36,0,False,0.2978352281249745,field crop,True,True
+av2,78683234-e6f1-3e4e-af52-6f839254e4c0,37,0,True,0.36143981933090336,field crop,True,True
+av2,78683234-e6f1-3e4e-af52-6f839254e4c0,44,1,False,0.0,field crop,False,False
+av2,78da7b7e-8ddf-3c7d-8716-eaa890106dd3,3,0,True,0.5431723481465983,field crop,True,False
+av2,78da7b7e-8ddf-3c7d-8716-eaa890106dd3,4,0,False,0.2513105042566915,field crop,True,True
+av2,78da7b7e-8ddf-3c7d-8716-eaa890106dd3,5,0,False,0.0,field crop,True,True
+av2,7de2e535-81df-3d5f-a5ca-62e4b940eb54,35,0,False,0.19303769487637903,outside,False,False
+av2,7de2e535-81df-3d5f-a5ca-62e4b940eb54,36,0,False,0.07775787522527593,outside,False,True
+av2,7de2e535-81df-3d5f-a5ca-62e4b940eb54,37,0,False,0.15070133560990215,field crop,True,True
+av2,7de2e535-81df-3d5f-a5ca-62e4b940eb54,38,0,False,0.03422077359739214,field crop,True,False
+av2,7de2e535-81df-3d5f-a5ca-62e4b940eb54,39,0,True,0.3726669582826536,field crop,True,True
+av2,7de2e535-81df-3d5f-a5ca-62e4b940eb54,41,0,True,0.6169766401125608,field crop,True,True
+av2,7de2e535-81df-3d5f-a5ca-62e4b940eb54,43,0,True,0.7185649788956662,field crop,True,True
+av2,7e4d67b3-c3cc-3288-afe5-043602ea3c70,64,1,False,0.2935664500054659,outside,False,True
+av2,7e4d67b3-c3cc-3288-afe5-043602ea3c70,65,1,True,0.47380582097702023,support / guard crop,True,True
+av2,7e4d67b3-c3cc-3288-afe5-043602ea3c70,66,1,False,0.07722336097125697,field crop,True,True
+av2,7e4d67b3-c3cc-3288-afe5-043602ea3c70,66,2,True,0.5427927903685279,field crop,True,True
+av2,7e4d67b3-c3cc-3288-afe5-043602ea3c70,67,1,False,0.16739099913814715,field crop,True,True
+av2,7e4d67b3-c3cc-3288-afe5-043602ea3c70,68,1,True,0.4506568076253228,support / guard crop,True,True
+av2,7e4d67b3-c3cc-3288-afe5-043602ea3c70,69,1,False,0.0010497923329541947,field crop,True,True
+av2,7e4d67b3-c3cc-3288-afe5-043602ea3c70,70,0,True,0.4607727679483543,support / guard crop,True,True
+av2,7fab2350-7eaf-3b7e-a39d-6937a4c1bede,1,0,True,0.304974652898194,support / guard crop,True,True
+av2,7fab2350-7eaf-3b7e-a39d-6937a4c1bede,1,2,True,0.5155296488259288,support / guard crop,False,False
+av2,7fab2350-7eaf-3b7e-a39d-6937a4c1bede,2,2,False,0.0,support / guard crop,False,False
+av2,7fab2350-7eaf-3b7e-a39d-6937a4c1bede,6,0,False,0.2012941174378287,outside,False,False
+av2,7fab2350-7eaf-3b7e-a39d-6937a4c1bede,18,0,True,0.34178168355497207,field crop,True,True
+av2,7fab2350-7eaf-3b7e-a39d-6937a4c1bede,21,0,True,0.4755087106630262,support / guard crop,True,True
+av2,7fab2350-7eaf-3b7e-a39d-6937a4c1bede,29,0,True,0.4253389291651849,field crop,True,True
+av2,7fab2350-7eaf-3b7e-a39d-6937a4c1bede,30,0,True,0.5590265625700778,field crop,True,True
+av2,858d739b-a0ba-35aa-bafc-4f7988bcad17,24,0,False,0.20017984942852307,support / guard crop,True,True
+av2,858d739b-a0ba-35aa-bafc-4f7988bcad17,51,0,False,0.06515415551400085,field crop,True,True
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,0,1,True,0.5999711232693427,field crop,True,True
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,9,0,True,0.6565529492578155,field crop,True,True
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,10,0,True,0.7662794306442589,field crop,True,True
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,13,0,False,0.0,field crop,True,True
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,14,0,True,0.42338574452688316,field crop,True,True
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,15,0,True,0.5232545333787733,field crop,True,True
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,15,1,True,0.8995015283754489,field crop,True,True
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,16,0,True,0.6346578074057908,field crop,True,True
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,16,1,True,0.7136516590648433,field crop,True,True
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,17,0,True,0.6843279059440169,field crop,True,True
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,17,1,True,0.5418294337528624,field crop,True,True
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,18,0,False,0.029404113081570954,field crop,True,False
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,18,1,False,0.017269079562949357,field crop,True,False
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,19,0,True,0.56126258526208,field crop,True,True
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,19,1,True,0.7397993735347548,field crop,True,False
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,20,0,True,0.5923807815451332,field crop,True,False
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,21,0,False,0.13621917095698724,field crop,True,True
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,21,1,False,0.08467822744432353,field crop,True,True
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,22,0,True,0.7160011894942927,field crop,True,True
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,22,1,True,0.5890432794742854,field crop,True,True
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,23,0,True,0.6401828531611411,field crop,True,True
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,23,1,True,0.6402969653359201,field crop,True,True
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,24,0,True,0.5455868602400405,field crop,True,True
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,24,1,True,0.7432834157319492,field crop,True,True
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,25,0,True,0.7317608280520982,support / guard crop,True,True
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,25,1,True,0.7518685604649559,support / guard crop,True,True
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,26,0,True,0.678648483612771,field crop,True,False
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,43,0,True,0.3933020578236598,support / guard crop,True,True
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,44,0,False,0.0,support / guard crop,True,True
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,46,0,True,0.39688889387475923,outside,False,True
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,47,0,True,0.4187232762344656,outside,False,True
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,48,0,True,0.379269220595644,outside,False,True
+av2,92b900b1-ac4a-3d41-b118-e42c66382c91,41,0,False,0.1060762428067796,support / guard crop,True,True
+av2,92b900b1-ac4a-3d41-b118-e42c66382c91,42,0,True,0.46426781163014996,support / guard crop,True,True
+av2,92b900b1-ac4a-3d41-b118-e42c66382c91,43,0,True,0.3770812769754959,support / guard crop,True,True
+av2,96dd6923-994c-3afe-9830-b15bdfd60f64,33,0,True,0.6774596444289408,field crop,True,False
+av2,96dd6923-994c-3afe-9830-b15bdfd60f64,34,0,True,0.7727975848346292,field crop,True,True
+av2,9bb1f857-8b61-369f-a537-484c1323ae32,23,0,True,0.4870380279186039,field crop,True,True
+av2,9bb1f857-8b61-369f-a537-484c1323ae32,23,1,True,0.48285133645081657,field crop,True,True
+av2,9bb1f857-8b61-369f-a537-484c1323ae32,24,0,True,0.5619854969171171,support / guard crop,True,False
+av2,9bb1f857-8b61-369f-a537-484c1323ae32,24,1,True,0.5431028476484395,support / guard crop,True,True
+av2,9bb1f857-8b61-369f-a537-484c1323ae32,25,0,True,0.5524649390002552,support / guard crop,False,False
+av2,9bb1f857-8b61-369f-a537-484c1323ae32,26,0,True,0.6469327803264902,support / guard crop,True,True
+av2,9bb1f857-8b61-369f-a537-484c1323ae32,29,0,True,0.5536510301631986,support / guard crop,True,True
+av2,9bb1f857-8b61-369f-a537-484c1323ae32,29,1,True,0.6614808264796554,outside,False,True
+av2,a7636fca-4d9e-3052-bef2-af0ce5d1df74,35,0,True,0.6357608545393232,field crop,True,True
+av2,a7636fca-4d9e-3052-bef2-af0ce5d1df74,36,0,False,0.27355142721748094,support / guard crop,True,True
+av2,b2053fdc-0b94-30bc-aee7-5bc6fb7e9f52,6,2,False,0.2887884742527147,field crop,False,False
+av2,b2053fdc-0b94-30bc-aee7-5bc6fb7e9f52,14,0,False,0.0,field crop,False,False
+av2,b2053fdc-0b94-30bc-aee7-5bc6fb7e9f52,28,0,False,0.0,field crop,True,True
+av2,b2053fdc-0b94-30bc-aee7-5bc6fb7e9f52,30,0,False,0.0,field crop,True,True
+av2,b2053fdc-0b94-30bc-aee7-5bc6fb7e9f52,31,0,False,0.0,field crop,True,True
+av2,b2053fdc-0b94-30bc-aee7-5bc6fb7e9f52,53,0,False,0.0,field crop,False,False
+av2,b2053fdc-0b94-30bc-aee7-5bc6fb7e9f52,55,0,False,0.019276845616019587,field crop,False,False
+av2,b2053fdc-0b94-30bc-aee7-5bc6fb7e9f52,56,1,False,0.0,field crop,True,True
+av2,b2053fdc-0b94-30bc-aee7-5bc6fb7e9f52,62,0,False,0.0,field crop,False,False
+av2,b2053fdc-0b94-30bc-aee7-5bc6fb7e9f52,68,0,False,0.0,field crop,False,False
+av2,b2053fdc-0b94-30bc-aee7-5bc6fb7e9f52,69,0,False,0.0,field crop,False,False
+av2,b2053fdc-0b94-30bc-aee7-5bc6fb7e9f52,70,0,False,0.0,field crop,False,False
+av2,b2053fdc-0b94-30bc-aee7-5bc6fb7e9f52,71,0,False,0.0,field crop,False,False
+av2,b2053fdc-0b94-30bc-aee7-5bc6fb7e9f52,72,0,False,0.0,field crop,True,True
+av2,b2053fdc-0b94-30bc-aee7-5bc6fb7e9f52,73,0,False,0.0,field crop,True,True
+av2,b2053fdc-0b94-30bc-aee7-5bc6fb7e9f52,75,0,False,0.0,field crop,True,True
+av2,b2053fdc-0b94-30bc-aee7-5bc6fb7e9f52,76,0,False,0.0,field crop,True,True
+av2,b2053fdc-0b94-30bc-aee7-5bc6fb7e9f52,77,0,False,0.0,field crop,True,True
+av2,b213af37-7d89-342d-ae39-8a3c72159a01,46,0,True,0.6645113803674514,field crop,True,True
+av2,b213af37-7d89-342d-ae39-8a3c72159a01,47,0,True,0.6765546266642741,field crop,True,True
+av2,b213af37-7d89-342d-ae39-8a3c72159a01,50,0,True,0.6583710788082835,field crop,True,True
+av2,b50c4763-5d1e-37f4-a009-2244aeebabcd,12,0,False,0.10820397493416758,support / guard crop,True,True
+av2,b50c4763-5d1e-37f4-a009-2244aeebabcd,13,0,True,0.3803034428555899,field crop,True,True
+av2,b50c4763-5d1e-37f4-a009-2244aeebabcd,14,0,False,0.15497799480413874,field crop,True,True
+av2,b50c4763-5d1e-37f4-a009-2244aeebabcd,15,0,False,0.07898352646730099,field crop,True,True
+av2,b6500255-eba3-3f77-acfd-626c07aa8621,1,0,True,0.31120524618126855,field crop,True,False
+av2,b6500255-eba3-3f77-acfd-626c07aa8621,2,1,True,0.5464322891934718,field crop,True,True
+av2,b6500255-eba3-3f77-acfd-626c07aa8621,3,1,True,0.49708308874279367,field crop,False,True
+av2,b6500255-eba3-3f77-acfd-626c07aa8621,10,1,False,0.203871468068844,support / guard crop,False,False
+av2,b8489c02-60d0-3f44-a3b4-9de62830d666,0,1,True,0.3934179846067198,field crop,True,True
+av2,b8489c02-60d0-3f44-a3b4-9de62830d666,4,1,True,0.5791876440282155,field crop,True,True
+av2,b87683ae-14c5-321f-8af3-623e7bafc3a7,6,0,True,0.3326288713136723,field crop,True,True
+av2,b87683ae-14c5-321f-8af3-623e7bafc3a7,7,0,False,0.0,support / guard crop,True,True
+av2,b87683ae-14c5-321f-8af3-623e7bafc3a7,11,0,False,0.0,support / guard crop,True,True
+av2,b87683ae-14c5-321f-8af3-623e7bafc3a7,12,0,True,0.5572358327513138,support / guard crop,True,True
+av2,b87683ae-14c5-321f-8af3-623e7bafc3a7,13,0,True,0.6382250451147796,support / guard crop,True,True
+av2,b87683ae-14c5-321f-8af3-623e7bafc3a7,14,0,True,0.5761950145302743,support / guard crop,True,True
+av2,b87683ae-14c5-321f-8af3-623e7bafc3a7,15,0,True,0.5586327010357326,support / guard crop,True,True
+av2,b87683ae-14c5-321f-8af3-623e7bafc3a7,16,0,True,0.5511758868024816,support / guard crop,True,True
+av2,b87683ae-14c5-321f-8af3-623e7bafc3a7,17,0,True,0.5970000998415811,support / guard crop,True,True
+av2,b87683ae-14c5-321f-8af3-623e7bafc3a7,18,0,True,0.4593934401036607,support / guard crop,True,True
+av2,b87683ae-14c5-321f-8af3-623e7bafc3a7,46,1,True,0.623331952707724,support / guard crop,True,True
+av2,bdb9d309-f14b-3ff6-ad1f-5d3f3f95a13e,72,1,False,0.0,support / guard crop,True,True
+av2,bf382949-3515-3c16-b505-319442937a43,13,0,True,0.7041965442137311,field crop,True,True
+av2,bf382949-3515-3c16-b505-319442937a43,26,0,True,0.5795204173619841,outside,False,True
+av2,bf382949-3515-3c16-b505-319442937a43,27,0,True,0.6493576394347401,field crop,True,True
+av2,bf382949-3515-3c16-b505-319442937a43,28,0,True,0.5752078005493755,field crop,True,True
+av2,bf382949-3515-3c16-b505-319442937a43,32,0,True,0.7222353575978127,field crop,True,False
+av2,bf382949-3515-3c16-b505-319442937a43,49,0,True,0.5131374946768333,field crop,True,False
+av2,bf382949-3515-3c16-b505-319442937a43,50,0,True,0.3672377497628178,field crop,True,False
+av2,bf382949-3515-3c16-b505-319442937a43,51,0,True,0.47815967827378236,field crop,True,False
+av2,c85a88a8-c916-30a7-923c-0c66bd3ebbd3,2,2,True,0.8089095441643972,support / guard crop,True,True
+av2,c85a88a8-c916-30a7-923c-0c66bd3ebbd3,3,1,True,0.5520253417716188,support / guard crop,True,True
+av2,c85a88a8-c916-30a7-923c-0c66bd3ebbd3,3,2,True,0.877538023328627,support / guard crop,True,True
+av2,c85a88a8-c916-30a7-923c-0c66bd3ebbd3,6,2,False,0.0,support / guard crop,False,True
+av2,c85a88a8-c916-30a7-923c-0c66bd3ebbd3,7,4,True,0.32242538146707717,support / guard crop,True,True
+av2,c85a88a8-c916-30a7-923c-0c66bd3ebbd3,8,2,True,0.3772200604286944,support / guard crop,True,True
+av2,c85a88a8-c916-30a7-923c-0c66bd3ebbd3,9,1,False,0.13281610536111255,support / guard crop,True,True
+av2,c85a88a8-c916-30a7-923c-0c66bd3ebbd3,10,1,False,0.22836001146812634,field crop,True,True
+av2,c85a88a8-c916-30a7-923c-0c66bd3ebbd3,11,0,True,0.7889479973063511,field crop,True,True
+av2,c85a88a8-c916-30a7-923c-0c66bd3ebbd3,12,0,True,0.7497673360728486,outside,False,True
+av2,c85a88a8-c916-30a7-923c-0c66bd3ebbd3,17,0,True,0.7575251474749397,field crop,True,True
+av2,c85a88a8-c916-30a7-923c-0c66bd3ebbd3,18,0,True,0.7017016236423322,field crop,True,True
+av2,c85a88a8-c916-30a7-923c-0c66bd3ebbd3,22,0,True,0.6824740235234923,outside,False,True
+av2,c85a88a8-c916-30a7-923c-0c66bd3ebbd3,23,0,True,0.5741162906054054,field crop,True,True
+av2,c85a88a8-c916-30a7-923c-0c66bd3ebbd3,24,0,True,0.6551818095609433,field crop,True,True
+av2,c85a88a8-c916-30a7-923c-0c66bd3ebbd3,26,0,True,0.684959573147534,field crop,True,True
+av2,c85a88a8-c916-30a7-923c-0c66bd3ebbd3,30,0,True,0.7171529163992696,field crop,True,True
+av2,c85a88a8-c916-30a7-923c-0c66bd3ebbd3,38,1,True,0.7121516401925021,support / guard crop,True,True
+av2,c85a88a8-c916-30a7-923c-0c66bd3ebbd3,39,1,True,0.7385652555321286,support / guard crop,True,True
+av2,c85a88a8-c916-30a7-923c-0c66bd3ebbd3,44,1,True,0.7734847207134916,support / guard crop,True,True
+av2,c85a88a8-c916-30a7-923c-0c66bd3ebbd3,47,1,True,0.7154348719182388,support / guard crop,True,True
+av2,c85a88a8-c916-30a7-923c-0c66bd3ebbd3,48,1,True,0.6695567042352057,support / guard crop,True,True
+av2,c85a88a8-c916-30a7-923c-0c66bd3ebbd3,49,1,True,0.6380087542815899,support / guard crop,True,True
+av2,c85a88a8-c916-30a7-923c-0c66bd3ebbd3,50,1,True,0.574002573827395,support / guard crop,True,True
+av2,c85a88a8-c916-30a7-923c-0c66bd3ebbd3,51,1,True,0.4556715458313411,support / guard crop,True,True
+av2,cae56e40-8470-3c9c-af75-6e444189488f,11,0,True,0.44422248137965653,field crop,True,True
+av2,cae56e40-8470-3c9c-af75-6e444189488f,14,0,True,0.5494464513896993,field crop,True,True
+av2,cae56e40-8470-3c9c-af75-6e444189488f,18,0,True,0.4768667134405493,field crop,True,True
+av2,cae56e40-8470-3c9c-af75-6e444189488f,25,0,True,0.4271611809858173,field crop,True,False
+av2,cae56e40-8470-3c9c-af75-6e444189488f,34,0,True,0.6119996192982118,field crop,True,False
+av2,cae56e40-8470-3c9c-af75-6e444189488f,35,0,True,0.3347462132983606,field crop,True,True
+av2,cae56e40-8470-3c9c-af75-6e444189488f,37,0,True,0.504586671193264,field crop,True,False
+av2,cae56e40-8470-3c9c-af75-6e444189488f,38,0,True,0.513359367072252,field crop,True,True
+av2,cae56e40-8470-3c9c-af75-6e444189488f,53,0,True,0.5655075165146433,field crop,True,True
+av2,cae56e40-8470-3c9c-af75-6e444189488f,55,1,True,0.593169031783995,field crop,True,True
+av2,cae56e40-8470-3c9c-af75-6e444189488f,57,1,True,0.5433055806661785,field crop,True,True
+av2,cae56e40-8470-3c9c-af75-6e444189488f,58,1,True,0.5482965736804023,field crop,True,True
+av2,cae56e40-8470-3c9c-af75-6e444189488f,62,0,True,0.41246188812937545,field crop,True,True
+av2,cae56e40-8470-3c9c-af75-6e444189488f,63,0,True,0.3593318615438596,field crop,True,True
+av2,cae56e40-8470-3c9c-af75-6e444189488f,65,0,True,0.3611019301622328,field crop,True,True
+av2,cae56e40-8470-3c9c-af75-6e444189488f,66,0,True,0.479389436003537,field crop,True,True
+av2,cae56e40-8470-3c9c-af75-6e444189488f,67,0,True,0.5995827407252299,field crop,True,True
+av2,cae56e40-8470-3c9c-af75-6e444189488f,68,0,True,0.30461220132732714,field crop,True,True
+av2,cd22abca-9150-3279-87a4-cb00ba517372,0,0,True,0.45410445245604786,field crop,True,True
+av2,cd22abca-9150-3279-87a4-cb00ba517372,1,0,True,0.5477526681892203,field crop,True,True
+av2,cd22abca-9150-3279-87a4-cb00ba517372,2,0,True,0.709923651871868,field crop,True,True
+av2,cd22abca-9150-3279-87a4-cb00ba517372,2,1,True,0.5604704787905198,field crop,True,True
+av2,cd22abca-9150-3279-87a4-cb00ba517372,3,0,True,0.5223256681549824,field crop,True,True
+av2,cd22abca-9150-3279-87a4-cb00ba517372,3,1,True,0.4696174439514494,field crop,True,True
+av2,d3ca0450-2167-38fb-b34b-449741cb38f3,38,0,False,0.0760510175121926,field crop,True,True
+av2,d3ca0450-2167-38fb-b34b-449741cb38f3,39,0,False,0.0032758210631111248,field crop,True,False
+av2,d3ca0450-2167-38fb-b34b-449741cb38f3,40,0,True,0.6649278441355418,field crop,True,True
+av2,d5fa4d54-74ba-369c-a758-636441ad7f07,25,1,True,0.324652985531771,field crop,True,True
+av2,d5fa4d54-74ba-369c-a758-636441ad7f07,26,1,True,0.3945985891721164,field crop,True,True
+av2,d5fa4d54-74ba-369c-a758-636441ad7f07,38,0,True,0.4691574524552476,field crop,True,True
+av2,dc9077b9-2fe0-3d18-9b97-8067ff090874,53,0,False,0.21980429091869838,field crop,True,False
+av2,dc9077b9-2fe0-3d18-9b97-8067ff090874,54,0,True,0.4965972200380027,field crop,True,True
+av2,dc9077b9-2fe0-3d18-9b97-8067ff090874,55,0,True,0.44288988473158103,field crop,True,True
+av2,dc9077b9-2fe0-3d18-9b97-8067ff090874,56,0,True,0.6495587133913314,field crop,True,True
+av2,dc9077b9-2fe0-3d18-9b97-8067ff090874,57,0,True,0.6240714486279022,field crop,True,True
+av2,dc9077b9-2fe0-3d18-9b97-8067ff090874,58,0,True,0.6635014054888553,field crop,True,True
+av2,dc9077b9-2fe0-3d18-9b97-8067ff090874,59,0,True,0.35162404657450835,field crop,True,True
+av2,dc9077b9-2fe0-3d18-9b97-8067ff090874,61,0,True,0.6443425017969511,field crop,True,False
+av2,de56b100-508b-3479-81fe-735349f8e8de,27,0,False,0.0839134474430157,field crop,True,False
+av2,de56b100-508b-3479-81fe-735349f8e8de,28,0,False,0.0,field crop,True,False
+av2,de56b100-508b-3479-81fe-735349f8e8de,40,0,True,0.6838830008070114,field crop,False,False
+av2,de56b100-508b-3479-81fe-735349f8e8de,41,0,True,0.7245973566750116,field crop,True,False
+av2,ded5ef6e-46ea-3a66-9180-18a6fa0a2db4,37,0,False,0.07271867366759792,field crop,True,True
+av2,ded5ef6e-46ea-3a66-9180-18a6fa0a2db4,38,0,False,0.06609817148048751,field crop,True,True
+av2,ded5ef6e-46ea-3a66-9180-18a6fa0a2db4,39,0,False,0.007943314967614015,support / guard crop,True,True
+av2,ded5ef6e-46ea-3a66-9180-18a6fa0a2db4,40,0,False,0.028228799975844935,field crop,True,True
+av2,e0ea281b-6956-3605-b720-71b54ec87d25,37,0,True,0.713111328078618,support / guard crop,True,True
+av2,e0ea281b-6956-3605-b720-71b54ec87d25,38,0,True,0.6293543763158427,support / guard crop,True,True
+av2,e0ea281b-6956-3605-b720-71b54ec87d25,42,0,True,0.6735098259921656,support / guard crop,True,True
+av2,e1d68dde-22a9-3918-a526-0850b21ff2eb,39,0,True,0.30912958778841787,field crop,False,False
+av2,e1d68dde-22a9-3918-a526-0850b21ff2eb,40,0,False,0.2727363186041707,field crop,False,False
+av2,e1d68dde-22a9-3918-a526-0850b21ff2eb,43,0,False,0.18961394487861716,field crop,False,False
+av2,e1d68dde-22a9-3918-a526-0850b21ff2eb,43,1,False,0.20125164749490798,field crop,False,False
+av2,e1d68dde-22a9-3918-a526-0850b21ff2eb,45,0,True,0.5312017307148259,field crop,True,True
+av2,e1d68dde-22a9-3918-a526-0850b21ff2eb,45,1,True,0.48933569643997304,field crop,False,False
+av2,e1d68dde-22a9-3918-a526-0850b21ff2eb,46,0,True,0.30939571113316205,field crop,True,False
+av2,e1d68dde-22a9-3918-a526-0850b21ff2eb,46,1,True,0.3949845681599816,field crop,True,False
+av2,e1d68dde-22a9-3918-a526-0850b21ff2eb,47,1,True,0.5261821626060912,field crop,True,True
+av2,e1d68dde-22a9-3918-a526-0850b21ff2eb,47,2,True,0.5492334303078137,field crop,True,True
+av2,e1d68dde-22a9-3918-a526-0850b21ff2eb,48,0,False,0.28522341958825076,field crop,True,True
+av2,e1d68dde-22a9-3918-a526-0850b21ff2eb,48,1,False,0.25494654852837784,field crop,True,True
+av2,e1d68dde-22a9-3918-a526-0850b21ff2eb,49,0,True,0.3304719644283721,field crop,True,True
+av2,e1d68dde-22a9-3918-a526-0850b21ff2eb,49,1,True,0.5118862743102375,field crop,True,True
+av2,e1d68dde-22a9-3918-a526-0850b21ff2eb,50,0,False,0.260010702666929,field crop,True,True
+av2,e1d68dde-22a9-3918-a526-0850b21ff2eb,50,1,True,0.4561512039550492,field crop,True,True
+av2,e1d68dde-22a9-3918-a526-0850b21ff2eb,51,0,True,0.31463883531329473,field crop,True,False
+av2,e2e921fe-e489-3656-a0a2-5e17bd399ddf,33,0,True,0.618298079603235,field crop,True,True
+av2,e2e921fe-e489-3656-a0a2-5e17bd399ddf,34,0,True,0.7158496556358142,field crop,True,True
+av2,e2e921fe-e489-3656-a0a2-5e17bd399ddf,38,0,True,0.6054884525585508,field crop,True,True
+av2,e2e921fe-e489-3656-a0a2-5e17bd399ddf,39,0,True,0.7727576857367936,field crop,True,True
+av2,e2e921fe-e489-3656-a0a2-5e17bd399ddf,41,0,True,0.7254274475699668,field crop,True,True
+av2,e8c9fd64-fdd2-422d-a2a2-6f47500d1d12,16,1,False,0.2260025487217584,support / guard crop,True,True
+av2,e8c9fd64-fdd2-422d-a2a2-6f47500d1d12,17,1,True,0.5192907312944725,support / guard crop,True,True
+av2,e8c9fd64-fdd2-422d-a2a2-6f47500d1d12,18,1,True,0.3831399167308933,support / guard crop,True,True
+av2,e8c9fd64-fdd2-422d-a2a2-6f47500d1d12,19,1,True,0.4490832156209512,support / guard crop,True,True
+av2,e8c9fd64-fdd2-422d-a2a2-6f47500d1d12,21,1,True,0.3626631168385584,support / guard crop,True,True
+av2,e8c9fd64-fdd2-422d-a2a2-6f47500d1d12,22,1,True,0.5100399290621859,support / guard crop,True,True
+av2,e8c9fd64-fdd2-422d-a2a2-6f47500d1d12,23,1,True,0.45359685380824305,support / guard crop,True,True
+av2,e8c9fd64-fdd2-422d-a2a2-6f47500d1d12,24,1,True,0.4245194103797648,support / guard crop,True,True
+av2,eec284b2-840a-3c75-aa42-04d2e309bbe1,43,0,True,0.8765792127777672,field crop,True,True
+av2,eec284b2-840a-3c75-aa42-04d2e309bbe1,44,0,True,0.8510010720821057,field crop,True,True
+av2,eec284b2-840a-3c75-aa42-04d2e309bbe1,46,0,True,0.7370836669123193,field crop,True,True
+av2,eec284b2-840a-3c75-aa42-04d2e309bbe1,47,0,True,0.7832566406843549,field crop,True,True
+av2,eec284b2-840a-3c75-aa42-04d2e309bbe1,49,0,True,0.653106831372106,field crop,True,True
+av2,eec284b2-840a-3c75-aa42-04d2e309bbe1,58,0,True,0.6283670584191444,field crop,True,True
+av2,eec284b2-840a-3c75-aa42-04d2e309bbe1,63,0,True,0.6773263881316234,field crop,True,True
+av2,eec284b2-840a-3c75-aa42-04d2e309bbe1,64,0,True,0.5652386942728987,field crop,True,True
+av2,eec284b2-840a-3c75-aa42-04d2e309bbe1,67,0,True,0.8551365060319677,field crop,True,False
+av2,eec284b2-840a-3c75-aa42-04d2e309bbe1,68,0,True,0.6527735676696389,field crop,True,True
+av2,eec284b2-840a-3c75-aa42-04d2e309bbe1,69,0,True,0.7184545568882611,field crop,True,True
+av2,f2576c8a-da9b-450e-88cf-a70af1b0eadf,26,0,False,0.1248174630835139,field crop,True,True
+av2,f2576c8a-da9b-450e-88cf-a70af1b0eadf,27,0,False,0.0,field crop,True,False
+av2,f2576c8a-da9b-450e-88cf-a70af1b0eadf,28,0,False,0.0,field crop,True,True
+av2,f2576c8a-da9b-450e-88cf-a70af1b0eadf,29,0,False,0.010410008219894086,field crop,True,True
+av2,f2576c8a-da9b-450e-88cf-a70af1b0eadf,30,0,False,0.0,field crop,True,True
+av2,f2576c8a-da9b-450e-88cf-a70af1b0eadf,31,0,False,0.0,field crop,True,True
+av2,f2576c8a-da9b-450e-88cf-a70af1b0eadf,32,0,True,0.6127727607100466,outside,False,True
+av2,f2576c8a-da9b-450e-88cf-a70af1b0eadf,33,0,True,0.6153016016054508,support / guard crop,False,True
+av2,f2576c8a-da9b-450e-88cf-a70af1b0eadf,34,0,True,0.6842301575040319,outside,False,True
+av2,f292cc5c-7a90-360d-b62a-074c643bdf59,6,0,False,0.0,field crop,False,False
+av2,f292cc5c-7a90-360d-b62a-074c643bdf59,8,1,False,0.03440111060755386,field crop,True,True
+av2,f292cc5c-7a90-360d-b62a-074c643bdf59,9,1,False,0.013323052093132315,field crop,True,True
+av2,f292cc5c-7a90-360d-b62a-074c643bdf59,10,1,False,0.27200752804518463,field crop,True,True
+av2,fbd62533-2d32-3c95-8590-7fd81bd68c87,3,1,True,0.4932698538171212,field crop,True,True
+av2,fbd62533-2d32-3c95-8590-7fd81bd68c87,3,2,True,0.4270160990315708,field crop,True,True
+av2,fbd62533-2d32-3c95-8590-7fd81bd68c87,4,0,True,0.7328992901333155,field crop,True,True
+av2,fbd62533-2d32-3c95-8590-7fd81bd68c87,4,1,True,0.5181294938475237,field crop,True,True
+av2,fbd62533-2d32-3c95-8590-7fd81bd68c87,4,2,True,0.5410651397118726,field crop,True,True
+av2,fbd62533-2d32-3c95-8590-7fd81bd68c87,5,1,False,0.04982508587144673,support / guard crop,True,True
+av2,fbd62533-2d32-3c95-8590-7fd81bd68c87,7,1,True,0.441306774998682,support / guard crop,True,True
+av2,fbd62533-2d32-3c95-8590-7fd81bd68c87,11,1,True,0.6471207635444789,field crop,True,True
+av2,fbd62533-2d32-3c95-8590-7fd81bd68c87,12,1,True,0.4494050106434212,field crop,True,True
+av2,fbd62533-2d32-3c95-8590-7fd81bd68c87,13,0,True,0.6686951972598338,support / guard crop,False,True
+av2,fbd62533-2d32-3c95-8590-7fd81bd68c87,13,1,True,0.5100532933190324,support / guard crop,False,True
+av2,fbd62533-2d32-3c95-8590-7fd81bd68c87,14,0,True,0.6686153124155474,field crop,True,True
+av2,fbd62533-2d32-3c95-8590-7fd81bd68c87,14,1,True,0.5274637891612649,field crop,True,True
+av2,fbd62533-2d32-3c95-8590-7fd81bd68c87,15,0,True,0.3882214452506122,outside,False,True
+av2,fbd62533-2d32-3c95-8590-7fd81bd68c87,16,0,True,0.7168276794245778,field crop,True,True
+ahd,seq00,124,1,True,0.4458597569021866,field crop,True,True
+ahd,seq00,130,1,True,0.4890302531675875,field crop,True,True
+ahd,seq00,140,1,True,0.6828973798893997,support / guard crop,True,True
+ahd,seq00,147,1,False,0.0,field crop,True,True
+ahd,seq00,148,1,False,0.0,field crop,True,True
+ahd,seq00,149,1,False,0.0,field crop,True,True
+ahd,seq00,150,1,True,0.4524838989189061,field crop,True,True
+ahd,seq00,151,1,False,0.2917349005048425,field crop,True,True
+ahd,seq00,152,1,False,0.0,field crop,True,True
+ahd,seq00,153,1,False,0.0,field crop,True,True
+ahd,seq00,154,1,False,0.0,field crop,True,True
+ahd,seq00,155,1,False,0.0,field crop,True,True
+ahd,seq00,156,1,False,0.0,field crop,True,True
+ahd,seq00,157,1,True,0.4319092407526933,field crop,True,True
+ahd,seq00,158,1,True,0.5204696439802473,field crop,True,True
+ahd,seq00,159,1,True,0.5757331085073261,field crop,True,True
+ahd,seq00,162,1,True,0.5098211544172495,field crop,True,True
+ahd,seq00,163,1,True,0.5642240368929298,field crop,True,True
+ahd,seq00,164,1,True,0.5742057100944178,field crop,True,True
+ahd,seq00,167,1,True,0.5457308715562421,field crop,True,True
+ahd,seq00,168,1,True,0.6648884549527221,field crop,True,True
+ahd,seq00,683,0,True,0.6497701389909375,support / guard crop,False,True
+ahd,seq00,691,0,True,0.36987488665470036,support / guard crop,True,True
+ahd,seq00,692,0,True,0.4799825916347199,support / guard crop,True,True
+ahd,seq00,702,0,True,0.427411293242989,support / guard crop,True,True
+ahd,seq00,706,0,True,0.454092852895027,support / guard crop,True,True
+ahd,seq00,707,0,True,0.48971955998304895,support / guard crop,True,True
+ahd,seq00,716,1,True,0.36404177004058197,field crop,True,True
+ahd,seq00,718,0,True,0.5242763610061036,field crop,True,False
+ahd,seq00,719,0,True,0.4442094193725739,field crop,True,True
+ahd,seq00,720,0,True,0.3468798916906898,field crop,True,True
+ahd,seq00,721,0,True,0.3259067806440297,field crop,True,True
+ahd,seq00,722,0,True,0.43624853626589477,support / guard crop,False,True
+ahd,seq00,727,0,True,0.36198720468287104,support / guard crop,True,True
+ahd,seq00,730,0,True,0.3046285385382791,field crop,True,True
+ahd,seq00,731,0,False,0.27065907115196775,field crop,True,True
+ahd,seq00,732,0,False,0.19613565566857363,field crop,True,True
+ahd,seq00,733,0,False,0.1698880134175743,field crop,True,True
+ahd,seq00,734,0,False,0.16182712556255938,field crop,True,True
+ahd,seq00,735,0,False,0.08704733589905957,field crop,True,True
+ahd,seq00,736,0,False,0.2070536701779061,field crop,True,True
+ahd,seq00,737,0,False,0.2577148948197076,field crop,True,True
+ahd,seq00,738,0,False,0.18733553845291753,field crop,True,True
+ahd,seq00,743,1,True,0.5704016630546428,support / guard crop,False,False
+ahd,seq00,744,1,True,0.6188980673280117,support / guard crop,False,True
+ahd,seq00,745,1,True,0.6590730908630943,outside,False,True
+ahd,seq00,747,0,True,0.5568472635316841,field crop,True,True
+ahd,seq00,748,0,True,0.5653273804593932,field crop,True,True
+ahd,seq00,751,0,True,0.5505158535462629,field crop,True,True
+ahd,seq00,752,0,True,0.49717394920936075,field crop,True,True
+ahd,seq00,753,0,True,0.5060344862298491,field crop,True,True
+ahd,seq00,775,0,True,0.4400781597558705,outside,False,True
+ahd,seq00,776,0,True,0.43232054655759916,outside,False,True
+ahd,seq00,779,0,True,0.4670457646946029,support / guard crop,False,True
+ahd,seq00,780,0,True,0.35636958423742754,support / guard crop,False,True
+ahd,seq00,781,0,True,0.39174472051326503,outside,False,True
+ahd,seq00,782,0,True,0.39144524203103875,outside,False,True
+ahd,seq00,783,0,True,0.3000817650635499,support / guard crop,False,True
+ahd,seq00,784,0,True,0.40899416107749315,outside,False,True
+ahd,seq00,785,0,True,0.39654724065237235,outside,False,True
+ahd,seq00,787,0,True,0.3541361362127283,outside,False,True
+ahd,seq00,788,0,True,0.3907349715521268,outside,False,True
+ahd,seq00,789,0,True,0.3481250967587386,outside,False,True
+ahd,seq00,790,0,True,0.3473583135017846,outside,False,True
+ahd,seq00,795,0,False,0.2683393452561649,field crop,True,True
+ahd,seq00,796,0,True,0.3122776165382338,field crop,True,True
+ahd,seq00,797,0,True,0.3631656145132147,field crop,True,True
+ahd,seq00,798,0,False,0.2550323580255049,field crop,True,True
+ahd,seq00,803,0,False,0.06900614049451058,field crop,True,True
+ahd,seq00,852,0,True,0.6033225935172198,field crop,True,False
+ahd,seq00,853,0,True,0.5760094380096589,field crop,True,False
+ahd,seq00,854,0,True,0.5909209031834576,field crop,True,False
+ahd,seq00,856,0,True,0.668313528861757,field crop,True,False
+ahd,seq00,857,0,True,0.564184504453238,field crop,True,True
+ahd,seq00,858,0,True,0.5152382367009622,field crop,True,True
+ahd,seq00,859,0,True,0.8145508665843456,field crop,True,True
+ahd,seq01,567,0,False,0.08089212346116309,field crop,False,False
+ahd,seq01,597,0,True,0.3987360359946186,field crop,True,False
+ahd,seq01,599,0,True,0.5340758441688227,field crop,False,True
+ahd,seq01,600,0,True,0.4252597489779662,field crop,True,False
+ahd,seq01,601,0,False,0.06785148601997376,field crop,False,False
+ahd,seq01,602,0,True,0.39651368179484375,field crop,True,True
+ahd,seq01,783,0,True,0.3257608755052247,field crop,True,True
+ahd,seq01,784,0,True,0.33211981330705254,field crop,True,True
+ahd,seq01,785,0,False,0.0,field crop,True,False
+ahd,seq01,786,0,True,0.3476915893222183,field crop,True,True
+ahd,seq01,787,0,True,0.3541906644270353,field crop,True,True
+ahd,seq01,788,0,False,0.0,field crop,True,False
+ahd,seq01,789,0,False,0.0,field crop,True,False
+ahd,seq01,790,0,False,0.1226628734520334,field crop,True,True
+ahd,seq01,791,0,False,0.11478375171660643,field crop,True,False
+ahd,seq01,792,0,False,0.0,field crop,True,False
+ahd,seq01,793,0,False,0.0,field crop,True,False
+ahd,seq01,794,0,False,0.0,field crop,True,False
+ahd,seq01,795,0,False,0.17936514033333265,field crop,True,False
+ahd,seq01,796,0,False,0.17386369737345805,outside,False,False
+ahd,seq01,797,0,False,0.17700568372855668,outside,False,False
+ahd,seq01,798,0,False,0.13427236511057458,outside,False,True
+ahd,seq01,799,0,False,0.13947624110277912,field crop,True,False
+ahd,seq01,800,0,False,0.15951696799915632,field crop,True,True
+ahd,seq01,801,0,False,0.17509515226164407,field crop,True,True
+ahd,seq01,802,0,False,0.14431999377631916,field crop,True,True
+ahd,seq01,803,0,False,0.1925382136830616,field crop,True,False
+ahd,seq01,804,0,False,0.22003805121568867,field crop,True,True
+ahd,seq01,805,0,False,0.1915769490209782,field crop,True,True
+ahd,seq01,806,0,False,0.17253144050418656,field crop,True,True
+ahd,seq01,807,0,False,0.14979028384037177,field crop,True,True
+ahd,seq01,808,0,False,0.19498057787801099,field crop,True,False
+ahd,seq01,809,0,False,0.1832672131995134,field crop,True,True
+ahd,seq01,810,0,False,0.17060861191880383,field crop,True,False
+ahd,seq01,811,0,False,0.15123993317520434,field crop,True,True
+ahd,seq01,812,0,False,0.18126418643298717,field crop,True,False
+ahd,seq01,813,1,False,0.13331761205795817,field crop,True,False
+ahd,seq01,814,1,False,0.08565619958294295,field crop,True,True
+ahd,seq01,815,1,True,0.35551013845663004,field crop,True,True
+ahd,seq01,816,1,True,0.3438187381921285,field crop,True,True
+ahd,seq01,817,1,False,0.12029934484599791,field crop,True,True
+ahd,seq01,818,1,False,0.14870907291436386,field crop,True,True
+ahd,seq01,819,1,False,0.10332472124643907,field crop,True,True
+ahd,seq01,820,1,False,0.13707899273546978,field crop,True,True
+ahd,seq01,821,1,False,0.09397352444715514,field crop,True,False
+ahd,seq01,822,1,False,0.15159475503423792,field crop,True,True
+ahd,seq01,823,1,False,0.15837431981057765,field crop,True,True
+ahd,seq01,824,1,False,0.1686256585967823,field crop,True,True
+ahd,seq01,825,1,True,0.43146873315405376,field crop,True,True
+ahd,seq01,826,1,False,0.18272274160921248,field crop,True,True
+ahd,seq01,827,1,False,0.15300727396472893,field crop,True,True
+ahd,seq01,828,1,False,0.16010504499856557,field crop,True,True
+ahd,seq01,829,1,True,0.4017505853964294,field crop,True,True
+ahd,seq01,830,1,True,0.3872002969565313,field crop,True,True
+ahd,seq01,831,1,True,0.36552320927132287,field crop,True,True
+ahd,seq01,832,1,True,0.37813228898257345,field crop,True,True
+ahd,seq01,833,1,True,0.36588532713316246,field crop,True,True
+ahd,seq01,834,1,False,0.26081673951631157,field crop,True,True
+ahd,seq01,835,1,False,0.14273343688598758,field crop,True,True
+ahd,seq01,836,1,False,0.12114471465155284,field crop,True,True
+ahd,seq01,837,1,False,0.0,field crop,True,False
+ahd,seq01,838,1,False,0.0,field crop,True,False
+ahd,seq01,839,1,False,0.18004427599996473,field crop,True,True
+ahd,seq01,840,1,False,0.24079985103904844,field crop,True,True
+ahd,seq01,841,1,False,0.26859205499681266,field crop,True,True
+ahd,seq01,842,1,False,0.10199658827662293,field crop,True,False
+ahd,seq01,843,1,True,0.36630184463388626,field crop,True,True
+ahd,seq01,844,1,True,0.3117163689647577,outside,False,True
+ahd,seq01,845,1,True,0.3839731257013617,outside,False,True
+ahd,seq01,846,1,False,0.27763467626410965,outside,False,True
+ahd,seq01,847,1,True,0.3005790516124147,field crop,True,True
+ahd,seq01,848,1,False,0.1919824112178122,field crop,True,True
+ahd,seq01,849,1,False,0.22414805526499954,field crop,True,True
+ahd,seq01,850,1,False,0.21913152813278636,field crop,True,True
+ahd,seq01,851,1,False,0.2229004446281474,field crop,True,True
+ahd,seq01,852,1,False,0.22408891547391638,field crop,True,True
+ahd,seq01,853,1,False,0.22717326396058787,field crop,True,True
+ahd,seq01,854,1,False,0.22730867589461032,field crop,True,True
+ahd,seq01,855,1,True,0.4197886391936789,field crop,True,True
+ahd,seq01,856,1,True,0.4351549158035443,field crop,True,True
+ahd,seq01,857,1,True,0.4215011058733918,field crop,True,True
+ahd,seq01,858,1,False,0.21616827635757727,field crop,True,True
+ahd,seq01,859,1,False,0.1847870719137158,field crop,True,True
+ahd,seq01,860,1,True,0.3767214471217175,field crop,True,True
+ahd,seq01,861,0,True,0.31763602115791095,field crop,False,False
+ahd,seq01,862,0,False,0.16890273216828,field crop,False,False
+ahd,seq01,863,0,True,0.3009902890290935,field crop,False,False
+ahd,seq01,864,0,False,0.291736274684895,field crop,False,False
+ahd,seq01,865,0,False,0.2921135191982219,field crop,False,False
+ahd,seq01,866,1,True,0.3153460088273194,field crop,True,True
+ahd,seq01,867,0,False,0.2895277188601353,field crop,False,False
+ahd,seq01,868,0,False,0.23790100904139416,field crop,False,False
+ahd,seq01,869,0,True,0.31681436002196134,field crop,True,True
+ahd,seq01,870,0,False,0.1377477515297663,field crop,True,True
+ahd,seq01,871,0,False,0.16831809337211848,field crop,True,True
+ahd,seq01,872,0,False,0.1593331465553072,field crop,True,True
+ahd,seq01,873,0,False,0.13793024296835774,outside,False,False
+ahd,seq01,874,0,False,0.19543436563782174,outside,False,True
+ahd,seq01,875,0,True,0.3481168823976912,field crop,True,False
+ahd,seq01,876,0,False,0.0,field crop,True,True
+ahd,seq01,877,0,False,0.0,field crop,True,True
+ahd,seq01,878,0,False,0.2268836936876702,outside,False,True
+ahd,seq01,879,0,False,0.22821884911899468,field crop,True,True
+ahd,seq01,880,0,False,0.23349486560240537,field crop,True,True
+ahd,seq01,881,0,False,0.0,field crop,True,True
+ahd,seq01,882,0,False,0.2847743689255437,field crop,False,False
+ahd,seq01,883,0,False,0.2855228856582918,field crop,False,False
+ahd,seq01,884,0,False,0.017351332461933124,field crop,False,True
+ahd,seq01,885,0,False,0.2896520507403988,field crop,False,False
+ahd,seq01,886,0,True,0.30084087918306734,field crop,True,True
+ahd,seq01,887,0,False,0.29993075726687957,field crop,False,True
+ahd,seq01,888,0,False,0.29500874991286674,field crop,False,False
+ahd,seq01,889,0,False,0.13741080335013262,field crop,False,False
+ahd,seq01,890,0,True,0.38959605193812674,field crop,False,True
+ahd,seq01,891,0,False,0.08114522443714278,field crop,False,False
+ahd,seq01,892,0,False,0.18362761322254034,support / guard crop,False,False
+ahd,seq01,893,1,False,0.03765796176179543,field crop,True,False
+ahd,seq01,894,1,False,0.1812203511521265,field crop,True,True
+ahd,seq01,895,1,False,0.07369433328728796,field crop,True,True
+ahd,seq01,896,1,False,0.04291962474241277,field crop,True,True
+ahd,seq01,897,1,False,0.04213264502380886,support / guard crop,True,True
+ahd,seq01,898,1,False,0.1769845865457508,outside,False,True
+ahd,seq01,899,1,False,0.21613236119160503,outside,False,True
+ahd,seq03,197,0,True,0.7532918779938474,support / guard crop,True,True
+ahd,seq06,126,0,False,0.07734587175571463,field crop,True,False
+ahd,seq06,128,0,False,0.08889854352550482,field crop,True,False
+ahd,seq06,129,0,False,0.05866138237583063,field crop,False,False
+ahd,seq06,130,0,False,0.0,field crop,False,False
+ahd,seq06,131,0,False,0.004686991153664357,field crop,True,False
+ahd,seq06,132,0,False,0.0,field crop,True,False
+ahd,seq06,133,0,False,0.0,field crop,True,False
+ahd,seq06,134,0,False,0.0,field crop,True,False
+ahd,seq06,135,0,False,0.0,field crop,True,False
+ahd,seq06,136,0,False,0.0,field crop,True,False
+ahd,seq06,137,0,False,0.0,field crop,True,False
+ahd,seq06,139,0,False,0.0,field crop,True,False
+ahd,seq06,140,0,False,0.0,field crop,True,False
+ahd,seq06,141,0,False,0.0,field crop,True,False
+ahd,seq06,142,0,False,0.0,field crop,True,False
+ahd,seq06,143,0,False,0.0,field crop,True,False
+ahd,seq06,144,0,False,0.0,field crop,True,False
+ahd,seq06,145,0,False,0.0,field crop,True,False
+ahd,seq06,146,0,True,0.4479304759970797,field crop,True,True
+ahd,seq06,147,0,False,0.0,field crop,True,False
+ahd,seq06,148,0,False,0.0,field crop,True,False
+ahd,seq06,149,0,True,0.5527955837365046,field crop,True,False
+ahd,seq06,154,0,True,0.6462626317784514,field crop,True,True
+ahd,seq06,155,0,True,0.5587348566560608,field crop,True,False
+ahd,seq06,156,0,True,0.5353316748553567,field crop,True,False
+ahd,seq06,157,0,True,0.5288740561666593,field crop,True,True
+ahd,seq06,158,0,True,0.4440598443394876,field crop,True,False
+ahd,seq06,159,0,False,0.24494293387950303,field crop,True,False
+ahd,seq06,160,0,False,0.24537702825093846,field crop,True,False
+ahd,seq06,161,0,True,0.3376690050947057,field crop,True,False
+ahd,seq06,162,0,False,0.20252457607423824,field crop,True,False
+ahd,seq06,163,0,False,0.07477988108696275,field crop,True,False
+ahd,seq06,164,0,False,0.08013300591491479,field crop,True,False
+ahd,seq06,167,0,False,0.20195367629991803,field crop,True,False
+ahd,seq06,168,0,False,0.14770233695880466,field crop,True,False
+ahd,seq06,170,0,False,0.19804663536804018,field crop,True,False
+ahd,seq06,171,0,False,0.13239860617049606,field crop,False,False
+ahd,seq06,172,0,False,0.11632650756496099,field crop,True,False
+ahd,seq06,173,0,False,0.24212403568144478,field crop,False,False
+ahd,seq06,174,0,True,0.38460947916088895,field crop,True,False
+ahd,seq06,277,0,True,0.34211868533204337,field crop,True,True
+ahd,seq06,278,0,True,0.46440655985315676,field crop,True,True
+ahd,seq06,279,0,True,0.44998199877481104,field crop,True,True
+ahd,seq06,280,0,True,0.44174533479807193,field crop,True,True
+ahd,seq06,300,0,True,0.4726426167592191,field crop,True,True
+ahd,seq06,364,0,True,0.47035630954814905,support / guard crop,False,True
+ahd,seq06,365,0,True,0.6524103939465874,support / guard crop,False,True
+ahd,seq06,367,0,True,0.7219065337651657,support / guard crop,False,True
+ahd,seq06,370,0,True,0.5588308109208192,outside,False,True
+ahd,seq06,375,0,True,0.5306367516866866,support / guard crop,False,True
+ahd,seq06,378,0,True,0.7361996517379397,support / guard crop,True,True
+ahd,seq06,381,0,True,0.6771368043324039,support / guard crop,True,True
+ahd,seq06,384,0,True,0.6747461063454804,support / guard crop,True,True
+ahd,seq06,385,0,True,0.7222132701048826,outside,False,True
+ahd,seq06,386,0,True,0.7216703471108279,outside,False,True
+ahd,seq06,388,1,True,0.39091003282469816,outside,False,True
+ahd,seq06,389,1,True,0.4356287369623359,support / guard crop,True,True
+ahd,seq06,390,1,True,0.38880237743548535,support / guard crop,True,True
+ahd,seq06,393,0,True,0.6647617528427253,field crop,True,True
+ahd,seq06,393,1,True,0.45933188830238075,field crop,False,True
+ahd,seq06,394,1,True,0.3969814924136967,field crop,True,True
+ahd,seq06,396,0,True,0.6362006792500576,field crop,True,True
+ahd,seq06,396,1,True,0.46666042725945284,field crop,False,True
+ahd,seq06,397,0,True,0.597478153275162,field crop,True,True
+ahd,seq06,445,0,True,0.7759996656125441,field crop,True,True
+ahd,seq06,450,0,True,0.6121520962188167,field crop,True,True
+ahd,seq06,451,0,True,0.5959422699057413,field crop,True,True
+ahd,seq06,452,0,True,0.6658328701758344,field crop,True,True
+ahd,seq08,119,0,False,0.0,field crop,True,False
+ahd,seq08,120,0,True,0.5048177758499537,field crop,True,True
+ahd,seq08,121,0,True,0.47501430008842416,field crop,True,True
+ahd,seq08,122,0,True,0.5254783746454751,field crop,True,True
+ahd,seq08,123,0,True,0.521994322856714,field crop,True,True
+ahd,seq08,124,0,True,0.42792827822934626,field crop,True,True
+ahd,seq08,125,0,True,0.4310752010107869,field crop,True,True
+ahd,seq08,126,0,True,0.4932931353947593,field crop,True,True
+ahd,seq08,127,0,True,0.5728650576271549,field crop,True,True
+ahd,seq08,128,0,True,0.5604303807918727,field crop,True,True
+ahd,seq08,129,0,True,0.46862755861296207,field crop,True,True
+ahd,seq08,130,0,True,0.5115572659304641,field crop,True,True
+ahd,seq09,116,0,True,0.5360259304926179,field crop,True,True
+ahd,seq09,117,0,True,0.5611520869086207,field crop,True,True
+ahd,seq09,118,0,True,0.5935880795564938,field crop,True,True
+ahd,seq09,120,0,True,0.5766868181151501,field crop,True,True
+ahd,seq09,121,0,True,0.5581894117015602,field crop,True,True
+ahd,seq09,122,0,True,0.519577188315263,field crop,True,True
+ahd,seq09,123,0,True,0.40238687506288723,field crop,True,True
+ahd,seq09,124,0,True,0.5672962795539148,field crop,True,True
+ahd,seq09,125,0,True,0.5905923939307738,field crop,True,True
+ahd,seq09,176,0,True,0.8371643448947325,outside,False,True
+ahd,seq10,169,0,True,0.5639685372151596,field crop,True,True
+ahd,seq10,170,0,True,0.7958524619203778,field crop,True,True
+ahd,seq10,171,0,True,0.7641753813252222,field crop,True,True
+ahd,seq10,172,0,True,0.7465442508716557,field crop,True,True
+ahd,seq10,174,0,True,0.614937100126888,field crop,True,True
+ahd,seq10,175,0,True,0.6509577555993358,field crop,True,True
+ahd,seq10,176,0,True,0.7094391459229418,field crop,True,True
+ahd,seq10,177,0,True,0.6760924538926875,field crop,True,True
+ahd,seq10,178,0,True,0.6764582465794684,field crop,True,True
+ahd,seq10,179,0,True,0.6599839158716926,field crop,True,True
+ahd,seq10,180,0,True,0.6658864047887986,field crop,True,True
+ahd,seq10,181,0,True,0.6400320015628492,field crop,True,True
+ahd,seq10,182,0,True,0.5963034610695765,field crop,True,True
+ahd,seq10,183,0,True,0.6656714427417008,field crop,True,True
+ahd,seq10,184,0,True,0.7038858314552721,field crop,True,True
+ahd,seq10,191,0,True,0.6476821295966373,field crop,True,True
+ahd,seq10,192,0,True,0.6361741889165414,field crop,True,True
+ahd,seq10,196,0,True,0.8486186673457873,field crop,True,True
+ahd,seq10,197,0,False,0.0,field crop,True,True
+ahd,seq10,198,0,False,0.0,field crop,True,True
+ahd,seq10,202,0,False,0.0,field crop,True,True
+ahd,seq10,207,0,True,0.7029344977303467,field crop,True,True
+ahd,seq10,210,0,False,0.0,field crop,True,True
+ahd,seq10,210,3,False,0.0,field crop,False,False
+ahd,seq10,211,0,False,0.0,field crop,True,True
+ahd,seq10,211,3,False,0.0,field crop,True,True
+ahd,seq10,212,0,False,0.0,field crop,True,True
+ahd,seq10,212,3,False,0.0,field crop,True,True
+ahd,seq10,213,0,False,0.21814471899600366,field crop,True,True
+ahd,seq10,213,3,True,0.5813351037429562,field crop,False,True
+ahd,seq10,214,0,False,0.19033153204788233,field crop,True,True
+ahd,seq10,214,3,True,0.6134488625079528,field crop,False,True
+ahd,seq10,215,3,True,0.6160262259392493,field crop,False,True
+ahd,seq10,216,2,True,0.4905508895779947,field crop,False,False
+ahd,seq10,217,2,False,0.0,field crop,True,True
+ahd,seq10,218,2,True,0.4371596097955108,field crop,True,True
+ahd,seq10,219,3,True,0.5636032700592706,field crop,True,True
+ahd,seq10,220,3,False,0.0,field crop,True,True
+ahd,seq10,221,3,False,0.0,field crop,True,True
+ahd,seq10,222,3,False,0.0,field crop,True,True
+ahd,seq10,223,3,True,0.6278834180258905,field crop,True,True
+ahd,seq10,224,3,True,0.5963034974349034,field crop,False,True
+ahd,seq10,225,3,True,0.4472876372204453,field crop,False,False
+ahd,seq10,227,3,True,0.6405564140631037,field crop,False,True
+ahd,seq10,230,3,False,0.0,field crop,True,True
+ahd,seq10,231,3,False,0.0,field crop,True,True
+ahd,seq10,232,3,False,0.0,field crop,True,True
+ahd,seq10,233,3,False,0.0,field crop,True,True
+ahd,seq10,236,3,True,0.6199544330439158,field crop,True,True
+ahd,seq10,237,3,True,0.5588428405497294,field crop,True,True
+ahd,seq10,238,3,True,0.37957333190955944,field crop,True,True
+ahd,seq10,239,3,False,0.17119811724004383,field crop,True,True
+ahd,seq10,240,3,False,0.0,field crop,True,True
+ahd,seq10,241,2,True,0.6009303041926428,field crop,True,True
+ahd,seq10,242,2,True,0.5936678254643873,field crop,True,True
+ahd,seq10,243,2,True,0.552024740457535,field crop,True,True
+ahd,seq10,244,2,True,0.76560718030825,field crop,False,True
+ahd,seq10,245,2,True,0.7510471070645184,field crop,True,True
+ahd,seq10,246,1,False,0.0,field crop,True,False
+ahd,seq10,247,1,False,0.0,field crop,True,False
+ahd,seq10,248,1,False,0.0,field crop,True,True
+ahd,seq10,249,1,True,0.5553158258849629,field crop,True,True
+ahd,seq10,250,1,True,0.5614708353864861,field crop,True,True
+ahd,seq10,251,1,True,0.5604867017816149,field crop,True,True
+ahd,seq10,252,1,True,0.46688020225314725,field crop,True,True
+ahd,seq10,254,1,True,0.6822425855571816,field crop,True,True
+ahd,seq10,255,1,True,0.6512133659728783,field crop,True,True
+ahd,seq10,256,1,True,0.6284626363152341,field crop,True,True
+ahd,seq10,257,1,True,0.48622163405514107,field crop,True,True
+ahd,seq10,258,1,True,0.4510725051960849,field crop,True,True
+ahd,seq10,259,1,True,0.5560792883459688,field crop,True,True
+ahd,seq10,260,1,True,0.4986907071473684,field crop,True,True
+ahd,seq10,261,1,True,0.49525078007287915,field crop,False,True
+ahd,seq10,262,1,True,0.4754744549489213,field crop,True,True
+ahd,seq10,263,1,True,0.5105937908514535,field crop,True,True
+ahd,seq10,264,0,True,0.5075295691977126,field crop,False,True
+ahd,seq10,266,0,True,0.5311191351693748,field crop,True,True
+ahd,seq10,268,0,True,0.5775559086948909,field crop,True,True
+ahd,seq10,271,0,True,0.5576460278349344,field crop,True,False
+ahd,seq10,272,0,True,0.5870438701286934,field crop,True,False
+ahd,seq10,273,0,True,0.6590483943979034,field crop,True,False
+ahd,seq10,274,0,True,0.5932738574361658,field crop,True,False
+ahd,seq10,275,0,True,0.6501233683785554,support / guard crop,True,False
+ahd,seq10,276,0,True,0.7011037160748135,support / guard crop,False,False
+ahd,seq10,277,0,True,0.6180954261942935,support / guard crop,False,False
+ahd,seq10,278,0,True,0.6453666624191584,support / guard crop,False,False
+ahd,seq10,282,0,True,0.5169412547859368,field crop,True,False
+ahd,seq10,283,0,True,0.5408442013941774,field crop,True,False
+ahd,seq10,284,0,False,0.22974738014941515,field crop,True,False
+ahd,seq10,285,0,True,0.5012620831447261,field crop,True,False
+ahd,seq10,286,0,False,0.0,field crop,True,False
+ahd,seq10,287,0,True,0.5137058574951885,field crop,True,False
+ahd,seq13,38,0,True,0.4545112848274799,field crop,True,True
+ahd,seq13,39,0,True,0.4201459893377764,field crop,True,True
+ahd,seq13,40,0,True,0.4735495713354421,field crop,True,True
+ahd,seq13,41,0,True,0.36757029240426364,field crop,True,True
+ahd,seq13,42,0,False,0.0,field crop,True,False
+ahd,seq13,43,0,True,0.3631861086019901,field crop,True,True
+ahd,seq13,190,0,True,0.7473846314397837,field crop,True,True
+ahd,seq13,207,0,True,0.8159938674805522,field crop,True,True
+ahd,seq13,208,0,True,0.6823775970646166,field crop,True,True
+ahd,seq13,209,0,True,0.682733955817947,field crop,True,True
+ahd,seq13,210,0,True,0.6531632385932594,field crop,True,True
+ahd,seq13,211,0,True,0.6364167295914678,field crop,True,True
+ahd,seq13,214,0,True,0.5965246587315681,field crop,True,True
+ahd,seq13,215,0,True,0.5258878252530479,field crop,True,True
+ahd,seq13,219,0,True,0.7338703152369415,field crop,True,True
+ahd,seq13,236,0,True,0.6663845124923986,field crop,True,True
+ahd,seq13,273,0,True,0.8716700136294163,field crop,True,True
+ahd,seq13,274,0,True,0.8070782587923828,field crop,True,True
+ahd,seq13,287,0,True,0.8050325751794098,field crop,True,True
+ahd,seq13,288,0,True,0.8114332864576681,field crop,True,True
+ahd,seq13,289,0,True,0.8341256842282645,field crop,True,True
+ahd,seq13,290,0,True,0.8333150702054292,field crop,True,True
+ahd,seq13,291,0,True,0.932491936375144,field crop,True,True
+ahd,seq13,292,0,True,0.926823555902757,field crop,True,True
+ahd,seq13,293,0,True,0.887364534535536,field crop,True,True
+ahd,seq13,312,0,True,0.8085894824028304,field crop,True,True
+ahd,seq13,313,0,True,0.7798805268360985,field crop,True,True
+ahd,seq13,314,0,True,0.8358714707921163,field crop,True,True
+ahd,seq13,315,0,True,0.8266367169811552,field crop,True,True
+ahd,seq13,320,0,True,0.9009280599597687,field crop,True,True
+ahd,seq13,321,0,True,0.8938377147944955,field crop,True,True
+ahd,seq13,322,0,True,0.8513247150965195,field crop,True,True
+ahd,seq13,322,1,True,0.6247245351765633,field crop,True,True
+ahd,seq13,323,1,True,0.6618651005015977,field crop,True,True
+ahd,seq13,324,1,True,0.7306917581991902,field crop,True,True
+ahd,seq13,325,1,True,0.6227176285486655,field crop,True,True
+ahd,seq13,326,1,True,0.8113062825090251,field crop,True,True
+ahd,seq13,327,1,True,0.7729975785947258,field crop,True,True
+ahd,seq13,328,1,True,0.7211922196466277,field crop,True,True
+ahd,seq13,330,1,True,0.6452001036926879,field crop,True,True
+ahd,seq13,331,1,True,0.6839166341336783,field crop,True,True
+ahd,seq13,374,0,True,0.6486260952135369,field crop,True,True
+ahd,seq13,375,0,True,0.7453451194292892,field crop,True,True
+ahd,seq13,376,0,True,0.7254583730742472,field crop,True,True
+ahd,seq13,377,0,True,0.6826191190745805,field crop,True,True
+ahd,seq13,378,0,True,0.7263613369336499,field crop,True,True
+ahd,seq13,396,0,True,0.7155256563642519,field crop,True,True
+ahd,seq13,397,0,True,0.7135236491149245,field crop,True,True
+ahd,seq13,398,0,True,0.611283048180143,field crop,True,True
+ahd,seq13,399,0,True,0.6303240108916276,field crop,True,True
+ahd,seq13,400,0,True,0.5759264039323292,field crop,True,True
+ahd,seq13,401,0,True,0.5669522797697275,field crop,True,True
+ahd,seq13,402,0,True,0.5912009372301185,field crop,True,True
+ahd,seq13,403,0,True,0.6630168748436586,field crop,True,True
+ahd,seq13,406,0,True,0.6415582042557647,field crop,True,True
+ahd,seq13,412,0,True,0.5133002447888195,field crop,True,True
+ahd,seq13,413,0,True,0.5070844633931545,field crop,True,True
+ahd,seq13,414,0,True,0.5868975781445761,field crop,True,True
+ahd,seq13,415,0,True,0.6002623156219391,field crop,True,True
+ahd,seq13,416,0,True,0.5467033649491363,field crop,True,True
+ahd,seq13,417,0,True,0.5912359533863718,field crop,True,True
+ahd,seq13,418,0,True,0.5307520638893685,field crop,True,True
+ahd,seq13,419,0,True,0.6877895231339675,field crop,True,True
+ahd,seq13,420,0,True,0.6814405089311374,field crop,True,True
+ahd,seq13,421,0,True,0.7079196114816168,field crop,True,True
+ahd,seq13,422,0,True,0.6305489760376357,field crop,True,True
+ahd,seq13,423,0,True,0.6807195861285462,field crop,True,True
+ahd,seq13,424,0,True,0.6102212672790792,field crop,True,True
+ahd,seq13,425,0,True,0.6142770540249474,field crop,True,True
+ahd,seq13,426,0,True,0.6663837462797289,field crop,True,True
+ahd,seq13,427,0,True,0.6061892894004863,field crop,True,True
+ahd,seq13,428,0,True,0.5971947986477711,field crop,True,True
+ahd,seq13,429,0,True,0.6435760016925791,field crop,True,True
+ahd,seq13,430,0,True,0.6114546728732654,field crop,True,True
+ahd,seq13,431,0,True,0.6108604464535665,field crop,True,True
+ahd,seq13,432,0,True,0.6780771944834412,field crop,True,True
+ahd,seq13,433,0,True,0.6400212493503324,field crop,True,True
+ahd,seq13,436,0,True,0.6600200875465275,field crop,True,True
+ahd,seq16,41,0,False,0.0,field crop,True,False
+ahd,seq16,42,0,False,0.0,field crop,True,False
+ahd,seq16,43,0,False,0.0,field crop,True,False
+ahd,seq16,44,0,False,0.29420447622082035,field crop,True,True
+ahd,seq16,45,0,True,0.6420532681194546,field crop,True,True
+ahd,seq16,46,0,False,0.21360614372236753,field crop,True,True
+ahd,seq16,47,0,False,0.19762402448418315,field crop,True,True
+ahd,seq16,48,0,False,0.0,field crop,True,False
+ahd,seq16,49,0,False,0.24189321522330984,field crop,True,True
+ahd,seq16,50,0,True,0.6950595289800565,field crop,True,True
+ahd,seq16,51,0,False,0.0,field crop,True,False
+ahd,seq16,52,0,True,0.6700655942002226,field crop,True,True
+ahd,seq16,53,0,True,0.7327662131060354,field crop,True,True
+ahd,seq16,54,0,True,0.7091879937054536,field crop,True,True
+ahd,seq16,55,0,True,0.6883100852970827,field crop,True,True
+ahd,seq16,56,0,True,0.8073887036238793,field crop,True,True
+ahd,seq16,57,0,True,0.7558454500148757,field crop,True,True
+ahd,seq16,58,0,True,0.49856302363292115,field crop,True,True
+ahd,seq16,59,0,True,0.4988786971099251,field crop,True,True
+ahd,seq16,60,0,False,0.20517633055824944,field crop,True,True
+ahd,seq16,61,0,False,0.2085471406387374,field crop,True,True
+ahd,seq16,62,0,False,0.22985094031874456,field crop,True,True
+ahd,seq16,63,0,True,0.32602041561532763,field crop,True,True
+ahd,seq16,64,0,True,0.544920164945783,field crop,True,True
+ahd,seq16,65,0,True,0.6207944211923552,field crop,True,True
+ahd,seq16,67,0,True,0.6819455163865636,field crop,True,True
+ahd,seq16,68,0,True,0.9010287618099071,field crop,True,True
+ahd,seq16,72,0,True,0.7660912704011104,field crop,True,True
+ahd,seq16,87,0,True,0.850949416623462,field crop,True,True
+ahd,seq16,88,0,True,0.9140664591398171,field crop,True,True
+ahd,seq16,89,0,True,0.9110055627962643,field crop,True,True
+ahd,seq16,90,0,True,0.9128731411173442,outside,False,True
+ahd,seq16,91,0,True,0.9236451650597326,outside,False,True
+ahd,seq16,97,0,True,0.904886234824038,field crop,True,True
+ahd,seq16,113,0,True,0.9009957978629917,support / guard crop,True,True
+ahd,seq16,114,0,True,0.915537689835393,support / guard crop,True,True
+ahd,seq16,115,0,True,0.6704292192870864,support / guard crop,True,True
+ahd,seq16,117,0,True,0.6467592864801951,support / guard crop,True,True
+ahd,seq16,118,0,True,0.9222441820629382,support / guard crop,True,True
+ahd,seq16,119,0,True,0.9223790296656664,support / guard crop,True,True
+ahd,seq16,120,0,True,0.9157413452577317,support / guard crop,True,True
+ahd,seq16,121,0,True,0.6568507339160633,support / guard crop,True,True
+ahd,seq16,122,0,True,0.8915719346617353,support / guard crop,True,True
+ahd,seq16,123,0,True,0.8928562880826201,support / guard crop,True,True
+ahd,seq16,124,0,True,0.7592448411980399,support / guard crop,True,True
+ahd,seq16,125,0,True,0.8892440835004458,support / guard crop,True,True
+ahd,seq16,127,0,True,0.8655397280622679,support / guard crop,True,True
+ahd,seq17,354,0,True,0.6538337218247582,field crop,True,True
+ahd,seq17,357,0,True,0.5708606827985424,field crop,True,True
+ahd,seq17,360,0,True,0.7714411812305542,field crop,True,True
+ahd,seq17,366,0,True,0.7323108272740984,field crop,True,True
+ahd,seq17,368,0,True,0.7480759522189647,field crop,True,True
+ahd,seq18,0,0,True,0.8245914430344327,field crop,True,True
+ahd,seq18,1,0,True,0.8625491648731753,field crop,True,True
+ahd,seq18,2,0,True,0.854080596872439,field crop,True,True
+ahd,seq18,3,0,True,0.8455015111911706,field crop,True,True
+ahd,seq18,4,0,True,0.8676503615289569,field crop,True,True
+ahd,seq18,5,0,True,0.6736933779617726,field crop,True,True
+ahd,seq18,6,0,True,0.8480777436792771,field crop,True,True
+ahd,seq18,7,0,True,0.8349527453556927,field crop,True,True
+ahd,seq18,8,0,True,0.879021772095131,field crop,True,True
+ahd,seq18,9,0,True,0.9033426937363052,field crop,True,True
+ahd,seq18,10,0,True,0.8838453949139563,field crop,True,True
+ahd,seq18,11,0,True,0.872861593683346,field crop,True,True
+ahd,seq18,20,0,True,0.8317509104809045,field crop,True,True
+ahd,seq18,21,0,True,0.8685953701643994,field crop,True,True
+ahd,seq18,22,0,True,0.844587605636345,field crop,True,False
+ahd,seq18,23,0,True,0.8607996648251324,field crop,True,True
+ahd,seq18,24,0,True,0.8894450451922988,field crop,True,True
+ahd,seq18,25,0,True,0.8797651855498717,field crop,True,True
+ahd,seq18,26,0,True,0.8628161365936603,field crop,True,True
+ahd,seq18,27,0,True,0.861737137422808,field crop,True,True
+ahd,seq18,28,0,True,0.8091288370080015,field crop,True,True
+ahd,seq18,29,0,True,0.85628983865468,field crop,True,True
+ahd,seq18,30,0,True,0.857375873617134,field crop,True,True
+ahd,seq18,31,0,True,0.8111714821078777,field crop,True,True
+ahd,seq18,32,0,True,0.8168934757258387,field crop,True,True
+ahd,seq18,33,0,True,0.8281496689477406,field crop,True,True
+ahd,seq18,34,0,True,0.7764911047894696,field crop,True,True
+ahd,seq18,35,0,True,0.8353926598121773,field crop,True,True
+ahd,seq18,36,0,True,0.8319670725395911,field crop,True,True
+ahd,seq18,37,0,True,0.8037426793557505,field crop,True,True
+ahd,seq18,38,0,True,0.8381388883284322,field crop,True,True
+ahd,seq18,39,0,True,0.8180157644837137,field crop,True,True
+ahd,seq18,40,0,True,0.7985695215120587,field crop,True,True
+ahd,seq18,41,0,True,0.8049292173580891,field crop,True,True
+ahd,seq18,42,0,True,0.8158466644546698,field crop,True,False
+ahd,seq18,43,0,True,0.7602029807184318,field crop,True,True
+ahd,seq18,44,0,True,0.7796016878850012,field crop,True,True
+ahd,seq18,45,0,True,0.8166905666115541,field crop,True,True
+ahd,seq18,46,0,True,0.8495179788947678,field crop,True,True
+ahd,seq18,47,0,True,0.8368898265609672,field crop,True,True
+ahd,seq18,48,0,True,0.7134706027075642,field crop,True,True
+ahd,seq18,49,0,True,0.32102991583437046,field crop,True,False
+ahd,seq18,50,0,False,0.0,field crop,True,False
+ahd,seq18,51,0,False,0.0,field crop,True,False
+ahd,seq18,52,0,True,0.6202154055652691,field crop,True,True
+ahd,seq18,53,0,True,0.3912901377300851,field crop,True,True
+ahd,seq18,54,0,True,0.3411119592021754,field crop,True,True
+ahd,seq18,55,0,True,0.34443242230203885,field crop,True,True
+ahd,seq18,56,0,False,0.0,field crop,True,False
+ahd,seq18,57,0,False,0.0,field crop,True,False
+ahd,seq18,59,0,True,0.7162311249261485,field crop,True,False
+ahd,seq18,60,0,True,0.4862246614740738,field crop,True,True
+ahd,seq18,61,0,False,0.2632634317303315,field crop,True,True
+ahd,seq18,62,0,True,0.40404352326959686,field crop,True,True
+ahd,seq18,63,0,False,0.2634260698981716,field crop,True,True
+ahd,seq18,64,0,True,0.8073829827566913,field crop,True,True
+ahd,seq18,65,0,True,0.7508955876598916,field crop,True,True
+ahd,seq18,66,0,False,0.0,field crop,True,False
+ahd,seq18,67,0,False,0.2298372959177579,field crop,True,True
+ahd,seq18,68,0,True,0.32476149273061655,field crop,True,True
+ahd,seq18,69,0,True,0.48328249767743053,field crop,True,True
+ahd,seq18,70,0,False,0.28984891024488285,field crop,True,True
+ahd,seq18,71,0,False,0.27983242627735927,field crop,True,True
+ahd,seq18,72,0,True,0.32292717384950215,field crop,True,True
+ahd,seq18,73,0,True,0.31309522452533806,field crop,True,False
+ahd,seq18,74,0,False,0.027624725494776962,field crop,True,True
+ahd,seq18,75,0,False,0.013838907594334472,field crop,True,False
+ahd,seq18,76,0,False,0.0,field crop,True,False
+ahd,seq18,77,0,False,0.0,field crop,True,False
+ahd,seq18,78,0,False,0.0,field crop,True,False
+ahd,seq18,79,0,False,0.0,field crop,True,False
+ahd,seq18,80,0,False,0.26267514940172887,field crop,True,True
+ahd,seq18,81,0,True,0.48230663279785424,field crop,True,True
+ahd,seq18,82,0,True,0.7960007475514481,field crop,True,True
+ahd,seq18,83,0,True,0.8344890924086861,field crop,True,True
+ahd,seq18,84,0,False,0.1924699558818407,field crop,True,True
+ahd,seq18,85,0,True,0.36784515895912834,field crop,True,True
+ahd,seq18,86,0,True,0.6494694013863124,field crop,True,True
+ahd,seq18,88,0,False,0.2854239779090672,field crop,True,True
+ahd,seq18,89,0,False,0.2755768173061215,field crop,True,True
+ahd,seq18,90,0,True,0.494043104036361,field crop,True,True
+ahd,seq18,91,0,True,0.5826755220781425,field crop,False,True
+ahd,seq18,92,0,False,0.2595052456833497,field crop,True,True
+ahd,seq18,93,0,False,0.2133706944619252,field crop,True,True
+ahd,seq18,94,0,False,0.20719434264358527,field crop,True,True
+ahd,seq18,95,0,False,0.24225734112042244,field crop,False,True
+ahd,seq18,96,0,True,0.583500805804851,field crop,True,True
+ahd,seq18,97,0,True,0.40077420960945925,field crop,True,True
+ahd,seq18,99,0,True,0.3862850772454874,field crop,True,True
+ahd,seq18,100,0,True,0.316661879229517,field crop,True,True
+ahd,seq18,101,0,False,0.20915412460800456,field crop,True,True
+ahd,seq18,102,0,True,0.3780231358210888,field crop,True,True
+ahd,seq18,103,0,True,0.5044185405591128,field crop,True,True
+ahd,seq18,104,0,False,0.2334353450872608,field crop,True,True
+ahd,seq18,105,0,False,0.12047128081017389,field crop,True,False
+ahd,seq18,106,0,True,0.8078077420154424,field crop,True,True
+ahd,seq18,107,0,True,0.8537645104449058,field crop,True,True
+ahd,seq18,108,0,True,0.852288527667595,field crop,True,True
+ahd,seq18,109,0,True,0.7837044885061387,field crop,True,True
+ahd,seq18,110,0,False,0.2369318850421357,field crop,True,True
+ahd,seq18,111,0,True,0.32721398283704106,field crop,True,True
+ahd,seq18,112,0,False,0.20103170115130758,field crop,True,False
+ahd,seq18,113,0,False,0.150421883556469,field crop,True,True
+ahd,seq18,114,0,False,0.1098246577203582,field crop,True,True
+ahd,seq18,115,0,False,0.12527990878358414,field crop,True,True
+ahd,seq18,116,0,False,0.14179534294037646,field crop,True,True
+ahd,seq18,117,0,False,0.28901192997778213,field crop,True,True
+ahd,seq18,118,0,False,0.19840594294821368,field crop,True,True
+ahd,seq18,119,0,False,0.16642566723809288,field crop,True,True
+ahd,seq18,120,0,True,0.7888369197340586,field crop,True,True
+ahd,seq18,122,0,True,0.7240574337265293,field crop,True,True
+ahd,seq18,123,0,True,0.7275776967454273,field crop,True,True
+ahd,seq18,125,0,True,0.7446734064852348,field crop,True,True
+ahd,seq18,126,0,True,0.7376926510785332,field crop,True,True
+ahd,seq18,127,0,True,0.7344320607224292,field crop,True,True
+ahd,seq18,128,0,True,0.7517220208142488,field crop,True,True
+ahd,seq18,129,0,True,0.7774609658895105,field crop,True,True
+ahd,seq18,130,0,True,0.7186590882188607,field crop,True,True
+ahd,seq18,131,0,True,0.7421895726379154,field crop,True,True
+ahd,seq18,132,0,True,0.7180375038338334,field crop,True,True
+ahd,seq18,133,0,True,0.7416937831770977,field crop,True,True
+ahd,seq18,134,0,True,0.7400844311851943,field crop,True,True
+ahd,seq18,135,0,True,0.7339503364160134,field crop,True,True
+ahd,seq18,136,0,True,0.779932360127779,field crop,True,True
+ahd,seq18,137,0,True,0.7678234252755662,field crop,True,True
+ahd,seq18,138,0,True,0.7790890186577764,field crop,True,True
+ahd,seq18,139,0,True,0.8512534695015607,field crop,True,True
+ahd,seq18,140,0,True,0.7883670886372764,field crop,True,True
+ahd,seq18,141,0,True,0.8479909704091757,field crop,True,True
+ahd,seq18,142,0,True,0.7804963401778034,field crop,True,True
+ahd,seq18,143,0,True,0.7611723998111861,field crop,True,True
+ahd,seq18,144,0,True,0.7868981873740986,field crop,False,True
+ahd,seq18,145,0,False,0.28594878013362757,field crop,True,True
+ahd,seq18,146,0,True,0.7941570546442887,field crop,True,True
+ahd,seq18,147,0,True,0.798617910914744,field crop,True,True
+ahd,seq18,155,0,True,0.8556393279394605,field crop,True,True
+ahd,seq18,157,0,True,0.7803575055789455,field crop,True,True
+ahd,seq18,159,0,True,0.7786236926319388,field crop,True,True
+ahd,seq18,160,0,True,0.8206413123941605,field crop,True,True
+ahd,seq18,161,0,True,0.7938271337487921,field crop,True,True
+ahd,seq18,162,0,False,0.014213600081701664,field crop,True,True
+ahd,seq18,163,0,False,0.007391713864810733,field crop,True,True
+ahd,seq18,164,0,True,0.8498166282886869,field crop,True,True
+ahd,seq18,165,0,False,0.24562494897069168,field crop,True,True
+ahd,seq18,166,0,True,0.7652288517517996,field crop,True,True
+ahd,seq18,167,0,True,0.8112128365459453,field crop,True,True
+ahd,seq18,168,0,True,0.7340666367086205,support / guard crop,True,True
+ahd,seq18,169,0,True,0.7584173970689512,support / guard crop,True,True
+ahd,seq18,170,0,True,0.8374039900455138,outside,False,True
+ahd,seq18,171,0,True,0.8395809315898716,outside,False,True
+ahd,seq18,172,0,True,0.8319191507219892,outside,False,True
+ahd,seq18,173,0,True,0.8122413265091554,support / guard crop,True,True
+ahd,seq18,174,0,True,0.8155163172013997,outside,False,True
+ahd,seq18,175,0,True,0.8608746145967626,support / guard crop,True,True
+ahd,seq18,253,0,True,0.893389370562127,field crop,True,True
+ahd,seq18,255,0,True,0.3785271867967163,field crop,True,True
+ahd,seq18,256,0,True,0.4152416907546401,field crop,True,True
+ahd,seq18,257,0,True,0.3293535680757908,support / guard crop,True,False
+ahd,seq18,258,0,True,0.8174719748549409,support / guard crop,True,True
+ahd,seq18,259,0,True,0.8270471722551966,outside,False,True
+ahd,seq18,260,0,True,0.8018608478547696,support / guard crop,True,True
+ahd,seq18,261,0,True,0.33389769784281303,support / guard crop,True,True
+ahd,seq18,265,0,True,0.5490735546809346,field crop,True,True
+ahd,seq18,266,0,True,0.8153647682202554,field crop,True,True
+ahd,seq18,272,0,True,0.6714100728502528,field crop,True,True
+ahd,seq18,277,0,False,0.03419120566026489,field crop,False,True
+ahd,seq18,278,0,False,0.2758377519476587,field crop,True,True
+ahd,seq18,292,0,True,0.31037944858003763,field crop,True,False
+ahd,seq18,294,0,True,0.7751159143636962,field crop,True,True
+ahd,seq18,299,0,True,0.8338930054085963,field crop,False,True
+ahd,seq18,300,0,True,0.3164495973175811,field crop,True,True
+ahd,seq18,302,0,True,0.8192045852290339,field crop,True,True
+ahd,seq18,303,0,True,0.39687382628481627,field crop,True,True
+ahd,seq18,304,0,True,0.3624718027369808,field crop,True,True
+ahd,seq18,305,0,True,0.8623554890091255,field crop,False,True
+ahd,seq18,306,0,True,0.8696502492882765,field crop,True,False
+ahd,seq18,307,0,False,0.27385331925458106,field crop,True,True
+ahd,seq18,308,0,True,0.3570210894933196,field crop,True,True
+ahd,seq18,310,0,True,0.8435050174741997,field crop,True,True
+ahd,seq18,311,0,True,0.6758079293819533,field crop,False,True
+ahd,seq18,313,0,True,0.8180250059303553,field crop,True,True
+ahd,seq18,314,0,True,0.831812848521728,field crop,True,True
+ahd,seq18,316,0,True,0.781632951972402,field crop,True,True
+ahd,seq18,317,0,True,0.77978455550482,field crop,True,True
+ahd,seq18,318,0,True,0.8015335674188828,field crop,True,True
+ahd,seq18,326,0,True,0.7323332969861837,field crop,True,True
+ahd,seq18,327,0,True,0.7031503047536751,field crop,True,True
+ahd,seq18,328,0,True,0.6877402538392525,field crop,True,True
+ahd,seq18,329,0,True,0.6767917274675929,field crop,True,True
+ahd,seq18,330,0,True,0.6795715118927855,field crop,True,True
+ahd,seq18,331,0,True,0.6820431851601088,field crop,True,True
+ahd,seq18,332,0,True,0.7192543114798653,field crop,False,True
+ahd,seq18,340,0,True,0.7558499444412029,field crop,True,True
+ahd,seq18,345,0,True,0.6861904482084417,field crop,True,True
+ahd,seq18,346,0,True,0.6518093311739334,field crop,False,True
+ahd,seq18,347,0,True,0.550072484389416,field crop,False,True
+ahd,seq18,348,0,True,0.7023596498641458,field crop,False,True
+ahd,seq18,349,0,True,0.6987993668001378,field crop,False,True
+ahd,seq18,350,0,True,0.6887712205684606,field crop,False,True
+ahd,seq18,351,0,True,0.6949805420369751,field crop,False,True
+ahd,seq18,353,0,True,0.6033357342610115,field crop,False,True
+ahd,seq18,354,0,True,0.7275579333238923,field crop,False,False
+ahd,seq18,360,0,True,0.7074257737970344,field crop,True,True
+ahd,seq18,361,0,True,0.6939879319404071,field crop,False,True
+ahd,seq18,362,0,True,0.674216439282641,field crop,True,True
+ahd,seq18,365,0,True,0.7086826907052097,field crop,True,True
+ahd,seq18,366,0,True,0.7220920935760082,field crop,True,True
+ahd,seq18,368,0,True,0.6854895462884254,field crop,True,True
+ahd,seq18,371,0,True,0.6875935403346219,field crop,False,True
+ahd,seq18,373,0,True,0.5679151407979933,field crop,True,True
+ahd,seq18,374,0,True,0.7120372709694763,field crop,True,True
+ahd,seq18,375,0,True,0.7176026694700411,field crop,True,True
+ahd,seq18,378,0,True,0.6667589248813235,field crop,True,False
+ahd,seq18,406,0,True,0.7311063423853001,field crop,True,True
+ahd,seq18,407,0,True,0.7065793337217491,field crop,True,True
+ahd,seq18,462,0,True,0.7932579655845667,field crop,True,True
+ahd,seq18,466,0,True,0.7786628293096826,field crop,True,True
+ahd,seq18,469,0,True,0.7936533778147103,field crop,True,True
+ahd,seq18,470,0,True,0.7502153308393749,field crop,True,True
+ahd,seq18,471,0,True,0.7769586020442805,field crop,True,True
+ahd,seq18,472,0,True,0.7673478782305722,field crop,True,True
+ahd,seq18,473,0,True,0.7723566778351469,field crop,True,True
+ahd,seq18,474,0,True,0.8090194824871552,field crop,True,True
+ahd,seq18,485,0,True,0.7579192129782962,field crop,True,True
+ahd,seq18,486,0,True,0.775313546888776,field crop,True,True
+ahd,seq18,487,0,True,0.7647020999532806,field crop,True,True
+ahd,seq18,489,0,True,0.597837987376268,field crop,True,True
+ahd,seq18,490,0,True,0.7547629420203369,field crop,True,True
+ahd,seq18,491,0,True,0.6127208403323757,field crop,True,True
+ahd,seq18,492,0,True,0.7214088806174571,field crop,True,True
+ahd,seq18,493,0,True,0.7751144566733271,field crop,True,True
+ahd,seq18,494,0,True,0.7531885371979482,field crop,True,True
+ahd,seq18,495,0,True,0.3601228059519215,field crop,True,True
+ahd,seq18,496,0,True,0.7464291022429193,field crop,True,True
+ahd,seq18,497,0,True,0.64441764064645,field crop,True,True
+ahd,seq18,498,0,True,0.7354865772432142,field crop,True,True
+ahd,seq18,504,0,True,0.7455683143118316,field crop,True,True
+ahd,seq18,505,0,True,0.5831285118908935,field crop,True,True
+ahd,seq18,506,0,False,0.2927007695649317,field crop,True,True
+ahd,seq18,507,0,False,0.031688637400741966,field crop,True,True
+ahd,seq18,508,0,False,0.11100065283501033,field crop,True,True
+ahd,seq18,509,0,True,0.35361085883532284,field crop,True,True
+ahd,seq18,510,0,False,0.142389511745728,field crop,True,True
+ahd,seq18,511,0,False,0.1405818718205899,field crop,True,True
+ahd,seq18,512,0,False,0.2944910401812311,field crop,True,True
+ahd,seq18,513,0,True,0.6564668334023457,field crop,True,True
+ahd,seq18,514,0,True,0.6302550388856595,field crop,True,True
+ahd,seq18,515,0,False,0.21148728935240196,field crop,False,True
+ahd,seq18,516,0,True,0.7466044742867183,field crop,True,True
+ahd,seq18,517,0,False,0.08872086371546638,field crop,True,True
+ahd,seq18,518,0,False,0.098998084155524,field crop,True,True
+ahd,seq18,519,0,False,0.14493857247593844,field crop,True,True
+ahd,seq18,520,0,False,0.11764679331809783,field crop,True,True
+ahd,seq18,521,0,False,0.2539910065492786,field crop,False,True
+ahd,seq18,522,0,False,0.1439361437507741,field crop,False,True
+ahd,seq18,523,0,False,0.14585225494913023,field crop,False,True
+ahd,seq18,524,0,False,0.1297929972566935,field crop,True,True
+ahd,seq18,525,0,True,0.3348867386716376,field crop,False,False
+ahd,seq18,527,0,True,0.856763516777325,field crop,True,True
+ahd,seq18,528,0,False,0.03607034170177551,field crop,True,True
+ahd,seq18,529,0,True,0.7060488883015561,field crop,True,True
+ahd,seq18,530,0,True,0.5911362661553069,field crop,True,True
+ahd,seq18,531,0,True,0.7545062746524143,support / guard crop,True,False
+ahd,seq18,532,0,True,0.7035567741495861,support / guard crop,False,True
+ahd,seq18,534,0,False,0.10730768321825992,support / guard crop,True,True
+ahd,seq18,535,0,False,0.10927267197722725,support / guard crop,True,True
+ahd,seq18,536,0,True,0.7095645618966099,support / guard crop,True,True
+ahd,seq18,537,0,False,0.18036506072398473,support / guard crop,True,True
+ahd,seq18,538,0,False,0.11082687898225167,support / guard crop,True,True
+ahd,seq18,539,0,True,0.7059889929478149,field crop,True,True
+ahd,seq18,540,0,False,0.13190372865313738,field crop,True,True
+ahd,seq18,541,0,True,0.731656914144751,field crop,True,True
+ahd,seq18,542,0,False,0.22810221781005155,field crop,True,True
+ahd,seq18,543,0,False,0.11165453090216909,field crop,True,True
+ahd,seq18,544,0,True,0.7239466433700393,field crop,True,True
+ahd,seq18,545,0,False,0.07996786103806285,field crop,True,True
+ahd,seq18,546,0,False,0.08051947114754679,field crop,True,True
+ahd,seq18,547,0,False,0.08332460390059183,field crop,True,True
+ahd,seq18,548,0,False,0.08696764312401625,field crop,True,True
+ahd,seq18,549,0,False,0.09097470285260383,field crop,True,True
+ahd,seq18,550,0,False,0.09252545011923521,field crop,True,True
+ahd,seq18,551,0,False,0.09968567069718905,field crop,True,True
+ahd,seq18,552,0,False,0.1061952307692471,field crop,True,True
+ahd,seq18,553,0,True,0.3207482289352962,field crop,True,True
+ahd,seq18,554,0,True,0.35120906411614133,field crop,True,True
+ahd,seq18,555,0,False,0.07468996918254195,field crop,True,True
+ahd,seq18,556,0,True,0.307477962303662,field crop,True,True
+ahd,seq18,557,0,False,0.007457626828229368,field crop,True,True
+ahd,seq18,558,0,False,0.08824282138320191,field crop,True,True
+ahd,seq18,559,0,True,0.3619433776054143,field crop,True,True
+ahd,seq18,560,0,True,0.7913469144833514,field crop,True,True
+ahd,seq18,561,0,True,0.7818145657910055,field crop,True,True
+ahd,seq18,563,0,True,0.863455848012365,field crop,True,True
+ahd,seq18,565,0,True,0.9027132613789596,field crop,True,True
+ahd,seq18,566,0,True,0.8402695123512491,field crop,True,True
+ahd,seq18,567,0,False,0.07936539938218143,field crop,True,True
+ahd,seq18,568,0,True,0.7839240573678672,field crop,True,True
+ahd,seq18,569,0,True,0.8492962907994468,field crop,True,True
+ahd,seq18,570,0,True,0.6886109362191533,field crop,True,True
+ahd,seq18,571,0,True,0.8656121936769935,field crop,True,True
+ahd,seq18,572,0,True,0.8645355023909199,field crop,True,True
+ahd,seq18,573,0,True,0.8598543047186871,field crop,True,True
+ahd,seq18,574,0,False,0.008993157163435683,field crop,True,True
+ahd,seq18,575,0,False,0.0095758499767701,field crop,True,True
+ahd,seq18,576,0,False,0.20580551022818383,field crop,True,True
+ahd,seq18,577,0,True,0.84481852049589,field crop,True,True
+ahd,seq18,578,0,True,0.8502276755933209,field crop,True,True
+ahd,seq18,579,0,False,0.0099838632673115,field crop,True,True
+ahd,seq18,580,0,True,0.8986713283241591,field crop,True,True
+ahd,seq18,581,0,False,0.10068938719389481,field crop,True,True
+ahd,seq18,583,0,False,0.09113805313661712,field crop,True,True
+ahd,seq18,585,0,True,0.854345820984042,support / guard crop,True,True
+ahd,seq18,586,0,True,0.8860220161660006,support / guard crop,True,True
+ahd,seq18,588,0,True,0.8928897612836917,field crop,True,True
+ahd,seq18,589,0,True,0.8973140276165084,field crop,True,True
+ahd,seq18,592,0,True,0.8806446347502399,field crop,True,True
+ahd,seq18,593,0,True,0.9078660027809904,field crop,True,True
+ahd,seq18,594,0,True,0.8378234335692676,field crop,True,True
+ahd,seq18,595,0,True,0.8512320187610528,field crop,True,True
+ahd,seq18,596,0,True,0.8791938758423974,field crop,True,True
+ahd,seq18,597,0,True,0.8840808225164195,field crop,True,True
+ahd,seq18,599,0,True,0.8926729436319369,support / guard crop,True,True
+ahd,seq18,600,0,True,0.8857875757603887,support / guard crop,True,True
+ahd,seq18,601,0,True,0.9034648095786866,support / guard crop,True,True
+ahd,seq18,602,0,True,0.9087114573093196,support / guard crop,True,True
+ahd,seq18,603,0,True,0.8791776478903401,support / guard crop,True,True
+ahd,seq18,609,0,True,0.8234531338060362,support / guard crop,True,True
+ahd,seq18,616,0,True,0.8407288801393104,field crop,True,True
+ahd,seq18,617,0,True,0.4030326350886008,field crop,True,True
+ahd,seq18,618,0,True,0.47242064742560874,field crop,True,True
+ahd,seq18,619,0,True,0.4308743014355191,outside,False,True
+ahd,seq18,640,0,True,0.8155545124108197,field crop,True,True
+ahd,seq18,641,0,True,0.7370417261346436,field crop,True,True
+ahd,seq18,642,0,True,0.8686054330734267,field crop,True,True
+ahd,seq18,643,0,True,0.7626565903668975,field crop,True,True
+ahd,seq18,644,0,True,0.8437236614402044,field crop,True,True
+ahd,seq20,0,0,True,0.49101142019326294,support / guard crop,False,True
+ahd,seq20,1,0,True,0.4323588723062687,support / guard crop,False,True
+ahd,seq20,2,0,True,0.4158697133965457,support / guard crop,True,True
+ahd,seq20,18,0,True,0.4719774912622121,support / guard crop,False,True
+ahd,seq20,19,0,True,0.452228586758003,support / guard crop,False,True
+ahd,seq20,20,0,True,0.4429627741167332,support / guard crop,True,True
+ahd,seq20,21,0,True,0.4476761394852199,support / guard crop,False,True
+ahd,seq20,22,0,True,0.44155201388724213,support / guard crop,False,True
+ahd,seq20,23,0,True,0.4507153512058848,support / guard crop,True,True
+ahd,seq20,24,0,True,0.37914383300326815,support / guard crop,True,True
+ahd,seq20,25,0,True,0.46218181672670994,support / guard crop,True,True
+ahd,seq20,26,0,True,0.4864532050002802,support / guard crop,True,True
+ahd,seq20,27,0,True,0.4584278827036331,outside,False,True
+ahd,seq20,28,0,True,0.41380683949284663,outside,False,True
+ahd,seq20,29,0,True,0.40482180918709926,outside,False,True
+ahd,seq20,30,0,True,0.33657556007457984,support / guard crop,False,True
+ahd,seq20,31,0,True,0.3338005514996625,outside,False,True
+ahd,seq20,42,0,True,0.38067053540451634,support / guard crop,False,True
+ahd,seq20,43,0,True,0.3974355560937139,support / guard crop,False,True
+ahd,seq20,44,0,True,0.4206188038392639,support / guard crop,True,True
+ahd,seq20,45,0,True,0.3891375497547745,support / guard crop,False,True
+ahd,seq20,47,0,True,0.392212205585952,outside,False,True
+ahd,seq20,48,0,True,0.3774358306156048,outside,False,True
+ahd,seq20,49,0,True,0.3890251706708373,support / guard crop,True,True
+ahd,seq20,59,0,True,0.4180803004481902,support / guard crop,True,True
+ahd,seq20,61,0,True,0.4848696291129523,support / guard crop,True,True
+ahd,seq20,62,0,True,0.4530961706832585,support / guard crop,True,True
+ahd,seq20,66,0,True,0.399843688324234,support / guard crop,True,True
+ahd,seq20,67,0,True,0.4104558076629718,support / guard crop,True,True
+ahd,seq20,68,0,True,0.4480403332523698,support / guard crop,True,True
+ahd,seq20,69,0,True,0.3826832467722373,support / guard crop,True,True
+ahd,seq20,79,0,True,0.4374731169649031,support / guard crop,True,True
+ahd,seq23,4,0,True,0.777463007714888,field crop,True,True
+ahd,seq23,8,0,True,0.7712269901602085,field crop,True,True
+ahd,seq23,9,0,True,0.8040703495666119,field crop,True,True
+ahd,seq23,10,0,True,0.5729617591875664,field crop,True,True
+ahd,seq23,11,0,True,0.5606661677266033,field crop,True,True
+ahd,seq23,12,0,True,0.4076887703167417,field crop,True,True
+ahd,seq23,13,0,True,0.6639582701181346,field crop,True,True
+ahd,seq23,14,0,False,0.0,field crop,True,False
+ahd,seq23,15,0,True,0.7150575691365229,field crop,True,True
+ahd,seq23,16,0,True,0.7504737068999267,field crop,True,True
+ahd,seq23,17,0,True,0.7061020070262682,field crop,True,True
+ahd,seq23,18,0,True,0.40982021085007764,field crop,True,True
+ahd,seq23,19,0,True,0.4228554195488141,field crop,True,True
+ahd,seq23,20,0,True,0.40819542336932946,field crop,True,True
+ahd,seq23,21,0,True,0.7158430669691436,field crop,True,True
+ahd,seq23,22,0,True,0.7304275360269015,field crop,True,True
+ahd,seq23,23,0,True,0.7674989638048353,field crop,True,True
+ahd,seq23,24,0,True,0.7987550425547496,field crop,True,True
+ahd,seq23,25,0,True,0.8211672602378931,field crop,True,True
+ahd,seq23,26,0,True,0.46456825195291657,field crop,True,True
+ahd,seq23,27,0,True,0.450692640371957,field crop,True,True
+ahd,seq23,28,0,True,0.4563168430003371,field crop,True,True
+ahd,seq23,30,0,True,0.8418097479917369,field crop,True,True
+ahd,seq23,31,0,True,0.8567310422964441,field crop,True,True
+ahd,seq23,32,0,True,0.7880580456716982,field crop,True,True
+ahd,seq23,33,0,True,0.504232532050958,field crop,True,True
+ahd,seq23,34,0,True,0.8419339137142858,field crop,True,True
+ahd,seq23,35,0,True,0.8517298196421258,field crop,True,True
+ahd,seq23,36,0,True,0.8604203227773375,field crop,True,True
+ahd,seq23,37,0,True,0.8543019467431496,field crop,True,True
+ahd,seq23,38,0,True,0.8368356280606396,field crop,True,True
+ahd,seq23,39,0,True,0.48111237069953383,field crop,True,True
+ahd,seq23,40,0,True,0.47156251803639065,field crop,True,True
+ahd,seq23,41,0,True,0.41189669826943137,field crop,True,True
+ahd,seq23,42,0,True,0.3859251379505165,field crop,True,True
+ahd,seq23,43,0,True,0.3658319115822855,field crop,True,True
+ahd,seq23,44,0,True,0.38465137425497936,field crop,True,True
+ahd,seq23,45,0,True,0.3713378467788006,field crop,True,True
+ahd,seq23,46,0,True,0.35722288411711617,field crop,True,True
+ahd,seq23,47,0,True,0.3703720563131575,field crop,True,True
+ahd,seq23,48,0,True,0.3657371360225753,field crop,True,True
+ahd,seq23,49,0,True,0.7368006060507497,field crop,True,True
+ahd,seq23,50,0,True,0.7960896017910086,field crop,True,True
+ahd,seq23,51,0,True,0.7623202410067539,field crop,True,True
+ahd,seq23,52,0,True,0.7545153954592728,field crop,True,True
+ahd,seq23,53,0,True,0.42643531789120703,field crop,True,True
+ahd,seq23,54,0,True,0.40743515892881577,field crop,True,True
+ahd,seq23,55,0,True,0.3917156055298864,field crop,True,True
+ahd,seq23,56,0,True,0.4297587770262181,field crop,True,True
+ahd,seq23,57,0,True,0.4302383938749389,field crop,True,True
+ahd,seq23,58,0,True,0.4053228390616515,field crop,True,True
+ahd,seq23,59,0,True,0.43573247754854577,field crop,True,True
+ahd,seq23,60,0,True,0.4764324797205041,field crop,True,True
+ahd,seq23,61,0,True,0.7578730930561398,field crop,True,True
+ahd,seq23,62,0,True,0.7666106490307782,field crop,True,True
+ahd,seq23,67,0,True,0.38024349998793977,field crop,True,True
+ahd,seq23,68,0,True,0.7120510051877077,field crop,True,True
+ahd,seq23,69,0,True,0.7136836323374506,field crop,True,True
+ahd,seq23,70,0,True,0.782561210407062,field crop,True,True
+ahd,seq23,71,0,True,0.7602376269841258,field crop,True,True
+ahd,seq23,72,0,True,0.7490793570059567,field crop,True,True
+ahd,seq23,73,0,True,0.36471664733321174,field crop,True,True
+ahd,seq23,74,0,True,0.3902456328873685,field crop,True,True
+ahd,seq23,75,0,True,0.3842289079975439,field crop,True,True
+ahd,seq23,76,0,False,0.02111178602846524,field crop,True,False
+ahd,seq23,77,0,True,0.4556462989244606,field crop,True,True
+ahd,seq23,78,0,True,0.7106409223073895,field crop,True,True
+ahd,seq23,79,0,True,0.47718416157955684,field crop,True,True
+ahd,seq23,80,0,False,0.046578211103462386,field crop,True,False
+ahd,seq23,81,0,True,0.4828509943855171,field crop,True,True
+ahd,seq23,82,0,True,0.6454538164165942,field crop,True,True
+ahd,seq23,83,0,True,0.6937465837303924,field crop,True,True
+ahd,seq23,84,0,True,0.5391831408170918,field crop,True,True
+ahd,seq23,85,0,True,0.3916585185404644,field crop,True,True
+ahd,seq23,86,0,True,0.36873455000951494,field crop,True,True
+ahd,seq23,87,0,True,0.3789726306575761,field crop,True,True
+ahd,seq23,88,0,True,0.5588524520152529,field crop,True,True
+ahd,seq23,89,0,True,0.6219345451048106,field crop,True,True
+ahd,seq23,90,0,True,0.42493979431475737,field crop,True,True
+ahd,seq23,91,0,True,0.3784431417094735,field crop,True,True
+ahd,seq23,92,0,False,0.03651004755672423,field crop,True,False
+ahd,seq23,93,0,True,0.6846090269688554,field crop,True,True
+ahd,seq23,94,0,True,0.67074048985665,field crop,True,True
+ahd,seq23,95,0,True,0.6333382352830879,field crop,True,True
+ahd,seq23,96,0,True,0.6382736548210063,field crop,True,True
+ahd,seq23,97,0,True,0.6611616011807877,field crop,True,True
+ahd,seq23,98,0,True,0.4062522329000611,field crop,True,True
+ahd,seq23,99,0,True,0.6931435803168561,field crop,True,True
+ahd,seq23,100,0,True,0.6740387630756285,field crop,True,True
+ahd,seq23,101,0,True,0.39464384012770964,field crop,True,True
+ahd,seq23,102,0,True,0.7111343200353291,field crop,True,True
+ahd,seq23,103,0,True,0.6976452780378862,field crop,True,True
+ahd,seq23,104,0,True,0.673423788991491,field crop,True,True
+ahd,seq23,105,0,True,0.7114411343072746,field crop,True,True
+ahd,seq23,106,0,True,0.67952446395655,field crop,True,True
+ahd,seq23,107,0,True,0.6971376964146222,field crop,True,True
+ahd,seq23,108,0,True,0.6902392269911871,field crop,True,True
+ahd,seq23,109,0,True,0.6426010479104118,field crop,True,True
+ahd,seq23,110,0,True,0.6685140555464033,field crop,True,True
+ahd,seq23,111,0,True,0.6426074489124521,field crop,True,True
+ahd,seq23,112,0,True,0.7006663846463298,field crop,True,True
+ahd,seq23,113,0,True,0.7395800164102029,field crop,True,True
+ahd,seq23,114,0,True,0.7245986473820373,field crop,True,True
+ahd,seq23,115,0,True,0.7041199962626963,field crop,True,True
+ahd,seq23,116,0,True,0.7828382474355559,field crop,True,True
+ahd,seq23,117,0,True,0.6262405555861905,field crop,True,True
+ahd,seq23,118,0,True,0.6337199638711066,field crop,True,True
+ahd,seq23,119,0,True,0.6865584459869072,field crop,True,True
+ahd,seq23,120,0,True,0.6479122322794605,field crop,True,True
+ahd,seq23,121,0,True,0.7036065498502567,field crop,True,True
+ahd,seq23,122,0,True,0.7187695815743578,field crop,True,True
+ahd,seq23,123,0,True,0.6833238008598183,field crop,True,True
+ahd,seq23,124,0,True,0.6194520181656401,field crop,True,True
+ahd,seq23,125,0,True,0.6758661350245326,field crop,True,True
+ahd,seq23,126,0,True,0.6600692281135645,field crop,True,True
+ahd,seq23,130,0,True,0.7045432275861672,field crop,True,True
+ahd,seq23,131,0,True,0.7606905511627525,field crop,True,True
+ahd,seq23,132,0,True,0.7417848090665914,field crop,True,True
+ahd,seq23,133,0,True,0.6985514876249956,field crop,True,True
+ahd,seq23,134,0,True,0.6379440039257657,field crop,True,True
+ahd,seq23,135,0,True,0.7646714330046039,field crop,True,True
+ahd,seq23,138,0,True,0.7225961546284947,field crop,True,True
+ahd,seq23,139,0,True,0.7172364852828007,field crop,True,True
+ahd,seq23,140,0,True,0.7431722209687844,field crop,True,True
+ahd,seq23,141,0,True,0.751913075544866,field crop,True,True
+ahd,seq23,145,0,True,0.6982365149334006,field crop,True,True
+ahd,seq23,146,0,True,0.666820797034032,field crop,True,True
+ahd,seq23,147,0,True,0.7088985530178922,field crop,True,True
+ahd,seq23,151,0,True,0.7698137689429926,field crop,True,True
+ahd,seq23,152,0,True,0.6711190089513809,field crop,True,True
+ahd,seq23,153,0,True,0.3169016408542542,field crop,True,True
+ahd,seq23,154,0,True,0.7482607047924446,field crop,True,True
+ahd,seq23,157,0,True,0.8075675721724818,field crop,True,True
+ahd,seq23,158,0,True,0.8184221158622336,field crop,True,True
+ahd,seq23,159,0,True,0.8426370410045201,field crop,True,True
+ahd,seq23,164,0,True,0.8417492983997364,field crop,True,True
+ahd,seq23,231,0,True,0.47233853063435427,support / guard crop,True,True
+ahd,seq23,232,0,True,0.4756353193999286,support / guard crop,True,True
+ahd,seq23,233,0,True,0.4663490949548781,support / guard crop,True,True
+ahd,seq23,234,0,True,0.4624777520854726,support / guard crop,False,True
+ahd,seq23,235,0,True,0.43947059152422613,support / guard crop,True,True
+ahd,seq23,236,0,True,0.4168011951162623,outside,False,True
+ahd,seq23,237,0,True,0.45156603486277547,outside,False,True
+ahd,seq23,238,0,True,0.40390218486263935,outside,False,True
+ahd,seq23,239,0,False,0.2800447231021801,support / guard crop,True,True
+ahd,seq23,240,0,True,0.393415507333573,support / guard crop,True,True
+ahd,seq23,243,0,False,0.028936853984255925,support / guard crop,True,False

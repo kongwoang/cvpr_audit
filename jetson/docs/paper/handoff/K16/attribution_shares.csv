@@ -1,0 +1,29 @@
+dataset,weighting,cause,share
+nusc,frames,locality,0.8102
+nusc,frames,F's ttc history,0.0419
+nusc,frames,closing probe,0.0
+nusc,frames,extended grid,0.0287
+nusc,frames,probe templates,0.0508
+nusc,frames,round cap 10,0.0
+nusc,frames,residual,0.0684
+nusc,decision loss,locality,0.8758
+nusc,decision loss,F's ttc history,0.0179
+nusc,decision loss,closing probe,0.0
+nusc,decision loss,extended grid,0.0144
+nusc,decision loss,probe templates,0.0485
+nusc,decision loss,round cap 10,0.0
+nusc,decision loss,residual,0.0433
+av2,frames,locality,0.6198
+av2,frames,F's ttc history,0.1122
+av2,frames,closing probe,0.2062
+av2,frames,extended grid,0.0109
+av2,frames,probe templates,0.0121
+av2,frames,round cap 10,0.0
+av2,frames,residual,0.0388
+av2,decision loss,locality,0.5929
+av2,decision loss,F's ttc history,0.1176
+av2,decision loss,closing probe,0.2297
+av2,decision loss,extended grid,0.0101
+av2,decision loss,probe templates,0.0134
+av2,decision loss,round cap 10,0.0
+av2,decision loss,residual,0.0362

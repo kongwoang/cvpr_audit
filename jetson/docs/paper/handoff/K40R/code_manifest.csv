@@ -1,0 +1,33 @@
+path,md5,phase
+remote/A_method/k40r_inventory.py,ebf92e5170e1a12b0ca32fd7f31f39c0,before_outcome_analysis
+docs/paper/handoff/K40R/PREREG.md,6542dd2583e08de6697f78d07a2ad67d,before_outcome_analysis
+docs/paper/handoff/K41/PREREG.md,479dae6de242c5fb4da23855f2331668,before_outcome_analysis
+docs/paper/handoff/LATENCY_OPT_20261030/PREREG.md,672634feb7d302843a4eb7226a3e1607,before_outcome_analysis
+remote/A_method/k40r_inventory.py,967c927aa174402dbde0e5038f1b0838,before_first_cpu_outcome_run
+remote/A_method/k40r_cpu.py,0ca71bc68ed3fd38331056d41edc8849,before_first_cpu_outcome_run
+remote/A_method/k40r_cpu.py,de0aeecbf4e7cb5996f068c54e85e6da,schema_fix_before_outcomes
+remote/A_method/k41_inventory.py,6ad36fa477f1801406334e1fa586b970,schema_fix_before_outcomes
+remote/A_method/k41_cached_objects.py,ce245d181f4f2f529c771a5762ef1a57,2026-10-30T14:32:47.727984 before object CPU outcomes
+scripts/k40r_cpu_report.py,64f2ce42ceb3faebf462b21ecdeb2e1d,2026-10-30T14:32:47.728405 render existing CPU outputs
+remote/A_navsim/k41_cached_summary.py,cb6a66eb73142f79d3c990eb0baa8614,2026-10-30 before cached NAVSIM computation
+remote/A_method/k41_cached_objects.py,f161aad532d4ae23b83c030991a9c843,2026-10-30 v2 exact inverse merge before attribution summaries
+remote/A_method/k40r_field.py,8ad06903db2b19d5bfb324f27e12ab20,2026-10-30 before field/oracle CPU outcomes
+remote/A_method/k40r_field.py,66057a5aff6f0004d13ba02db81a51c5,2026-10-30 preserve source parity flags / complete-unit conditional bootstrap
+remote/A_navsim/k41_cached_summary.py,b5d565e67c97af7173462d114f00c2fa,2026-10-30 preserve source parity flags / complete-unit conditional bootstrap
+remote/A_method/k41_cached_objects.py,025efb27b2339ce2811b1cf2d84f67ee,2026-10-30 v2 inverse-merge ambiguity handling before attribution
+remote/A_method/k41_cached_objects.py,cd52fac97cf81a5aff2f014fc63d6d51,2026-10-30 restore frozen AV2 mask in CPU reconstruction
+remote/A_method/k40r_field.py,03e8d576ee72ada1f08f22a770394187,2026-10-30 restore frozen AV2 mask in CPU reconstruction
+remote/A_method/k41_object_tables.py,818ed0d9227dfd7690c8c7eaff7e9ad1,2026-10-30 before object/strata summaries
+remote/A_method/k41_latency_cached.py,7bc41002caa53d8bd115b897bb7c126b,2026-10-30 before cached latency quantile computation
+remote/A_method/k41_cached_objects.py,746fb50cc163d20136cd856e47a57cd0,2026-10-30 v4 distinguish crop origins and coverage/locality endpoints
+remote/A_method/k40r_field.py,a54a7196a821e535f3989d7b06ba7ffc,2026-10-30 oracle identity uses box class confidence; duplicate states must be identical
+remote/A_method/k40r_matched.py,b5dfd7977007828d77f74cbf9bd55cd1,2026-10-30 before matched-mean cached diagnostics
+remote/A_navsim/k41_scene_diagnostic.py,aa4a0f912df4054976707c965fc53bac,2026-10-30 before cached scene diagnostic; exact min reduction; no PDM rollout
+remote/A_method/k40r_matched.py,ea35287179c6c47f8682b57b4954b1c2,CPU schema correction and complete-unit bootstrap before final run
+remote/A_method/k41_object_tables.py,3dd809bf78bb5781d7e64475ecaf33d8,CPU schema correction and complete-unit bootstrap before final run
+remote/A_navsim/k41_scene_diagnostic.py,aa4a0f912df4054976707c965fc53bac,CPU schema correction and complete-unit bootstrap before final run
+remote/A_method/k40r_matched.py,7801101386443aa602716460d0f8af77,CPU milestone source verification
+experiments/latency_opt_20261030/test_cpu.py,3e38372ba2a297206b37ccdd786eaab2,CPU milestone source verification
+experiments/latency_opt_20261030/columns_only.py,a3f055e0ca55a757f63d6a2c3ef97302,CPU milestone source verification
+remote/A_method/k41_latency_cpu_tests.py,3e38372ba2a297206b37ccdd786eaab2,CPU milestone source verification
+remote/A_method/k41_columns_only.py,a3f055e0ca55a757f63d6a2c3ef97302,CPU milestone source verification

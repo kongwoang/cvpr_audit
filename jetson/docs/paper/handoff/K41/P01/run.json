@@ -1,0 +1,24 @@
+{
+  "task": "K41-1 / P01 cached rows",
+  "protocol": "official NAVSIM v1.1 PDMS; not EPDMS",
+  "tokens": 12146,
+  "logs": 136,
+  "rows": [
+    "cheap",
+    "full",
+    "field",
+    "oracle",
+    "hybrid"
+  ],
+  "cpu_hours_measured": 4.0522542662825005,
+  "bootstrap_draws": 2000,
+  "seed": 0,
+  "remaining_rows": [
+    "all",
+    "selected",
+    "selected_support",
+    "geometric"
+  ],
+  "hybrid": "stored K30 hybrid_pdm detections: fixed route tube with PDM support, passed to K31 selector",
+  "source_driver_sha256": "d25cd19adcb288bea8deb4ae590c429d427dce2bf982137fb9747c76d9214bb1"
+}

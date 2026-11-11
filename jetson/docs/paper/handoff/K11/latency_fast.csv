@@ -1,0 +1,45 @@
+dataset,step,pipeline,frames,G,mean_ms,median_ms,p95_ms,p99_ms,engine_calls_per_frame,network_px_mean,network_px_p95,ci_lo_ours_minus,ci_hi_ours_minus,run
+nusc,phase1_no_breakdown_syncs,cheap,3176,0.0,7.3773,7.6645,8.1854,8.7846,1.0,0.0427,0.0427,0.0779,0.2914,results/raw/20261005_033504_large_latency_fast_nusc
+nusc,phase1_no_breakdown_syncs,u640,3176,0.157,12.0326,12.1459,12.7678,13.4914,1.0,0.1707,0.1707,-0.0437,0.0762,results/raw/20261005_033504_large_latency_fast_nusc
+nusc,phase1_no_breakdown_syncs,u960,3176,0.152,17.8124,17.8808,18.5676,19.3059,1.0,0.384,0.384,-0.0207,0.072,results/raw/20261005_033504_large_latency_fast_nusc
+nusc,phase1_no_breakdown_syncs,u1280,3176,0.143,23.895,23.9298,24.6642,25.8153,1.0,0.6542,0.6542,-0.0055,0.0813,results/raw/20261005_033504_large_latency_fast_nusc
+nusc,phase1_no_breakdown_syncs,u1600 (native),3176,0.175,33.3735,33.319,34.3759,37.1088,1.0,1.0311,1.0311,-0.1043,0.0846,results/raw/20261005_033504_large_latency_fast_nusc
+nusc,phase1_no_breakdown_syncs,ours_noref,3176,0.166,24.2487,22.257,50.5191,66.4497,3.136,0.0964,0.2277,-0.0207,0.0407,results/raw/20261005_033504_large_latency_fast_nusc
+nusc,phase1_no_breakdown_syncs,ours,3176,0.173,25.2679,23.1283,53.2092,69.2327,3.136,0.0964,0.2277,,,results/raw/20261005_033504_large_latency_fast_nusc
+av2,phase1_no_breakdown_syncs,cheap,586,0.0,10.6487,10.1368,10.7406,12.2125,1.0,0.0258,0.0258,0.3242,0.7244,results/raw/20261005_034637_large_latency_fast_av2
+av2,phase1_no_breakdown_syncs,u640,586,0.031,17.0452,16.4029,17.2657,19.6013,1.0,0.1032,0.1032,0.2499,0.7487,results/raw/20261005_034637_large_latency_fast_av2
+av2,phase1_no_breakdown_syncs,u960,586,0.415,22.9892,22.6404,23.5642,27.0136,1.0,0.2323,0.2323,0.0163,0.2799,results/raw/20261005_034637_large_latency_fast_av2
+av2,phase1_no_breakdown_syncs,u1280,586,0.506,32.038,31.6857,32.8097,39.0349,1.0,0.4,0.4,-0.011,0.1155,results/raw/20261005_034637_large_latency_fast_av2
+av2,phase1_no_breakdown_syncs,u1536,586,0.543,41.091,40.6845,42.219,49.277,1.0,0.5729,0.5729,-0.0463,0.075,results/raw/20261005_034637_large_latency_fast_av2
+av2,phase1_no_breakdown_syncs,u2048 (native),586,0.553,64.9121,64.3985,66.5195,73.4699,1.0,1.0116,1.0116,-0.0826,0.0716,results/raw/20261005_034637_large_latency_fast_av2
+av2,phase1_no_breakdown_syncs,ours_noref,586,0.535,36.8252,36.6218,76.0053,101.2725,4.6092,0.0834,0.1881,-0.0028,0.0209,results/raw/20261005_034637_large_latency_fast_av2
+av2,phase1_no_breakdown_syncs,ours,586,0.545,41.9865,43.1774,88.4552,117.3277,4.6092,0.0834,0.1881,,,results/raw/20261005_034637_large_latency_fast_av2
+av2,phase1_+_batched_refiner,cheap,586,0.0,10.6256,10.1081,10.6899,12.8513,1.0,0.0258,0.0258,0.3242,0.7244,results/raw/20261005_035047_large_latency_fast_av2
+av2,phase1_+_batched_refiner,u640,586,0.031,17.2388,16.385,17.3287,22.4672,1.0,0.1032,0.1032,0.2499,0.7487,results/raw/20261005_035047_large_latency_fast_av2
+av2,phase1_+_batched_refiner,u960,586,0.415,23.5186,22.613,23.6922,32.8033,1.0,0.2323,0.2323,0.0163,0.2799,results/raw/20261005_035047_large_latency_fast_av2
+av2,phase1_+_batched_refiner,u1280,586,0.506,32.39,31.6974,33.0499,47.3363,1.0,0.4,0.4,-0.011,0.1155,results/raw/20261005_035047_large_latency_fast_av2
+av2,phase1_+_batched_refiner,u1536,586,0.543,41.5019,40.6726,42.3483,62.0239,1.0,0.5729,0.5729,-0.0463,0.075,results/raw/20261005_035047_large_latency_fast_av2
+av2,phase1_+_batched_refiner,u2048 (native),586,0.553,65.6326,64.3649,67.0056,99.7586,1.0,1.0116,1.0116,-0.0826,0.0716,results/raw/20261005_035047_large_latency_fast_av2
+av2,phase1_+_batched_refiner,ours_noref,586,0.535,37.0428,36.7094,77.2626,102.336,4.4761,0.0834,0.1881,-0.0028,0.0209,results/raw/20261005_035047_large_latency_fast_av2
+av2,phase1_+_batched_refiner,ours,586,0.545,42.1629,43.713,86.3097,114.9504,4.4761,0.0834,0.1881,,,results/raw/20261005_035047_large_latency_fast_av2
+nusc,phase2_NEW_CONFIG_ctx2.5_fmargin0.0,cheap,3176,0.0,7.2633,7.5637,8.0614,8.3798,1.0,0.0427,0.0427,0.0593,0.264,results/raw/20261005_043017_large_latency_fast_nusc
+nusc,phase2_NEW_CONFIG_ctx2.5_fmargin0.0,u640,3176,0.157,11.8946,12.0405,12.5997,12.9778,1.0,0.1707,0.1707,-0.0752,0.0607,results/raw/20261005_043017_large_latency_fast_nusc
+nusc,phase2_NEW_CONFIG_ctx2.5_fmargin0.0,u960,3176,0.152,17.6758,17.7772,18.401,18.7343,1.0,0.384,0.384,-0.0424,0.048,results/raw/20261005_043017_large_latency_fast_nusc
+nusc,phase2_NEW_CONFIG_ctx2.5_fmargin0.0,u1280,3176,0.143,23.621,23.7016,24.3528,24.8283,1.0,0.6542,0.6542,-0.0267,0.0554,results/raw/20261005_043017_large_latency_fast_nusc
+nusc,phase2_NEW_CONFIG_ctx2.5_fmargin0.0,u1600 (native),3176,0.175,33.1157,33.1381,34.0654,34.5828,1.0,1.0311,1.0311,-0.1092,0.056,results/raw/20261005_043017_large_latency_fast_nusc
+nusc,phase2_NEW_CONFIG_ctx2.5_fmargin0.0,ours_noref,3176,0.147,24.7608,22.9845,51.9415,68.1809,3.1477,0.107,0.291,-0.0196,0.0396,results/raw/20261005_043017_large_latency_fast_nusc
+nusc,phase2_NEW_CONFIG_ctx2.5_fmargin0.0,ours,3176,0.152,25.776,23.5687,55.0225,73.8599,3.1477,0.107,0.291,,,results/raw/20261005_043017_large_latency_fast_nusc
+nusc,phase2_NEW_CONFIG_ctx2.0_fmargin0.15,cheap,3176,0.0,7.2612,7.5567,8.0516,8.2944,1.0,0.0427,0.0427,0.0793,0.2912,results/raw/20261005_044111_large_latency_fast_nusc
+nusc,phase2_NEW_CONFIG_ctx2.0_fmargin0.15,u640,3176,0.157,11.9062,12.0513,12.6247,12.9609,1.0,0.1707,0.1707,-0.0391,0.075,results/raw/20261005_044111_large_latency_fast_nusc
+nusc,phase2_NEW_CONFIG_ctx2.0_fmargin0.15,u960,3176,0.152,17.681,17.7904,18.4151,18.7893,1.0,0.384,0.384,-0.0107,0.0609,results/raw/20261005_044111_large_latency_fast_nusc
+nusc,phase2_NEW_CONFIG_ctx2.0_fmargin0.15,u1280,3176,0.143,23.6983,23.7714,24.4767,24.9614,1.0,0.6542,0.6542,-0.0076,0.0809,results/raw/20261005_044111_large_latency_fast_nusc
+nusc,phase2_NEW_CONFIG_ctx2.0_fmargin0.15,u1600 (native),3176,0.175,33.1336,33.1578,34.1355,34.6783,1.0,1.0311,1.0311,-0.1015,0.0847,results/raw/20261005_044111_large_latency_fast_nusc
+nusc,phase2_NEW_CONFIG_ctx2.0_fmargin0.15,ours_noref,3176,0.156,23.2898,18.507,47.7151,64.1837,2.8945,0.107,0.2656,-0.008,0.0551,results/raw/20261005_044111_large_latency_fast_nusc
+nusc,phase2_NEW_CONFIG_ctx2.0_fmargin0.15,ours,3176,0.173,24.2848,19.6137,49.7638,68.8464,2.8945,0.107,0.2656,,,results/raw/20261005_044111_large_latency_fast_nusc
+nusc,phase2_NEW_CONFIG_ctx2.5_fmargin0.15,cheap,3176,0.0,7.1985,7.4915,8.022,8.2732,1.0,0.0427,0.0427,0.0963,0.3108,results/raw/20261005_045201_large_latency_fast_nusc
+nusc,phase2_NEW_CONFIG_ctx2.5_fmargin0.15,u640,3176,0.157,11.9004,12.0325,12.6318,13.0281,1.0,0.1707,0.1707,-0.033,0.1144,results/raw/20261005_045201_large_latency_fast_nusc
+nusc,phase2_NEW_CONFIG_ctx2.5_fmargin0.15,u960,3176,0.152,17.544,17.6316,18.2956,18.7923,1.0,0.384,0.384,-0.0058,0.1124,results/raw/20261005_045201_large_latency_fast_nusc
+nusc,phase2_NEW_CONFIG_ctx2.5_fmargin0.15,u1280,3176,0.143,23.5312,23.5916,24.2897,24.8332,1.0,0.6542,0.6542,-0.0032,0.1326,results/raw/20261005_045201_large_latency_fast_nusc
+nusc,phase2_NEW_CONFIG_ctx2.5_fmargin0.15,u1600 (native),3176,0.175,32.9408,32.9566,33.9575,34.506,1.0,1.0311,1.0311,-0.0289,0.0831,results/raw/20261005_045201_large_latency_fast_nusc
+nusc,phase2_NEW_CONFIG_ctx2.5_fmargin0.15,ours_noref,3176,0.18,23.6782,18.5261,49.1659,65.9179,2.9049,0.1198,0.3328,-0.0073,0.0542,results/raw/20261005_045201_large_latency_fast_nusc
+nusc,phase2_NEW_CONFIG_ctx2.5_fmargin0.15,ours,3176,0.198,24.6889,19.5807,52.0612,69.1925,2.9049,0.1198,0.3328,,,results/raw/20261005_045201_large_latency_fast_nusc

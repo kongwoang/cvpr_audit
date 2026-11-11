@@ -1,0 +1,26 @@
+# Round 3 sandbox development experiments — persist
+
+Development screen only; no method selected or promoted. Frozen sources and K34 are unchanged.
+All intervals: paired unit bootstrap, 2,000, seed 0; pointwise, exploratory. No GPU wall time is a Jetson latency measurement.
+G retains the original K30 cost convention (jerk relative to previous cheap action).
+Every executed policy/refiner row is retained. Logical requested pixels, not Jetson padded pixels.
+Generic-component/equal-total-budget controls remain necessary before a selector-superiority claim.
+
+| Dataset | Pipeline | Units | Miss rate | False/1000 | Insufficient loss/frame | G | Mean px/native |
+|---|---|---:|---:|---:|---:|---:|---:|
+| nusc | cheap | 152 | 0.3434 | 27.9549 | 0.5038 | 0.0000 | 0.0427 |
+| nusc | v6-S / none | 152 | 0.3939 | 6.5392 | 0.3911 | 0.3130 | 0.0804 |
+| nusc | v6-S | 152 | 0.4040 | 2.9426 | 0.3874 | 0.3212 | 0.0804 |
+| nusc | round1 combined / none | 152 | 0.3737 | 7.8470 | 0.3725 | 0.3405 | 0.0750 |
+| nusc | round1 combined | 152 | 0.3838 | 3.9235 | 0.3684 | 0.3505 | 0.0750 |
+| nusc | round1 combined / half | 152 | 0.3737 | 5.7218 | 0.3724 | 0.3461 | 0.0750 |
+| nusc | round1 combined / speed | 152 | 0.3838 | 4.7409 | 0.3679 | 0.3495 | 0.0750 |
+| nusc | round1 combined / speedhalf | 152 | 0.3838 | 4.5774 | 0.3677 | 0.3504 | 0.0750 |
+| nusc | upper-quantile missing history / none | 152 | 0.2626 | 19.6175 | 0.3244 | 0.3606 | 0.0750 |
+| nusc | upper-quantile missing history | 152 | 0.2929 | 14.3861 | 0.3282 | 0.3687 | 0.0750 |
+| nusc | upper quantile + extent retention / none | 152 | 0.2626 | 19.4540 | 0.3005 | 0.3895 | 0.0791 |
+| nusc | upper quantile + extent retention | 152 | 0.2929 | 14.5496 | 0.3050 | 0.3955 | 0.0791 |
+
+Every executed row and its interval is retained in summary.csv, intervals.csv and contrasts.csv.
+Severity/episode details: episodes.csv. Mechanism counts overlap and are not causal fractions: diagnostics.csv.
+No latency, deployment, or confirmatory-test conclusion is supported by this development screen. Smoke units were selected diagnostic cases, not an unbiased quality sample.

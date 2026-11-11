@@ -1,0 +1,39 @@
+# K37-4 — K34-2 decisive-object coverage strata, one supplementary table (copy and format only)
+
+Source: handoff/K34/coverage_summary.csv and coverage_intervals.csv, copied unchanged (with stratum_definitions.csv).
+No recomputation.
+
+Definition (K34-2):
+- **Population:** one decisive annotated object per frame with act_gt ≥ DECELERATE, on the test splits.
+- **Coverage:** the share whose box centre lies in the union of v6-S's executed field / support / guard crops at the
+  final round. This is box-centre geometry, not detection recall.
+- **Intervals:** paired unit bootstrap, 2,000 draws, seed 0.
+- **Strata:**
+  - closing-speed terciles use fixed per-dataset cuts (stratum_definitions.csv);
+  - Argoverse-HD's generic vehicle annotations fall under other_or_unspecified, so car / truck / bus / cyclist are not
+    identifiable there ("–"; K34 missing_rows.csv).
+
+Cell format: coverage [95% CI] (n = decisive objects). Files: table.md, table.tex, k37_4_coverage_table.csv.
+
+| stratum | | nuScenes test | AV2 val | Argoverse-HD val |
+|---|---|---|---|---|
+| All | all | 0.92 [0.88, 0.95] (n=928) | 0.95 [0.94, 0.97] (n=2854) | 0.96 [0.92, 0.98] (n=3593) |
+| Class | car | 0.94 [0.89, 0.96] (n=779) | 0.97 [0.95, 0.98] (n=2381) | – |
+| Class | truck | 0.83 [0.70, 0.94] (n=59) | 0.92 [0.87, 1.00] (n=152) | – |
+| Class | bus | 0.74 [0.38, 0.96] (n=27) | 0.81 [0.57, 0.95] (n=69) | – |
+| Class | pedestrian | 0.93 [0.80, 1.00] (n=29) | 1.00 [1.00, 1.00] (n=66) | 0.98 [0.80, 1.00] (n=177) |
+| Class | cyclist | 0.65 [0.13, 1.00] (n=17) | 0.87 [0.53, 1.00] (n=62) | – |
+| Class | other_or_unspecified | 0.88 [0.83, 1.00] (n=17) | 0.89 [0.71, 0.97] (n=124) | 0.96 [0.92, 0.98] (n=3416) |
+| Range (m) | <20 | 0.91 [0.84, 0.95] (n=439) | 0.95 [0.92, 0.97] (n=1108) | 0.93 [0.88, 0.98] (n=716) |
+| Range (m) | 20-40 | 0.93 [0.89, 0.96] (n=345) | 0.97 [0.94, 0.98] (n=1066) | 0.96 [0.89, 0.99] (n=1789) |
+| Range (m) | 40-60 | 0.92 [0.83, 0.98] (n=127) | 0.94 [0.89, 0.97] (n=511) | 0.98 [0.94, 1.00] (n=783) |
+| Range (m) | >60 | 0.88 [0.57, 1.00] (n=17) | 0.96 [0.91, 0.99] (n=169) | 0.94 [0.90, 1.00] (n=305) |
+| Lateral offset (m) | <1.2 | 0.95 [0.91, 0.98] (n=560) | 0.97 [0.95, 0.98] (n=1588) | 0.95 [0.89, 0.99] (n=2505) |
+| Lateral offset (m) | 1.2-3 | 0.87 [0.81, 0.92] (n=342) | 0.95 [0.93, 0.97] (n=1149) | 0.97 [0.95, 0.99] (n=1015) |
+| Lateral offset (m) | >3 | 0.85 [0.70, 0.96] (n=26) | 0.83 [0.72, 0.92] (n=117) | 0.95 [0.89, 1.00] (n=73) |
+| Closing speed (tercile) | low | 0.99 [0.97, 1.00] (n=309) | 0.97 [0.95, 0.99] (n=952) | 0.96 [0.90, 1.00] (n=1198) |
+| Closing speed (tercile) | middle | 0.96 [0.92, 0.98] (n=309) | 0.95 [0.92, 0.97] (n=951) | 0.95 [0.88, 0.99] (n=1197) |
+| Closing speed (tercile) | high | 0.80 [0.73, 0.87] (n=309) | 0.94 [0.91, 0.96] (n=951) | 0.96 [0.94, 0.99] (n=1198) |
+| Closing speed (tercile) | missing | 1.00 [1.00, 1.00] (n=1) | – | – |
+| Cheap detected | True | 0.93 [0.89, 0.96] (n=784) | 0.96 [0.95, 0.97] (n=2565) | 0.96 [0.90, 0.99] (n=2524) |
+| Cheap detected | False | 0.85 [0.74, 0.93] (n=144) | 0.90 [0.83, 0.95] (n=289) | 0.97 [0.93, 0.99] (n=1069) |

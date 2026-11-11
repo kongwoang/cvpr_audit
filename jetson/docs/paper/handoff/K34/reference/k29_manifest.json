@@ -1,0 +1,60 @@
+{
+  "nusc_test20": {
+    "k29_run": "results/raw/20261018_035821_k29_timing_nusc_test20_v6S_r3a",
+    "frames_sha256": "5796fe11fc5714cf9f2a47371bd32b77c33f415a16a5a143e08b3e97a196cf80",
+    "all_frames": 1005,
+    "timed_frames": 805,
+    "timed_units": 20,
+    "config": {
+      "config": "v6S",
+      "head": "/home/kongwoang/research/CVPR/engines/k28_temporal_head.pt",
+      "dataset": "nusc_test20",
+      "paths": "ref,trt32",
+      "wf": "u448,u512,u640",
+      "bounds": "2,3",
+      "heur": false,
+      "heur_only": "",
+      "ours": 1,
+      "parity": false,
+      "breakdown": false,
+      "crop_check": 30,
+      "v_close": 0.0,
+      "max_frames": 0,
+      "max_units": 0,
+      "warmup": 200,
+      "mask_y0": 0.0,
+      "tag": "r3a",
+      "verifier": "yolov8s",
+      "refiner": "v3a_vuw"
+    }
+  },
+  "av2": {
+    "k29_run": "results/raw/20261018_044415_k29_timing_av2_v6S_r3a",
+    "frames_sha256": "a6fa4cf030bd80029235f9cd0f737f09b4835f88a83df8abb376c416c6143d73",
+    "all_frames": 786,
+    "timed_frames": 586,
+    "timed_units": 8,
+    "config": {
+      "config": "v6S",
+      "head": "/home/kongwoang/research/CVPR/engines/k28_temporal_head.pt",
+      "dataset": "av2",
+      "paths": "ref,trt32",
+      "wf": "u448,u512,u640",
+      "bounds": "2,3",
+      "heur": false,
+      "heur_only": "",
+      "ours": 1,
+      "parity": false,
+      "breakdown": false,
+      "crop_check": 30,
+      "v_close": 0.0,
+      "max_frames": 0,
+      "max_units": 25,
+      "warmup": 200,
+      "mask_y0": 1830.0,
+      "tag": "r3a",
+      "verifier": "yolov8s",
+      "refiner": "v3a_vuw"
+    }
+  }
+}

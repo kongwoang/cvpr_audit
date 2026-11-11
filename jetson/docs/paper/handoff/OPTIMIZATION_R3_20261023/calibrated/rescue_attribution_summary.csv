@@ -1,0 +1,5 @@
+dataset,pipeline,rescued,newly_missed,rescued_with_decisive_evidence,rescued_without_decisive_evidence,hard_peak_rescued,hard_peak_rescued_with_hard_evidence
+av2,upper-quantile missing history,13,0,12,1,2,1
+av2,uncertainty query / adapt,11,7,11,0,4,0
+nusc,upper-quantile missing history,9,0,8,1,2,1
+nusc,uncertainty query / adapt,6,0,5,1,1,1

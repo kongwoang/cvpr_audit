@@ -1,0 +1,6 @@
+{
+  "status": "complete",
+  "cases": 800,
+  "seed": 0,
+  "scope": "empty scenes, empty probes, ties, random integer bottleneck matrices; exact action/field/support"
+}

@@ -1,0 +1,75 @@
+{
+  "audited_at": "2026-10-22T20:36:04.934386+07:00",
+  "source_hash_matches": {
+    "scripts/77_k34_latency.py": true,
+    "scripts/k34_bounded.py": true,
+    "scripts/64_k29_latency.py": true,
+    "scripts/59_bounded_latency.py": true,
+    "remote/A_method/k31_eval.py": true,
+    "src/vtf/speculative.py": true,
+    "src/vtf/c1fast.py": true,
+    "src/vtf/gpuprep.py": true,
+    "src/vtf/gpupost.py": true
+  },
+  "timed_rows": 12519,
+  "missing_vuw_frames": 0,
+  "repetition_action_disagreements": 0,
+  "window_released_local": "2026-10-22T16:23:08.434593+07:00",
+  "restore_errors": [],
+  "max_sampled_gpu_temperature_C": 45.5,
+  "engine_hashes_post_run": {
+    "engines/yolov8s_crop_192x320.engine": {
+      "sha256": "28ce32326d70e510224976b498d9f70ab10614d7fe287ef36067e8a7b4e8503e",
+      "size_bytes": 25191419,
+      "mtime_before_window": true
+    },
+    "engines/yolov8s_crop_320x256.engine": {
+      "sha256": "8f5897765e2da0ecde71371a069b7bde73da3db2cfc625e8910714567708ee81",
+      "size_bytes": 23939421,
+      "mtime_before_window": true
+    },
+    "engines/yolov8s_dyn.engine": {
+      "sha256": "530e10ea2024ff30a739c860eabeadcb1c65466f6ba576795f348c3ccf1fa143",
+      "size_bytes": 24134816,
+      "mtime_before_window": true
+    },
+    "engines/refiner_v3a_vuw_dyn.engine": {
+      "sha256": "3e0051108384cf8a3437e8c1c691779cc3a8fbe98c3b50b788caa402a713c6f2",
+      "size_bytes": 23330892,
+      "mtime_before_window": true
+    },
+    "engines/c1enc_fp32_b1.engine": {
+      "sha256": "9744a6f1505bced188e6f667820938509a73ef32ebf69cfca217732e2c20dfe5",
+      "size_bytes": 59549138,
+      "mtime_before_window": true
+    },
+    "engines/c1enc_fp32_b16.engine": {
+      "sha256": "0dd5140db40282838981a6ffd76456dbe795e68d514c73cfedc110cac9b917f0",
+      "size_bytes": 46654965,
+      "mtime_before_window": true
+    },
+    "engines/c1enc_fp32_b2.engine": {
+      "sha256": "44fe9ce2de259e9941bde1e7d6022b14905b9906e552977a1c4a64482eac83da",
+      "size_bytes": 57769046,
+      "mtime_before_window": true
+    },
+    "engines/c1enc_fp32_b32.engine": {
+      "sha256": "85869819bf178bc7c67cf8e4b30c63cc34afc7059385631e71833365192b5d1f",
+      "size_bytes": 46652562,
+      "mtime_before_window": true
+    },
+    "engines/c1enc_fp32_b4.engine": {
+      "sha256": "a52b0198631aaf568e15a6ebe2059c371e49584184de91e48b51c58e3cfd1cfa",
+      "size_bytes": 46693950,
+      "mtime_before_window": true
+    },
+    "engines/c1enc_fp32_b8.engine": {
+      "sha256": "3ba2873782db9c406b8947b7fcb69a6993738666885590a749c0acd9cd2f4c08",
+      "size_bytes": 46657908,
+      "mtime_before_window": true
+    }
+  },
+  "engine_hash_limitation": "Captured after execution; mtimes are supporting metadata, not proof of pre-run content.",
+  "counter_correction": "trt32 crop executions = total detector executions - draft; raw bounded-only counter is not used.",
+  "parity_caveat": "B2K-A differs on 3/805 nuScenes and 2/586 AV2 frames; causes not isolated."
+}

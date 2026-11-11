@@ -1,0 +1,18 @@
+{
+  "task": "fit",
+  "dataset": "av2",
+  "status": "complete",
+  "pid": 1028245,
+  "host": "cuda13.ecs.vuw.ac.nz",
+  "started": 1792852938.3880665,
+  "scripts": {
+    "launch_cpu.py": "8d8f549427bf0795fc16c07651a50dfd74e154933b7706342ecc7b1474db945c",
+    "fit.py": "fed94ea64c86cb6e1ec18e899e55eb19c4542a59dd7c3fb503de685345225746",
+    "job.py": "634938c25f7c280f268281328929ce321efbc91e1697719dc58247a2559be06b",
+    "features.py": "748decb56fd2b91c36b50effbfb05be9f710aab3830c59b3b83bf0425936fd56",
+    "common.py": "1563277aee1ade5234926eef1d9f2f6a47cbc59a52575f3c690dadbc4001e103"
+  },
+  "exit_code": 0,
+  "finished": 1792852974.9053462,
+  "changed_main_sources": []
+}

@@ -1,0 +1,342 @@
+{
+  "created_utc": "2026-10-22T00:15:57.360565+00:00",
+  "units": [
+    {
+      "id": "test_unc_L0_s1_c0_r1711",
+      "job": "test/unc_L0_s1_c0",
+      "route": "1711",
+      "route_id": "RouteScenario_1711_rep0",
+      "original_index": 0,
+      "original_status": "Failed - Agent couldn't be set up",
+      "original_xml": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k32/test_routes_c0.xml",
+      "xml": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k32/repair/20261022_complete/units/test_unc_L0_s1_c0_r1711/test_routes_c0.xml",
+      "xml_sha256": "00073e93d536a0f2aa832183bcf551fdf9eb90c382947ef6686118ce7088ca65",
+      "original_xml_sha256": "052d6d66872004efc406015aae2ac24193a1e14720c818893509feea746d3f2a",
+      "env": {
+        "AEB_BRANCH": "unc",
+        "AEB_LAT": "L0",
+        "AEB_SEED": "1",
+        "AEB_C1": "0",
+        "AEB_REF": "0",
+        "AEB_FRONT": "2.45",
+        "AEB_TTC_TICKS": "10"
+      },
+      "source_record": {
+        "index": 0,
+        "route_id": "RouteScenario_1711_rep0",
+        "scenario_name": "ParkingCutIn_1",
+        "weather_id": "15",
+        "save_name": "RouteScenario_1711_rep0_Town12_ParkingCutIn_1_15_10_22_06_12_23",
+        "status": "Failed - Agent couldn't be set up",
+        "num_infractions": 0,
+        "infractions": {
+          "collisions_layout": [],
+          "collisions_pedestrian": [],
+          "collisions_vehicle": [],
+          "red_light": [],
+          "stop_infraction": [],
+          "outside_route_lanes": [],
+          "min_speed_infractions": [],
+          "yield_emergency_vehicle_infractions": [],
+          "scenario_timeouts": [],
+          "route_dev": [],
+          "vehicle_blocked": [],
+          "route_timeout": []
+        },
+        "scores": {
+          "score_route": 0,
+          "score_penalty": 1.0,
+          "score_composed": 0.0
+        },
+        "meta": {
+          "route_length": 133.138,
+          "duration_game": 0.0,
+          "duration_system": 0.0
+        },
+        "town_name": "Town12"
+      },
+      "created_utc": "2026-10-22T00:15:57.923610+00:00"
+    },
+    {
+      "id": "test_unc_L0_s1_c0_r2127",
+      "job": "test/unc_L0_s1_c0",
+      "route": "2127",
+      "route_id": "RouteScenario_2127_rep0",
+      "original_index": 1,
+      "original_status": "Failed - Agent couldn't be set up",
+      "original_xml": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k32/test_routes_c0.xml",
+      "xml": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k32/repair/20261022_complete/units/test_unc_L0_s1_c0_r2127/test_routes_c0.xml",
+      "xml_sha256": "c1242790b3214c23f4bb34c70259e2ece2e150497651a1e5a9253ea6f8ecff29",
+      "original_xml_sha256": "052d6d66872004efc406015aae2ac24193a1e14720c818893509feea746d3f2a",
+      "env": {
+        "AEB_BRANCH": "unc",
+        "AEB_LAT": "L0",
+        "AEB_SEED": "1",
+        "AEB_C1": "0",
+        "AEB_REF": "0",
+        "AEB_FRONT": "2.45",
+        "AEB_TTC_TICKS": "10"
+      },
+      "source_record": {
+        "index": 1,
+        "route_id": "RouteScenario_2127_rep0",
+        "scenario_name": "OppositeVehicleTakingPriority_1",
+        "weather_id": "15",
+        "save_name": "RouteScenario_2127_rep0_Town12_OppositeVehicleTakingPriority_1_15_10_22_06_18_25",
+        "status": "Failed - Agent couldn't be set up",
+        "num_infractions": 0,
+        "infractions": {
+          "collisions_layout": [],
+          "collisions_pedestrian": [],
+          "collisions_vehicle": [],
+          "red_light": [],
+          "stop_infraction": [],
+          "outside_route_lanes": [],
+          "min_speed_infractions": [],
+          "yield_emergency_vehicle_infractions": [],
+          "scenario_timeouts": [],
+          "route_dev": [],
+          "vehicle_blocked": [],
+          "route_timeout": []
+        },
+        "scores": {
+          "score_route": 0,
+          "score_penalty": 1.0,
+          "score_composed": 0.0
+        },
+        "meta": {
+          "route_length": 76.602,
+          "duration_game": 0.0,
+          "duration_system": 0.0
+        },
+        "town_name": "Town12"
+      },
+      "created_utc": "2026-10-22T00:15:57.935590+00:00"
+    },
+    {
+      "id": "test_unc_L0_s1_c0_r11755",
+      "job": "test/unc_L0_s1_c0",
+      "route": "11755",
+      "route_id": "RouteScenario_11755_rep0",
+      "original_index": 10,
+      "original_status": "Failed - Agent couldn't be set up",
+      "original_xml": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k32/test_routes_c0.xml",
+      "xml": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k32/repair/20261022_complete/units/test_unc_L0_s1_c0_r11755/test_routes_c0.xml",
+      "xml_sha256": "70d62f8cee8fa4e11d3690929b5a2a3ab0aab0ae380abfdb2a2828c723040e67",
+      "original_xml_sha256": "052d6d66872004efc406015aae2ac24193a1e14720c818893509feea746d3f2a",
+      "env": {
+        "AEB_BRANCH": "unc",
+        "AEB_LAT": "L0",
+        "AEB_SEED": "1",
+        "AEB_C1": "0",
+        "AEB_REF": "0",
+        "AEB_FRONT": "2.45",
+        "AEB_TTC_TICKS": "10"
+      },
+      "source_record": {
+        "index": 10,
+        "route_id": "RouteScenario_11755_rep0",
+        "scenario_name": "EnterActorFlow_1",
+        "weather_id": "6",
+        "save_name": "RouteScenario_11755_rep0_Town12_EnterActorFlow_1_6_10_22_12_58_13",
+        "status": "Failed - Agent couldn't be set up",
+        "num_infractions": 0,
+        "infractions": {
+          "collisions_layout": [],
+          "collisions_pedestrian": [],
+          "collisions_vehicle": [],
+          "red_light": [],
+          "stop_infraction": [],
+          "outside_route_lanes": [],
+          "min_speed_infractions": [],
+          "yield_emergency_vehicle_infractions": [],
+          "scenario_timeouts": [],
+          "route_dev": [],
+          "vehicle_blocked": [],
+          "route_timeout": []
+        },
+        "scores": {
+          "score_route": 0,
+          "score_penalty": 1.0,
+          "score_composed": 0.0
+        },
+        "meta": {
+          "route_length": 81.137,
+          "duration_game": 0.0,
+          "duration_system": 0.0
+        },
+        "town_name": "Town12"
+      },
+      "created_utc": "2026-10-22T00:15:57.946277+00:00"
+    },
+    {
+      "id": "test_unc_L0_s1_c3_r2082",
+      "job": "test/unc_L0_s1_c3",
+      "route": "2082",
+      "route_id": "RouteScenario_2082_rep0",
+      "original_index": 0,
+      "original_status": "Failed - Agent couldn't be set up",
+      "original_xml": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k32/test_routes_c3.xml",
+      "xml": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k32/repair/20261022_complete/units/test_unc_L0_s1_c3_r2082/test_routes_c3.xml",
+      "xml_sha256": "f11c29cc8dfe8a3b93e0ee5ed87b4520a958d02adc95d6c2fb4ab59dc6aa9f8b",
+      "original_xml_sha256": "0633b947ae72b6e853a934dc21799ddc58ccff2cb24d197aaad1cc4e4db6870c",
+      "env": {
+        "AEB_BRANCH": "unc",
+        "AEB_LAT": "L0",
+        "AEB_SEED": "1",
+        "AEB_C1": "0",
+        "AEB_REF": "0",
+        "AEB_FRONT": "2.45",
+        "AEB_TTC_TICKS": "10"
+      },
+      "source_record": {
+        "index": 0,
+        "route_id": "RouteScenario_2082_rep0",
+        "scenario_name": "OppositeVehicleRunningRedLight_1",
+        "weather_id": "22",
+        "save_name": "RouteScenario_2082_rep0_Town12_OppositeVehicleRunningRedLight_1_22_10_22_06_49_34",
+        "status": "Failed - Agent couldn't be set up",
+        "num_infractions": 0,
+        "infractions": {
+          "collisions_layout": [],
+          "collisions_pedestrian": [],
+          "collisions_vehicle": [],
+          "red_light": [],
+          "stop_infraction": [],
+          "outside_route_lanes": [],
+          "min_speed_infractions": [],
+          "yield_emergency_vehicle_infractions": [],
+          "scenario_timeouts": [],
+          "route_dev": [],
+          "vehicle_blocked": [],
+          "route_timeout": []
+        },
+        "scores": {
+          "score_route": 0,
+          "score_penalty": 1.0,
+          "score_composed": 0.0
+        },
+        "meta": {
+          "route_length": 83.186,
+          "duration_game": 0.0,
+          "duration_system": 0.0
+        },
+        "town_name": "Town12"
+      },
+      "created_utc": "2026-10-22T00:15:57.965771+00:00"
+    },
+    {
+      "id": "test_v6Sb2_L1_s1_c3_r2082",
+      "job": "test/v6Sb2_L1_s1_c3",
+      "route": "2082",
+      "route_id": "RouteScenario_2082_rep0",
+      "original_index": 0,
+      "original_status": "Failed - Agent couldn't be set up",
+      "original_xml": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k32/test_routes_c3.xml",
+      "xml": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k32/repair/20261022_complete/units/test_v6Sb2_L1_s1_c3_r2082/test_routes_c3.xml",
+      "xml_sha256": "f11c29cc8dfe8a3b93e0ee5ed87b4520a958d02adc95d6c2fb4ab59dc6aa9f8b",
+      "original_xml_sha256": "0633b947ae72b6e853a934dc21799ddc58ccff2cb24d197aaad1cc4e4db6870c",
+      "env": {
+        "AEB_BRANCH": "v6Sb2",
+        "AEB_LAT": "L1",
+        "AEB_SEED": "1",
+        "AEB_C1": "0",
+        "AEB_REF": "0",
+        "AEB_FRONT": "2.45",
+        "AEB_TTC_TICKS": "10"
+      },
+      "source_record": {
+        "index": 0,
+        "route_id": "RouteScenario_2082_rep0",
+        "scenario_name": "OppositeVehicleRunningRedLight_1",
+        "weather_id": "22",
+        "save_name": "RouteScenario_2082_rep0_Town12_OppositeVehicleRunningRedLight_1_22_10_21_11_34_53",
+        "status": "Failed - Agent couldn't be set up",
+        "num_infractions": 0,
+        "infractions": {
+          "collisions_layout": [],
+          "collisions_pedestrian": [],
+          "collisions_vehicle": [],
+          "red_light": [],
+          "stop_infraction": [],
+          "outside_route_lanes": [],
+          "min_speed_infractions": [],
+          "yield_emergency_vehicle_infractions": [],
+          "scenario_timeouts": [],
+          "route_dev": [],
+          "vehicle_blocked": [],
+          "route_timeout": []
+        },
+        "scores": {
+          "score_route": 0,
+          "score_penalty": 1.0,
+          "score_composed": 0.0
+        },
+        "meta": {
+          "route_length": 83.186,
+          "duration_game": 0.0,
+          "duration_system": 0.0
+        },
+        "town_name": "Town12"
+      },
+      "created_utc": "2026-10-22T00:15:58.355716+00:00"
+    },
+    {
+      "id": "test_v6Sb2_L1_s1_c3_r2144",
+      "job": "test/v6Sb2_L1_s1_c3",
+      "route": "2144",
+      "route_id": "RouteScenario_2144_rep0",
+      "original_index": 1,
+      "original_status": "Failed - Agent couldn't be set up",
+      "original_xml": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k32/test_routes_c3.xml",
+      "xml": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k32/repair/20261022_complete/units/test_v6Sb2_L1_s1_c3_r2144/test_routes_c3.xml",
+      "xml_sha256": "269dde3b78218ed8d1f10d797b184908b096e3893bb27cbb75a5fecc0ced727f",
+      "original_xml_sha256": "0633b947ae72b6e853a934dc21799ddc58ccff2cb24d197aaad1cc4e4db6870c",
+      "env": {
+        "AEB_BRANCH": "v6Sb2",
+        "AEB_LAT": "L1",
+        "AEB_SEED": "1",
+        "AEB_C1": "0",
+        "AEB_REF": "0",
+        "AEB_FRONT": "2.45",
+        "AEB_TTC_TICKS": "10"
+      },
+      "source_record": {
+        "index": 1,
+        "route_id": "RouteScenario_2144_rep0",
+        "scenario_name": "VehicleTurningRoute_1",
+        "weather_id": "6",
+        "save_name": "RouteScenario_2144_rep0_Town12_VehicleTurningRoute_1_6_10_21_11_39_29",
+        "status": "Failed - Agent couldn't be set up",
+        "num_infractions": 0,
+        "infractions": {
+          "collisions_layout": [],
+          "collisions_pedestrian": [],
+          "collisions_vehicle": [],
+          "red_light": [],
+          "stop_infraction": [],
+          "outside_route_lanes": [],
+          "min_speed_infractions": [],
+          "yield_emergency_vehicle_infractions": [],
+          "scenario_timeouts": [],
+          "route_dev": [],
+          "vehicle_blocked": [],
+          "route_timeout": []
+        },
+        "scores": {
+          "score_route": 0,
+          "score_penalty": 1.0,
+          "score_composed": 0.0
+        },
+        "meta": {
+          "route_length": 74.492,
+          "duration_game": 0.0,
+          "duration_system": 0.0
+        },
+        "town_name": "Town12"
+      },
+      "created_utc": "2026-10-22T00:15:58.365316+00:00"
+    }
+  ],
+  "updated_utc": "2026-10-22T02:32:58.951029+00:00"
+}

@@ -1,0 +1,11 @@
+dataset,candidate,comparator,episodes,comparator_missed,candidate_missed,recovered,introduced,both_missed
+nusc,v6-S,cheap,99,34,40,6,12,28
+av2,v6-S,cheap,366,30,59,7,36,23
+nusc,temporal evidence,v6-S,99,40,38,2,0,38
+av2,temporal evidence,v6-S,366,59,49,10,0,49
+nusc,B2K-A,v6-S,99,40,40,0,0,40
+av2,B2K-A,v6-S,366,59,59,0,0,59
+nusc,B2K-A + temporal evidence,v6-S,99,40,38,2,0,38
+av2,B2K-A + temporal evidence,v6-S,366,59,49,10,0,49
+nusc,B2K-A + temporal evidence,cheap,99,34,38,6,10,28
+av2,B2K-A + temporal evidence,cheap,366,30,49,7,26,23

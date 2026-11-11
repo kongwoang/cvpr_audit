@@ -1,0 +1,9 @@
+dataset,pipeline,population,row,samples,unique_frames,mean_ms,p95_ms,p99_ms
+av2_dev,v6-S + recovery,recovery attempted,candidate,39,13,77.21278335725984,134.11948467837647,136.32641584554221
+av2_dev,v6-S + recovery,recovery attempted,base_same_frames,39,13,53.49121510218351,103.42827310960274,107.01750117295886
+av2_dev,B2K-A + recovery,recovery attempted,candidate,45,15,80.01882684442938,129.78859660215676,131.99913603952155
+av2_dev,B2K-A + recovery,recovery attempted,base_same_frames,45,15,52.243011574804164,85.32162540941499,88.2852947304491
+nusc_val,v6-S + recovery,recovery attempted,candidate,21,7,63.68945109508267,113.67177599458955,114.95926561183296
+nusc_val,v6-S + recovery,recovery attempted,base_same_frames,21,7,42.89671856566288,93.93800899852067,95.17877860926092
+nusc_val,B2K-A + recovery,recovery attempted,candidate,24,8,52.6664540435983,71.32443373993738,71.9463424483547
+nusc_val,B2K-A + recovery,recovery attempted,base_same_frames,24,8,31.6075187062476,53.000245087605435,53.19598959875293

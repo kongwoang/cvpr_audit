@@ -1,0 +1,13 @@
+variant,identical_output,ms_per_frame,planner_calls,rollouts_reused_per_frame,PDMS,PDMS_frozen_same_tokens,minus_frozen,ci_lo,ci_hi,ms_note,iou_sensitive_footprint,tokens,tokens_changed_score
+"frozen spec_pdm (navsim_field, per call scenario rebuild)",reference,14908.380343739875,50.17,,,,,,,,,,
+"fast: planner state built once per token, roll-outs reused for identical proposals","poses bit-identical on 100/100 checked tokens; field parity 1.0000, support parity 1.0000",6192.13081009686,50.17,40.701,,,,,,,,,
+"fast, calls of a frame over 4 worker processes (200 tokens)",same calls as fast,2072.8091022139415,50.87,,,,,,,,,,
+"fast, calls of a frame over 8 worker processes (200 tokens)",same calls as fast,1359.7732693748549,50.87,,,,,,,,,,
+"fast, calls of a frame over 16 worker processes (200 tokens)",same calls as fast,1282.8028613654897,50.87,,,,,,,,,,
+approximation: 5 x 5 grid,no,7731.278283851121,26.24921784949778,,0.8943311046187633,0.8945369113124915,-0.00020580669372803108,-0.0008563595108932248,0.000313975304702941,planner calls x the mean frozen probe/support call (derived),0.990698033022035,12146.0,
+approximation: 3 x 3 grid (ego lane +- one lane),no,4155.019799532876,14.107113452988639,,0.8943018815117735,0.8945369113124915,-0.00023502980071802982,-0.0012528170022047826,0.0006032746285638587,planner calls x the mean frozen probe/support call (derived),0.9567661873362783,12146.0,
+approximation: cells in the corridor of the current plan,no,4264.79700127489,14.47982875020583,,0.8944309602417234,0.8945369113124915,-0.0001059510707681136,-0.0005727635449698856,0.00030184399315897383,planner calls x the mean frozen probe/support call (derived),0.9524848948394427,12146.0,
+"support + objects of redundancy pairs (1,000-token subset)",no,,,,0.889181393354759,0.889181393354759,0.0,0.0,0.0,,,1000.0,0.0
+"support + pair objects + probe-interacting objects (1,000-token subset)",no,,,,0.889181393354759,0.889181393354759,0.0,0.0,0.0,,,1000.0,0.0
+frozen spec_pdm on navtest,,,,,0.8945369113124915,,,,,,,12146.0,
+"closed-form braking field as proxy (paper, existing number)",no,,0.0,,0.8926,,,,,,,,

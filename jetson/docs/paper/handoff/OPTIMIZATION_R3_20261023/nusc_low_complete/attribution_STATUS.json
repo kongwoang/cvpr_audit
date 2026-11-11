@@ -1,0 +1,6 @@
+{
+  "status": "complete",
+  "stage": "low",
+  "report": "nusc_low_complete",
+  "caution": "A positive decisive match/demand is evidence of attribution, not proof of correct identity or calibrated geometry. Missing evidence need not imply no other legitimately relevant object."
+}

@@ -1,0 +1,5 @@
+method,frames,hood_boxes_per_frame,frames_with_hood_box
+ESOD (fine-tuned),11781,0.0,0.0
+ZoomDet (fine-tuned),11818,0.0,0.0
+u960 (COCO),3004,0.16877496671105194,0.16844207723035953
+u960-ft,3004,0.0,0.0

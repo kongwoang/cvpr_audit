@@ -1,0 +1,90 @@
+dataset,section,method,group,tensor_px,G_no_refiner,G_refiner
+av2,ours,v5.1-S,ours,0.05337129256082848,0.1473894101903829,0.2616765027764334
+av2,ours,v5.1-L,ours,0.07070633096588583,0.17149541742362748,0.2961350755189203
+av2,ours (reference),v5,ours,0.05324938994098668,0.03145255645308786,0.20795224280382316
+av2,(1),whole frame u640,whole frame,0.10322580645161294,-0.01933701118726915,0.1308647649599235
+av2,(1),whole frame u640 + components,whole frame + components,0.10322580645161294,0.1245085547135695,0.21885194637049177
+av2,(1),whole frame u960,whole frame,0.23225806451612904,-0.02073589557545917,0.18225202155624662
+av2,(1),whole frame u960 + components,whole frame + components,0.23225806451612904,0.12628451694241347,0.2548115295287763
+av2,(1),whole frame u1280,whole frame,0.39999999999999997,-0.008130595850307737,0.18942432769542483
+av2,(1),whole frame u1280 + components,whole frame + components,0.39999999999999997,0.13567477200192748,0.2720110884465854
+av2,(1),whole frame u1536,whole frame,0.5729032258064517,-0.031396339873156674,0.16780300756714883
+av2,(1),whole frame u1536 + components,whole frame + components,0.5729032258064517,0.10202579430348992,0.23318373452267252
+av2,(1),whole frame native,whole frame,1.0116129032258068,-0.05784620757347319,0.15488320247165982
+av2,(1),whole frame native + components,whole frame + components,1.0116129032258068,0.09685301332571163,0.22409456244169207
+av2,(2),uncertainty @ 0.5x v5.1-S px,heuristic,0.06280531611156301,0.09052065271366395,0.12865625751466017
+av2,(2),uncertainty @ 0.5x v5.1-S px + components,heuristic + components,0.06280531611156301,0.1486022618172088,0.16609431799547442
+av2,(2),temporal_crit @ 0.5x v5.1-S px,heuristic,0.06248863133874516,0.04099192606021275,0.10139252805097754
+av2,(2),temporal_crit @ 0.5x v5.1-S px + components,heuristic + components,0.06248863133874516,0.1242034376567484,0.14467476606711271
+av2,(2),random @ 0.5x v5.1-S px,heuristic,0.05970867293740003,-0.014047429650160492,0.016834912941723318
+av2,(2),random @ 0.5x v5.1-S px + components,heuristic + components,0.05970867293740003,-0.03662650934630013,-0.02034239113056749
+av2,(2),traj_support @ 0.5x v5.1-S px,heuristic,0.06316583778708258,-0.002938424396388423,0.15556911000697843
+av2,(2),traj_support @ 0.5x v5.1-S px + components,heuristic + components,0.06316583778708258,0.09899806171786524,0.21008729630326758
+av2,(2),corridor @ 0.5x v5.1-S px,heuristic,0.05931561478117033,0.004068595724644055,0.15768722457833753
+av2,(2),corridor @ 0.5x v5.1-S px + components,heuristic + components,0.05931561478117033,0.09641542002568028,0.2011934662778471
+av2,(2),uncertainty @ 1x v5.1-S px,heuristic,0.08033710196037756,0.08949640643401956,0.16347761215067735
+av2,(2),uncertainty @ 1x v5.1-S px + components,heuristic + components,0.08033710196037756,0.16464787133804507,0.2102407231428317
+av2,(2),temporal_crit @ 1x v5.1-S px,heuristic,0.08310603289678402,0.059071058699201755,0.15717418026097468
+av2,(2),temporal_crit @ 1x v5.1-S px + components,heuristic + components,0.08310603289678402,0.1654141862297431,0.2240032616765583
+av2,(2),random @ 1x v5.1-S px,heuristic,0.08855441944764411,0.008984650077296732,0.06113286619832824
+av2,(2),random @ 1x v5.1-S px + components,heuristic + components,0.08855441944764411,-0.017134207740544218,0.014783007351873854
+av2,(2),traj_support @ 1x v5.1-S px,heuristic,0.07123229191119068,0.020125239853128907,0.19418038547528105
+av2,(2),traj_support @ 1x v5.1-S px + components,heuristic + components,0.07123229191119068,0.14581569978302245,0.26557442629803085
+av2,(2),corridor @ 1x v5.1-S px,heuristic,0.06605560681082438,0.011089374047212885,0.17438231729887077
+av2,(2),corridor @ 1x v5.1-S px + components,heuristic + components,0.06605560681082438,0.1250157944339146,0.23081076813238757
+av2,(2),uncertainty @ 2x v5.1-S px,heuristic,0.09991920471233055,0.08614659864600588,0.19010486711862576
+av2,(2),uncertainty @ 2x v5.1-S px + components,heuristic + components,0.09991920471233055,0.13620535906188752,0.21101775262015152
+av2,(2),temporal_crit @ 2x v5.1-S px,heuristic,0.11709906703279307,0.05890628545798414,0.1901680109701573
+av2,(2),temporal_crit @ 2x v5.1-S px + components,heuristic + components,0.11709906703279307,0.1596485796225701,0.24679137673544185
+av2,(2),random @ 2x v5.1-S px,heuristic,0.1443435655833911,0.016307656553093085,0.0940971238103521
+av2,(2),random @ 2x v5.1-S px + components,heuristic + components,0.1443435655833911,0.046864584056117535,0.09452533454112609
+av2,(2),traj_support @ 2x v5.1-S px,heuristic,0.08439545471915448,0.012151933678702194,0.1898773229149292
+av2,(2),traj_support @ 2x v5.1-S px + components,heuristic + components,0.08439545471915448,0.1312435379868355,0.26361764497178813
+av2,(2),corridor @ 2x v5.1-S px,heuristic,0.07163476708574672,0.00952821206988946,0.17750338910554622
+av2,(2),corridor @ 2x v5.1-S px + components,heuristic + components,0.07163476708574672,0.12442735687698683,0.2461435616977343
+av2,(2) extra: budget matched to v5.1-L,uncertainty @ 0.5x v5.1-L px,heuristic,0.0747906965318077,0.09237981610097515,0.1492043615122919
+av2,(2) extra: budget matched to v5.1-L,uncertainty @ 0.5x v5.1-L px + components,heuristic + components,0.0747906965318077,0.17171818156424487,0.20554115606258094
+av2,(2) extra: budget matched to v5.1-L,temporal_crit @ 0.5x v5.1-L px,heuristic,0.0752911632883682,0.060090962100070866,0.14976330104185304
+av2,(2) extra: budget matched to v5.1-L,temporal_crit @ 0.5x v5.1-L px + components,heuristic + components,0.0752911632883682,0.16116581663626045,0.20467035279397966
+av2,(2) extra: budget matched to v5.1-L,random @ 0.5x v5.1-L px,heuristic,0.07821434225538954,-0.013375277078539992,0.02678171326983137
+av2,(2) extra: budget matched to v5.1-L,random @ 0.5x v5.1-L px + components,heuristic + components,0.07821434225538954,-0.023460123612103284,0.0054694178109948016
+av2,(2) extra: budget matched to v5.1-L,traj_support @ 0.5x v5.1-L px,heuristic,0.07125268180304511,0.01436393847339544,0.17486061531615796
+av2,(2) extra: budget matched to v5.1-L,traj_support @ 0.5x v5.1-L px + components,heuristic + components,0.07125268180304511,0.12622641906550303,0.24870965702762682
+av2,(2) extra: budget matched to v5.1-L,corridor @ 0.5x v5.1-L px,heuristic,0.06448460249264382,0.018438415914200125,0.17488463969220164
+av2,(2) extra: budget matched to v5.1-L,corridor @ 0.5x v5.1-L px + components,heuristic + components,0.06448460249264382,0.12922487050876325,0.236694364541778
+av2,(2) extra: budget matched to v5.1-L,uncertainty @ 1x v5.1-L px,heuristic,0.0939023032116127,0.09438432683734625,0.1920169043310646
+av2,(2) extra: budget matched to v5.1-L,uncertainty @ 1x v5.1-L px + components,heuristic + components,0.0939023032116127,0.14883126096598376,0.21974398702556608
+av2,(2) extra: budget matched to v5.1-L,temporal_crit @ 1x v5.1-L px,heuristic,0.10609141877616977,0.06658959298317287,0.1843526305328263
+av2,(2) extra: budget matched to v5.1-L,temporal_crit @ 1x v5.1-L px + components,heuristic + components,0.10609141877616977,0.16289630734335903,0.23791923329220285
+av2,(2) extra: budget matched to v5.1-L,random @ 1x v5.1-L px,heuristic,0.12405488620420463,0.008165349284201774,0.07345182698064391
+av2,(2) extra: budget matched to v5.1-L,random @ 1x v5.1-L px + components,heuristic + components,0.12405488620420463,0.030398407645602407,0.07338666190261828
+av2,(2) extra: budget matched to v5.1-L,traj_support @ 1x v5.1-L px,heuristic,0.08061300694948656,0.025436553166447044,0.19701276607474022
+av2,(2) extra: budget matched to v5.1-L,traj_support @ 1x v5.1-L px + components,heuristic + components,0.08061300694948656,0.14298057616119267,0.2698040295938517
+av2,(2) extra: budget matched to v5.1-L,corridor @ 1x v5.1-L px,heuristic,0.06987190125505653,0.019550288308095628,0.184652986623881
+av2,(2) extra: budget matched to v5.1-L,corridor @ 1x v5.1-L px + components,heuristic + components,0.06987190125505653,0.13217665269732212,0.24629971386053387
+av2,(2) extra: budget matched to v5.1-L,uncertainty @ 2x v5.1-L px,heuristic,0.10946410341796822,0.0860829853960804,0.19073535486847235
+av2,(2) extra: budget matched to v5.1-L,uncertainty @ 2x v5.1-L px + components,heuristic + components,0.10946410341796822,0.1480465753893963,0.22823356833054131
+av2,(2) extra: budget matched to v5.1-L,temporal_crit @ 2x v5.1-L px,heuristic,0.1445756063740931,0.05876258202795816,0.20440179528582242
+av2,(2) extra: budget matched to v5.1-L,temporal_crit @ 2x v5.1-L px + components,heuristic + components,0.1445756063740931,0.1648096834931363,0.263247122220807
+av2,(2) extra: budget matched to v5.1-L,random @ 2x v5.1-L px,heuristic,0.21272356547420826,0.03258162356127791,0.1250906108737768
+av2,(2) extra: budget matched to v5.1-L,random @ 2x v5.1-L px + components,heuristic + components,0.21272356547420826,0.09395670080884211,0.13926663894658572
+av2,(2) extra: budget matched to v5.1-L,traj_support @ 2x v5.1-L px,heuristic,0.08549770989032586,0.017064302421815794,0.19234829147847143
+av2,(2) extra: budget matched to v5.1-L,traj_support @ 2x v5.1-L px + components,heuristic + components,0.08549770989032586,0.1345912170885257,0.2671276933630284
+av2,(2) extra: budget matched to v5.1-L,corridor @ 2x v5.1-L px,heuristic,0.07214058380054482,0.013966476010614884,0.18144251082639523
+av2,(2) extra: budget matched to v5.1-L,corridor @ 2x v5.1-L px + components,heuristic + components,0.07214058380054482,0.12561138977682942,0.24743868493430643
+av2,(4),previous frozen v4-lite + refiner v2 (as reported),previous frozen,0.05324938994098668,0.03145255645308786,0.12228961309646279
+av2,(4),previous frozen v4-lite + components (= v5.1-S by construction),previous frozen + components,0.05337129256082848,0.1473894101903829,0.2616765027764334
+av2,(5),support only + components,ablation,0.04053857156115057,0.1511539836111996,0.206655510768636
+av2,(5),field only + components,ablation,0.03740570698606282,-0.02589777809258528,0.0025227692656137955
+av2,(3),"oracle frame router (true V, top-k) @ v5.1-S px",router,0.05337948127241661,0.2939385755589072,0.4180085903707409
+av2,(3),"oracle frame router (true V, top-k) @ v5.1-S px + components",router + components,0.05337948127241661,0.2844952469591819,0.39542624875965104
+av2,(3) extra: matched to v5.1-L,"oracle frame router (true V, top-k) @ v5.1-L px",router,0.0707133459621463,0.28187173900579887,0.41883327814120475
+av2,(3) extra: matched to v5.1-L,"oracle frame router (true V, top-k) @ v5.1-L px + components",router + components,0.0707133459621463,0.27569611144327977,0.3927450463349026
+av2,(3),best Budget-Adaptive Routing (picked on val): cond_moric @ v5.1-S px,router,0.05371358070521185,0.0021710279057123093,0.023369657943445428
+av2,(3),best Budget-Adaptive Routing (picked on val): cond_moric @ v5.1-S px + components,router + components,0.05371358070521185,0.02071697150082533,0.032810087512341234
+av2,(3),best decision-value router (picked on val): cond_V @ v5.1-S px,router,0.05316329928649026,-0.00970686547820114,0.012649474903644337
+av2,(3),best decision-value router (picked on val): cond_V @ v5.1-S px + components,router + components,0.05316329928649026,0.01874382679797638,0.02731771675132548
+av2,(3) extra: matched to v5.1-L,best Budget-Adaptive Routing (picked on val): skip_offbin @ v5.1-L px,router,0.06975908810507757,-0.010770603289283531,0.0209527052521733
+av2,(3) extra: matched to v5.1-L,best Budget-Adaptive Routing (picked on val): skip_offbin @ v5.1-L px + components,router + components,0.06975908810507757,0.02650892592885442,0.0396321715430687
+av2,(3) extra: matched to v5.1-L,best decision-value router (picked on val): cond_V @ v5.1-L px,router,0.0718925204308354,-0.016276970359914263,0.02181558990823717
+av2,(3) extra: matched to v5.1-L,best decision-value router (picked on val): cond_V @ v5.1-L px + components,router + components,0.0718925204308354,0.030787391983154146,0.04570397073934252

@@ -1,0 +1,17 @@
+variant,dataset,pipeline,frames,gt_differences,action_differences
+jetson,av2,critical extent retention,512,0,6
+jetson,av2,objectwise median full,512,0,2
+jetson,av2,objectwise median skip,512,0,2
+jetson,av2,round1 combined,512,0,3
+jetson,av2,v6-S,512,0,1
+jetson,nusc,critical extent retention,512,0,2
+jetson,nusc,objectwise median full,512,0,3
+jetson,nusc,objectwise median skip,512,0,3
+jetson,nusc,round1 combined,512,0,2
+jetson,nusc,v6-S,512,0,2
+jetson_fast,av2,objectwise median full,512,0,2
+jetson_fast,av2,objectwise median skip,512,0,2
+jetson_fast,av2,round1 combined,512,0,3
+jetson_fast,nusc,objectwise median full,512,0,3
+jetson_fast,nusc,objectwise median skip,512,0,3
+jetson_fast,nusc,round1 combined,512,0,2

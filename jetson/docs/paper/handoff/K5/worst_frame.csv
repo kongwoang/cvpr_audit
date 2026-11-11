@@ -1,0 +1,5 @@
+dataset,which,unit,frame,n_crops,rounds,engine_calls,ms_ours,ms_ours_noref,network_px_ours,bd_draft_ms,bd_crop_prep_ms,bd_det_round_ms,bd_det_round_calls,bd_det_guard_ms,bd_det_guard_calls,bd_lift_ms,bd_refiner_ms,bd_field_support_merge_ms
+nusc,most_crops,scene-0031,10,22,2,25,196.4,183.27,1.71,7.9,11.11,17.45,5,70.9,16,2.66,13.13,73.24
+nusc,slowest,scene-0031,10,22,2,25,196.4,183.27,1.71,7.9,11.11,17.45,5,70.9,16,2.66,13.13,73.24
+av2,most_crops,04994d08-156c-3018-9717-ba0e29be8153,43,16,2,14,143.02,125.87,0.449,11.89,9.87,27.04,5,19.36,5,2.82,17.15,54.89
+av2,slowest,04994d08-156c-3018-9717-ba0e29be8153,72,12,2,14,163.73,145.48,0.896,12.04,7.44,34.88,4,38.76,7,4.13,18.25,48.23

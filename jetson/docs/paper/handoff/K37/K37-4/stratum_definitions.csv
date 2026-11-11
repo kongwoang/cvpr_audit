@@ -1,0 +1,4 @@
+dataset,stratum,cut_1_mps,cut_2_mps,speed_source,ties
+nusc,closing_speed_tercile,0.081218083699544,5.676316579182942,negative annotated longitudinal range derivative; missing when has_rate=False,equal cut assigned to lower bin; empty bins retained
+av2,closing_speed_tercile,0.5334978103637695,6.3478684425354,negative annotated longitudinal range derivative; missing when has_rate=False,equal cut assigned to lower bin; empty bins retained
+ahd,closing_speed_tercile,0.9527771671613054,5.088487466176351,negative annotated longitudinal range derivative; missing when has_rate=False,equal cut assigned to lower bin; empty bins retained

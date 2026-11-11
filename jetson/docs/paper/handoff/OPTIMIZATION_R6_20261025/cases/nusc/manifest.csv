@@ -1,0 +1,5 @@
+dataset,kind,unit,frame,gt_demand,r5_action,candidate,candidate_prefix,image_path,panel
+nusc,new_supported_action,scene-1049,31,6.572838017245082,0,2,v6S_r6_track_agree1_r5,/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/datasets/nuscenes/samples/CAM_FRONT/n015-2018-11-21-19-11-29+0800__CAM_FRONT__1542798827162460.jpg,00_new_supported_action.png
+nusc,new_false_action,scene-1016,37,0.0,0,2,v6S_r6_track_agree1_r5,/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/datasets/nuscenes/samples/CAM_FRONT/n015-2018-11-14-19-09-14+0800__CAM_FRONT__1542194053662460.jpg,01_new_false_action.png
+nusc,unresolved_hard_case,scene-0461,8,9.0,0,0,v6S_r6_track_agree1_r5,/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/datasets/nuscenes/samples/CAM_FRONT/n008-2018-09-18-12-53-31-0400__CAM_FRONT__1537289815262404.jpg,02_unresolved_hard_case.png
+nusc,low_score_episode_rescue,scene-1017,15,3.492510560280398,0,2,v6S_r6_res_low,/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/datasets/nuscenes/samples/CAM_FRONT/n015-2018-11-14-19-09-14+0800__CAM_FRONT__1542194062362460.jpg,03_low_score_episode_rescue.png

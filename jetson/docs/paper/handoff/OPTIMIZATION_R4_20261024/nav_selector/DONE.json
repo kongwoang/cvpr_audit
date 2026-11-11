@@ -1,0 +1,13 @@
+{
+  "status": "complete",
+  "host": "cuda13.ecs.vuw.ac.nz",
+  "tokens": 1000,
+  "units": 125,
+  "repetitions": 3,
+  "comparisons": 6000,
+  "exact_action_field_support_differences": 0,
+  "source_hashes_unchanged": true,
+  "started": 1792828409.5883226,
+  "finished": 1792828875.4188113,
+  "scope": "post-hoc runtime on frozen existing navtest subset; no detection rerun, quality selection, core edits or general PDM-Closed speedup claim"
+}

@@ -1,0 +1,277 @@
+{
+ "det": "yolov8m",
+ "seed": 2,
+ "variant": "a",
+ "epochs": 25,
+ "samples": {
+  "KITTI_train": 14605,
+  "KITTI_val": 4825,
+  "nuScenes_train": 67443,
+  "nuScenes_val": 0,
+  "AV2_train": 99467,
+  "AV2_val": 17891
+ },
+ "best": {
+  "val_range_abs_log_err": 0.05755966901779175,
+  "val_range_abs_log_err_lift": 0.26818737387657166,
+  "val_lat_mae_m": 1.0569830797160347,
+  "val_lat_mae_m_lift": 1.0540851408023577,
+  "val_valid_bce": 0.7115589467883876,
+  "val_valid_base_rate": 0.22637080096137724,
+  "epoch": 20,
+  "selection_score": 0.05755966901779175
+ },
+ "log": [
+  {
+   "val_range_abs_log_err": 0.07942042499780655,
+   "val_range_abs_log_err_lift": 0.26818737387657166,
+   "val_lat_mae_m": 1.0589472007890437,
+   "val_lat_mae_m_lift": 1.0540851408023577,
+   "val_valid_bce": 0.7066080075986468,
+   "val_valid_base_rate": 0.22637080096137724,
+   "epoch": 0,
+   "selection_score": 0.07942042499780655
+  },
+  {
+   "val_range_abs_log_err": 0.0676388218998909,
+   "val_range_abs_log_err_lift": 0.26818737387657166,
+   "val_lat_mae_m": 1.0582404748474807,
+   "val_lat_mae_m_lift": 1.0540851408023577,
+   "val_valid_bce": 0.7184417763361889,
+   "val_valid_base_rate": 0.22637080096137724,
+   "epoch": 1,
+   "selection_score": 0.0676388218998909
+  },
+  {
+   "val_range_abs_log_err": 0.07096970081329346,
+   "val_range_abs_log_err_lift": 0.26818737387657166,
+   "val_lat_mae_m": 1.0581718262607953,
+   "val_lat_mae_m_lift": 1.0540851408023577,
+   "val_valid_bce": 0.7149768441800574,
+   "val_valid_base_rate": 0.22637080096137724,
+   "epoch": 2,
+   "selection_score": 0.07096970081329346
+  },
+  {
+   "val_range_abs_log_err": 0.08888621628284454,
+   "val_range_abs_log_err_lift": 0.26818737387657166,
+   "val_lat_mae_m": 1.0560165854933965,
+   "val_lat_mae_m_lift": 1.0540851408023577,
+   "val_valid_bce": 0.7331080442138,
+   "val_valid_base_rate": 0.22637080096137724,
+   "epoch": 3,
+   "selection_score": 0.08888621628284454
+  },
+  {
+   "val_range_abs_log_err": 0.06804084777832031,
+   "val_range_abs_log_err_lift": 0.26818737387657166,
+   "val_lat_mae_m": 1.0571293009441107,
+   "val_lat_mae_m_lift": 1.0540851408023577,
+   "val_valid_bce": 0.7176264760466381,
+   "val_valid_base_rate": 0.22637080096137724,
+   "epoch": 4,
+   "selection_score": 0.06804084777832031
+  },
+  {
+   "val_range_abs_log_err": 0.06441999971866608,
+   "val_range_abs_log_err_lift": 0.26818737387657166,
+   "val_lat_mae_m": 1.0564348173849072,
+   "val_lat_mae_m_lift": 1.0540851408023577,
+   "val_valid_bce": 0.7141145108417897,
+   "val_valid_base_rate": 0.22637080096137724,
+   "epoch": 5,
+   "selection_score": 0.06441999971866608
+  },
+  {
+   "val_range_abs_log_err": 0.06651525944471359,
+   "val_range_abs_log_err_lift": 0.26818737387657166,
+   "val_lat_mae_m": 1.0597721234101611,
+   "val_lat_mae_m_lift": 1.0540851408023577,
+   "val_valid_bce": 0.7130362827904061,
+   "val_valid_base_rate": 0.22637080096137724,
+   "epoch": 6,
+   "selection_score": 0.06651525944471359
+  },
+  {
+   "val_range_abs_log_err": 0.061650991439819336,
+   "val_range_abs_log_err_lift": 0.26818737387657166,
+   "val_lat_mae_m": 1.0602912051327338,
+   "val_lat_mae_m_lift": 1.0540851408023577,
+   "val_valid_bce": 0.7100222581095602,
+   "val_valid_base_rate": 0.22637080096137724,
+   "epoch": 7,
+   "selection_score": 0.061650991439819336
+  },
+  {
+   "val_range_abs_log_err": 0.06328129023313522,
+   "val_range_abs_log_err_lift": 0.26818737387657166,
+   "val_lat_mae_m": 1.0590358669420925,
+   "val_lat_mae_m_lift": 1.0540851408023577,
+   "val_valid_bce": 0.7121987485691058,
+   "val_valid_base_rate": 0.22637080096137724,
+   "epoch": 8,
+   "selection_score": 0.06328129023313522
+  },
+  {
+   "val_range_abs_log_err": 0.0602281428873539,
+   "val_range_abs_log_err_lift": 0.26818737387657166,
+   "val_lat_mae_m": 1.0574352602352854,
+   "val_lat_mae_m_lift": 1.0540851408023577,
+   "val_valid_bce": 0.7096531439201313,
+   "val_valid_base_rate": 0.22637080096137724,
+   "epoch": 9,
+   "selection_score": 0.0602281428873539
+  },
+  {
+   "val_range_abs_log_err": 0.06107867881655693,
+   "val_range_abs_log_err_lift": 0.26818737387657166,
+   "val_lat_mae_m": 1.056058271469066,
+   "val_lat_mae_m_lift": 1.0540851408023577,
+   "val_valid_bce": 0.7108606737506615,
+   "val_valid_base_rate": 0.22637080096137724,
+   "epoch": 10,
+   "selection_score": 0.06107867881655693
+  },
+  {
+   "val_range_abs_log_err": 0.059044256806373596,
+   "val_range_abs_log_err_lift": 0.26818737387657166,
+   "val_lat_mae_m": 1.0596604575154123,
+   "val_lat_mae_m_lift": 1.0540851408023577,
+   "val_valid_bce": 0.7101820586785923,
+   "val_valid_base_rate": 0.22637080096137724,
+   "epoch": 11,
+   "selection_score": 0.059044256806373596
+  },
+  {
+   "val_range_abs_log_err": 0.06095258146524429,
+   "val_range_abs_log_err_lift": 0.26818737387657166,
+   "val_lat_mae_m": 1.058369358089036,
+   "val_lat_mae_m_lift": 1.0540851408023577,
+   "val_valid_bce": 0.7102744409206574,
+   "val_valid_base_rate": 0.22637080096137724,
+   "epoch": 12,
+   "selection_score": 0.06095258146524429
+  },
+  {
+   "val_range_abs_log_err": 0.059369418770074844,
+   "val_range_abs_log_err_lift": 0.26818737387657166,
+   "val_lat_mae_m": 1.059181653465533,
+   "val_lat_mae_m_lift": 1.0540851408023577,
+   "val_valid_bce": 0.7100744639725771,
+   "val_valid_base_rate": 0.22637080096137724,
+   "epoch": 13,
+   "selection_score": 0.059369418770074844
+  },
+  {
+   "val_range_abs_log_err": 0.05996151268482208,
+   "val_range_abs_log_err_lift": 0.26818737387657166,
+   "val_lat_mae_m": 1.0580696924673534,
+   "val_lat_mae_m_lift": 1.0540851408023577,
+   "val_valid_bce": 0.7104932356524392,
+   "val_valid_base_rate": 0.22637080096137724,
+   "epoch": 14,
+   "selection_score": 0.05996151268482208
+  },
+  {
+   "val_range_abs_log_err": 0.059189870953559875,
+   "val_range_abs_log_err_lift": 0.26818737387657166,
+   "val_lat_mae_m": 1.057614890434324,
+   "val_lat_mae_m_lift": 1.0540851408023577,
+   "val_valid_bce": 0.7115919484886141,
+   "val_valid_base_rate": 0.22637080096137724,
+   "epoch": 15,
+   "selection_score": 0.059189870953559875
+  },
+  {
+   "val_range_abs_log_err": 0.058260828256607056,
+   "val_range_abs_log_err_lift": 0.26818737387657166,
+   "val_lat_mae_m": 1.0560128349975733,
+   "val_lat_mae_m_lift": 1.0540851408023577,
+   "val_valid_bce": 0.711281138096159,
+   "val_valid_base_rate": 0.22637080096137724,
+   "epoch": 16,
+   "selection_score": 0.058260828256607056
+  },
+  {
+   "val_range_abs_log_err": 0.05870248004794121,
+   "val_range_abs_log_err_lift": 0.26818737387657166,
+   "val_lat_mae_m": 1.0568348131849974,
+   "val_lat_mae_m_lift": 1.0540851408023577,
+   "val_valid_bce": 0.7131605198188636,
+   "val_valid_base_rate": 0.22637080096137724,
+   "epoch": 17,
+   "selection_score": 0.05870248004794121
+  },
+  {
+   "val_range_abs_log_err": 0.058745551854372025,
+   "val_range_abs_log_err_lift": 0.26818737387657166,
+   "val_lat_mae_m": 1.0571245198321242,
+   "val_lat_mae_m_lift": 1.0540851408023577,
+   "val_valid_bce": 0.7110748809803579,
+   "val_valid_base_rate": 0.22637080096137724,
+   "epoch": 18,
+   "selection_score": 0.058745551854372025
+  },
+  {
+   "val_range_abs_log_err": 0.05781642720103264,
+   "val_range_abs_log_err_lift": 0.26818737387657166,
+   "val_lat_mae_m": 1.0573248505210315,
+   "val_lat_mae_m_lift": 1.0540851408023577,
+   "val_valid_bce": 0.712584500839922,
+   "val_valid_base_rate": 0.22637080096137724,
+   "epoch": 19,
+   "selection_score": 0.05781642720103264
+  },
+  {
+   "val_range_abs_log_err": 0.05755966901779175,
+   "val_range_abs_log_err_lift": 0.26818737387657166,
+   "val_lat_mae_m": 1.0569830797160347,
+   "val_lat_mae_m_lift": 1.0540851408023577,
+   "val_valid_bce": 0.7115589467883876,
+   "val_valid_base_rate": 0.22637080096137724,
+   "epoch": 20,
+   "selection_score": 0.05755966901779175
+  },
+  {
+   "val_range_abs_log_err": 0.058065783232450485,
+   "val_range_abs_log_err_lift": 0.26818737387657166,
+   "val_lat_mae_m": 1.0566933636858429,
+   "val_lat_mae_m_lift": 1.0540851408023577,
+   "val_valid_bce": 0.7120644369281149,
+   "val_valid_base_rate": 0.22637080096137724,
+   "epoch": 21,
+   "selection_score": 0.058065783232450485
+  },
+  {
+   "val_range_abs_log_err": 0.05786581337451935,
+   "val_range_abs_log_err_lift": 0.26818737387657166,
+   "val_lat_mae_m": 1.0569544500870587,
+   "val_lat_mae_m_lift": 1.0540851408023577,
+   "val_valid_bce": 0.7116237326063056,
+   "val_valid_base_rate": 0.22637080096137724,
+   "epoch": 22,
+   "selection_score": 0.05786581337451935
+  },
+  {
+   "val_range_abs_log_err": 0.058059487491846085,
+   "val_range_abs_log_err_lift": 0.26818737387657166,
+   "val_lat_mae_m": 1.0571605245327789,
+   "val_lat_mae_m_lift": 1.0540851408023577,
+   "val_valid_bce": 0.7146327673246166,
+   "val_valid_base_rate": 0.22637080096137724,
+   "epoch": 23,
+   "selection_score": 0.058059487491846085
+  },
+  {
+   "val_range_abs_log_err": 0.05770538002252579,
+   "val_range_abs_log_err_lift": 0.26818737387657166,
+   "val_lat_mae_m": 1.057221920709975,
+   "val_lat_mae_m_lift": 1.0540851408023577,
+   "val_valid_bce": 0.7115376896318771,
+   "val_valid_base_rate": 0.22637080096137724,
+   "epoch": 24,
+   "selection_score": 0.05770538002252579
+  }
+ ],
+ "md5": "c88c9742c85694ac9f64e2a3346a7d74"
+}

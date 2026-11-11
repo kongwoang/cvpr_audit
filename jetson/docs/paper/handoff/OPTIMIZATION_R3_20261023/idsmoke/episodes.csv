@@ -1,0 +1,49 @@
+dataset,unit,pipeline,episode,start_frame,end_frame,frames,severity,peak_demand,missed,delay_s,insufficient_loss
+nusc,scene-0150,cheap,0,28,30,3,below_hard,1.7391240411495077,False,0.0,3.0245524305041944
+nusc,scene-0366,cheap,0,10,10,1,below_hard,1.4345231283303812,False,0.0,0.0
+nusc,scene-0366,cheap,1,19,21,3,below_hard,1.9371726828468576,False,0.0,5.8281694574790475
+nusc,scene-0461,cheap,0,7,10,4,at_or_above_hard,9.0,True,2.0,103.48473728154426
+nusc,scene-0150,v6-S / none,0,28,30,3,below_hard,1.7391240411495077,True,1.5,6.604477147768402
+nusc,scene-0366,v6-S / none,0,10,10,1,below_hard,1.4345231283303812,True,0.5,2.0578566057147833
+nusc,scene-0366,v6-S / none,1,19,21,3,below_hard,1.9371726828468576,True,1.5,6.897942044910133
+nusc,scene-0461,v6-S / none,0,7,10,4,at_or_above_hard,9.0,True,2.0,103.48473728154426
+nusc,scene-0150,v6-S,0,28,30,3,below_hard,1.7391240411495077,True,1.5,6.604477147768402
+nusc,scene-0366,v6-S,0,10,10,1,below_hard,1.4345231283303812,True,0.5,2.0578566057147833
+nusc,scene-0366,v6-S,1,19,21,3,below_hard,1.9371726828468576,True,1.5,6.897942044910133
+nusc,scene-0461,v6-S,0,7,10,4,at_or_above_hard,9.0,True,2.0,103.48473728154426
+nusc,scene-0150,round1 combined / none,0,28,30,3,below_hard,1.7391240411495077,True,1.5,6.604477147768402
+nusc,scene-0366,round1 combined / none,0,10,10,1,below_hard,1.4345231283303812,True,0.5,2.0578566057147833
+nusc,scene-0366,round1 combined / none,1,19,21,3,below_hard,1.9371726828468576,False,0.0,5.8281694574790475
+nusc,scene-0461,round1 combined / none,0,7,10,4,at_or_above_hard,9.0,True,2.0,103.48473728154426
+nusc,scene-0150,round1 combined,0,28,30,3,below_hard,1.7391240411495077,True,1.5,6.604477147768402
+nusc,scene-0366,round1 combined,0,10,10,1,below_hard,1.4345231283303812,True,0.5,2.0578566057147833
+nusc,scene-0366,round1 combined,1,19,21,3,below_hard,1.9371726828468576,False,0.0,5.8281694574790475
+nusc,scene-0461,round1 combined,0,7,10,4,at_or_above_hard,9.0,True,2.0,103.48473728154426
+nusc,scene-0150,round1 combined / half,0,28,30,3,below_hard,1.7391240411495077,True,1.5,6.604477147768402
+nusc,scene-0366,round1 combined / half,0,10,10,1,below_hard,1.4345231283303812,True,0.5,2.0578566057147833
+nusc,scene-0366,round1 combined / half,1,19,21,3,below_hard,1.9371726828468576,False,0.0,5.8281694574790475
+nusc,scene-0461,round1 combined / half,0,7,10,4,at_or_above_hard,9.0,True,2.0,103.48473728154426
+nusc,scene-0150,round1 combined / speed,0,28,30,3,below_hard,1.7391240411495077,True,1.5,6.604477147768402
+nusc,scene-0366,round1 combined / speed,0,10,10,1,below_hard,1.4345231283303812,True,0.5,2.0578566057147833
+nusc,scene-0366,round1 combined / speed,1,19,21,3,below_hard,1.9371726828468576,False,0.0,5.8281694574790475
+nusc,scene-0461,round1 combined / speed,0,7,10,4,at_or_above_hard,9.0,True,2.0,103.48473728154426
+nusc,scene-0150,round1 combined / speedhalf,0,28,30,3,below_hard,1.7391240411495077,True,1.5,6.604477147768402
+nusc,scene-0366,round1 combined / speedhalf,0,10,10,1,below_hard,1.4345231283303812,True,0.5,2.0578566057147833
+nusc,scene-0366,round1 combined / speedhalf,1,19,21,3,below_hard,1.9371726828468576,False,0.0,5.8281694574790475
+nusc,scene-0461,round1 combined / speedhalf,0,7,10,4,at_or_above_hard,9.0,True,2.0,103.48473728154426
+nusc,scene-0150,upper-quantile missing history / none,0,28,30,3,below_hard,1.7391240411495077,True,1.5,6.604477147768402
+nusc,scene-0366,upper-quantile missing history / none,0,10,10,1,below_hard,1.4345231283303812,False,0.0,0.0
+nusc,scene-0366,upper-quantile missing history / none,1,19,21,3,below_hard,1.9371726828468576,False,0.0,5.8281694574790475
+nusc,scene-0461,upper-quantile missing history / none,0,7,10,4,at_or_above_hard,9.0,False,0.0,87.29187622057601
+nusc,scene-0150,upper-quantile missing history,0,28,30,3,below_hard,1.7391240411495077,True,1.5,6.604477147768402
+nusc,scene-0366,upper-quantile missing history,0,10,10,1,below_hard,1.4345231283303812,False,0.0,0.0
+nusc,scene-0366,upper-quantile missing history,1,19,21,3,below_hard,1.9371726828468576,False,0.0,5.8281694574790475
+nusc,scene-0461,upper-quantile missing history,0,7,10,4,at_or_above_hard,9.0,False,0.0,87.29187622057601
+nusc,scene-0150,identity gate + uncertain fallback / none,0,28,30,3,below_hard,1.7391240411495077,True,1.5,6.604477147768402
+nusc,scene-0366,identity gate + uncertain fallback / none,0,10,10,1,below_hard,1.4345231283303812,False,0.0,0.0
+nusc,scene-0366,identity gate + uncertain fallback / none,1,19,21,3,below_hard,1.9371726828468576,False,0.0,5.8281694574790475
+nusc,scene-0461,identity gate + uncertain fallback / none,0,7,10,4,at_or_above_hard,9.0,False,0.0,87.29187622057601
+nusc,scene-0150,identity gate + uncertain fallback,0,28,30,3,below_hard,1.7391240411495077,True,1.5,6.604477147768402
+nusc,scene-0366,identity gate + uncertain fallback,0,10,10,1,below_hard,1.4345231283303812,False,0.0,0.0
+nusc,scene-0366,identity gate + uncertain fallback,1,19,21,3,below_hard,1.9371726828468576,False,0.0,5.8281694574790475
+nusc,scene-0461,identity gate + uncertain fallback,0,7,10,4,at_or_above_hard,9.0,False,0.0,87.29187622057601

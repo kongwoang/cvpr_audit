@@ -1,0 +1,21 @@
+dataset,pipeline,rescued,newly_missed
+av2,v6-S,0,0
+nusc,v6-S,0,0
+av2,cheap,36,7
+nusc,cheap,12,6
+av2,no refiner,15,0
+nusc,no refiner,1,0
+av2,round1 recovery,10,0
+nusc,round1 recovery,2,0
+av2,camera anchored,0,1
+nusc,camera anchored,0,0
+av2,median correction 3,2,2
+nusc,median correction 3,0,0
+av2,half log correction,7,0
+nusc,half log correction,1,0
+av2,looming height 3,2,0
+nusc,looming height 3,0,0
+av2,looming width-height 3,2,0
+nusc,looming width-height 3,0,0
+av2,looming width-height 2 missing,2,0
+nusc,looming width-height 2 missing,1,0

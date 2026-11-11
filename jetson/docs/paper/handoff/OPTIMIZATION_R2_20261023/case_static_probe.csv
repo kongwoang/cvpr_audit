@@ -1,0 +1,10 @@
+case_id,frame,ego_mps,gt_demand,gt_z,gt_ttc,zero_closing_probe_demand_at_same_range,zero_closing_probe_reaches_decel,caveat
+01_nusc_decisive_verified_missing_chain,29,5.7737699288863435,1.4655512130978219,46.98895263671875,4.091921806335449,0.39054420590400696,False,range-only probe; excludes footprint width/grid/projection/occlusion
+02_nusc_decisive_not_found,10,1.0714990442963763,1.4345231283303812,69.97471618652344,5.010703086853027,0.008498712442815304,False,range-only probe; excludes footprint width/grid/projection/occlusion
+03_nusc_correctly_removed_cheap_false_alarm,31,8.122825399540071,0.90893399863426,41.5445556640625,13.563981056213379,0.9089339971542358,False,range-only probe; excludes footprint width/grid/projection/occlusion
+04_av2_refiner_turns_braking_to_keep,75,9.805716510945048,1.008677906804193,72.81158447265625,6.091960430145264,0.7187403440475464,False,range-only probe; excludes footprint width/grid/projection/occlusion
+05_av2_decisive_verified_missing_chain,44,0.9236840136229275,1.0509656676307555,35.187381744384766,4.2129974365234375,0.012998879887163639,False,range-only probe; excludes footprint width/grid/projection/occlusion
+06_av2_decisive_not_found,39,4.3888058013636515,1.2583924835664888,13.322254180908203,2.495676040649414,1.0066978931427002,True,range-only probe; excludes footprint width/grid/projection/occlusion
+07_av2_correctly_removed_cheap_false_alarm,30,6.776964038443995,0.9038644385217427,30.116830825805664,inf,0.9038644433021545,False,range-only probe; excludes footprint width/grid/projection/occlusion
+08_nusc_high_demand_remaining_miss,8,5.58696464445332,9.0,18.888647079467773,1.0588105916976929,1.0650495290756226,True,range-only probe; excludes footprint width/grid/projection/occlusion
+09_av2_high_demand_remaining_miss,4,4.386399164006874,9.0,4.312020301818848,1.0256708860397339,9.0,True,range-only probe; excludes footprint width/grid/projection/occlusion

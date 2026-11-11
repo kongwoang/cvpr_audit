@@ -1,0 +1,11 @@
+{
+  "remote/A_navsim/k41_selector_metrics.py": {
+    "sha256": "d25cd19adcb288bea8deb4ae590c429d427dce2bf982137fb9747c76d9214bb1"
+  },
+  "remote/A_navsim/k41_selector_checks.py": {
+    "sha256": "b5d4c6d91f71c5e41ee108c9512775ba77f954c10a9454b6f5bba55509d1052e"
+  },
+  "remote/A_navsim/k41_selector_summary.py": {
+    "sha256": "84cba0830515e2d1cd6ebc18f133e92c7bef540869741ebffe0928bfcd4ec631"
+  }
+}

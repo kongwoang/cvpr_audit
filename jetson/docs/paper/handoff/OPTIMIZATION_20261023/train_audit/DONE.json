@@ -1,0 +1,38 @@
+{
+  "status": "PASS",
+  "development_overlap_rows": 0,
+  "unmapped_rows": 0,
+  "norms": [
+    {
+      "component": "C1",
+      "fmu_max_abs": 0.0,
+      "fsd_max_abs": 0.0,
+      "norms_match": true
+    },
+    {
+      "component": "refiner",
+      "fmu_max_abs": 0.0,
+      "fsd_max_abs": 0.0,
+      "norms_match": true
+    }
+  ],
+  "c1_sample_counts": {
+    "av2_train": 69241,
+    "av2_val": 12364,
+    "nusc_train": 13028,
+    "nusc_val": 2332
+  },
+  "refiner_sample_counts": {
+    "KITTI_train": 14605,
+    "KITTI_val": 4825,
+    "nuScenes_train": 62527,
+    "nuScenes_val": 0,
+    "AV2_train": 96918,
+    "AV2_val": 17318
+  },
+  "checkpoints": {
+    "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/out/k28_temporal/temporal_head.pt": "b9ebd4cc18d78e2ee9f3ad5bbbd01e43951ffeb02d126d3460df4feaa098916d",
+    "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/out/resnet18_v3a/image_refiner.pt": "46bb704a6a83068116bc7443724931d56d6d4d098cea247ef55bb3ebc64fbaa9"
+  },
+  "limitation": "Available training-array unit IDs, source loading recipe, report counts and checkpoint feature norms agree; original per-NPZ training-time hashes are unavailable."
+}

@@ -1,0 +1,13 @@
+{
+  "status": "complete",
+  "dataset": "nusc",
+  "pid": 1804560,
+  "host": "cuda13.ecs.vuw.ac.nz",
+  "started": 1792755844.7805274,
+  "completed_files": 6,
+  "samples": 2332,
+  "units": 45,
+  "mae": 0.07565222778415928,
+  "expected_mae": 0.07565238326787949,
+  "finished": 1792755857.851864
+}

@@ -1,0 +1,7 @@
+# R4 simple-readout runtime check
+
+Five rows: frozen v6-S, round1 B2K-A+recovery, R3 extent persistence, objectwise median with all original final refinements, the same median skipping refinements whose vote cannot change the final action. No new network, training or engine. The acquisition/history is round1 for both median rows. The existing original refiner remains the fallback on unmatched full objects.
+
+Median skip is exact in ACTION, not in the continuous median demand or geometry. For a matched full object, cheap and raw actions equal => any refined third vote has the same median action. If an agreed HARD object exists, the global max action is fixed and all refinements can be skipped. Otherwise refine the original support minus agreed objects, then compute the same objectwise median. This does NOT preserve original v6-S decisions; it preserves the new median policy. Check every decision against full median, including warm-up and all repetitions; report any mismatch, do not silently accept it.
+
+Same corrected development prefixes as R3: 200 warm-up + 512 timed frames/dataset, three repetitions, rotated order, independent histories, trt32, AV2 hood mask. Compare frozen v6-S, round1, extent baseline actions/cost/pixels with a fresh original R3 implementation on 80 frames/dataset before timing. All new policy rows reported even if speed is negative. Cross-VUW backend differences reported separately. Hardware exclusive via owned pause, MAXN/locked clocks/fan255, restore in finally. No main edits, no promotion.

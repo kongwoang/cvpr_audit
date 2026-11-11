@@ -1,0 +1,14 @@
+run,dataset,config,wf_det,wf,bounds,mask_y0,completed,frames_matched,identical_cost_ours,identical_cost_cheap,G_ours_timed,G_ref_same_frames
+20261014_042553_k28_v6_latency_nusc_v6S_final,nusc,v6S,yolov8s,"u448,u512,u640,u960,u1280,native","2,3",0.0,False,,,,,
+20261014_052733_k28_v6_latency_nusc_v6S_final_a,nusc,v6S,yolov8s,"u448,u512,u640","2,3",0.0,True,,,,,
+20261014_053441_k28_v6_latency_nusc_v6S_final_b,nusc,v6S,yolov8s,"u960,u1280,native",,0.0,True,,,,,
+20261014_054257_k28_v6_latency_nusc_v6M_final,nusc,v6M,yolov8m,"u448,u640",2,0.0,True,,,,,
+20261014_054918_k28_v6_latency_nusc_v6L_final,nusc,v6L,yolo11m,"u448,u640",2,0.0,True,,,,,
+20261014_055538_k28_v6_latency_nusc_v51S_final,nusc,v51S,yolov8s,none,2,0.0,True,,,,,
+20261014_055947_k28_v6_latency_av2_v6S_final_a,av2,v6S,yolov8s,"u512,u640,u960","2,3",1830.0,True,586.0,0.9573378839590444,0.9334470989761092,0.4194535605571098,0.4185078053233045
+20261014_061038_k28_v6_latency_av2_v6S_final_b,av2,v6S,yolov8s,"u1280,u1536,native",,1830.0,True,586.0,0.9573378839590444,0.9334470989761092,0.4194535605571098,0.4185078053233045
+20261014_062133_k28_v6_latency_av2_v6M_final,av2,v6M,yolov8s,none,2,1830.0,True,586.0,0.962457337883959,0.9334470989761092,0.4239459137952579,0.420261376836523
+20261014_062500_k28_v6_latency_av2_v6L_final,av2,v6L,yolov8s,none,2,1830.0,True,586.0,0.955631399317406,0.9334470989761092,0.4427806822438765,0.4346960886293071
+20261014_062831_k28_v6_latency_av2_v51S_final,av2,v51S,yolov8s,none,2,1830.0,True,586.0,0.9419795221843004,0.9334470989761092,0.3972122813513636,0.4106123076506782
+20261014_063105_k28_v6_latency_kitti_v6S_final,kitti,v6S,yolov8s,,2,0.0,True,,,,,
+20261014_065057_k28_v6_latency_ahd_v6S_final,ahd,v6S,yolov8s,none,,0.0,True,,,,,

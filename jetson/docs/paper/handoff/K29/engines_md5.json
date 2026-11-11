@@ -1,0 +1,20 @@
+{
+ "c1enc_fp16_b1.engine": "6fc02be8",
+ "c1enc_fp16_b16.engine": "a285917b",
+ "c1enc_fp16_b2.engine": "0fe333c0",
+ "c1enc_fp16_b32.engine": "81808626",
+ "c1enc_fp16_b4.engine": "4bdb196a",
+ "c1enc_fp16_b8.engine": "db2a89ad",
+ "c1enc_fp32_b1.engine": "f05cffd9",
+ "c1enc_fp32_b16.engine": "303181c3",
+ "c1enc_fp32_b2.engine": "05129cd2",
+ "c1enc_fp32_b32.engine": "a56bcf1c",
+ "c1enc_fp32_b4.engine": "6050740c",
+ "c1enc_fp32_b8.engine": "b196d2da",
+ "k28_temporal_head.pt": "1b1e25d1",
+ "refiner_own_yolo11m_vuw_dyn.engine": "c1a5ec91",
+ "refiner_own_yolov8m_vuw_dyn.engine": "2d3a9977",
+ "refiner_v1_vuw_dyn.engine": "9e960f9d",
+ "refiner_v2_vuw_dyn.engine": "e1dba6f5",
+ "refiner_v3a_vuw_dyn.engine": "94a412fd"
+}

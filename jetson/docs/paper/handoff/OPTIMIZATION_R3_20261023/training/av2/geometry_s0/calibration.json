@@ -1,0 +1,70 @@
+{
+  "global_delta": 0.06721079,
+  "groups": {
+    "bridge/1": {
+      "n": 2525,
+      "delta": 0.031877165,
+      "pooled": false
+    },
+    "bridge/2": {
+      "n": 404,
+      "delta": 0.06558761,
+      "pooled": false
+    },
+    "bridge/3": {
+      "n": 2785,
+      "delta": 0.08022800000000002,
+      "pooled": false
+    },
+    "cheap/1": {
+      "n": 1027,
+      "delta": 0.04316034000000002,
+      "pooled": false
+    },
+    "cheap/2": {
+      "n": 520,
+      "delta": 0.060855370000000006,
+      "pooled": false
+    },
+    "cheap/3": {
+      "n": 5238,
+      "delta": 0.079017371,
+      "pooled": false
+    },
+    "crop/1": {
+      "n": 1086,
+      "delta": 0.03982286,
+      "pooled": false
+    },
+    "crop/2": {
+      "n": 583,
+      "delta": 0.059484340000000024,
+      "pooled": false
+    },
+    "crop/3": {
+      "n": 4045,
+      "delta": 0.06912183000000001,
+      "pooled": false
+    },
+    "u960/1": {
+      "n": 1210,
+      "delta": 0.042814569999999996,
+      "pooled": false
+    },
+    "u960/2": {
+      "n": 600,
+      "delta": 0.05968872000000003,
+      "pooled": false
+    },
+    "u960/3": {
+      "n": 8154,
+      "delta": 0.07524266,
+      "pooled": false
+    }
+  },
+  "dataset": "av2",
+  "objective": "geometry",
+  "coverage_target": 0.8,
+  "validation_sha256": "60def17136380e95e298c849d0f616e9166580e40e0103b76c5edea200160d04",
+  "scope": "original training holdouts only; no finite-sample coverage claim after model selection"
+}

@@ -1,0 +1,3 @@
+# Changed-episode case timelines
+
+Illustrative severe and unsupported rescues, chosen by deterministic rules in selection.json. All changed episodes remain available in stage attribution CSVs. Commands are0/2.5/6 m/s²; required demand is the frozen benchmark consumer. A binary DECELERATE-episode rescue may still miss the peak frame or under-brake severely. A missing decisive-object match cannot establish that the correct hazard was recovered. Query v3a decisive estimates are independently replayed and action-checked on episode frames; outside that replay range the estimate is omitted. These are offline records, not closed-loop stopping trajectories.

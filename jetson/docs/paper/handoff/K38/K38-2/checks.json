@@ -1,0 +1,32 @@
+{
+ "nusc_v6S_vs_K28": {
+  "a_cheap": 0,
+  "J_cheap": 0,
+  "a_v6S|none": 0,
+  "a_v6S|v3a": 0,
+  "J_v6S|v3a": 0,
+  "px_v6S": 0,
+  "a_wf960+C1|none": 0
+ },
+ "nusc_coverage_v6S_vs_K34": 0,
+ "av2_v6S_vs_K28": {
+  "a_cheap": 0,
+  "J_cheap": 0,
+  "a_v6S|none": 0,
+  "a_v6S|v3a": 0,
+  "J_v6S|v3a": 0,
+  "px_v6S": 0,
+  "a_wf960+C1|none": 0
+ },
+ "av2_coverage_v6S_vs_K34": 0,
+ "ahd_v6S_vs_K28": {
+  "a_cheap": 0,
+  "J_cheap": 0,
+  "a_v6S|none": 0,
+  "a_v6S|v3a": 0,
+  "J_v6S|v3a": 0,
+  "px_v6S": 0,
+  "a_wf960+C1|none": 0
+ },
+ "ahd_coverage_v6S_vs_K34": 0
+}

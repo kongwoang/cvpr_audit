@@ -1,0 +1,112 @@
+{
+  "status": "complete",
+  "pid": 401113,
+  "runs": [
+    {
+      "dataset": "nusc_val",
+      "encoder": "trt32",
+      "rep": 1,
+      "smoke": true,
+      "old": true,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261024_002943_verified_cfg_fast_timing_nusc_val_v6S_smoke_old"
+    },
+    {
+      "dataset": "nusc_val",
+      "encoder": "trt32",
+      "rep": 1,
+      "smoke": true,
+      "old": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261024_003016_r3_point_trt32_timing_nusc_val_v6S_smoke_trt32"
+    },
+    {
+      "dataset": "nusc_val",
+      "encoder": "t32",
+      "rep": 1,
+      "smoke": true,
+      "old": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261024_003045_r3_point_t32_timing_nusc_val_v6S_smoke_t32"
+    },
+    {
+      "dataset": "av2_dev",
+      "encoder": "trt32",
+      "rep": 1,
+      "smoke": true,
+      "old": true,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261024_003122_verified_cfg_fast_timing_av2_dev_v6S_smoke_old"
+    },
+    {
+      "dataset": "av2_dev",
+      "encoder": "trt32",
+      "rep": 1,
+      "smoke": true,
+      "old": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261024_003207_r3_point_trt32_timing_av2_dev_v6S_smoke_trt32"
+    },
+    {
+      "dataset": "av2_dev",
+      "encoder": "t32",
+      "rep": 1,
+      "smoke": true,
+      "old": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261024_003251_r3_point_t32_timing_av2_dev_v6S_smoke_t32"
+    },
+    {
+      "dataset": "nusc_val",
+      "encoder": "trt32",
+      "rep": 1,
+      "smoke": false,
+      "old": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261024_003341_r3_point_trt32_timing_nusc_val_v6S_r1_trt32"
+    },
+    {
+      "dataset": "av2_dev",
+      "encoder": "trt32",
+      "rep": 1,
+      "smoke": false,
+      "old": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261024_003509_r3_point_trt32_timing_av2_dev_v6S_r1_trt32"
+    },
+    {
+      "dataset": "nusc_val",
+      "encoder": "trt32",
+      "rep": 2,
+      "smoke": false,
+      "old": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261024_003751_r3_point_trt32_timing_nusc_val_v6S_r2_trt32"
+    },
+    {
+      "dataset": "av2_dev",
+      "encoder": "trt32",
+      "rep": 2,
+      "smoke": false,
+      "old": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261024_003919_r3_point_trt32_timing_av2_dev_v6S_r2_trt32"
+    },
+    {
+      "dataset": "nusc_val",
+      "encoder": "trt32",
+      "rep": 3,
+      "smoke": false,
+      "old": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261024_004200_r3_point_trt32_timing_nusc_val_v6S_r3_trt32"
+    },
+    {
+      "dataset": "av2_dev",
+      "encoder": "trt32",
+      "rep": 3,
+      "smoke": false,
+      "old": false,
+      "run": "/home/kongwoang/research/CVPR/results/raw/20261024_004328_r3_point_trt32_timing_av2_dev_v6S_r3_trt32"
+    }
+  ],
+  "started": "2026-10-24T00:29:32.763715+07:00",
+  "dataset": "av2_dev",
+  "encoder": "trt32",
+  "rep": 3,
+  "updated": "2026-10-24T00:46:06.847181+07:00",
+  "child_pid": 402806,
+  "current_log": "r3_trt32_av2_dev.log",
+  "source_engine_hashes_unchanged": true,
+  "window_released": true,
+  "restore_errors": []
+}

@@ -1,0 +1,31 @@
+{
+  "decisions": [
+    {
+      "dataset": "nusc_val",
+      "p95_reduction_percent": -0.4595816829395947,
+      "p95_delta_hi_ms": 1.3783968073494255,
+      "wholeframe_significant_slowdown": false,
+      "promising": false
+    },
+    {
+      "dataset": "av2_dev",
+      "p95_reduction_percent": 0.29592994093388775,
+      "p95_delta_hi_ms": 0.6978290039114654,
+      "wholeframe_significant_slowdown": false,
+      "promising": false
+    }
+  ],
+  "script_md5": "caadda3a5b0c2d03ef6127643bd43488",
+  "window_status": "recovered_complete",
+  "recovery": {
+    "time": "2026-10-31T01:44:56.434130+07:00",
+    "reason": "Original wrapper exit unobserved; machine restarted after all 20 result directories wrote DONE.json. Original state.json preserved.",
+    "last_profile_exit_code": null,
+    "original_restore_observed": false,
+    "controls_restored_during_recovery": true,
+    "validation": "20 DONE markers and artifact hashes; source, engine and 88 protected hashes unchanged. DataFrame/endpoint checks performed separately by CPU analysis."
+  },
+  "statistic": "paired 2000 unit bootstrap seed0; candidate minus baseline; all repetitions nested in unit",
+  "multiplicity": "exploratory pilot intervals; no confirmatory superiority claim",
+  "energy": "telemetry collected but no aligned per-row energy claim"
+}

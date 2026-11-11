@@ -1,0 +1,70 @@
+{
+  "global_delta": 0.05588005,
+  "groups": {
+    "bridge/1": {
+      "n": 421,
+      "delta": 0.024264900000000006,
+      "pooled": false
+    },
+    "bridge/2": {
+      "n": 129,
+      "delta": 0.044848250000000006,
+      "pooled": false
+    },
+    "bridge/3": {
+      "n": 492,
+      "delta": 0.056218981,
+      "pooled": false
+    },
+    "cheap/1": {
+      "n": 548,
+      "delta": 0.05744455,
+      "pooled": false
+    },
+    "cheap/2": {
+      "n": 250,
+      "delta": 0.07566242000000001,
+      "pooled": false
+    },
+    "cheap/3": {
+      "n": 1127,
+      "delta": 0.0637581599999999,
+      "pooled": false
+    },
+    "crop/1": {
+      "n": 261,
+      "delta": 0.054740235000000005,
+      "pooled": false
+    },
+    "crop/2": {
+      "n": 122,
+      "delta": 0.041399899999999934,
+      "pooled": false
+    },
+    "crop/3": {
+      "n": 659,
+      "delta": 0.052287349999999955,
+      "pooled": false
+    },
+    "u960/1": {
+      "n": 634,
+      "delta": 0.04852872,
+      "pooled": false
+    },
+    "u960/2": {
+      "n": 280,
+      "delta": 0.075546476,
+      "pooled": false
+    },
+    "u960/3": {
+      "n": 1599,
+      "delta": 0.059241925,
+      "pooled": false
+    }
+  },
+  "dataset": "nusc",
+  "objective": "geometry",
+  "coverage_target": 0.8,
+  "validation_sha256": "aaf80046a45b3195be9c458c9feb0442a8c37416829e4c3ff0eefe94d0a36224",
+  "scope": "original training holdouts only; no finite-sample coverage claim after model selection"
+}

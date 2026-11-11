@@ -1,0 +1,32 @@
+{
+ "base/nusc": {
+  "frames": 9181,
+  "released_frames": 9181,
+  "units": 228,
+  "unit_failures": 0,
+  "comparisons": 91810,
+  "rows": 9181,
+  "G_v6S": 0.21073918364792876,
+  "max_abs_dJ_v6S_vs_release": 0.0
+ },
+ "base/av2": {
+  "frames": 11818,
+  "released_frames": 11818,
+  "units": 150,
+  "unit_failures": 0,
+  "comparisons": 118180,
+  "rows": 11818,
+  "G_v6S": 0.29351139058908493,
+  "max_abs_dJ_v6S_vs_release": 0.0
+ },
+ "base/ahd": {
+  "frames": 15006,
+  "released_frames": 15006,
+  "units": 24,
+  "unit_failures": 0,
+  "comparisons": 150620,
+  "rows": 15062,
+  "G_v6S": 0.41784891173645533,
+  "max_abs_dJ_v6S_vs_release": 0.0
+ }
+}

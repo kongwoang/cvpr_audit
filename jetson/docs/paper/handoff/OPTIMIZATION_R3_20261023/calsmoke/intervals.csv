@@ -1,0 +1,391 @@
+dataset,pipeline,metric,estimate,ci_lo,ci_hi,valid_draws
+nusc,cheap,G,0.0,0.0,0.0,2000
+nusc,cheap,false_per_1000,75.0,49.382716049382715,101.26582278481013,2000
+nusc,cheap,insufficient_loss_per_frame,0.8888593739269256,0.2219377141213397,2.059171694632754,2000
+nusc,cheap,insufficient_loss_share_cheap,1.0,1.0,1.0,2000
+nusc,cheap,mean_network_px,0.042666666666666665,0.04266666666666666,0.042666666666666665,2000
+nusc,cheap,mean_crop_detector_calls,,,,0
+nusc,cheap,all_missed_rate,0.25,0.0,1.0,1994
+nusc,cheap,all_onset_delay_s,0.5,0.0,2.0,1994
+nusc,cheap,all_episode_loss_share_cheap,0.7898989878541443,0.10048476879493558,0.9466138186787483,2000
+nusc,cheap,below_hard_missed_rate,0.0,0.0,0.0,1885
+nusc,cheap,below_hard_onset_delay_s,0.0,0.0,0.0,1885
+nusc,cheap,below_hard_episode_loss_share_cheap,0.062247767670439144,0.0,0.5049154046558252,2000
+nusc,cheap,at_or_above_hard_missed_rate,1.0,1.0,1.0,1379
+nusc,cheap,at_or_above_hard_onset_delay_s,2.0,2.0,2.0,1379
+nusc,cheap,at_or_above_hard_episode_loss_share_cheap,0.7276512201837051,0.0,0.9306577148119168,2000
+nusc,v6-S / none,G,0.07466885019581938,0.01910311131996504,0.20792135727609318,2000
+nusc,v6-S / none,false_per_1000,12.5,0.0,25.31645569620253,2000
+nusc,v6-S / none,insufficient_loss_per_frame,0.9828679807733725,0.3268342990615356,2.096660423101431,2000
+nusc,v6-S / none,insufficient_loss_share_cheap,1.1057631944984982,1.0182057322205778,1.4726397464959289,2000
+nusc,v6-S / none,mean_network_px,0.10002666666666667,0.07745333333333333,0.12376483825597748,2000
+nusc,v6-S / none,mean_crop_detector_calls,3.1,1.15527950310559,5.554140127388535,2000
+nusc,v6-S / none,all_missed_rate,1.0,1.0,1.0,1994
+nusc,v6-S / none,all_onset_delay_s,1.375,1.0,2.0,1994
+nusc,v6-S / none,all_episode_loss_share_cheap,0.8370630423376485,0.15440892090520963,0.9975811515190365,2000
+nusc,v6-S / none,below_hard_missed_rate,1.0,1.0,1.0,1885
+nusc,v6-S / none,below_hard_onset_delay_s,1.1666666666666667,1.0,1.5,1885
+nusc,v6-S / none,below_hard_episode_loss_share_cheap,0.10941182215394339,0.0,0.8874810539306168,2000
+nusc,v6-S / none,at_or_above_hard_missed_rate,1.0,1.0,1.0,1379
+nusc,v6-S / none,at_or_above_hard_onset_delay_s,2.0,2.0,2.0,1379
+nusc,v6-S / none,at_or_above_hard_episode_loss_share_cheap,0.7276512201837051,0.0,0.9306577148119168,2000
+nusc,v6-S,G,0.07418533316199787,0.018865584664074102,0.20792135727609318,2000
+nusc,v6-S,false_per_1000,6.25,0.0,19.10828025477707,2000
+nusc,v6-S,insufficient_loss_per_frame,0.9884556104785697,0.3268342990615356,2.096660423101431,2000
+nusc,v6-S,insufficient_loss_share_cheap,1.112049486648978,1.0182057322205778,1.4831849017636214,2000
+nusc,v6-S,mean_network_px,0.10002666666666667,0.07745333333333333,0.12376483825597748,2000
+nusc,v6-S,mean_crop_detector_calls,3.1,1.15527950310559,5.554140127388535,2000
+nusc,v6-S,all_missed_rate,1.0,1.0,1.0,1994
+nusc,v6-S,all_onset_delay_s,1.375,1.0,2.0,1994
+nusc,v6-S,all_episode_loss_share_cheap,0.8370630423376485,0.15440892090520963,0.9975811515190365,2000
+nusc,v6-S,below_hard_missed_rate,1.0,1.0,1.0,1885
+nusc,v6-S,below_hard_onset_delay_s,1.1666666666666667,1.0,1.5,1885
+nusc,v6-S,below_hard_episode_loss_share_cheap,0.10941182215394339,0.0,0.8874810539306168,2000
+nusc,v6-S,at_or_above_hard_missed_rate,1.0,1.0,1.0,1379
+nusc,v6-S,at_or_above_hard_onset_delay_s,2.0,2.0,2.0,1379
+nusc,v6-S,at_or_above_hard_episode_loss_share_cheap,0.7276512201837051,0.0,0.9306577148119168,2000
+nusc,round1 combined / none,G,0.07967468219295898,0.01910311131996504,0.2363882907796813,2000
+nusc,round1 combined / none,false_per_1000,25.0,0.0,57.32484076433121,2000
+nusc,round1 combined / none,insufficient_loss_per_frame,0.9674271696889484,0.2955617702829551,2.088013773804661,2000
+nusc,round1 combined / none,insufficient_loss_share_cheap,1.0883917052198202,1.014006641236903,1.377315094624247,2000
+nusc,round1 combined / none,mean_network_px,0.08711555555555554,0.06499999999999999,0.10495639943741208,2000
+nusc,round1 combined / none,mean_crop_detector_calls,2.65625,1.1677018633540373,4.414012738853503,2000
+nusc,round1 combined / none,all_missed_rate,0.75,0.5,1.0,1994
+nusc,round1 combined / none,all_onset_delay_s,1.0,0.25,2.0,1994
+nusc,round1 combined / none,all_episode_loss_share_cheap,0.8295409540663558,0.1359647332583958,0.9644341800426598,2000
+nusc,round1 combined / none,below_hard_missed_rate,0.6666666666666666,0.5,1.0,1885
+nusc,round1 combined / none,below_hard_onset_delay_s,0.6666666666666666,0.25,1.5,1885
+nusc,round1 combined / none,below_hard_episode_loss_share_cheap,0.1018897338826507,0.0,0.8264665246471798,2000
+nusc,round1 combined / none,at_or_above_hard_missed_rate,1.0,1.0,1.0,1379
+nusc,round1 combined / none,at_or_above_hard_onset_delay_s,2.0,2.0,2.0,1379
+nusc,round1 combined / none,at_or_above_hard_episode_loss_share_cheap,0.7276512201837051,0.0,0.9306577148119168,2000
+nusc,round1 combined,G,0.07963293386946249,0.018865584664074102,0.23517413531496423,2000
+nusc,round1 combined,false_per_1000,12.5,0.0,38.21656050955414,2000
+nusc,round1 combined,insufficient_loss_per_frame,0.9754557511226807,0.3005054699863173,2.090424590326671,2000
+nusc,round1 combined,insufficient_loss_share_cheap,1.0974241592493734,1.0151774112743381,1.4253550626185871,2000
+nusc,round1 combined,mean_network_px,0.08711555555555554,0.06499999999999999,0.10495639943741208,2000
+nusc,round1 combined,mean_crop_detector_calls,2.65625,1.1677018633540373,4.414012738853503,2000
+nusc,round1 combined,all_missed_rate,0.75,0.5,1.0,1994
+nusc,round1 combined,all_onset_delay_s,1.0,0.25,2.0,1994
+nusc,round1 combined,all_episode_loss_share_cheap,0.8295409540663558,0.1359647332583958,0.9644341800426598,2000
+nusc,round1 combined,below_hard_missed_rate,0.6666666666666666,0.5,1.0,1885
+nusc,round1 combined,below_hard_onset_delay_s,0.6666666666666666,0.25,1.5,1885
+nusc,round1 combined,below_hard_episode_loss_share_cheap,0.1018897338826507,0.0,0.8264665246471798,2000
+nusc,round1 combined,at_or_above_hard_missed_rate,1.0,1.0,1.0,1379
+nusc,round1 combined,at_or_above_hard_onset_delay_s,2.0,2.0,2.0,1379
+nusc,round1 combined,at_or_above_hard_episode_loss_share_cheap,0.7276512201837051,0.0,0.9306577148119168,2000
+nusc,round1 combined / half,G,0.07967621928857235,0.01910386641472964,0.23639215056725493,2000
+nusc,round1 combined / half,false_per_1000,25.0,0.0,57.32484076433121,2000
+nusc,round1 combined / half,insufficient_loss_per_frame,0.9702454380194192,0.2955617702829551,2.088013773804661,2000
+nusc,round1 combined / half,insufficient_loss_share_cheap,1.0915623623711532,1.014006641236903,1.3941785370035487,2000
+nusc,round1 combined / half,mean_network_px,0.08711555555555554,0.06499999999999999,0.10495639943741208,2000
+nusc,round1 combined / half,mean_crop_detector_calls,2.65625,1.1677018633540373,4.414012738853503,2000
+nusc,round1 combined / half,all_missed_rate,0.75,0.5,1.0,1994
+nusc,round1 combined / half,all_onset_delay_s,1.0,0.25,2.0,1994
+nusc,round1 combined / half,all_episode_loss_share_cheap,0.8295409540663558,0.1359647332583958,0.9644341800426598,2000
+nusc,round1 combined / half,below_hard_missed_rate,0.6666666666666666,0.5,1.0,1885
+nusc,round1 combined / half,below_hard_onset_delay_s,0.6666666666666666,0.25,1.5,1885
+nusc,round1 combined / half,below_hard_episode_loss_share_cheap,0.1018897338826507,0.0,0.8264665246471798,2000
+nusc,round1 combined / half,at_or_above_hard_missed_rate,1.0,1.0,1.0,1379
+nusc,round1 combined / half,at_or_above_hard_onset_delay_s,2.0,2.0,2.0,1379
+nusc,round1 combined / half,at_or_above_hard_episode_loss_share_cheap,0.7276512201837051,0.0,0.9306577148119168,2000
+nusc,round1 combined / speed,G,0.07919116515913745,0.018865584664074102,0.23517413531496423,2000
+nusc,round1 combined / speed,false_per_1000,18.75,0.0,57.32484076433121,2000
+nusc,round1 combined / speed,insufficient_loss_per_frame,0.9730147993941456,0.2955617702829551,2.088013773804661,2000
+nusc,round1 combined / speed,insufficient_loss_share_cheap,1.0946779973703,1.014006641236903,1.415333931173192,2000
+nusc,round1 combined / speed,mean_network_px,0.08711555555555554,0.06499999999999999,0.10495639943741208,2000
+nusc,round1 combined / speed,mean_crop_detector_calls,2.65625,1.1677018633540373,4.414012738853503,2000
+nusc,round1 combined / speed,all_missed_rate,0.75,0.5,1.0,1994
+nusc,round1 combined / speed,all_onset_delay_s,1.0,0.25,2.0,1994
+nusc,round1 combined / speed,all_episode_loss_share_cheap,0.8295409540663558,0.1359647332583958,0.9644341800426598,2000
+nusc,round1 combined / speed,below_hard_missed_rate,0.6666666666666666,0.5,1.0,1885
+nusc,round1 combined / speed,below_hard_onset_delay_s,0.6666666666666666,0.25,1.5,1885
+nusc,round1 combined / speed,below_hard_episode_loss_share_cheap,0.1018897338826507,0.0,0.8264665246471798,2000
+nusc,round1 combined / speed,at_or_above_hard_missed_rate,1.0,1.0,1.0,1379
+nusc,round1 combined / speed,at_or_above_hard_onset_delay_s,2.0,2.0,2.0,1379
+nusc,round1 combined / speed,at_or_above_hard_episode_loss_share_cheap,0.7276512201837051,0.0,0.9306577148119168,2000
+nusc,round1 combined / speedhalf,G,0.07919116515913745,0.018865584664074102,0.23517413531496423,2000
+nusc,round1 combined / speedhalf,false_per_1000,18.75,0.0,57.32484076433121,2000
+nusc,round1 combined / speedhalf,insufficient_loss_per_frame,0.9730147993941456,0.2955617702829551,2.088013773804661,2000
+nusc,round1 combined / speedhalf,insufficient_loss_share_cheap,1.0946779973703,1.014006641236903,1.415333931173192,2000
+nusc,round1 combined / speedhalf,mean_network_px,0.08711555555555554,0.06499999999999999,0.10495639943741208,2000
+nusc,round1 combined / speedhalf,mean_crop_detector_calls,2.65625,1.1677018633540373,4.414012738853503,2000
+nusc,round1 combined / speedhalf,all_missed_rate,0.75,0.5,1.0,1994
+nusc,round1 combined / speedhalf,all_onset_delay_s,1.0,0.25,2.0,1994
+nusc,round1 combined / speedhalf,all_episode_loss_share_cheap,0.8295409540663558,0.1359647332583958,0.9644341800426598,2000
+nusc,round1 combined / speedhalf,below_hard_missed_rate,0.6666666666666666,0.5,1.0,1885
+nusc,round1 combined / speedhalf,below_hard_onset_delay_s,0.6666666666666666,0.25,1.5,1885
+nusc,round1 combined / speedhalf,below_hard_episode_loss_share_cheap,0.1018897338826507,0.0,0.8264665246471798,2000
+nusc,round1 combined / speedhalf,at_or_above_hard_missed_rate,1.0,1.0,1.0,1379
+nusc,round1 combined / speedhalf,at_or_above_hard_onset_delay_s,2.0,2.0,2.0,1379
+nusc,round1 combined / speedhalf,at_or_above_hard_episode_loss_share_cheap,0.7276512201837051,0.0,0.9306577148119168,2000
+nusc,upper-quantile missing history / none,G,0.17998231820249672,0.15593635408070197,0.2902643273315011,2000
+nusc,upper-quantile missing history / none,false_per_1000,31.25,0.0,76.43312101910828,2000
+nusc,upper-quantile missing history / none,insufficient_loss_per_frame,0.8379554579499342,0.26790156724742636,1.7442956573262083,2000
+nusc,upper-quantile missing history / none,insufficient_loss_share_cheap,0.9427311929533903,0.8428916798557805,1.3738976498930269,2000
+nusc,upper-quantile missing history / none,mean_network_px,0.08711555555555554,0.06499999999999999,0.10495639943741208,2000
+nusc,upper-quantile missing history / none,mean_crop_detector_calls,2.65625,1.1677018633540373,4.414012738853503,2000
+nusc,upper-quantile missing history / none,all_missed_rate,0.25,0.0,1.0,1994
+nusc,upper-quantile missing history / none,all_onset_delay_s,0.375,0.0,1.5,1994
+nusc,upper-quantile missing history / none,all_episode_loss_share_cheap,0.6847755456672112,0.10944851402397392,0.78614736093236,2000
+nusc,upper-quantile missing history / none,below_hard_missed_rate,0.3333333333333333,0.0,1.0,1885
+nusc,upper-quantile missing history / none,below_hard_onset_delay_s,0.5,0.0,1.5,1885
+nusc,upper-quantile missing history / none,below_hard_episode_loss_share_cheap,0.08741994916417985,0.0,0.7090965774212821,2000
+nusc,upper-quantile missing history / none,at_or_above_hard_missed_rate,0.0,0.0,0.0,1379
+nusc,upper-quantile missing history / none,at_or_above_hard_onset_delay_s,0.0,0.0,0.0,1379
+nusc,upper-quantile missing history / none,at_or_above_hard_episode_loss_share_cheap,0.5973555965030314,0.0,0.7640110796918171,2000
+nusc,upper-quantile missing history,G,0.1804256240084351,0.1574375658403656,0.29026818711907476,2000
+nusc,upper-quantile missing history,false_per_1000,25.0,0.0,57.32484076433121,2000
+nusc,upper-quantile missing history,insufficient_loss_per_frame,0.84321467800894,0.27284526695078853,1.7467064738482185,2000
+nusc,upper-quantile missing history,insufficient_loss_share_cheap,0.9486480119837967,0.8428916798557805,1.4053668160707904,2000
+nusc,upper-quantile missing history,mean_network_px,0.08711555555555554,0.06499999999999999,0.10495639943741208,2000
+nusc,upper-quantile missing history,mean_crop_detector_calls,2.65625,1.1677018633540373,4.414012738853503,2000
+nusc,upper-quantile missing history,all_missed_rate,0.25,0.0,1.0,1994
+nusc,upper-quantile missing history,all_onset_delay_s,0.375,0.0,1.5,1994
+nusc,upper-quantile missing history,all_episode_loss_share_cheap,0.6847755456672112,0.10944851402397392,0.78614736093236,2000
+nusc,upper-quantile missing history,below_hard_missed_rate,0.3333333333333333,0.0,1.0,1885
+nusc,upper-quantile missing history,below_hard_onset_delay_s,0.5,0.0,1.5,1885
+nusc,upper-quantile missing history,below_hard_episode_loss_share_cheap,0.08741994916417985,0.0,0.7090965774212821,2000
+nusc,upper-quantile missing history,at_or_above_hard_missed_rate,0.0,0.0,0.0,1379
+nusc,upper-quantile missing history,at_or_above_hard_onset_delay_s,0.0,0.0,0.0,1379
+nusc,upper-quantile missing history,at_or_above_hard_episode_loss_share_cheap,0.5973555965030314,0.0,0.7640110796918171,2000
+nusc,uncertainty query / none,G,0.07774532634217216,0.01910311131996504,0.2283918557013185,2000
+nusc,uncertainty query / none,false_per_1000,18.75,6.134969325153374,25.477707006369428,2000
+nusc,uncertainty query / none,insufficient_loss_per_frame,0.9630285602525988,0.28665319420933566,2.096660423101431,2000
+nusc,uncertainty query / none,insufficient_loss_share_cheap,1.0834431052889708,1.0032649594521015,1.4297000730155103,2000
+nusc,uncertainty query / none,mean_network_px,0.09087555555555557,0.07212888888888888,0.10749479606188468,2000
+nusc,uncertainty query / none,mean_crop_detector_calls,2.94375,1.6521739130434783,4.732484076433121,2000
+nusc,uncertainty query / none,all_missed_rate,0.5,0.0,1.0,1994
+nusc,uncertainty query / none,all_onset_delay_s,0.875,0.0,2.0,1994
+nusc,uncertainty query / none,all_episode_loss_share_cheap,0.8150711693478849,0.10944851402397392,0.9504561500573234,2000
+nusc,uncertainty query / none,below_hard_missed_rate,0.3333333333333333,0.0,1.0,1885
+nusc,uncertainty query / none,below_hard_onset_delay_s,0.5,0.0,1.5,1885
+nusc,uncertainty query / none,below_hard_episode_loss_share_cheap,0.08741994916417985,0.0,0.7090965774212821,2000
+nusc,uncertainty query / none,at_or_above_hard_missed_rate,1.0,1.0,1.0,1379
+nusc,uncertainty query / none,at_or_above_hard_onset_delay_s,2.0,2.0,2.0,1379
+nusc,uncertainty query / none,at_or_above_hard_episode_loss_share_cheap,0.7276512201837051,0.0,0.9306577148119168,2000
+nusc,uncertainty query,G,0.07312385114628325,0.018865584664074102,0.20298120920981325,2000
+nusc,uncertainty query,false_per_1000,12.5,0.0,25.31645569620253,2000
+nusc,uncertainty query,insufficient_loss_per_frame,0.9753022686292402,0.3001946193666912,2.096660423101431,2000
+nusc,uncertainty query,insufficient_loss_share_cheap,1.0972514857107434,1.0125288382045312,1.4631343172113884,2000
+nusc,uncertainty query,mean_network_px,0.09087555555555557,0.07212888888888888,0.10749479606188468,2000
+nusc,uncertainty query,mean_crop_detector_calls,2.94375,1.6521739130434783,4.732484076433121,2000
+nusc,uncertainty query,all_missed_rate,0.75,0.5,1.0,1994
+nusc,uncertainty query,all_onset_delay_s,1.25,0.75,2.0,1994
+nusc,uncertainty query,all_episode_loss_share_cheap,0.8225932576191776,0.1189289564417494,0.9558776974311782,2000
+nusc,uncertainty query,below_hard_missed_rate,0.6666666666666666,0.5,1.0,1885
+nusc,uncertainty query,below_hard_onset_delay_s,1.0,0.75,1.5,1885
+nusc,uncertainty query,below_hard_episode_loss_share_cheap,0.09494203743547253,0.0,0.7701111067047189,2000
+nusc,uncertainty query,at_or_above_hard_missed_rate,1.0,1.0,1.0,1379
+nusc,uncertainty query,at_or_above_hard_onset_delay_s,2.0,2.0,2.0,1379
+nusc,uncertainty query,at_or_above_hard_episode_loss_share_cheap,0.7276512201837051,0.0,0.9306577148119168,2000
+nusc,uncertainty query / adapt,G,0.07774532634217216,0.01910311131996504,0.2283918557013185,2000
+nusc,uncertainty query / adapt,false_per_1000,18.75,6.134969325153374,25.477707006369428,2000
+nusc,uncertainty query / adapt,insufficient_loss_per_frame,0.9630285602525988,0.28665319420933566,2.096660423101431,2000
+nusc,uncertainty query / adapt,insufficient_loss_share_cheap,1.0834431052889708,1.0032649594521015,1.4297000730155103,2000
+nusc,uncertainty query / adapt,mean_network_px,0.09087555555555557,0.07212888888888888,0.10749479606188468,2000
+nusc,uncertainty query / adapt,mean_crop_detector_calls,2.94375,1.6521739130434783,4.732484076433121,2000
+nusc,uncertainty query / adapt,all_missed_rate,0.5,0.0,1.0,1994
+nusc,uncertainty query / adapt,all_onset_delay_s,0.875,0.0,2.0,1994
+nusc,uncertainty query / adapt,all_episode_loss_share_cheap,0.8150711693478849,0.10944851402397392,0.9504561500573234,2000
+nusc,uncertainty query / adapt,below_hard_missed_rate,0.3333333333333333,0.0,1.0,1885
+nusc,uncertainty query / adapt,below_hard_onset_delay_s,0.5,0.0,1.5,1885
+nusc,uncertainty query / adapt,below_hard_episode_loss_share_cheap,0.08741994916417985,0.0,0.7090965774212821,2000
+nusc,uncertainty query / adapt,at_or_above_hard_missed_rate,1.0,1.0,1.0,1379
+nusc,uncertainty query / adapt,at_or_above_hard_onset_delay_s,2.0,2.0,2.0,1379
+nusc,uncertainty query / adapt,at_or_above_hard_episode_loss_share_cheap,0.7276512201837051,0.0,0.9306577148119168,2000
+av2,cheap,G,0.0,0.0,0.0,2000
+av2,cheap,false_per_1000,38.46153846153846,23.076923076923077,53.84615384615385,2000
+av2,cheap,insufficient_loss_per_frame,0.7678445186218965,0.1562496310984282,1.7929816748505352,2000
+av2,cheap,insufficient_loss_share_cheap,1.0,1.0,1.0,2000
+av2,cheap,mean_network_px,0.025806451612903236,0.025806451612903236,0.025806451612903236,2000
+av2,cheap,mean_crop_detector_calls,,,,0
+av2,cheap,all_missed_rate,0.08333333333333333,0.0,0.26666666666666666,2000
+av2,cheap,all_onset_delay_s,0.1997294166666667,0.10894327272727274,0.32456000000000007,2000
+av2,cheap,all_episode_loss_share_cheap,0.8490507394734568,0.33066999388929724,0.9577764697875587,2000
+av2,cheap,below_hard_missed_rate,0.1111111111111111,0.0,0.3333333333333333,1977
+av2,cheap,below_hard_onset_delay_s,0.19972922222222225,0.13315266666666667,0.3328816666666667,1977
+av2,cheap,below_hard_episode_loss_share_cheap,0.0795283776800982,0.011897414572682301,0.4298616391933872,2000
+av2,cheap,at_or_above_hard_missed_rate,0.0,0.0,0.0,1838
+av2,cheap,at_or_above_hard_onset_delay_s,0.19973000000000005,0.0,0.29959500000000006,1838
+av2,cheap,at_or_above_hard_episode_loss_share_cheap,0.7695223617933586,0.0,0.9353917954413521,2000
+av2,v6-S / none,G,-0.06737930856521479,-0.26402488707342997,0.37183980064856054,2000
+av2,v6-S / none,false_per_1000,10.256410256410257,2.5641025641025643,17.94871794871795,2000
+av2,v6-S / none,insufficient_loss_per_frame,1.0720366130403163,0.13645285891083497,2.573867708838027,2000
+av2,v6-S / none,insufficient_loss_share_cheap,1.3961636594923856,0.4932199971723121,2.0248548845960923,2000
+av2,v6-S / none,mean_network_px,0.049656741108354,0.039569892473118276,0.05777584780810585,2000
+av2,v6-S / none,mean_crop_detector_calls,2.2512820512820513,1.3358974358974358,3.2974358974358973,2000
+av2,v6-S / none,all_missed_rate,0.16666666666666666,0.0,0.42857142857142855,2000
+av2,v6-S / none,all_onset_delay_s,0.46603600000000006,0.12291015384615386,0.8142838461538463,2000
+av2,v6-S / none,all_episode_loss_share_cheap,1.287743212140027,0.3325756242982778,1.5371587804134788,2000
+av2,v6-S / none,below_hard_missed_rate,0.1111111111111111,0.0,0.3333333333333333,1977
+av2,v6-S / none,below_hard_onset_delay_s,0.4660357777777778,0.0,0.8654966666666667,1977
+av2,v6-S / none,below_hard_episode_loss_share_cheap,0.16325836598871285,0.0029653368253255187,1.1499486725985202,2000
+av2,v6-S / none,at_or_above_hard_missed_rate,0.3333333333333333,0.0,0.5,1838
+av2,v6-S / none,at_or_above_hard_onset_delay_s,0.4660366666666667,0.0,0.6990550000000001,1838
+av2,v6-S / none,at_or_above_hard_episode_loss_share_cheap,1.124484846151314,0.0,1.3705106913643288,2000
+av2,v6-S,G,-0.18503034866896015,-0.2844142587355776,0.034995428374248454,2000
+av2,v6-S,false_per_1000,5.128205128205129,0.0,10.256410256410257,2000
+av2,v6-S,insufficient_loss_per_frame,1.3213940128523953,0.5210784402893414,2.7395409904819563,2000
+av2,v6-S,insufficient_loss_share_cheap,1.7209135193463283,1.4974917061318795,3.8099917629078277,2000
+av2,v6-S,mean_network_px,0.049656741108354,0.039569892473118276,0.05777584780810585,2000
+av2,v6-S,mean_crop_detector_calls,2.2512820512820513,1.3358974358974358,3.2974358974358973,2000
+av2,v6-S,all_missed_rate,0.5,0.3,0.6666666666666666,2000
+av2,v6-S,all_onset_delay_s,0.7323415,0.6145507692307692,0.891103076923077,2000
+av2,v6-S,all_episode_loss_share_cheap,1.3788535603751841,0.7543520148047076,1.684881716167506,2000
+av2,v6-S,below_hard_missed_rate,0.5555555555555556,0.3333333333333333,0.6666666666666666,1977
+av2,v6-S,below_hard_onset_delay_s,0.7989175555555555,0.599187,0.9320733333333334,1977
+av2,v6-S,below_hard_episode_loss_share_cheap,0.2495122144394494,0.034621162378747614,1.39969388197162,2000
+av2,v6-S,at_or_above_hard_missed_rate,0.3333333333333333,0.0,0.5,1838
+av2,v6-S,at_or_above_hard_onset_delay_s,0.5326133333333334,0.0,0.7989200000000001,1838
+av2,v6-S,at_or_above_hard_episode_loss_share_cheap,1.1293413459357344,0.0,1.3769247717161595,2000
+av2,round1 combined / none,G,-0.043064958050307106,-0.24530432649075884,0.3878572448692262,2000
+av2,round1 combined / none,false_per_1000,10.256410256410257,2.5641025641025643,17.94871794871795,2000
+av2,round1 combined / none,insufficient_loss_per_frame,1.0325429399048776,0.09695918577539644,2.573867708838027,2000
+av2,round1 combined / none,insufficient_loss_share_cheap,1.3447291930377436,0.4758328171888507,1.5842962182343427,2000
+av2,round1 combined / none,mean_network_px,0.047042183622828776,0.038626964433416046,0.054184449958643494,2000
+av2,round1 combined / none,mean_crop_detector_calls,1.971794871794872,1.3384615384615384,2.6564102564102563,2000
+av2,round1 combined / none,all_missed_rate,0.16666666666666666,0.0,0.42857142857142855,2000
+av2,round1 combined / none,all_onset_delay_s,0.3994593333333334,0.12291015384615386,0.6562557142857143,2000
+av2,round1 combined / none,all_episode_loss_share_cheap,1.236308745685385,0.28673417598990203,1.4229954788886183,2000
+av2,round1 combined / none,below_hard_missed_rate,0.1111111111111111,0.0,0.3333333333333333,1977
+av2,round1 combined / none,below_hard_onset_delay_s,0.377266888888889,0.0,0.5991900000000001,1977
+av2,round1 combined / none,below_hard_episode_loss_share_cheap,0.11182389953407104,0.0029653368253255187,0.7227080822043787,2000
+av2,round1 combined / none,at_or_above_hard_missed_rate,0.3333333333333333,0.0,0.5,1838
+av2,round1 combined / none,at_or_above_hard_onset_delay_s,0.4660366666666667,0.0,0.6990550000000001,1838
+av2,round1 combined / none,at_or_above_hard_episode_loss_share_cheap,1.124484846151314,0.0,1.3705106913643288,2000
+av2,round1 combined,G,-0.15152825018495858,-0.2746363519299858,0.11250636166177867,2000
+av2,round1 combined,false_per_1000,5.128205128205129,0.0,10.256410256410257,2000
+av2,round1 combined,insufficient_loss_per_frame,1.2826324732455041,0.4527634434472238,2.7130025509170754,2000
+av2,round1 combined,insufficient_loss_share_cheap,1.6704325447911421,1.4753043399651047,3.3220547502324065,2000
+av2,round1 combined,mean_network_px,0.047042183622828776,0.038626964433416046,0.054184449958643494,2000
+av2,round1 combined,mean_crop_detector_calls,1.971794871794872,1.3384615384615384,2.6564102564102563,2000
+av2,round1 combined,all_missed_rate,0.5,0.3,0.6666666666666666,2000
+av2,round1 combined,all_onset_delay_s,0.6657648333333334,0.6145507692307692,0.7418542857142858,2000
+av2,round1 combined,all_episode_loss_share_cheap,1.328372585819998,0.6907005731990389,1.43823979445458,2000
+av2,round1 combined,below_hard_missed_rate,0.5555555555555556,0.3333333333333333,0.6666666666666666,1977
+av2,round1 combined,below_hard_onset_delay_s,0.7101486666666667,0.599187,0.8654923333333334,1977
+av2,round1 combined,below_hard_episode_loss_share_cheap,0.1990312398842633,0.03287632843298694,0.9486175647716323,2000
+av2,round1 combined,at_or_above_hard_missed_rate,0.3333333333333333,0.0,0.5,1838
+av2,round1 combined,at_or_above_hard_onset_delay_s,0.5326133333333334,0.0,0.7989200000000001,1838
+av2,round1 combined,at_or_above_hard_episode_loss_share_cheap,1.1293413459357344,0.0,1.3769247717161595,2000
+av2,round1 combined / half,G,-0.051588680576047305,-0.24915041047009176,0.40863636641899176,2000
+av2,round1 combined / half,false_per_1000,15.384615384615385,2.5641025641025643,33.333333333333336,2000
+av2,round1 combined / half,insufficient_loss_per_frame,1.0910184163926415,0.17055233067486272,2.6087555217263336,2000
+av2,round1 combined / half,insufficient_loss_share_cheap,1.4208845540120123,0.714874442274284,2.025344509662965,2000
+av2,round1 combined / half,mean_network_px,0.047042183622828776,0.038626964433416046,0.054184449958643494,2000
+av2,round1 combined / half,mean_crop_detector_calls,1.971794871794872,1.3384615384615384,2.6564102564102563,2000
+av2,round1 combined / half,all_missed_rate,0.16666666666666666,0.0,0.42857142857142855,2000
+av2,round1 combined / half,all_onset_delay_s,0.41610341666666667,0.16900146153846154,0.6562557142857143,2000
+av2,round1 combined / half,all_episode_loss_share_cheap,1.2500143157071206,0.3231286190746903,1.4248849348462467,2000
+av2,round1 combined / half,below_hard_missed_rate,0.1111111111111111,0.0,0.3333333333333333,1977
+av2,round1 combined / half,below_hard_onset_delay_s,0.399459,0.06657633333333333,0.5991900000000001,1977
+av2,round1 combined / half,below_hard_episode_loss_share_cheap,0.1241495229865999,0.006054625202697664,0.7538430248538712,2000
+av2,round1 combined / half,at_or_above_hard_missed_rate,0.3333333333333333,0.0,0.5,1838
+av2,round1 combined / half,at_or_above_hard_onset_delay_s,0.4660366666666667,0.0,0.6990550000000001,1838
+av2,round1 combined / half,at_or_above_hard_episode_loss_share_cheap,1.1258647927205208,0.0,1.3723332155214427,2000
+av2,round1 combined / speed,G,-0.16031068851303176,-0.276760657356474,0.08789184322003388,2000
+av2,round1 combined / speed,false_per_1000,5.128205128205129,0.0,10.256410256410257,2000
+av2,round1 combined / speed,insufficient_loss_per_frame,1.2838276138646967,0.4430446020790028,2.7141976915362678,2000
+av2,round1 combined / speed,insufficient_loss_share_cheap,1.6719890325828863,1.4715516656242655,3.2867905352327473,2000
+av2,round1 combined / speed,mean_network_px,0.047042183622828776,0.038626964433416046,0.054184449958643494,2000
+av2,round1 combined / speed,mean_crop_detector_calls,1.971794871794872,1.3384615384615384,2.6564102564102563,2000
+av2,round1 combined / speed,all_missed_rate,0.5,0.375,0.625,2000
+av2,round1 combined / speed,all_onset_delay_s,0.66576475,0.599188,0.744448181818182,2000
+av2,round1 combined / speed,all_episode_loss_share_cheap,1.3299290736117417,0.6668526848784585,1.4357164082792149,2000
+av2,round1 combined / speed,below_hard_missed_rate,0.5555555555555556,0.3333333333333333,0.6666666666666666,1977
+av2,round1 combined / speed,below_hard_onset_delay_s,0.7101485555555556,0.599187,0.9320686666666668,1977
+av2,round1 combined / speed,below_hard_episode_loss_share_cheap,0.20058772767600724,0.030032007553020417,0.9181239070114856,2000
+av2,round1 combined / speed,at_or_above_hard_missed_rate,0.3333333333333333,0.0,0.5,1838
+av2,round1 combined / speed,at_or_above_hard_onset_delay_s,0.5326133333333334,0.0,0.7989200000000001,1838
+av2,round1 combined / speed,at_or_above_hard_episode_loss_share_cheap,1.1293413459357344,0.0,1.3769247717161595,2000
+av2,round1 combined / speedhalf,G,-0.15549842385788593,-0.2746363519299858,0.09718026014131638,2000
+av2,round1 combined / speedhalf,false_per_1000,5.128205128205129,0.0,10.256410256410257,2000
+av2,round1 combined / speedhalf,insufficient_loss_per_frame,1.2777730525613937,0.4430446020790028,2.7081431302329646,2000
+av2,round1 combined / speedhalf,insufficient_loss_share_cheap,1.6641038928749547,1.4715516656242655,3.2297093851722094,2000
+av2,round1 combined / speedhalf,mean_network_px,0.047042183622828776,0.038626964433416046,0.054184449958643494,2000
+av2,round1 combined / speedhalf,mean_crop_detector_calls,1.971794871794872,1.3384615384615384,2.6564102564102563,2000
+av2,round1 combined / speedhalf,all_missed_rate,0.4166666666666667,0.2727272727272727,0.625,2000
+av2,round1 combined / speedhalf,all_onset_delay_s,0.6491206666666667,0.599188,0.7323433333333335,2000
+av2,round1 combined / speedhalf,all_episode_loss_share_cheap,1.3220439339038104,0.6668526848784585,1.4303974502248582,2000
+av2,round1 combined / speedhalf,below_hard_missed_rate,0.4444444444444444,0.3333333333333333,0.6666666666666666,1977
+av2,round1 combined / speedhalf,below_hard_onset_delay_s,0.6879564444444445,0.599187,0.8654923333333334,1977
+av2,round1 combined / speedhalf,below_hard_episode_loss_share_cheap,0.19270258796807585,0.030032007553020417,0.8964636298963142,2000
+av2,round1 combined / speedhalf,at_or_above_hard_missed_rate,0.3333333333333333,0.0,0.5,1838
+av2,round1 combined / speedhalf,at_or_above_hard_onset_delay_s,0.5326133333333334,0.0,0.7989200000000001,1838
+av2,round1 combined / speedhalf,at_or_above_hard_episode_loss_share_cheap,1.1293413459357344,0.0,1.3769247717161595,2000
+av2,upper-quantile missing history / none,G,-0.02676555007466062,-0.2393458350344107,0.40633580206032865,2000
+av2,upper-quantile missing history / none,false_per_1000,30.76923076923077,15.384615384615385,48.717948717948715,2000
+av2,upper-quantile missing history / none,insufficient_loss_per_frame,0.9835451968073634,0.08066542439714881,2.533844457533946,2000
+av2,upper-quantile missing history / none,insufficient_loss_share_cheap,1.2809171296457256,0.38108779499124584,1.4576830805878014,2000
+av2,upper-quantile missing history / none,mean_network_px,0.047119933829611244,0.03870140612076096,0.05425889164598841,2000
+av2,upper-quantile missing history / none,mean_crop_detector_calls,1.9923076923076923,1.353846153846154,2.671987179487178,2000
+av2,upper-quantile missing history / none,all_missed_rate,0.16666666666666666,0.0,0.42857142857142855,2000
+av2,upper-quantile missing history / none,all_onset_delay_s,0.34952691666666674,0.10754638461538463,0.5991900000000001,2000
+av2,upper-quantile missing history / none,all_episode_loss_share_cheap,1.1857359298496661,0.23993374714258497,1.4090279054389407,2000
+av2,upper-quantile missing history / none,below_hard_missed_rate,0.1111111111111111,0.0,0.3333333333333333,1977
+av2,upper-quantile missing history / none,below_hard_onset_delay_s,0.31069033333333335,0.0,0.4660366666666667,1977
+av2,upper-quantile missing history / none,below_hard_episode_loss_share_cheap,0.09344634327749556,0.0029653368253255187,0.5995342680127259,2000
+av2,upper-quantile missing history / none,at_or_above_hard_missed_rate,0.3333333333333333,0.0,0.5,1838
+av2,upper-quantile missing history / none,at_or_above_hard_onset_delay_s,0.4660366666666667,0.0,0.6990550000000001,1838
+av2,upper-quantile missing history / none,at_or_above_hard_episode_loss_share_cheap,1.0922895865721707,0.0,1.3705106913643288,2000
+av2,upper-quantile missing history,G,-0.1388179036009351,-0.2729441407130197,0.16671766692296003,2000
+av2,upper-quantile missing history,false_per_1000,20.512820512820515,10.256410256410257,30.76923076923077,2000
+av2,upper-quantile missing history,insufficient_loss_per_frame,1.235464976195165,0.42969858906016906,2.663941501787515,2000
+av2,upper-quantile missing history,insufficient_loss_share_cheap,1.6090040968353063,1.463995551426155,3.0443926660068072,2000
+av2,upper-quantile missing history,mean_network_px,0.047119933829611244,0.03870140612076096,0.05425889164598841,2000
+av2,upper-quantile missing history,mean_crop_detector_calls,1.9923076923076923,1.353846153846154,2.671987179487178,2000
+av2,upper-quantile missing history,all_missed_rate,0.4166666666666667,0.2727272727272727,0.625,2000
+av2,upper-quantile missing history,all_onset_delay_s,0.59918825,0.5104201111111111,0.7133201428571428,2000
+av2,upper-quantile missing history,all_episode_loss_share_cheap,1.277799769984279,0.6481961595127369,1.4234439317084293,2000
+av2,upper-quantile missing history,below_hard_missed_rate,0.4444444444444444,0.3333333333333333,0.6666666666666666,1977
+av2,upper-quantile missing history,below_hard_onset_delay_s,0.6213798888888888,0.4660366666666667,0.7989160000000001,1977
+av2,upper-quantile missing history,below_hard_episode_loss_share_cheap,0.18065368362768783,0.0278068568842481,0.8361651123738828,2000
+av2,upper-quantile missing history,at_or_above_hard_missed_rate,0.3333333333333333,0.0,0.5,1838
+av2,upper-quantile missing history,at_or_above_hard_onset_delay_s,0.5326133333333334,0.0,0.7989200000000001,1838
+av2,upper-quantile missing history,at_or_above_hard_episode_loss_share_cheap,1.0971460863565912,0.0,1.3769247717161595,2000
+av2,uncertainty query / none,G,-0.0195614382928163,-0.23467835292204975,0.40552639827746056,2000
+av2,uncertainty query / none,false_per_1000,12.820512820512821,5.128205128205129,20.512820512820515,2000
+av2,uncertainty query / none,insufficient_loss_per_frame,1.0024846637017644,0.08273998391123882,2.557342855650843,2000
+av2,uncertainty query / none,insufficient_loss_share_cheap,1.3055828874066755,0.4060512608866736,1.461350145681423,2000
+av2,uncertainty query / none,mean_network_px,0.049602977667493796,0.03980314309346567,0.0594177005789909,2000
+av2,uncertainty query / none,mean_crop_detector_calls,2.2333333333333334,1.4487179487179487,3.105128205128205,2000
+av2,uncertainty query / none,all_missed_rate,0.16666666666666666,0.0,0.42857142857142855,2000
+av2,uncertainty query / none,all_onset_delay_s,0.31623891666666676,0.046091307692307695,0.6562557142857143,2000
+av2,uncertainty query / none,all_episode_loss_share_cheap,1.199660235434309,0.2297304151096177,1.4045011929314362,2000
+av2,uncertainty query / none,below_hard_missed_rate,0.1111111111111111,0.0,0.3333333333333333,1977
+av2,uncertainty query / none,below_hard_onset_delay_s,0.26630633333333337,0.0,0.5991900000000001,1977
+av2,uncertainty query / none,below_hard_episode_loss_share_cheap,0.09351583832991095,0.0029653368253255187,0.5838421174159295,2000
+av2,uncertainty query / none,at_or_above_hard_missed_rate,0.3333333333333333,0.0,0.5,1838
+av2,uncertainty query / none,at_or_above_hard_onset_delay_s,0.4660366666666667,0.0,0.6990550000000001,1838
+av2,uncertainty query / none,at_or_above_hard_episode_loss_share_cheap,1.1061443971043983,0.0,1.3705106913643288,2000
+av2,uncertainty query,G,-0.17027663536769871,-0.2804592365120579,0.07227560617459863,2000
+av2,uncertainty query,false_per_1000,10.256410256410257,2.5641025641025643,17.94871794871795,2000
+av2,uncertainty query,insufficient_loss_per_frame,1.286790690038909,0.4948153622566307,2.7178465465587087,2000
+av2,uncertainty query,insufficient_loss_share_cheap,1.6758479859287152,1.4858152103424926,3.6687935342202582,2000
+av2,uncertainty query,mean_network_px,0.049602977667493796,0.03980314309346567,0.0594177005789909,2000
+av2,uncertainty query,mean_crop_detector_calls,2.2333333333333334,1.4487179487179487,3.105128205128205,2000
+av2,uncertainty query,all_missed_rate,0.5,0.3,0.6666666666666666,2000
+av2,uncertainty query,all_onset_delay_s,0.5825444166666668,0.4539295454545455,0.7418542857142858,2000
+av2,uncertainty query,all_episode_loss_share_cheap,1.3362858223375629,0.7103557063535795,1.5058459399277737,2000
+av2,uncertainty query,below_hard_missed_rate,0.5555555555555556,0.3333333333333333,0.6666666666666666,1977
+av2,uncertainty query,below_hard_onset_delay_s,0.5991881111111111,0.5326106666666667,0.6657666666666667,1977
+av2,uncertainty query,below_hard_episode_loss_share_cheap,0.2252849254487444,0.03523113324918308,1.2010304692846123,2000
+av2,uncertainty query,at_or_above_hard_missed_rate,0.3333333333333333,0.0,0.5,1838
+av2,uncertainty query,at_or_above_hard_onset_delay_s,0.5326133333333334,0.0,0.7989200000000001,1838
+av2,uncertainty query,at_or_above_hard_episode_loss_share_cheap,1.1110008968888188,0.0,1.3769247717161595,2000
+av2,uncertainty query / adapt,G,-0.12216248650116342,-0.26400876202317725,0.18720139362243723,2000
+av2,uncertainty query / adapt,false_per_1000,12.820512820512821,0.0,33.333333333333336,2000
+av2,uncertainty query / adapt,insufficient_loss_per_frame,1.2247191068495518,0.4067791072342564,2.6670998775557058,2000
+av2,uncertainty query / adapt,insufficient_loss_share_cheap,1.595009246204739,1.4612598273429962,2.754237060799539,2000
+av2,uncertainty query / adapt,mean_network_px,0.049602977667493796,0.03980314309346567,0.0594177005789909,2000
+av2,uncertainty query / adapt,mean_crop_detector_calls,2.2333333333333334,1.4487179487179487,3.105128205128205,2000
+av2,uncertainty query / adapt,all_missed_rate,0.5,0.3,0.6666666666666666,2000
+av2,uncertainty query / adapt,all_onset_delay_s,0.5326120833333333,0.3595122,0.6847885714285715,2000
+av2,uncertainty query / adapt,all_episode_loss_share_cheap,1.2716043339637486,0.630415595762533,1.4140039421049595,2000
+av2,uncertainty query / adapt,below_hard_missed_rate,0.5555555555555556,0.3333333333333333,0.6666666666666666,1977
+av2,uncertainty query / adapt,below_hard_onset_delay_s,0.5548038888888889,0.39945800000000004,0.6657666666666667,1977
+av2,uncertainty query / adapt,below_hard_episode_loss_share_cheap,0.1640799902901437,0.02607752993440081,0.7897203445970762,2000
+av2,uncertainty query / adapt,at_or_above_hard_missed_rate,0.3333333333333333,0.0,0.5,1838
+av2,uncertainty query / adapt,at_or_above_hard_onset_delay_s,0.4660366666666667,0.0,0.6990550000000001,1838
+av2,uncertainty query / adapt,at_or_above_hard_episode_loss_share_cheap,1.107524343673605,0.0,1.3723332155214427,2000

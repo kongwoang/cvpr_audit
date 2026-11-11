@@ -1,0 +1,35 @@
+stage,dataset,pipeline,unit,start,end,rule,frame,seconds,gt_demand,gt_action,baseline_action,candidate_action,decisive_found,decisive_predicted_demand
+compact,nusc,compact point fallback,scene-0451,0,1,unsupported,0,0.0,2.090307065529311,1,0,0,True,0.7713656262842715
+compact,nusc,compact point fallback,scene-0451,0,1,unsupported,1,0.5,3.015966808632501,1,0,1,True,0.0
+compact,nusc,compact point fallback,scene-0451,0,1,unsupported,2,1.0,0.0,0,0,0,False,
+compact,nusc,compact point fallback,scene-0451,0,1,unsupported,3,1.5,0.0,0,0,0,False,
+compact,nusc,compact point fallback,scene-0451,0,1,unsupported,4,2.0,0.0,0,0,0,False,
+low,nusc,corroborated upper fallback,scene-1017,0,9,severe,0,0.0,2.830764036926885,1,0,0,True,0.6493512771787472
+low,nusc,corroborated upper fallback,scene-1017,0,9,severe,1,0.5,3.5098225476123557,2,0,0,False,
+low,nusc,corroborated upper fallback,scene-1017,0,9,severe,2,1.0,4.2242277484788255,2,0,0,True,0.9474834854157533
+low,nusc,corroborated upper fallback,scene-1017,0,9,severe,3,1.5,5.087025040119287,2,0,0,True,0.0
+low,nusc,corroborated upper fallback,scene-1017,0,9,severe,4,2.0,3.178424920361748,1,0,0,False,
+low,nusc,corroborated upper fallback,scene-1017,0,9,severe,5,2.5,4.010523757342619,2,0,2,True,3.7732437254100297
+low,nusc,corroborated upper fallback,scene-1017,0,9,severe,6,3.0,4.368331429897518,2,0,0,True,0.0
+low,nusc,corroborated upper fallback,scene-1017,0,9,severe,7,3.5,2.5005855524231864,1,0,0,False,
+low,nusc,corroborated upper fallback,scene-1017,0,9,severe,8,4.0,2.3921688182941763,1,0,0,False,
+low,nusc,corroborated upper fallback,scene-1017,0,9,severe,9,4.5,3.4435120307094538,1,0,0,False,
+low,nusc,corroborated upper fallback,scene-1017,0,9,severe,10,5.0,0.0,0,0,0,False,
+low,nusc,corroborated upper fallback,scene-1017,0,9,severe,11,5.5,0.0,0,0,0,False,
+low,nusc,corroborated upper fallback,scene-1017,0,9,severe,12,6.0,0.0,0,0,0,False,
+learned,av2,learned missing history,ac3e33eb-5a53-369d-9e5a-7950392bfe99,65,66,unsupported,62,-0.5991900000000001,0.36773042524499605,0,0,0,False,
+learned,av2,learned missing history,ac3e33eb-5a53-369d-9e5a-7950392bfe99,65,66,unsupported,63,-0.39946000000000004,0.6929965337637938,0,0,0,True,0.0
+learned,av2,learned missing history,ac3e33eb-5a53-369d-9e5a-7950392bfe99,65,66,unsupported,64,-0.19973000000000002,0.9166462890668818,0,0,0,True,0.6648289995002412
+learned,av2,learned missing history,ac3e33eb-5a53-369d-9e5a-7950392bfe99,65,66,unsupported,65,0.0,1.1539574275428501,1,0,1,True,0.9261393839604686
+learned,av2,learned missing history,ac3e33eb-5a53-369d-9e5a-7950392bfe99,65,66,unsupported,66,0.19973000000000002,1.3126843832326216,1,0,0,False,
+learned,av2,learned missing history,ac3e33eb-5a53-369d-9e5a-7950392bfe99,65,66,unsupported,67,0.39946000000000004,0.3366237715331087,0,0,0,True,0.6120471860872065
+learned,av2,learned missing history,ac3e33eb-5a53-369d-9e5a-7950392bfe99,65,66,unsupported,68,0.5991900000000001,0.40012461725548837,0,0,0,True,0.36654453327947145
+learned,av2,learned missing history,ac3e33eb-5a53-369d-9e5a-7950392bfe99,65,66,unsupported,69,0.7989200000000001,0.2947154092823241,0,0,0,False,
+learned,av2,uncertainty query,ce5033ee-e74e-354a-9299-8aaefbd03f59,29,30,highest peak among rescued episodes,26,-0.599187,0.0,0,0,0,False,
+learned,av2,uncertainty query,ce5033ee-e74e-354a-9299-8aaefbd03f59,29,30,highest peak among rescued episodes,27,-0.39945800000000004,0.3184701466328268,0,0,0,False,
+learned,av2,uncertainty query,ce5033ee-e74e-354a-9299-8aaefbd03f59,29,30,highest peak among rescued episodes,28,-0.19972900000000002,0.4515774963265101,0,0,0,False,
+learned,av2,uncertainty query,ce5033ee-e74e-354a-9299-8aaefbd03f59,29,30,highest peak among rescued episodes,29,0.0,6.017539964498497,2,0,1,True,2.590180722448553
+learned,av2,uncertainty query,ce5033ee-e74e-354a-9299-8aaefbd03f59,29,30,highest peak among rescued episodes,30,0.19972900000000002,9.0,2,0,1,True,3.4235911810953983
+learned,av2,uncertainty query,ce5033ee-e74e-354a-9299-8aaefbd03f59,29,30,highest peak among rescued episodes,31,0.39945800000000004,0.0,0,0,0,False,
+learned,av2,uncertainty query,ce5033ee-e74e-354a-9299-8aaefbd03f59,29,30,highest peak among rescued episodes,32,0.599187,0.0,0,0,0,False,
+learned,av2,uncertainty query,ce5033ee-e74e-354a-9299-8aaefbd03f59,29,30,highest peak among rescued episodes,33,0.7989160000000001,3.7494607297512896,2,0,1,True,1.1270209359864487

@@ -1,0 +1,48 @@
+dataset,pipeline,event,winning_object_has_fallback,observations,used_upper,frames,units,mean_rate
+av2,v6S_b2A_missing_compact_observed_retro,new benchmark false-braking frame,False,-1,False,1,1,
+av2,v6S_b2A_missing_compact_observed_retro,new benchmark false-braking frame,True,2,False,7,7,0.4929616451263428
+av2,v6S_b2A_missing_compact_observed_retro,new benchmark false-braking frame,True,3,False,18,15,0.4887746291028129
+av2,v6S_b2A_missing_compact_observed_retro,new required braking frame,True,2,False,5,5,0.3024503171443939
+av2,v6S_b2A_missing_compact_observed_retro,new required braking frame,True,3,False,7,4,0.6181007708821978
+av2,v6S_b2A_missing_compact_observed_retro,other action change,True,2,False,1,1,0.7344240546226501
+av2,v6S_b2A_missing_compact_observed_retro,other action change,True,3,False,6,5,0.8368256390094757
+av2,v6S_b2A_missing_compact_retro,new benchmark false-braking frame,False,-1,False,1,1,
+av2,v6S_b2A_missing_compact_retro,new benchmark false-braking frame,True,1,False,5,4,0.32669681012630464
+av2,v6S_b2A_missing_compact_retro,new benchmark false-braking frame,True,2,False,7,7,0.4929616451263428
+av2,v6S_b2A_missing_compact_retro,new benchmark false-braking frame,True,3,False,18,15,0.4887746291028129
+av2,v6S_b2A_missing_compact_retro,new required braking frame,True,1,False,5,4,0.28233962059020995
+av2,v6S_b2A_missing_compact_retro,new required braking frame,True,2,False,5,5,0.3024503171443939
+av2,v6S_b2A_missing_compact_retro,new required braking frame,True,3,False,7,4,0.6181007708821978
+av2,v6S_b2A_missing_compact_retro,other action change,True,1,False,10,2,0.4966559767723083
+av2,v6S_b2A_missing_compact_retro,other action change,True,2,False,1,1,0.7344240546226501
+av2,v6S_b2A_missing_compact_retro,other action change,True,3,False,5,5,0.9072049736976624
+av2,v6S_b2A_missing_retro,new benchmark false-braking frame,False,-1,False,2,2,
+av2,v6S_b2A_missing_retro,new benchmark false-braking frame,True,1,False,24,21,0.34507312315205735
+av2,v6S_b2A_missing_retro,new benchmark false-braking frame,True,2,False,11,11,0.390372403643348
+av2,v6S_b2A_missing_retro,new benchmark false-braking frame,True,3,False,22,16,0.4385845044797117
+av2,v6S_b2A_missing_retro,new required braking frame,False,-1,False,1,1,
+av2,v6S_b2A_missing_retro,new required braking frame,True,1,False,18,12,0.364004318912824
+av2,v6S_b2A_missing_retro,new required braking frame,True,2,False,6,6,0.6602376898129781
+av2,v6S_b2A_missing_retro,new required braking frame,True,3,False,17,12,0.4590971504940706
+av2,v6S_b2A_missing_retro,other action change,True,1,False,10,9,0.6898955911397934
+av2,v6S_b2A_missing_retro,other action change,True,2,False,4,3,1.035028100013733
+av2,v6S_b2A_missing_retro,other action change,True,3,False,3,3,1.2859878937403362
+nusc,v6S_b2A_missing_compact_observed_retro,new benchmark false-braking frame,True,3,False,3,2,0.36309388279914856
+nusc,v6S_b2A_missing_compact_observed_retro,new required braking frame,True,3,False,1,1,0.48984044790267944
+nusc,v6S_b2A_missing_compact_observed_retro,other action change,True,2,False,2,2,0.8651512563228607
+nusc,v6S_b2A_missing_compact_observed_retro,other action change,True,3,False,2,2,0.9822212755680084
+nusc,v6S_b2A_missing_compact_retro,new benchmark false-braking frame,True,1,False,10,7,0.3017379388213158
+nusc,v6S_b2A_missing_compact_retro,new benchmark false-braking frame,True,3,False,3,2,0.36309388279914856
+nusc,v6S_b2A_missing_compact_retro,new required braking frame,True,1,False,9,7,0.41586702068646747
+nusc,v6S_b2A_missing_compact_retro,new required braking frame,True,3,False,1,1,0.48984044790267944
+nusc,v6S_b2A_missing_compact_retro,other action change,True,1,False,3,2,0.774044394493103
+nusc,v6S_b2A_missing_compact_retro,other action change,True,2,False,2,2,0.8651512563228607
+nusc,v6S_b2A_missing_compact_retro,other action change,True,3,False,2,2,0.9822212755680084
+nusc,v6S_b2A_missing_retro,new benchmark false-braking frame,True,1,False,15,10,0.352130592862765
+nusc,v6S_b2A_missing_retro,new benchmark false-braking frame,True,2,False,6,4,0.3628988166650136
+nusc,v6S_b2A_missing_retro,new benchmark false-braking frame,True,3,False,4,4,0.3489253520965576
+nusc,v6S_b2A_missing_retro,new required braking frame,True,1,False,15,8,0.38339418470859526
+nusc,v6S_b2A_missing_retro,new required braking frame,True,2,False,2,2,0.2649475783109665
+nusc,v6S_b2A_missing_retro,new required braking frame,True,3,False,1,1,0.37562280893325806
+nusc,v6S_b2A_missing_retro,other action change,True,1,False,8,5,0.8685321360826492
+nusc,v6S_b2A_missing_retro,other action change,True,2,False,2,1,0.9188672006130219

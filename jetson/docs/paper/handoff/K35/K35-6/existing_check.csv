@@ -1,0 +1,31 @@
+dataset,unit,frame,existing_category,satisfies_formal_definition,formal_categories_of_frame
+nusc,scene-0152,27,K8 spurious_removed,True,K8 spurious_removed
+nusc,scene-0443,30,K8 range_corrected,False,failure: under-reaction
+nusc,scene-1081,6,K8 missed_recovered_field,True,K8 missed_recovered_field;K15 missed recovered
+nusc,scene-1051,32,K8 failure,True,K8 failure;failure: missed
+nusc,scene-0273,6,K15 missed recovered,True,K8 missed_recovered_field;K15 missed recovered
+nusc,scene-0961,8,K15 missed recovered,True,K15 missed recovered
+nusc,scene-1051,36,failure: missed,True,K8 failure;failure: missed
+nusc,scene-0914,9,failure: other,True,failure: other
+nusc,scene-0685,22,failure: other,True,failure: other
+nusc,scene-0171,2,failure: under-reaction,True,failure: under-reaction
+nusc,scene-0171,3,failure: under-reaction,True,failure: under-reaction
+nusc,scene-0643,2,failure: unnecessary action,True,K8 failure;failure: unnecessary action
+nusc,scene-0515,35,failure: unnecessary action,True,K8 failure;failure: unnecessary action
+av2,dc9077b9-2fe0-3d18-9b97-8067ff090874,6,K8 spurious_removed,False,
+av2,201fe83b-7dd7-38f4-9d26-7b4a668638a9,36,K8 range_corrected,False,
+av2,76916359-96f4-3274-81fe-bb145d497c11,31,K8 missed_recovered_field,False,
+av2,201fe83b-7dd7-38f4-9d26-7b4a668638a9,32,K8 failure,True,K8 failure;failure: under-reaction
+av2,87ca3d9f-f317-3efb-b1cb-aaaf525227e5,17,K15 missed recovered,False,
+av2,c85a88a8-c916-30a7-923c-0c66bd3ebbd3,17,K15 missed recovered,True,K8 missed_recovered_field;K15 missed recovered
+av2,4e3fedbb-847c-3d5b-8a62-c9ff84550985,56,failure: missed,True,K8 failure;failure: missed
+av2,b6500255-eba3-3f77-acfd-626c07aa8621,3,failure: missed,True,K8 failure;failure: missed
+av2,ecbe6def-7560-352c-8822-b2b92613e1e4,0,failure: other,True,failure: other
+av2,c8ec7be0-92aa-3222-946e-fbcf398c841e,30,failure: other,True,failure: other
+av2,da036982-92bf-36a8-b880-4ccf4e20b74e,54,failure: under-reaction,True,K8 failure;failure: under-reaction
+av2,72cf3ca1-1a9e-3254-bca0-29c62521e454,23,failure: unnecessary action,True,K8 failure;failure: unnecessary action
+av2,92b900b1-ac4a-3d41-b118-e42c66382c91,45,failure: unnecessary action,True,K8 failure;failure: unnecessary action
+ahd,seq09,176,failure: missed,True,failure: missed
+ahd,seq17,402,failure: other,True,failure: other
+ahd,seq09,146,failure: under-reaction,True,K8 failure;failure: under-reaction
+ahd,seq01,722,failure: unnecessary action,True,K8 failure;failure: unnecessary action

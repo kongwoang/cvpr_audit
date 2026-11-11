@@ -1,0 +1,6 @@
+{
+  "status": "complete",
+  "evaluations": 178692,
+  "mismatches": [],
+  "scope": "CPU readout on stored VUW observations, not TensorRT or full-pipeline parity"
+}

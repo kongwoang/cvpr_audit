@@ -1,0 +1,26 @@
+{
+  "status": "complete",
+  "dataset": "av2_dev",
+  "frames": 80,
+  "baseline_differences": {
+    "a_ours@trt32": 0,
+    "a_ours@trt32_noref": 0,
+    "a_ours_b2A_retro@trt32": 0,
+    "a_ours_b2A_retro@trt32_noref": 0,
+    "a_ours_b2A_extent_retro@trt32": 0,
+    "a_ours_b2A_extent_retro@trt32_noref": 0,
+    "J_ours@trt32": 0,
+    "J_ours@trt32_noref": 0,
+    "J_ours_b2A_retro@trt32": 0,
+    "J_ours_b2A_retro@trt32_noref": 0,
+    "J_ours_b2A_extent_retro@trt32": 0,
+    "J_ours_b2A_extent_retro@trt32_noref": 0,
+    "px_ours@trt32": 0,
+    "px_ours@trt32_noref": 0,
+    "px_ours_b2A_retro@trt32": 0,
+    "px_ours_b2A_retro@trt32_noref": 0,
+    "px_ours_b2A_extent_retro@trt32": 0,
+    "px_ours_b2A_extent_retro@trt32_noref": 0
+  },
+  "median_abstention_action_differences": 0
+}

@@ -1,0 +1,12 @@
+dataset,stage,unit,start,end,peak,pipeline,prefix,transition,any_decisive_supported_brake,any_decisive_supported_hard_brake
+av2,calibrated,06852209-b868-306b-b492-ee6dbc914cf8,71,72,8.4547829484746,uncertainty query,v6S_b2A_query_retro,rescued,True,False
+av2,calibrated,14c8d182-9586-3f21-ad20-c4e19ec03e2c,51,53,2.1658958509528343,uncertainty query,v6S_b2A_query_retro,rescued,True,False
+av2,calibrated,2b044433-ddc1-3580-b560-d46474934089,37,39,1.55629941510302,uncertainty query,v6S_b2A_query_retro,rescued,True,False
+av2,calibrated,8f317f00-f8b4-325e-a5c7-e4045427a610,70,70,1.3854907077348175,uncertainty query,v6S_b2A_query_retro,rescued,True,False
+av2,calibrated,aa105408-2974-35e7-ae76-35060cfde21a,52,52,1.2587636876083912,uncertainty query,v6S_b2A_query_retro,rescued,True,False
+av2,calibrated,ac3e33eb-5a53-369d-9e5a-7950392bfe99,65,66,1.3126843832326216,uncertainty query,v6S_b2A_query_retro,rescued,False,False
+av2,calibrated,ce5033ee-e74e-354a-9299-8aaefbd03f59,29,30,9.0,uncertainty query,v6S_b2A_query_retro,rescued,True,False
+av2,calibrated,ce5033ee-e74e-354a-9299-8aaefbd03f59,33,36,3.7494607297512896,uncertainty query,v6S_b2A_query_retro,rescued,True,False
+av2,calibrated,e66d1403-755b-3f63-938b-a2a69446a48a,45,47,5.6041877219297165,uncertainty query,v6S_b2A_query_retro,rescued,True,False
+av2,calibrated,e7e178aa-931a-4674-9bff-9278a54e6aae,24,27,1.7387840520812174,uncertainty query,v6S_b2A_query_retro,rescued,True,False
+av2,calibrated,f84b4941-8e99-3957-b6f6-db1590338cf6,15,15,1.1971032145051694,uncertainty query,v6S_b2A_query_retro,rescued,True,False

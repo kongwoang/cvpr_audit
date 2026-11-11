@@ -1,0 +1,10 @@
+staged_run,row,frames,timed_frames,action_diff_timed,action_diff_all,action_parity_rate_timed,J_diff_timed,px_diff_timed,calls_diff_timed,crop_engine_exec_diff_timed,retro_calls_diff_timed,retro_attempted_diff_timed,retro_success_diff_timed,retro_pixels_diff_timed
+20261025_215632_k35_k29_staged_fast_timing_av2_v6S_r1_staged_fast,ours,786,586,0,0,1.0,0,0,0,0,0,0,0,0
+20261025_215632_k35_k29_staged_fast_timing_av2_v6S_r1_staged_fast,ours_b2A,786,586,0,0,1.0,0,0,0,0,0,0,0,0
+20261025_215632_k35_k29_staged_fast_timing_av2_v6S_r1_staged_fast,ours_b2A_retro,786,586,0,0,1.0,0,0,0,0,0,0,0,0
+20261025_220101_k35_k29_staged_fast_timing_av2_v6S_r2_staged_fast,ours,786,586,0,0,1.0,0,0,0,0,0,0,0,0
+20261025_220101_k35_k29_staged_fast_timing_av2_v6S_r2_staged_fast,ours_b2A,786,586,0,0,1.0,0,0,0,0,0,0,0,0
+20261025_220101_k35_k29_staged_fast_timing_av2_v6S_r2_staged_fast,ours_b2A_retro,786,586,0,0,1.0,0,0,0,0,0,0,0,0
+20261025_220531_k35_k29_staged_fast_timing_av2_v6S_r3_staged_fast,ours,786,586,0,0,1.0,0,0,0,0,0,0,0,0
+20261025_220531_k35_k29_staged_fast_timing_av2_v6S_r3_staged_fast,ours_b2A,786,586,0,0,1.0,0,0,0,0,0,0,0,0
+20261025_220531_k35_k29_staged_fast_timing_av2_v6S_r3_staged_fast,ours_b2A_retro,786,586,0,0,1.0,0,0,0,0,0,0,0,0

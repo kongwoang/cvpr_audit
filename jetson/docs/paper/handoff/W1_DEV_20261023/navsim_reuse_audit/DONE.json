@@ -1,0 +1,21 @@
+{
+  "host": "cuda13.ecs.vuw.ac.nz",
+  "tokens": 1000,
+  "grids": 2,
+  "repetitions": 1,
+  "warmup_repeats": 5,
+  "load_average": [
+    30.58740234375,
+    30.12841796875,
+    30.00927734375
+  ],
+  "frozen_sources": {
+    "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/scripts/A_navsim/k31_nav_p2.py": "0dca57834768b144f6d88127573ba52a470a0e51d71d66332bcf32aeb4a2f3a4",
+    "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/scripts/A_navsim/k34_selector_cost.py": "de0225a8f67e5011b86d763ba693a1a6de25dbbf04a81e3ee21a9440b09aa428"
+  },
+  "manifest_sha256": "5200c65a537b22ddc39c1ad35c0fe59704c3ca40a2ad22fb8618e1d39e46e813",
+  "script_sha256": "376147df005a3ef6270e823ea42fb52459e46be434572f7199d69c45feda83fc",
+  "omp_threads": "1",
+  "scope": "CPU scene/selector construction, field probes, binding support; excludes disk IO, detector and planner rollout beyond selector",
+  "caveat": "Single paired CPU pass on shared VUW host; not Jetson, not end-to-end. K34 frozen report unchanged."
+}

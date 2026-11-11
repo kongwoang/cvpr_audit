@@ -1,0 +1,97 @@
+dataset,refiner,pipeline,X_eq_piF,X_eq_required,piF_eq_required,frames,share,total
+nusc,none,DESP v6-S,True,True,True,8465,0.9220128526304324,9181
+nusc,none,DESP v6-S,True,True,False,0,0.0,9181
+nusc,none,DESP v6-S,True,False,True,0,0.0,9181
+nusc,none,DESP v6-S,True,False,False,498,0.05424245724866572,9181
+nusc,none,DESP v6-S,False,True,True,0,0.0,9181
+nusc,none,DESP v6-S,False,True,False,128,0.013941836401263478,9181
+nusc,none,DESP v6-S,False,False,True,81,0.008822568347674545,9181
+nusc,none,DESP v6-S,False,False,False,9,0.0009802853719638384,9181
+nusc,none,native + C1,True,True,True,8453,0.920705805467814,9181
+nusc,none,native + C1,True,True,False,0,0.0,9181
+nusc,none,native + C1,True,False,True,0,0.0,9181
+nusc,none,native + C1,True,False,False,489,0.05326217187670188,9181
+nusc,none,native + C1,False,True,True,0,0.0,9181
+nusc,none,native + C1,False,True,False,131,0.014268598191918091,9181
+nusc,none,native + C1,False,False,True,93,0.010129615510292997,9181
+nusc,none,native + C1,False,False,False,15,0.0016338089532730638,9181
+nusc,v3a,DESP v6-S,True,True,True,8585,0.9350833242566169,9181
+nusc,v3a,DESP v6-S,True,True,False,0,0.0,9181
+nusc,v3a,DESP v6-S,True,False,True,0,0.0,9181
+nusc,v3a,DESP v6-S,True,False,False,410,0.044657444722797084,9181
+nusc,v3a,DESP v6-S,False,True,True,0,0.0,9181
+nusc,v3a,DESP v6-S,False,True,False,107,0.011654503866681189,9181
+nusc,v3a,DESP v6-S,False,False,True,71,0.007733362378825836,9181
+nusc,v3a,DESP v6-S,False,False,False,8,0.0008713647750789674,9181
+nusc,v3a,native + C1,True,True,True,8580,0.9345387212721926,9181
+nusc,v3a,native + C1,True,True,False,0,0.0,9181
+nusc,v3a,native + C1,True,False,True,0,0.0,9181
+nusc,v3a,native + C1,True,False,False,393,0.04280579457575427,9181
+nusc,v3a,native + C1,False,True,True,0,0.0,9181
+nusc,v3a,native + C1,False,True,False,123,0.013397233416839124,9181
+nusc,v3a,native + C1,False,False,True,76,0.00827796536325019,9181
+nusc,v3a,native + C1,False,False,False,9,0.0009802853719638384,9181
+av2,none,DESP v6-S,True,True,True,9624,0.814350990015231,11818
+av2,none,DESP v6-S,True,True,False,0,0.0,11818
+av2,none,DESP v6-S,True,False,True,0,0.0,11818
+av2,none,DESP v6-S,True,False,False,1812,0.15332543577593502,11818
+av2,none,DESP v6-S,False,True,True,0,0.0,11818
+av2,none,DESP v6-S,False,True,False,219,0.018531054323912676,11818
+av2,none,DESP v6-S,False,False,True,126,0.01066170248773058,11818
+av2,none,DESP v6-S,False,False,False,37,0.003130817397190726,11818
+av2,none,native + C1,True,True,True,9486,0.8026738872905737,11818
+av2,none,native + C1,True,True,False,0,0.0,11818
+av2,none,native + C1,True,False,True,0,0.0,11818
+av2,none,native + C1,True,False,False,1755,0.14850228465053308,11818
+av2,none,native + C1,False,True,True,0,0.0,11818
+av2,none,native + C1,False,True,False,250,0.02115417160264004,11818
+av2,none,native + C1,False,False,True,264,0.02233880521238788,11818
+av2,none,native + C1,False,False,False,63,0.00533085124386529,11818
+av2,v3a,DESP v6-S,True,True,True,10538,0.891690641394483,11818
+av2,v3a,DESP v6-S,True,True,False,0,0.0,11818
+av2,v3a,DESP v6-S,True,False,True,0,0.0,11818
+av2,v3a,DESP v6-S,True,False,False,915,0.07742426806566255,11818
+av2,v3a,DESP v6-S,False,True,True,0,0.0,11818
+av2,v3a,DESP v6-S,False,True,False,201,0.01700795396852259,11818
+av2,v3a,DESP v6-S,False,False,True,136,0.011507869351836182,11818
+av2,v3a,DESP v6-S,False,False,False,28,0.0023692672194956846,11818
+av2,v3a,native + C1,True,True,True,10457,0.8848366897952277,11818
+av2,v3a,native + C1,True,True,False,0,0.0,11818
+av2,v3a,native + C1,True,False,True,0,0.0,11818
+av2,v3a,native + C1,True,False,False,862,0.07293958368590286,11818
+av2,v3a,native + C1,False,True,True,0,0.0,11818
+av2,v3a,native + C1,False,True,False,247,0.02090032154340836,11818
+av2,v3a,native + C1,False,False,True,217,0.018361820951091554,11818
+av2,v3a,native + C1,False,False,False,35,0.0029615840243696055,11818
+ahd,none,DESP v6-S,True,True,True,10883,0.7252432360389177,15006
+ahd,none,DESP v6-S,True,True,False,0,0.0,15006
+ahd,none,DESP v6-S,True,False,True,0,0.0,15006
+ahd,none,DESP v6-S,True,False,False,3226,0.2149806743969079,15006
+ahd,none,DESP v6-S,False,True,True,0,0.0,15006
+ahd,none,DESP v6-S,False,True,False,722,0.04811408769825403,15006
+ahd,none,DESP v6-S,False,False,True,130,0.008663201386112223,15006
+ahd,none,DESP v6-S,False,False,False,45,0.0029988004798080768,15006
+ahd,none,native + C1,True,True,True,10687,0.712181793949087,15006
+ahd,none,native + C1,True,True,False,0,0.0,15006
+ahd,none,native + C1,True,False,True,0,0.0,15006
+ahd,none,native + C1,True,False,False,3152,0.21004931360789017,15006
+ahd,none,native + C1,False,True,True,0,0.0,15006
+ahd,none,native + C1,False,True,False,668,0.04451552712248434,15006
+ahd,none,native + C1,False,False,True,326,0.021724643475942957,15006
+ahd,none,native + C1,False,False,False,173,0.011528721844595495,15006
+ahd,v3a,DESP v6-S,True,True,True,11562,0.7704918032786885,15006
+ahd,v3a,DESP v6-S,True,True,False,0,0.0,15006
+ahd,v3a,DESP v6-S,True,False,True,0,0.0,15006
+ahd,v3a,DESP v6-S,True,False,False,2572,0.17139810742369718,15006
+ahd,v3a,DESP v6-S,False,True,True,0,0.0,15006
+ahd,v3a,DESP v6-S,False,True,False,703,0.0468479274956684,15006
+ahd,v3a,DESP v6-S,False,False,True,133,0.008863121418099426,15006
+ahd,v3a,DESP v6-S,False,False,False,36,0.0023990403838464614,15006
+ahd,v3a,native + C1,True,True,True,11441,0.7624283619885379,15006
+ahd,v3a,native + C1,True,True,False,0,0.0,15006
+ahd,v3a,native + C1,True,False,True,0,0.0,15006
+ahd,v3a,native + C1,True,False,False,2447,0.16306810609089697,15006
+ahd,v3a,native + C1,False,True,True,0,0.0,15006
+ahd,v3a,native + C1,False,True,False,696,0.04638144742103159,15006
+ahd,v3a,native + C1,False,False,True,254,0.016926562708250034,15006
+ahd,v3a,native + C1,False,False,False,168,0.011195521791283487,15006

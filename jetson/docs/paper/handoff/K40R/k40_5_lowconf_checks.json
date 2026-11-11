@@ -1,0 +1,9 @@
+{
+ "frames": 9181,
+ "units": 228,
+ "unit_failures": 0,
+ "max_abs_dJ_v6S_vs_release": 0.0,
+ "frames_with_corridor_seeds": 3857,
+ "seeds_total": 7377,
+ "band_boxes_total": 54607
+}

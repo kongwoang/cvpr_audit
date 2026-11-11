@@ -1,0 +1,9 @@
+dataset,unit,frames,baseline_differing
+nusc,scene-0108,39,0
+nusc,scene-0109,40,0
+nusc,scene-0120,40,0
+nusc,scene-0129,40,0
+av2,05853f69-f948-3d04-8d64-d4e721c0e1a5,78,0
+av2,067b1c50-6567-3840-ab56-1ca2a0ed9c30,78,0
+av2,06852209-b868-306b-b492-ee6dbc914cf8,79,0
+av2,07e4fccb-eb2d-31e5-bbcb-6550d0860f64,79,0

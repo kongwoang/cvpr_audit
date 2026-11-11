@@ -1,0 +1,165 @@
+dataset,against,units,v51S_lower,equal,v51S_higher,sign_test_p
+nusc,cheap draft,228,119,80,29,3.817657045442608e-14
+nusc,v5.1-S | no refiner,228,39,163,26,0.1360323948778921
+nusc,v5.1-L | with refiner (row setting),228,16,197,15,1.0
+nusc,v5.1-L | no refiner,228,49,141,38,0.2836071084054854
+nusc,v5 | with refiner (row setting),228,62,136,30,0.001110927323374987
+nusc,v5 | no refiner,228,79,115,34,2.773113732181688e-05
+nusc,whole frame u640 | with refiner (row setting),228,94,96,38,1.1861458863771179e-06
+nusc,whole frame u640 + components | with refiner (row setting),228,67,118,43,0.027850888125662245
+nusc,whole frame u960 | with refiner (row setting),228,79,110,39,0.0002927402227399968
+nusc,whole frame u960 + components | with refiner (row setting),228,51,130,47,0.7620362195292442
+nusc,whole frame u1280 | with refiner (row setting),228,72,100,56,0.18468262705966312
+nusc,whole frame u1280 + components | with refiner (row setting),228,45,130,53,0.4796924995674869
+nusc,whole frame u1536 | with refiner (row setting),228,74,105,49,0.030046914835545075
+nusc,whole frame u1536 + components | with refiner (row setting),228,42,118,68,0.01674502147823378
+nusc,whole frame native | with refiner (row setting),228,66,109,53,0.271248337759405
+nusc,whole frame native + components | with refiner (row setting),228,40,124,64,0.023645635749768208
+nusc,uncertainty @ 0.5x v5.1-S px | with refiner (row setting),228,79,102,47,0.0055360251638978146
+nusc,uncertainty @ 0.5x v5.1-S px + components | with refiner (row setting),228,73,113,42,0.004928153852255293
+nusc,temporal_crit @ 0.5x v5.1-S px | with refiner (row setting),228,106,86,36,3.3871719969774525e-09
+nusc,temporal_crit @ 0.5x v5.1-S px + components | with refiner (row setting),228,95,96,37,4.6385411141544367e-07
+nusc,random @ 0.5x v5.1-S px | with refiner (row setting),228,115,80,33,7.838609724279183e-12
+nusc,random @ 0.5x v5.1-S px + components | with refiner (row setting),228,117,83,28,3.893241002593815e-14
+nusc,traj_support @ 0.5x v5.1-S px | with refiner (row setting),228,80,110,38,0.00013823849699097512
+nusc,traj_support @ 0.5x v5.1-S px + components | with refiner (row setting),228,62,140,26,0.00015714867103001836
+nusc,corridor @ 0.5x v5.1-S px | with refiner (row setting),228,92,101,35,4.3609050114827153e-07
+nusc,corridor @ 0.5x v5.1-S px + components | with refiner (row setting),228,77,124,27,9.701730804528465e-07
+nusc,uncertainty @ 1x v5.1-S px | with refiner (row setting),228,65,121,42,0.03294666029982695
+nusc,uncertainty @ 1x v5.1-S px + components | with refiner (row setting),228,47,146,35,0.22424452830608183
+nusc,temporal_crit @ 1x v5.1-S px | with refiner (row setting),228,100,90,38,1.288481661903929e-07
+nusc,temporal_crit @ 1x v5.1-S px + components | with refiner (row setting),228,81,111,36,3.866344408238963e-05
+nusc,random @ 1x v5.1-S px | with refiner (row setting),228,105,88,35,2.5588303858648052e-09
+nusc,random @ 1x v5.1-S px + components | with refiner (row setting),228,103,97,28,2.8045803061016367e-11
+nusc,traj_support @ 1x v5.1-S px | with refiner (row setting),228,59,131,38,0.041729321201286
+nusc,traj_support @ 1x v5.1-S px + components | with refiner (row setting),228,32,168,28,0.6988834276200058
+nusc,corridor @ 1x v5.1-S px | with refiner (row setting),228,83,105,40,0.00013195984718932787
+nusc,corridor @ 1x v5.1-S px + components | with refiner (row setting),228,72,125,31,6.596332626923021e-05
+nusc,uncertainty @ 2x v5.1-S px | with refiner (row setting),228,63,129,36,0.008633586943417947
+nusc,uncertainty @ 2x v5.1-S px + components | with refiner (row setting),228,40,160,28,0.1818100545355934
+nusc,temporal_crit @ 2x v5.1-S px | with refiner (row setting),228,93,98,37,9.701935109114767e-07
+nusc,temporal_crit @ 2x v5.1-S px + components | with refiner (row setting),228,69,127,32,0.0002959601961545845
+nusc,random @ 2x v5.1-S px | with refiner (row setting),228,100,95,33,4.962954006694654e-09
+nusc,random @ 2x v5.1-S px + components | with refiner (row setting),228,91,109,28,5.801973989742983e-09
+nusc,traj_support @ 2x v5.1-S px | with refiner (row setting),228,73,125,30,2.717641312570182e-05
+nusc,traj_support @ 2x v5.1-S px + components | with refiner (row setting),228,39,167,22,0.03961701489849968
+nusc,corridor @ 2x v5.1-S px | with refiner (row setting),228,83,109,36,1.9611841673751263e-05
+nusc,corridor @ 2x v5.1-S px + components | with refiner (row setting),228,62,135,31,0.0017127644224002386
+nusc,previous frozen v3 + refiner v1 (as reported) | with refiner (row setting),228,78,119,31,7.733924871438954e-06
+nusc,previous frozen v3 + components | with refiner (row setting),228,15,200,13,0.8505540192127228
+nusc,support only + components | with refiner (row setting),228,43,163,22,0.012502546136489844
+nusc,field only + components | with refiner (row setting),228,104,98,26,3.025786266290503e-12
+nusc,"oracle frame router (true V, top-k) @ v5.1-S px | with refiner (row setting)",228,18,122,88,2.9707702557827688e-12
+nusc,"oracle frame router (true V, top-k) @ v5.1-S px + components | with refiner (row setting)",228,23,128,77,5.513580775850052e-08
+nusc,best Budget-Adaptive Routing (picked on val): cond_moric @ v5.1-S px | with refiner (row setting),228,116,82,30,3.917818466976086e-13
+nusc,best Budget-Adaptive Routing (picked on val): cond_moric @ v5.1-S px + components | with refiner (row setting),228,115,83,30,6.243417026857546e-13
+nusc,best decision-value router (picked on val): cond_V @ v5.1-S px | with refiner (row setting),228,109,89,30,9.85182810302137e-12
+nusc,best decision-value router (picked on val): cond_V @ v5.1-S px + components | with refiner (row setting),228,107,90,31,5.4871722699138016e-11
+av2,cheap draft,150,116,7,27,2.4230350164618574e-14
+av2,v5.1-S | no refiner,150,85,22,43,0.0002585265972682698
+av2,v5.1-L | with refiner (row setting),150,46,87,17,0.00033670934946623826
+av2,v5.1-L | no refiner,150,94,14,42,9.669159852144027e-06
+av2,v5 | with refiner (row setting),150,101,22,27,2.9860859870559856e-11
+av2,v5 | no refiner,150,119,6,25,7.248285966038644e-16
+av2,whole frame u640 | with refiner (row setting),150,117,8,25,1.9856569224439693e-15
+av2,whole frame u640 + components | with refiner (row setting),150,99,11,40,5.95541996168303e-07
+av2,whole frame u960 | with refiner (row setting),150,104,10,36,7.600909757854836e-09
+av2,whole frame u960 + components | with refiner (row setting),150,85,14,51,0.004481251675252485
+av2,whole frame u1280 | with refiner (row setting),150,95,12,43,1.1299603475746222e-05
+av2,whole frame u1280 + components | with refiner (row setting),150,62,18,70,0.5425074179193997
+av2,whole frame u1536 | with refiner (row setting),150,100,10,40,4.143396431880526e-07
+av2,whole frame u1536 + components | with refiner (row setting),150,76,16,58,0.14166174981277432
+av2,whole frame native | with refiner (row setting),150,96,11,43,8.11847167514519e-06
+av2,whole frame native + components | with refiner (row setting),150,71,13,66,0.732684093591041
+av2,uncertainty @ 0.5x v5.1-S px | with refiner (row setting),150,100,7,43,2.1004568301653535e-06
+av2,uncertainty @ 0.5x v5.1-S px + components | with refiner (row setting),150,88,8,54,0.005430090453482414
+av2,temporal_crit @ 0.5x v5.1-S px | with refiner (row setting),150,111,9,30,3.95650868254614e-12
+av2,temporal_crit @ 0.5x v5.1-S px + components | with refiner (row setting),150,94,10,46,6.106032145217525e-05
+av2,random @ 0.5x v5.1-S px | with refiner (row setting),150,115,8,27,3.9409082023984755e-14
+av2,random @ 0.5x v5.1-S px + components | with refiner (row setting),150,113,8,29,6.542224944064406e-13
+av2,traj_support @ 0.5x v5.1-S px | with refiner (row setting),150,108,12,30,1.5502098275003617e-11
+av2,traj_support @ 0.5x v5.1-S px + components | with refiner (row setting),150,75,22,53,0.06300878260833404
+av2,corridor @ 0.5x v5.1-S px | with refiner (row setting),150,106,11,33,3.979392264405063e-10
+av2,corridor @ 0.5x v5.1-S px + components | with refiner (row setting),150,83,17,50,0.005325740283781562
+av2,uncertainty @ 1x v5.1-S px | with refiner (row setting),150,99,9,42,1.7623083665777156e-06
+av2,uncertainty @ 1x v5.1-S px + components | with refiner (row setting),150,75,13,62,0.3052427781333529
+av2,temporal_crit @ 1x v5.1-S px | with refiner (row setting),150,104,9,37,1.4687075361732718e-08
+av2,temporal_crit @ 1x v5.1-S px + components | with refiner (row setting),150,79,14,57,0.07135326795326226
+av2,random @ 1x v5.1-S px | with refiner (row setting),150,117,8,25,1.9856569224439693e-15
+av2,random @ 1x v5.1-S px + components | with refiner (row setting),150,111,8,31,9.170379890439553e-12
+av2,traj_support @ 1x v5.1-S px | with refiner (row setting),150,104,18,28,1.7738815010358873e-11
+av2,traj_support @ 1x v5.1-S px + components | with refiner (row setting),150,53,50,47,0.6172994135892524
+av2,corridor @ 1x v5.1-S px | with refiner (row setting),150,104,14,32,4.4262639384791036e-10
+av2,corridor @ 1x v5.1-S px + components | with refiner (row setting),150,73,25,52,0.07321432008545252
+av2,uncertainty @ 2x v5.1-S px | with refiner (row setting),150,102,13,35,8.691651732727622e-09
+av2,uncertainty @ 2x v5.1-S px + components | with refiner (row setting),150,70,26,54,0.17773167761166414
+av2,temporal_crit @ 2x v5.1-S px | with refiner (row setting),150,101,10,39,1.6065634901570444e-07
+av2,temporal_crit @ 2x v5.1-S px + components | with refiner (row setting),150,71,19,60,0.3823543213561345
+av2,random @ 2x v5.1-S px | with refiner (row setting),150,107,9,34,5.447167391561191e-10
+av2,random @ 2x v5.1-S px + components | with refiner (row setting),150,102,9,39,1.1042203333800955e-07
+av2,traj_support @ 2x v5.1-S px | with refiner (row setting),150,104,15,31,2.0557364040428807e-10
+av2,traj_support @ 2x v5.1-S px + components | with refiner (row setting),150,57,39,54,0.8495501873144536
+av2,corridor @ 2x v5.1-S px | with refiner (row setting),150,105,13,32,2.876303627501573e-10
+av2,corridor @ 2x v5.1-S px + components | with refiner (row setting),150,59,28,63,0.7860578568938604
+av2,previous frozen v4-lite + refiner v2 (as reported) | with refiner (row setting),150,116,8,26,9.051618305252369e-15
+av2,previous frozen v4-lite + components (= v5.1-S by construction) | with refiner (row setting),150,0,150,0,
+av2,support only + components | with refiner (row setting),150,44,58,48,0.754651749610499
+av2,field only + components | with refiner (row setting),150,123,8,19,7.713463986436663e-20
+av2,"oracle frame router (true V, top-k) @ v5.1-S px | with refiner (row setting)",150,35,12,103,5.7955033311319895e-09
+av2,"oracle frame router (true V, top-k) @ v5.1-S px + components | with refiner (row setting)",150,44,11,95,1.8167956227043718e-05
+av2,best Budget-Adaptive Routing (picked on val): cond_moric @ v5.1-S px | with refiner (row setting),150,116,7,27,2.4230350164618574e-14
+av2,best Budget-Adaptive Routing (picked on val): cond_moric @ v5.1-S px + components | with refiner (row setting),150,113,7,30,1.5773024918785618e-12
+av2,best decision-value router (picked on val): cond_V @ v5.1-S px | with refiner (row setting),150,114,7,29,4.091570083518954e-13
+av2,best decision-value router (picked on val): cond_V @ v5.1-S px + components | with refiner (row setting),150,114,7,29,4.091570083518954e-13
+ahd,cheap draft,24,22,1,1,5.7220458984375e-06
+ahd,v5.1-S | no refiner,24,11,4,9,0.8238029479980469
+ahd,v5.1-L | with refiner (row setting),24,16,7,1,0.000274658203125
+ahd,v5.1-L | no refiner,24,13,3,8,0.38331031799316406
+ahd,v5 | with refiner (row setting),24,22,1,1,5.7220458984375e-06
+ahd,v5 | no refiner,24,21,1,2,6.604194641113281e-05
+ahd,whole frame u640 | with refiner (row setting),24,23,1,0,2.384185791015625e-07
+ahd,whole frame u640 + components | with refiner (row setting),24,18,3,3,0.0014896392822265625
+ahd,whole frame u960 | with refiner (row setting),24,22,1,1,5.7220458984375e-06
+ahd,whole frame u960 + components | with refiner (row setting),24,14,3,7,0.18924713134765625
+ahd,whole frame u1280 | with refiner (row setting),24,20,1,3,0.00048828125
+ahd,whole frame u1280 + components | with refiner (row setting),24,13,3,8,0.38331031799316406
+ahd,whole frame u1536 | with refiner (row setting),24,21,1,2,6.604194641113281e-05
+ahd,whole frame u1536 + components | with refiner (row setting),24,13,3,8,0.38331031799316406
+ahd,whole frame native | with refiner (row setting),24,18,2,4,0.004343509674072266
+ahd,whole frame native + components | with refiner (row setting),24,13,2,9,0.5234670639038086
+ahd,uncertainty @ 0.5x v5.1-S px | with refiner (row setting),24,20,1,3,0.00048828125
+ahd,uncertainty @ 0.5x v5.1-S px + components | with refiner (row setting),24,20,1,3,0.00048828125
+ahd,temporal_crit @ 0.5x v5.1-S px | with refiner (row setting),24,23,1,0,2.384185791015625e-07
+ahd,temporal_crit @ 0.5x v5.1-S px + components | with refiner (row setting),24,19,1,4,0.002599477767944336
+ahd,random @ 0.5x v5.1-S px | with refiner (row setting),24,21,1,2,6.604194641113281e-05
+ahd,random @ 0.5x v5.1-S px + components | with refiner (row setting),24,20,1,3,0.00048828125
+ahd,traj_support @ 0.5x v5.1-S px | with refiner (row setting),24,22,1,1,5.7220458984375e-06
+ahd,traj_support @ 0.5x v5.1-S px + components | with refiner (row setting),24,14,1,9,0.4048728942871094
+ahd,corridor @ 0.5x v5.1-S px | with refiner (row setting),24,21,1,2,6.604194641113281e-05
+ahd,corridor @ 0.5x v5.1-S px + components | with refiner (row setting),24,16,1,7,0.0931396484375
+ahd,uncertainty @ 1x v5.1-S px | with refiner (row setting),24,21,1,2,6.604194641113281e-05
+ahd,uncertainty @ 1x v5.1-S px + components | with refiner (row setting),24,18,1,5,0.010622024536132812
+ahd,temporal_crit @ 1x v5.1-S px | with refiner (row setting),24,23,1,0,2.384185791015625e-07
+ahd,temporal_crit @ 1x v5.1-S px + components | with refiner (row setting),24,17,1,6,0.03468966484069824
+ahd,random @ 1x v5.1-S px | with refiner (row setting),24,21,1,2,6.604194641113281e-05
+ahd,random @ 1x v5.1-S px + components | with refiner (row setting),24,20,1,3,0.00048828125
+ahd,traj_support @ 1x v5.1-S px | with refiner (row setting),24,21,2,1,1.0967254638671875e-05
+ahd,traj_support @ 1x v5.1-S px + components | with refiner (row setting),24,12,4,8,0.5034446716308594
+ahd,corridor @ 1x v5.1-S px | with refiner (row setting),24,22,1,1,5.7220458984375e-06
+ahd,corridor @ 1x v5.1-S px + components | with refiner (row setting),24,14,1,9,0.4048728942871094
+ahd,uncertainty @ 2x v5.1-S px | with refiner (row setting),24,20,1,3,0.00048828125
+ahd,uncertainty @ 2x v5.1-S px + components | with refiner (row setting),24,17,3,4,0.007197380065917969
+ahd,temporal_crit @ 2x v5.1-S px | with refiner (row setting),24,23,1,0,2.384185791015625e-07
+ahd,temporal_crit @ 2x v5.1-S px + components | with refiner (row setting),24,16,3,5,0.02660369873046875
+ahd,random @ 2x v5.1-S px | with refiner (row setting),24,22,1,1,5.7220458984375e-06
+ahd,random @ 2x v5.1-S px + components | with refiner (row setting),24,20,1,3,0.00048828125
+ahd,traj_support @ 2x v5.1-S px | with refiner (row setting),24,22,1,1,5.7220458984375e-06
+ahd,traj_support @ 2x v5.1-S px + components | with refiner (row setting),24,11,4,9,0.8238029479980469
+ahd,corridor @ 2x v5.1-S px | with refiner (row setting),24,22,1,1,5.7220458984375e-06
+ahd,corridor @ 2x v5.1-S px + components | with refiner (row setting),24,12,2,10,0.8318119049072266
+ahd,previous frozen v4-lite + refiner v2 (as reported) | with refiner (row setting),24,22,1,1,5.7220458984375e-06
+ahd,previous frozen v4-lite + components (= v5.1-S by construction) | with refiner (row setting),24,0,24,0,
+ahd,support only + components | with refiner (row setting),24,5,4,15,0.04138946533203125
+ahd,field only + components | with refiner (row setting),24,23,1,0,2.384185791015625e-07
+ahd,"oracle frame router (true V, top-k) @ v5.1-S px | with refiner (row setting)",24,11,1,12,1.0
+ahd,"oracle frame router (true V, top-k) @ v5.1-S px + components | with refiner (row setting)",24,11,2,11,1.0

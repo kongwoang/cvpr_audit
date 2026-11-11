@@ -1,0 +1,13 @@
+dataset,category,frames,share_of_frames,loss_excess_share_of_cheap_loss
+nusc,missed: a relevant object u960 finds is not in ours' scene,22,0.0023962531314671606,0.07208339464699208
+nusc,"other (same action class as required, switching cost)",9,0.0009802853719638384,0.000704781428605903
+nusc,under-reaction with the relevant objects in ours' scene (range / ttc),40,0.0043568238753948375,0.050719173144168274
+nusc,unnecessary action (ours above the required action),9,0.0009802853719638384,0.0019782614702047274
+av2,missed: a relevant object u960 finds is not in ours' scene,4,0.00033846674564224065,0.0007812404564855978
+av2,"other (same action class as required, switching cost)",25,0.002115417160264004,0.0008735610794458422
+av2,under-reaction with the relevant objects in ours' scene (range / ttc),77,0.006515484853613133,0.08621715655490501
+av2,unnecessary action (ours above the required action),49,0.004146217634117448,0.009231720478765823
+ahd,missed: a relevant object u960 finds is not in ours' scene,22,0.0014660802345728375,0.0033184817536971814
+ahd,"other (same action class as required, switching cost)",52,0.0034652805544448887,0.0012823023051312735
+ahd,under-reaction with the relevant objects in ours' scene (range / ttc),55,0.003665200586432094,0.0046463818886929575
+ahd,unnecessary action (ours above the required action),42,0.0027988804478208716,0.0067079148212860935

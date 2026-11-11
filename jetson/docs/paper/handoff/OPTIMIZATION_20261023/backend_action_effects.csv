@@ -1,0 +1,28 @@
+source,dataset,rep,pipeline,common_frames,action_effect_differences
+legacy_k29,nusc,1,v6-S + recovery,512,0
+legacy_k29,nusc,1,B2K-A,512,3
+legacy_k29,nusc,1,B2K-A + recovery,512,2
+legacy_k29,av2,1,v6-S + recovery,270,0
+legacy_k29,av2,1,B2K-A,270,0
+legacy_k29,av2,1,B2K-A + recovery,270,0
+legacy_k29,nusc,2,v6-S + recovery,512,0
+legacy_k29,nusc,2,B2K-A,512,3
+legacy_k29,nusc,2,B2K-A + recovery,512,2
+legacy_k29,av2,2,v6-S + recovery,270,0
+legacy_k29,av2,2,B2K-A,270,0
+legacy_k29,av2,2,B2K-A + recovery,270,0
+legacy_k29,nusc,3,v6-S + recovery,512,0
+legacy_k29,nusc,3,B2K-A,512,3
+legacy_k29,nusc,3,B2K-A + recovery,512,2
+legacy_k29,av2,3,v6-S + recovery,270,0
+legacy_k29,av2,3,B2K-A,270,0
+legacy_k29,av2,3,B2K-A + recovery,270,0
+verified_cfg,av2,1,v6-S + recovery,512,0
+verified_cfg,av2,1,B2K-A,512,2
+verified_cfg,av2,1,B2K-A + recovery,512,2
+verified_cfg,av2,2,v6-S + recovery,512,0
+verified_cfg,av2,2,B2K-A,512,2
+verified_cfg,av2,2,B2K-A + recovery,512,2
+verified_cfg,av2,3,v6-S + recovery,512,0
+verified_cfg,av2,3,B2K-A,512,2
+verified_cfg,av2,3,B2K-A + recovery,512,2

@@ -1,0 +1,10 @@
+{
+  "status": "complete",
+  "samples": 28177,
+  "v3a_sha256": "46bb704a6a83068116bc7443724931d56d6d4d098cea247ef55bb3ebc64fbaa9",
+  "caveats": [
+    "C1 embeddings cached fp16; readout fp32.",
+    "v3a on all matched objects for geometry audit, not scene support.",
+    "Original holdouts used for earlier model selection."
+  ]
+}

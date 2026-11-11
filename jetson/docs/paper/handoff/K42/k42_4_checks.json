@@ -1,0 +1,26 @@
+{
+ "nusc": {
+  "frames": 928,
+  "len(crops) != ncrops + nguard": 0,
+  "all-crop coverage != K34 covered": 0,
+  "field+support covered but all-crop not (impossible)": 0,
+  "units (instr GT) vs K34 all_units": "228 vs 228",
+  "K34 all-crop interval reproduced (max abs diff)": 1.1102230246251565e-16
+ },
+ "av2": {
+  "frames": 2854,
+  "len(crops) != ncrops + nguard": 0,
+  "all-crop coverage != K34 covered": 0,
+  "field+support covered but all-crop not (impossible)": 0,
+  "units (instr GT) vs K34 all_units": "150 vs 150",
+  "K34 all-crop interval reproduced (max abs diff)": 1.1102230246251565e-16
+ },
+ "ahd": {
+  "frames": 3593,
+  "len(crops) != ncrops + nguard": 0,
+  "all-crop coverage != K34 covered": 0,
+  "field+support covered but all-crop not (impossible)": 0,
+  "units (instr GT) vs K34 all_units": "24 vs 24",
+  "K34 all-crop interval reproduced (max abs diff)": 1.1102230246251565e-16
+ }
+}

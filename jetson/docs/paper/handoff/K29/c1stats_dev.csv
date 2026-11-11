@@ -1,0 +1,71 @@
+dataset,config,path,chains,pruned,encoded,calls,spec_encoded,spec_calls,run
+nuScenes new val (dev),v6S,trt16,52905,42478.0,13212.0,8133.0,0.0,0.0,20261015_014235_k29_parity_nusc_val_v6S_a
+nuScenes new val (dev),v6S,trt32,52905,42478.0,13212.0,8133.0,0.0,0.0,20261015_014235_k29_parity_nusc_val_v6S_a
+nuScenes new val (dev),v6S,t32,52905,42478.0,13212.0,8133.0,0.0,0.0,20261015_014235_k29_parity_nusc_val_v6S_a
+nuScenes new val (dev),v6S,t16g,52905,42478.0,13212.0,8133.0,0.0,0.0,20261015_014235_k29_parity_nusc_val_v6S_a
+nuScenes new val (dev),v6S,trt16np,52905,0.0,71993.0,16742.0,0.0,0.0,20261015_014235_k29_parity_nusc_val_v6S_a
+nuScenes new val (dev),v6S,trt16ov,52905,42478.0,12197.0,7447.0,1904.0,1307.0,20261015_014235_k29_parity_nusc_val_v6S_a
+nuScenes new val (dev),v6S,ref,52905,,,,,,20261015_014235_k29_parity_nusc_val_v6S_a
+nuScenes new val (dev),v6S,trt16,54305,45858.0,11607.0,6493.0,0.0,0.0,20261015_023331_k29_parity_nusc_val_v6S_b
+nuScenes new val (dev),v6S,trt32,54305,45858.0,11607.0,6493.0,0.0,0.0,20261015_023331_k29_parity_nusc_val_v6S_b
+nuScenes new val (dev),v6S,t32,54305,45858.0,11607.0,6493.0,0.0,0.0,20261015_023331_k29_parity_nusc_val_v6S_b
+nuScenes new val (dev),v6S,t16g,54305,45858.0,11607.0,6493.0,0.0,0.0,20261015_023331_k29_parity_nusc_val_v6S_b
+nuScenes new val (dev),v6S,trt16np,54305,0.0,77505.0,13001.0,0.0,0.0,20261015_023331_k29_parity_nusc_val_v6S_b
+nuScenes new val (dev),v6S,trt16ov,54305,45858.0,11607.0,6493.0,0.0,0.0,20261015_023331_k29_parity_nusc_val_v6S_b
+nuScenes new val (dev),v6S,ref,54305,,,,,,20261015_023331_k29_parity_nusc_val_v6S_b
+nuScenes new val (dev),v51S,trt16,8609,6352.0,3033.0,1992.0,0.0,0.0,20261015_030818_k29_parity_nusc_val_v51S_c
+nuScenes new val (dev),v51S,trt32,8609,6352.0,3033.0,1992.0,0.0,0.0,20261015_030818_k29_parity_nusc_val_v51S_c
+nuScenes new val (dev),v51S,t32,8609,6352.0,3033.0,1992.0,0.0,0.0,20261015_030818_k29_parity_nusc_val_v51S_c
+nuScenes new val (dev),v51S,t16g,8609,6352.0,3033.0,1992.0,0.0,0.0,20261015_030818_k29_parity_nusc_val_v51S_c
+nuScenes new val (dev),v51S,trt16np,8609,0.0,12871.0,3489.0,0.0,0.0,20261015_030818_k29_parity_nusc_val_v51S_c
+nuScenes new val (dev),v51S,trt16ov,8609,6352.0,3033.0,1992.0,0.0,0.0,20261015_030818_k29_parity_nusc_val_v51S_c
+nuScenes new val (dev),v51S,ref,8609,,,,,,20261015_030818_k29_parity_nusc_val_v51S_c
+nuScenes new val (dev),v6M,trt16,11527,8259.0,3440.0,2364.0,0.0,0.0,20261015_035013_k29_parity_nusc_val_v6M_d
+nuScenes new val (dev),v6M,trt32,11527,8259.0,3440.0,2364.0,0.0,0.0,20261015_035013_k29_parity_nusc_val_v6M_d
+nuScenes new val (dev),v6M,t32,11527,8259.0,3440.0,2364.0,0.0,0.0,20261015_035013_k29_parity_nusc_val_v6M_d
+nuScenes new val (dev),v6M,t16g,11527,8259.0,3440.0,2364.0,0.0,0.0,20261015_035013_k29_parity_nusc_val_v6M_d
+nuScenes new val (dev),v6M,trt16np,11527,0.0,13145.0,4535.0,0.0,0.0,20261015_035013_k29_parity_nusc_val_v6M_d
+nuScenes new val (dev),v6M,trt16ov,11527,8259.0,2427.0,1656.0,1833.0,1316.0,20261015_035013_k29_parity_nusc_val_v6M_d
+nuScenes new val (dev),v6M,ref,11527,,,,,,20261015_035013_k29_parity_nusc_val_v6M_d
+nuScenes new val (dev),v6L,trt16,9918,6672.0,3398.0,2379.0,0.0,0.0,20261015_041516_k29_parity_nusc_val_v6L_e
+nuScenes new val (dev),v6L,trt32,9918,6672.0,3398.0,2379.0,0.0,0.0,20261015_041516_k29_parity_nusc_val_v6L_e
+nuScenes new val (dev),v6L,t32,9918,6672.0,3398.0,2379.0,0.0,0.0,20261015_041516_k29_parity_nusc_val_v6L_e
+nuScenes new val (dev),v6L,t16g,9918,6672.0,3398.0,2379.0,0.0,0.0,20261015_041516_k29_parity_nusc_val_v6L_e
+nuScenes new val (dev),v6L,trt16np,9918,0.0,11329.0,4516.0,0.0,0.0,20261015_041516_k29_parity_nusc_val_v6L_e
+nuScenes new val (dev),v6L,trt16ov,9918,6672.0,2360.0,1630.0,1825.0,1318.0,20261015_041516_k29_parity_nusc_val_v6L_e
+nuScenes new val (dev),v6L,ref,9918,,,,,,20261015_041516_k29_parity_nusc_val_v6L_e
+"AV2 CFG-DEV (dev), ego mask",v6S,trt16,240272,177303.0,71478.0,34500.0,0.0,0.0,20261015_044015_k29_parity_av2_dev_v6S_a
+"AV2 CFG-DEV (dev), ego mask",v6S,trt32,240272,177303.0,71478.0,34500.0,0.0,0.0,20261015_044015_k29_parity_av2_dev_v6S_a
+"AV2 CFG-DEV (dev), ego mask",v6S,t32,240272,177303.0,71478.0,34500.0,0.0,0.0,20261015_044015_k29_parity_av2_dev_v6S_a
+"AV2 CFG-DEV (dev), ego mask",v6S,t16g,240272,177303.0,71478.0,34500.0,0.0,0.0,20261015_044015_k29_parity_av2_dev_v6S_a
+"AV2 CFG-DEV (dev), ego mask",v6S,trt16np,240272,0.0,273762.0,45194.0,0.0,0.0,20261015_044015_k29_parity_av2_dev_v6S_a
+"AV2 CFG-DEV (dev), ego mask",v6S,trt16ov,240272,177303.0,62848.0,30631.0,13984.0,6345.0,20261015_044015_k29_parity_av2_dev_v6S_a
+"AV2 CFG-DEV (dev), ego mask",v6S,ref,240272,,,,,,20261015_044015_k29_parity_av2_dev_v6S_a
+"AV2 CFG-DEV (dev), ego mask",v6S,trt16,229486,180734.0,60620.0,23721.0,0.0,0.0,20261015_075557_k29_parity_av2_dev_v6S_b
+"AV2 CFG-DEV (dev), ego mask",v6S,trt32,229486,180734.0,60620.0,23721.0,0.0,0.0,20261015_075557_k29_parity_av2_dev_v6S_b
+"AV2 CFG-DEV (dev), ego mask",v6S,t32,229486,180734.0,60620.0,23721.0,0.0,0.0,20261015_075557_k29_parity_av2_dev_v6S_b
+"AV2 CFG-DEV (dev), ego mask",v6S,t16g,229486,180734.0,60620.0,23721.0,0.0,0.0,20261015_075557_k29_parity_av2_dev_v6S_b
+"AV2 CFG-DEV (dev), ego mask",v6S,trt16np,229486,0.0,280280.0,28582.0,0.0,0.0,20261015_075557_k29_parity_av2_dev_v6S_b
+"AV2 CFG-DEV (dev), ego mask",v6S,trt16ov,229486,180734.0,60620.0,23721.0,0.0,0.0,20261015_075557_k29_parity_av2_dev_v6S_b
+"AV2 CFG-DEV (dev), ego mask",v6S,ref,229486,,,,,,20261015_075557_k29_parity_av2_dev_v6S_b
+"AV2 CFG-DEV (dev), ego mask",v51S,trt16,55809,39084.0,21387.0,9568.0,0.0,0.0,20261015_095522_k29_parity_av2_dev_v51S_c
+"AV2 CFG-DEV (dev), ego mask",v51S,trt32,55809,39084.0,21387.0,9568.0,0.0,0.0,20261015_095522_k29_parity_av2_dev_v51S_c
+"AV2 CFG-DEV (dev), ego mask",v51S,t32,55809,39084.0,21387.0,9568.0,0.0,0.0,20261015_095522_k29_parity_av2_dev_v51S_c
+"AV2 CFG-DEV (dev), ego mask",v51S,t16g,55809,39084.0,21387.0,9568.0,0.0,0.0,20261015_095522_k29_parity_av2_dev_v51S_c
+"AV2 CFG-DEV (dev), ego mask",v51S,trt16np,55809,0.0,71851.0,11219.0,0.0,0.0,20261015_095522_k29_parity_av2_dev_v51S_c
+"AV2 CFG-DEV (dev), ego mask",v51S,trt16ov,55809,39084.0,21387.0,9568.0,0.0,0.0,20261015_095522_k29_parity_av2_dev_v51S_c
+"AV2 CFG-DEV (dev), ego mask",v51S,ref,55809,,,,,,20261015_095522_k29_parity_av2_dev_v51S_c
+"AV2 CFG-DEV (dev), ego mask",v6M,trt16,71610,47550.0,22788.0,11870.0,0.0,0.0,20261015_115638_k29_parity_av2_dev_v6M_d
+"AV2 CFG-DEV (dev), ego mask",v6M,trt32,71610,47550.0,22788.0,11870.0,0.0,0.0,20261015_115638_k29_parity_av2_dev_v6M_d
+"AV2 CFG-DEV (dev), ego mask",v6M,t32,71610,47550.0,22788.0,11870.0,0.0,0.0,20261015_115638_k29_parity_av2_dev_v6M_d
+"AV2 CFG-DEV (dev), ego mask",v6M,t16g,71610,47550.0,22788.0,11870.0,0.0,0.0,20261015_115638_k29_parity_av2_dev_v6M_d
+"AV2 CFG-DEV (dev), ego mask",v6M,trt16np,71610,0.0,69204.0,16495.0,0.0,0.0,20261015_115638_k29_parity_av2_dev_v6M_d
+"AV2 CFG-DEV (dev), ego mask",v6M,trt16ov,71610,47550.0,14455.0,8059.0,13312.0,6345.0,20261015_115638_k29_parity_av2_dev_v6M_d
+"AV2 CFG-DEV (dev), ego mask",v6M,ref,71610,,,,,,20261015_115638_k29_parity_av2_dev_v6M_d
+"AV2 CFG-DEV (dev), ego mask",v6L,trt16,70975,46857.0,23080.0,11988.0,0.0,0.0,20261015_131634_k29_parity_av2_dev_v6L_e
+"AV2 CFG-DEV (dev), ego mask",v6L,trt32,70975,46857.0,23080.0,11988.0,0.0,0.0,20261015_131634_k29_parity_av2_dev_v6L_e
+"AV2 CFG-DEV (dev), ego mask",v6L,t32,70975,46857.0,23080.0,11988.0,0.0,0.0,20261015_131634_k29_parity_av2_dev_v6L_e
+"AV2 CFG-DEV (dev), ego mask",v6L,t16g,70975,46857.0,23080.0,11988.0,0.0,0.0,20261015_131634_k29_parity_av2_dev_v6L_e
+"AV2 CFG-DEV (dev), ego mask",v6L,trt16np,70975,0.0,69026.0,16499.0,0.0,0.0,20261015_131634_k29_parity_av2_dev_v6L_e
+"AV2 CFG-DEV (dev), ego mask",v6L,trt16ov,70975,46857.0,14579.0,8072.0,13492.0,6359.0,20261015_131634_k29_parity_av2_dev_v6L_e
+"AV2 CFG-DEV (dev), ego mask",v6L,ref,70975,,,,,,20261015_131634_k29_parity_av2_dev_v6L_e

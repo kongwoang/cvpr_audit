@@ -1,0 +1,93 @@
+{
+  "status": "complete",
+  "dataset": "nusc",
+  "train_pairs": 47126,
+  "val_pairs": 8245,
+  "epochs": 15,
+  "best_epoch": 1,
+  "auc": 0.9438430057959909,
+  "average_precision": 0.8666091355709018,
+  "valid_rejection": 0.009898064706751367,
+  "switch_recall": 0.5785907859078591,
+  "threshold": 0.928704023361206,
+  "history": [
+    {
+      "epoch": 0,
+      "auc": 0.93147688069435,
+      "average_precision": 0.8369847191115322
+    },
+    {
+      "epoch": 1,
+      "auc": 0.9438430057959909,
+      "average_precision": 0.8666091355709018
+    },
+    {
+      "epoch": 2,
+      "auc": 0.9389538270475037,
+      "average_precision": 0.8550014422926513
+    },
+    {
+      "epoch": 3,
+      "auc": 0.9355492779333172,
+      "average_precision": 0.8488040547033815
+    },
+    {
+      "epoch": 4,
+      "auc": 0.9394419642231583,
+      "average_precision": 0.8593191342125396
+    },
+    {
+      "epoch": 5,
+      "auc": 0.9311387278446578,
+      "average_precision": 0.8374641768241053
+    },
+    {
+      "epoch": 6,
+      "auc": 0.9261245371354586,
+      "average_precision": 0.831882602670852
+    },
+    {
+      "epoch": 7,
+      "auc": 0.9331409210088556,
+      "average_precision": 0.8405655859030542
+    },
+    {
+      "epoch": 8,
+      "auc": 0.9202233520340817,
+      "average_precision": 0.8144524452248206
+    },
+    {
+      "epoch": 9,
+      "auc": 0.9262921872829306,
+      "average_precision": 0.8179143128707649
+    },
+    {
+      "epoch": 10,
+      "auc": 0.9356362057859019,
+      "average_precision": 0.8497881167830773
+    },
+    {
+      "epoch": 11,
+      "auc": 0.9222408088684226,
+      "average_precision": 0.810469451451294
+    },
+    {
+      "epoch": 12,
+      "auc": 0.922450446619993,
+      "average_precision": 0.8345463676420091
+    },
+    {
+      "epoch": 13,
+      "auc": 0.9394595299550278,
+      "average_precision": 0.847901743783997
+    },
+    {
+      "epoch": 14,
+      "auc": 0.9192992744301797,
+      "average_precision": 0.8093268207577433
+    }
+  ],
+  "feasibility_gate": true,
+  "pipeline_changed": false,
+  "checkpoint_sha256": "7b2b25fdfdeca84bec1bbaddf5d2bfe88039956067171e51f586b2091df4f387"
+}

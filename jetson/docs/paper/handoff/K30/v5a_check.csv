@@ -1,0 +1,34 @@
+dataset,pipeline,frames,max_abs_dJ
+nusc,cheap,9181,0.0
+nusc,v6-S,9181,0.0
+nusc,u960 + C1 + v3a,9181,0.0
+nusc,native + C1 + v3a,9181,0.0
+nusc,hybrid tsp8@S + C1 + v3a,9181,0.0
+nusc,temporal-crit tcr0@S + C1 + v3a,9181,0.0
+nusc,temporal-crit tcr3@S + C1 + v3a,9181,0.0
+nusc,uncertainty unc2@S + C1 + v3a,9181,0.0
+nusc,uncertainty unc4@S + C1 + v3a,9181,0.0
+nusc,ego corridor cor0@S + C1 + v3a,9181,0.0
+nusc,ego corridor cor8@S + C1 + v3a,9181,0.0
+av2,cheap,11818,0.0
+av2,v6-S,11818,0.0
+av2,u960 + C1 + v3a,11818,0.0
+av2,native + C1 + v3a,11818,0.0
+av2,hybrid tsp8@S + C1 + v3a,11818,0.0
+av2,temporal-crit tcr0@S + C1 + v3a,11818,0.0
+av2,temporal-crit tcr3@S + C1 + v3a,11818,0.0
+av2,uncertainty unc2@S + C1 + v3a,11818,0.0
+av2,uncertainty unc4@S + C1 + v3a,11818,0.0
+av2,ego corridor cor0@S + C1 + v3a,11818,0.0
+av2,ego corridor cor8@S + C1 + v3a,11818,0.0
+ahd,cheap,15006,0.0
+ahd,v6-S,15006,0.0
+ahd,u960 + C1 + v3a,15006,0.0
+ahd,native + C1 + v3a,15006,0.0
+ahd,hybrid tsp8@S + C1 + v3a,15006,0.0
+ahd,temporal-crit tcr0@S + C1 + v3a,15006,0.0
+ahd,temporal-crit tcr3@S + C1 + v3a,15006,0.0
+ahd,uncertainty unc2@S + C1 + v3a,15006,0.0
+ahd,uncertainty unc4@S + C1 + v3a,15006,0.0
+ahd,ego corridor cor0@S + C1 + v3a,15006,0.0
+ahd,ego corridor cor8@S + C1 + v3a,15006,0.0

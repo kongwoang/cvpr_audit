@@ -1,0 +1,7 @@
+{
+  "status": "complete",
+  "comparison_rows": 72,
+  "differences": 75,
+  "verified_reference_coverage_complete": true,
+  "legacy_missing_rows": 1197
+}

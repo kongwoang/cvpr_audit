@@ -1,0 +1,16 @@
+dataset,scope,flag,frames,of_frames,loss,of_loss
+av2,required,possible_contained_fragment,6168,6299,5687.093079086262,6477.293744285054
+av2,required,image_edge,378,6299,2584.7880424725818,6477.293744285054
+av2,required,mask_overlap_positive,80,6299,1457.9516095462066,6477.293744285054
+av2,required,mask_overlap_ge_half,0,6299,0.0,6477.293744285054
+av2,required,box_area_ge_10pct,429,6299,2302.587478138817,6477.293744285054
+av2,unbraked_required,possible_contained_fragment,608,687,3038.146695827113,3706.1627871934534
+av2,unbraked_required,image_edge,49,687,1398.900005140934,3706.1627871934534
+av2,unbraked_required,mask_overlap_positive,20,687,1085.5223395753183,3706.1627871934534
+av2,unbraked_required,mask_overlap_ge_half,0,687,0.0,3706.1627871934534
+av2,unbraked_required,box_area_ge_10pct,44,687,1130.7216534165746,3706.1627871934534
+av2,unbraked_unmatched,possible_contained_fragment,21,96,133.91739821012675,783.1090984343399
+av2,unbraked_unmatched,image_edge,14,96,547.9524156077628,783.1090984343399
+av2,unbraked_unmatched,mask_overlap_positive,6,96,385.7233007817261,783.1090984343399
+av2,unbraked_unmatched,mask_overlap_ge_half,0,96,0.0,783.1090984343399
+av2,unbraked_unmatched,box_area_ge_10pct,10,96,373.22031349562116,783.1090984343399

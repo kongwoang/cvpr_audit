@@ -1,0 +1,8 @@
+{
+  "script": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/scripts/A_method/k40r_cpu.py",
+  "md5": "de0aeecbf4e7cb5996f068c54e85e6da",
+  "holdout_read": false,
+  "bootstrap_draws": 2000,
+  "seed": 0,
+  "rows": 492
+}

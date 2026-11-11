@@ -1,0 +1,343 @@
+[
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k28/p3/ahd_test_instr/seq00.pkl",
+  "sha256": "183d119b04e0de2396a984183433bc8d8c62354f6b0730d02b866f0903f19bda",
+  "bytes": 5868293
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k28/p3/ahd_test_instr/seq01.pkl",
+  "sha256": "1d076567f07fab35fd921d451463046098029b95e877b0a637a8dcecefbcf26a",
+  "bytes": 5510149
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k28/p3/ahd_test_instr/seq02.pkl",
+  "sha256": "68e2b5b25598c70b812f22bdad3a16d31efe389eb6089515540bcf4eeb4e8c22",
+  "bytes": 2759090
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k28/p3/ahd_test_instr/seq03.pkl",
+  "sha256": "28d472e34e6ed39d2189e2fb6895be55796016d7e4475aa855d2461e7cf4f854",
+  "bytes": 2866240
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k28/p3/ahd_test_instr/seq04.pkl",
+  "sha256": "4efa7108b3ced0f971c8dc596da4033c88df48d07eccf5c90d999ae9bfe7b9ef",
+  "bytes": 3941373
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k28/p3/ahd_test_instr/seq05.pkl",
+  "sha256": "c78076b033624da2d39a287a42c77f26fa1b27b9df73a5f8db1840ad0bc9a38d",
+  "bytes": 2670514
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k28/p3/ahd_test_instr/seq06.pkl",
+  "sha256": "488a482745722849dbe0d73fb32fbc5e8bb36d1f7bdf396e1fa25fa26508b6f3",
+  "bytes": 2939321
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k28/p3/ahd_test_instr/seq07.pkl",
+  "sha256": "9c3fddd6f0768c62e553ecf9be9746a980ca2fb527d819bc0df3f485240c3cb2",
+  "bytes": 2754016
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k28/p3/ahd_test_instr/seq08.pkl",
+  "sha256": "1d19067328892475b82289e5a262e8daafffe53e1efd33838c6083b4162f66d1",
+  "bytes": 5277816
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k28/p3/ahd_test_instr/seq09.pkl",
+  "sha256": "6ad69cf8fef361d9031349e9465ae839b4bd6ff426bf75d8d1bc5d1ada60c616",
+  "bytes": 4734066
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k28/p3/ahd_test_instr/seq10.pkl",
+  "sha256": "ca1fc09ef0d820336cc79f375e7982d66c2db9768cba4d1f79fdf458fc1ee4a4",
+  "bytes": 2925647
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k28/p3/ahd_test_instr/seq11.pkl",
+  "sha256": "040adeece5d1dfd509b2693de5fcb8d8df3d94616dd1f75f88eb791565aa851d",
+  "bytes": 5432174
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k28/p3/ahd_test_instr/seq12.pkl",
+  "sha256": "487aedad03063d42b1016dc247b869a9e08acb364d6a30695caffa0b974d07af",
+  "bytes": 2758929
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k28/p3/ahd_test_instr/seq13.pkl",
+  "sha256": "7d39b09eff21d51142d785e525fb3a5d9b2b674622dec1420d475cf2fc1618ce",
+  "bytes": 5964338
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k28/p3/ahd_test_instr/seq14.pkl",
+  "sha256": "1f5ac89e3206f46586f6c69e297f6d416087ea3e503f03ee77233f1a88a20c16",
+  "bytes": 5307855
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k28/p3/ahd_test_instr/seq15.pkl",
+  "sha256": "6079f0259dbacedfa555a4da3660725a673b9906d2048c3fb289fda3200eab09",
+  "bytes": 5388928
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k28/p3/ahd_test_instr/seq16.pkl",
+  "sha256": "135b70a395465f2a49fd48f6973bd423a9b9db18ca246133dbd4a1123629ddb5",
+  "bytes": 2879900
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k28/p3/ahd_test_instr/seq17.pkl",
+  "sha256": "02a6ae3495406c966cceff1341e08d7079ecf8ef43229074b5c782695959dc04",
+  "bytes": 2834064
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k28/p3/ahd_test_instr/seq18.pkl",
+  "sha256": "2de4115756c26990813d99d65719b51c124175c8ed27ae643bfccaad6c2a6c04",
+  "bytes": 6034012
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k28/p3/ahd_test_instr/seq19.pkl",
+  "sha256": "59c8a649df4978f38095d4dc6afda02321c987117274ad70a4dec9a113320129",
+  "bytes": 2802686
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k28/p3/ahd_test_instr/seq20.pkl",
+  "sha256": "27cdb88a366b85996e1094627eab6d3f9ccfc098e6b0b6435932ee87cb17477f",
+  "bytes": 3142330
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k28/p3/ahd_test_instr/seq21.pkl",
+  "sha256": "4b23d45d27231e89323750ab847a0d3dac0b70bf9595512d0d38d50880640ea4",
+  "bytes": 2771048
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k28/p3/ahd_test_instr/seq22.pkl",
+  "sha256": "34f11e314ab2c10490a2d9a1a52dc5c8a1c872b798a5b2fe9afb96dabc6ea095",
+  "bytes": 2794221
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k28/p3/ahd_test_instr/seq23.pkl",
+  "sha256": "a4cf600e9c4c161dafcf7b18f8b2b532c8be3359d18f696e0da0aa74079c58c4",
+  "bytes": 3198897
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k30/gt/ahd.pkl",
+  "sha256": "86488ec2a59afa24c127456141506c916a69fdc04ef45bd90613d596eabc20ca",
+  "bytes": 3189499
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k30/match/ahd/seq00.pkl",
+  "sha256": "2a478473e02a328506f0cfd5d58ab415e496cba93c86204339fa8aabc8445c19",
+  "bytes": 10812225
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k30/match/ahd/seq01.pkl",
+  "sha256": "20de73813e576611140e168001b6fd827be4c8f37996a952f65e62059a548858",
+  "bytes": 9560949
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k30/match/ahd/seq02.pkl",
+  "sha256": "da21afe1fd662691499b79465f931dca9b6d62ae0c6f42a03b5f84e2594989f1",
+  "bytes": 5024794
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k30/match/ahd/seq03.pkl",
+  "sha256": "192864dc95b690ea60ccf3a09e3dcc3f8862a49cc4c1763e6596242992850c40",
+  "bytes": 5126664
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k30/match/ahd/seq04.pkl",
+  "sha256": "f3f38581fbd74006388a19ba37286d695f07493904171d7e4ee0fabf0dc0eca9",
+  "bytes": 6501738
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k30/match/ahd/seq05.pkl",
+  "sha256": "53ca7dea87a10f430c6597d3b1d4eab65a7ae55bfa5ac99fc759c200a3dbdd23",
+  "bytes": 5182452
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k30/match/ahd/seq06.pkl",
+  "sha256": "f0f805edde1d096b5cf226600b2054d3e5d9fcbffa9edf3b3b4d1ec0386a3bc9",
+  "bytes": 5333126
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k30/match/ahd/seq07.pkl",
+  "sha256": "c46611609829e845449c72cd999537b0b763a750ded0c88e2c0607173f06009d",
+  "bytes": 4942542
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k30/match/ahd/seq08.pkl",
+  "sha256": "6476b107a171317ec78c5e152069621e0d6021a7c9bd36c66ddfd85ffb7f6bf3",
+  "bytes": 9532288
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k30/match/ahd/seq09.pkl",
+  "sha256": "82f803f5e8263f4dcf3a5e98bbb36e77ba35c74641dc4ed2af689d3ba34f58f5",
+  "bytes": 8817273
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k30/match/ahd/seq10.pkl",
+  "sha256": "2977664315670ba68e7b2810d66657ceee3e1456433a7669c96f8a61b5b1ed15",
+  "bytes": 5512665
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k30/match/ahd/seq11.pkl",
+  "sha256": "aa4b1db5dc322e78a1ede60a85bce95a4d304dbf7126573d227b31d400b162a5",
+  "bytes": 9885947
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k30/match/ahd/seq12.pkl",
+  "sha256": "c19fd60bdbf0e4d7f7370d607e0bf6c02e3ee5a87215465d467d904e5132e8e2",
+  "bytes": 4555303
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k30/match/ahd/seq13.pkl",
+  "sha256": "40a4088d9edf313a4583cdae1cb4b42b0b4266af22b40d0c6553cd7f804d8a63",
+  "bytes": 11162199
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k30/match/ahd/seq14.pkl",
+  "sha256": "57681a4d4a4feaf4a2291f9d0d6a4a89517545df7930b70645fd7f64107f5194",
+  "bytes": 8876081
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k30/match/ahd/seq15.pkl",
+  "sha256": "91d797999e6ed87aa2294006dec2b913afdd5cdd2ad786918dcb32d22237064d",
+  "bytes": 9272946
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k30/match/ahd/seq16.pkl",
+  "sha256": "f4a0e0d43494a0b5c15fa0bb8b79a9333b8f3646023d005b87223a4078381e2c",
+  "bytes": 5081147
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k30/match/ahd/seq17.pkl",
+  "sha256": "1fb71b6c830600676dd3007daa4f1b3a22d3968fe1dfbb4dbbc976446fc045b4",
+  "bytes": 5243536
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k30/match/ahd/seq18.pkl",
+  "sha256": "f57da80e9fcb10cf36225255f9c435e4ad666b1277457868884b848ebe9b5166",
+  "bytes": 11480043
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k30/match/ahd/seq19.pkl",
+  "sha256": "c8291258bdc92f35feb9bb791523ae5f48355eb704073f7a562e29d5a1ce2227",
+  "bytes": 4981051
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k30/match/ahd/seq20.pkl",
+  "sha256": "bd0b441b2de4e1829ec3137111a58d8839a8d3b61c12dc2691433afa0f64db2f",
+  "bytes": 6011090
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k30/match/ahd/seq21.pkl",
+  "sha256": "709fcab91f99d631a659f7223b472e26db7f1ae90329a8a4fc11f93f8cc5c7ee",
+  "bytes": 4830260
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k30/match/ahd/seq22.pkl",
+  "sha256": "8415c0b865815da7d626f61a27d634ae93d0f02530212338a6916d42b3924b35",
+  "bytes": 4628401
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k30/match/ahd/seq23.pkl",
+  "sha256": "dbdf93bfb9b9bcc94d14e6000b6a1496306e64c5929e578065abb63961b0ea72",
+  "bytes": 5785664
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k34/replay/ahd/seq00.pkl",
+  "sha256": "b606ac9fcdf18899ecc09885068a35eacb4d6bd73b5ba807366c1641e04af197"
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k34/replay/ahd/seq01.pkl",
+  "sha256": "7d9b99ff5f94fe3f8e11e7411fb27b70bff87e981bf40c7a260bc3474bb08fbe"
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k34/replay/ahd/seq02.pkl",
+  "sha256": "9b828ab19f66239c16de0fb7b03f399f281ef4076ee7dcdf4af45bae170c32e1"
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k34/replay/ahd/seq03.pkl",
+  "sha256": "c8fdc22416790b32564e5f454a8c78ceef028a9cc8009401efbdae7d1a3378f2"
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k34/replay/ahd/seq04.pkl",
+  "sha256": "d7b9a3c78f7355c01b000ff30208280e9e69082291274a17d96f8c69992fed39"
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k34/replay/ahd/seq05.pkl",
+  "sha256": "b87ea9ba8922187adb0bdae1fdc8406e72df9213ee2095519dc4e1abcb4c315f"
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k34/replay/ahd/seq06.pkl",
+  "sha256": "1019ce1e0926cfb1f7233e89569cfe724f4760a747da9fb3d5a8eb4dd2ebee2b"
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k34/replay/ahd/seq07.pkl",
+  "sha256": "6b90b5fdfa4d071b4a85b3eaa51287220c3dbda2ef1b8b3c56a2fc0090d80101"
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k34/replay/ahd/seq08.pkl",
+  "sha256": "6b095cb686a0c636849e7a65a3779e9ae6f5a2980463f0a854b180885211924e"
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k34/replay/ahd/seq09.pkl",
+  "sha256": "d602851b7d5ad5130b99229f14d6895481312a4a57d7fbabb59e9c56d1fbe1b8"
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k34/replay/ahd/seq10.pkl",
+  "sha256": "bc9eb1dd3484043ec7e9016148f070f6ca3a12e65d17440e5cdafb0519fa79c5"
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k34/replay/ahd/seq11.pkl",
+  "sha256": "39611ee1a2be4844566fee63c953a009f5ccde7477a33a311dafc7af9efdaaeb"
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k34/replay/ahd/seq12.pkl",
+  "sha256": "bd59f268a022cd082464bca5d9e675029e36433020cad433563872c9e8060550"
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k34/replay/ahd/seq13.pkl",
+  "sha256": "5ff0eb21de03dfda20e865a0ca35ce95ca4d3087a8f4a3fe8efd1a050bee79db"
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k34/replay/ahd/seq14.pkl",
+  "sha256": "d2860f06cd6a04be4cb89c1ca666d8ca66d778166f4a42a269a9ccd6f016ad1d"
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k34/replay/ahd/seq15.pkl",
+  "sha256": "ba9eb5ac97f6f21ee6c6ee44298de013eec92b185131c0919d1958ba5bc66868"
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k34/replay/ahd/seq16.pkl",
+  "sha256": "89e2ca643bc64483b853e93a34e3648dfd1e084a499bbc5c33def5f1f5f7fe4c"
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k34/replay/ahd/seq17.pkl",
+  "sha256": "8137e5a90650a23957185c70c419bd44a6b74a6ab23dd18a7ffc758ca29cc766"
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k34/replay/ahd/seq18.pkl",
+  "sha256": "95e9a7c86f8826dba53e80240f0300898516d44313161a3d705ac3c8a0039d74"
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k34/replay/ahd/seq19.pkl",
+  "sha256": "d6b0060d2a8963ae11ccb92bacfa1f6a11a492067bc890ddc85180effa4d9ade"
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k34/replay/ahd/seq20.pkl",
+  "sha256": "dc593fd48dbc9c73e4d725b6c2f59f5d5caf5a835e6df2c731038de49ef533f1"
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k34/replay/ahd/seq21.pkl",
+  "sha256": "50dc5cbafa4c403e2a42314ceae1420b47c281430d25ead35e861e280c9d5c9a"
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k34/replay/ahd/seq22.pkl",
+  "sha256": "915cc2d264a6534d21041a0ac46d8e546ac8da91c99fa096e2a4d012ef8ebba6"
+ },
+ {
+  "path": "/vol/dl-nguyenb5-solar/users/hoangpc/CVPR/results/k34/replay/ahd/seq23.pkl",
+  "sha256": "da38cf20212079ea853114120ba87b0954d4d87b0f2ec7527634668080d2ba0a"
+ }
+]

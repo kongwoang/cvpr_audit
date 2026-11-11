@@ -1,0 +1,22 @@
+# R5 — conditional decision repair (complete, 2026-10-25)
+
+**A modest decision improvement, not a general solution.** 23 supervised jobs completed; 104 full-development rows (44 new readout configurations × 2 datasets + 16 controls), eight small classifiers, nine inspected image panels. Original train/REF-TRAIN and unit-disjoint holdout only; evaluation on 152 nuScenes scenes / 300 masked AV2 CFG-DEV logs. Core, weights, thresholds and K34 unchanged. Every row is retained in [all_rows.csv](all_rows.csv); all intervals and contrasts are linked below.
+
+The useful incremental result is retaining current cheap evidence **only when** its box was covered by an executed crop, no compatible final detection remains, and a training-only classifier corroborates its action. Added to the prior R3 point+extent candidate at q=.5:
+
+| Dataset | Missed episodes, R3→new | Loss/frame, R3→new | Paired loss delta [95% CI] | False episodes/1,000 delta [95% CI] |
+|---|---:|---:|---:|---:|
+| nuScenes | 35→34 / 99 | .336997→.317066 | −.019931 [−.048364,−.000560] | +.326958 [0,.817929] |
+| AV2 | 43→43 / 366 | .334890→.333299 | −.001591 [−.004150,−.000227] | +.211282 [.042126,.463824] |
+
+This is −5.9% / −0.48% loss relative to R3, not the larger cumulative change versus frozen v6-S. False-braking frames/1,000 also increase: +.490436 [0,1.143796] / +.760617 [.210790,1.565301]. The additional nuScenes episode has decisive-object evidence. Gains occur in only 4 / 9 units; one unit contributes 52.1% / 67.9% of the loss reduction. At q=.8 the nuScenes loss reduction comes entirely from scene-1050 and its interval touches zero; no extra episode is rescued. No new hard-peak episode is rescued by the confidence-gated residual family.
+
+**Negative/limiting outcomes:** keeping all residual cheap detections greatly increases false braking; AV2 ungated rescues have no matched decisive evidence. New all-object missing-history/rollback gates beat round1 but do not supersede R3 point+extent. Conditioning the classifier on raw/refiner disagreements adds little: on AV2 point+extent, one q=.5 row reduces misses 43→42, but that extra episode lacks matched decisive-object evidence. This is not a credible hard-miss fix. q is a model score, not guaranteed calibrated confidence.
+
+**What the deeper audit changed:** "no decisive match" need not mean no visual detection. Truck fragments fail the frozen IoU match; some severe AV2 annotations touch the image edge or masked area. These are visibility/matching diagnostics, not grounds to discard annotations. All primary scores retain the original GT. Another 31.3–34.5% of required-frame loss occurs with an adequate discrete action; finite 2.5/6.0 m/s² commands can still leave shortfall. Do not equate every loss term with a selector failure.
+
+All intervals: paired scene/log bootstrap, 2,000, seed 0, pointwise 95%, adaptive exploratory development. Upward-only corrections structurally reduce shortfall; success also requires false-braking and severity checks. G preserves K30's previous-cheap-action jerk convention. Final-readout replay does not change stored acquisition/history; it does not demonstrate a repaired geometric scene or extend the frozen selector theorem.
+
+No new Jetson timing or core promotion: the limited, concentrated quality gains do not justify claiming deployment readiness. Detector requested pixels stay those of the source acquisition; CPU classifier overhead and cross-backend parity are unmeasured. [Mean/p95 pixels](detector_cost/REPORT.md), [full synthesis](TONG_HOP.md), [case review](CASE_REVIEW.md), [conditional calibration](CALIBRATION.md), [all paired effects](all_contrasts.csv), [all intervals](all_intervals.csv), [integrity audit](completion_audit.json).
+
+Reproduce CPU tasks on VUW/VUW1 after `source /vol/dl-nguyenb5-solar/users/hoangpc/CVPR/env.sh`: `python experiments/optimization_r5_20261024/job.py <cpu-task> <dataset>`. For the GPU task use local `python3 experiments/optimization_r5_20261024/launch_gpu.py VUW <new-group-name> '[["refine_train","nusc"],["refine_train","av2"]]'`; never launch it outside the GPU wrapper. Tasks and exact source hashes: [jobs.csv](jobs.csv), [code_sha256.json](code_sha256.json), [protocol](protocol.md). CPU tasks use one thread. Frozen-v3a training-crop inference used two workers behind unchanged `run_when_gpu_free.sh`, `SHARE=1 MIN_FREE_MB=10000`; no detector/CNN training. Local synthesis: `scripts/py experiments/optimization_r5_20261024/consolidate.py`. Summary mirror: `results/vuw_summaries/OPTIMIZATION_R5_20261024/`.
